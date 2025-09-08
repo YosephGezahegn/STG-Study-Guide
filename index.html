@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STG Study Guide</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-stethoscope"></i> STG Study Guide</h1>
+                <div class="header-controls">
+                    <button id="settingsBtn" class="btn btn-secondary">
+                        <i class="fas fa-cog"></i> Settings
+                    </button>
+                    <button id="helpBtn" class="btn btn-secondary">
+                        <i class="fas fa-question-circle"></i> Help
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Welcome Screen -->
+            <div id="welcomeScreen" class="screen active">
+                <div class="welcome-container">
+                    <div class="welcome-card">
+                        <div class="welcome-icon">
+                            <i class="fas fa-graduation-cap"></i>
+                        </div>
+                        <h2>Welcome to the STG Study Guide</h2>
+                        <p class="attribution">by Yoseph</p>
+                        <p>Practice for your Certificate of Competency exam with realistic questions and comprehensive feedback.</p>
+                        
+                        <div class="exam-stats">
+                            <div class="stat-item">
+                                <i class="fas fa-database"></i>
+                                <span id="questionBankCount">0</span>
+                                <small>Question Bank</small>
+                            </div>
+                            <div class="stat-item">
+                                <i class="fas fa-question-circle"></i>
+                                <span id="totalQuestions">20</span>
+                                <small>Questions Available</small>
+                            </div>
+                            <div class="stat-item">
+                                <i class="fas fa-clock"></i>
+                                <span id="totalTime">60</span>
+                                <small>Minutes Total</small>
+                            </div>
+                            <div class="stat-item">
+                                <i class="fas fa-percentage"></i>
+                                <span id="passingMark">70</span>
+                                <small>Passing Mark (%)</small>
+                            </div>
+                        </div>
+
+                        <div class="welcome-actions">
+                            <button id="startExamBtn" class="btn btn-primary btn-large">
+                                <i class="fas fa-play"></i> Start Exam
+                            </button>
+                            <button id="viewSettingsBtn" class="btn btn-outline">
+                                <i class="fas fa-cog"></i> Configure Settings
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Settings Screen -->
+            <div id="settingsScreen" class="screen">
+                <div class="settings-container">
+                    <div class="settings-card">
+                        <h2><i class="fas fa-cog"></i> Exam Settings</h2>
+                        
+                        <div class="settings-section">
+                            <h3>Question Configuration</h3>
+                            <div class="setting-item">
+                                <label for="questionCount">Number of Questions:</label>
+                                <select id="questionCount">
+                                    <option value="10">10 Questions</option>
+                                    <option value="20" selected>20 Questions</option>
+                                    <option value="30">30 Questions</option>
+                                    <option value="50">50 Questions</option>
+                                    <option value="100">100 Questions</option>
+                                    <option value="200">200 Questions</option>
+                                </select>
+                            </div>
+
+                            <div class="setting-item">
+                                <details id="topicsDetails" open>
+                                    <summary style="cursor: pointer; font-weight: 600; margin-bottom: 0.5rem;">Topics to Include</summary>
+                                    <div class="topics-controls">
+                                        <button type="button" id="selectAllTopics" class="btn btn-outline btn-sm">
+                                            <i class="fas fa-check-square"></i> Select All
+                                        </button>
+                                        <button type="button" id="deselectAllTopics" class="btn btn-outline btn-sm">
+                                            <i class="fas fa-square"></i> Deselect All
+                                        </button>
+                                    </div>
+                                    <div class="topics-grid" id="topicsGrid">
+                                        <!-- Topics will be populated by JavaScript -->
+                                    </div>
+                                </details>
+                            </div>
+
+                            <div class="setting-item">
+                                <label>Difficulty to Include:</label>
+                                <div class="topics-controls">
+                                    <label style="display:inline-flex; align-items:center; gap:0.5rem; margin-right:0.75rem;">
+                                        <input type="checkbox" id="diffBasic" data-difficulty="Basic" checked>
+                                        Basic
+                                    </label>
+                                    <label style="display:inline-flex; align-items:center; gap:0.5rem; margin-right:0.75rem;">
+                                        <input type="checkbox" id="diffIntermediate" data-difficulty="Intermediate" checked>
+                                        Intermediate
+                                    </label>
+                                    <label style="display:inline-flex; align-items:center; gap:0.5rem;">
+                                        <input type="checkbox" id="diffAdvanced" data-difficulty="Advanced" checked>
+                                        Advanced
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="settings-section">
+                            <h3>Timing Configuration</h3>
+                            <div class="setting-item">
+                                <label for="timePerQuestion">Time per Question (seconds):</label>
+                                <input type="number" id="timePerQuestion" value="180" min="30" max="600">
+                            </div>
+                            <div class="setting-item">
+                                <label for="totalTime">Total Exam Time (minutes):</label>
+                                <input type="number" id="totalTimeSetting" value="60" min="10" max="300">
+                            </div>
+                        </div>
+
+                        <div class="settings-section">
+                            <h3>Display Options</h3>
+                            <div class="setting-item">
+                                <label for="showAnswerAfter">Show Answer After:</label>
+                                <select id="showAnswerAfter">
+                                    <option value="each">Each Question</option>
+                                    <option value="end" selected>End of Exam</option>
+                                </select>
+                            </div>
+                            <div class="setting-item">
+                                <label for="passingMark">Passing Mark (%):</label>
+                                <input type="number" id="passingMarkSetting" value="70" min="50" max="100">
+                                <div class="passing-info">
+                                    <small id="passingInfo">You need <span id="requiredCorrect">14</span> correct answers out of <span id="totalQuestionsDisplay">20</span> questions to pass</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="settings-actions">
+                            <button id="saveSettingsBtn" class="btn btn-primary">
+                                <i class="fas fa-save"></i> Save Settings
+                            </button>
+                            <button id="cancelSettingsBtn" class="btn btn-secondary">
+                                <i class="fas fa-times"></i> Cancel
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Exam Screen -->
+            <div id="examScreen" class="screen">
+                <div class="exam-container">
+                    <!-- Exam Header -->
+                    <div class="exam-header">
+                        <div class="exam-info">
+                            <span class="question-counter">
+                                Question <span id="currentQuestionNum">1</span> of <span id="totalQuestionsExam">20</span>
+                            </span>
+                            <span class="topic-tag" id="currentTopic">Cardiology</span>
+                            <span class="topic-tag" id="currentDifficulty" style="background: linear-gradient(135deg, #3182ce 0%, #2b6cb0 100%);">Basic</span>
+                        </div>
+                        <div class="exam-controls">
+                            <button id="exitExamBtn" class="btn btn-danger">
+                                <i class="fas fa-times-circle"></i> Exit Exam
+                            </button>
+                            <div class="timer-container">
+                                <div class="timer">
+                                    <i class="fas fa-clock"></i>
+                                    <span id="timerDisplay">03:00</span>
+                                </div>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" id="progressFill"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Question Content -->
+                    <div class="question-container">
+                        <div class="question-card">
+                            <h3 id="questionText">Question text will appear here...</h3>
+                            
+                            <div class="choices-container" id="choicesContainer">
+                                <!-- Choices will be populated by JavaScript -->
+                            </div>
+
+                            <div class="question-actions">
+                                <div class="question-nav">
+                                    <button id="prevQuestionBtn" class="btn btn-secondary" disabled>
+                                        <i class="fas fa-chevron-left"></i> Previous
+                                    </button>
+                                    <button id="nextQuestionBtn" class="btn btn-primary">
+                                        Next <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                    <button id="submitExamBtn" class="btn btn-success" style="display: none;">
+                                        <i class="fas fa-check"></i> Submit Exam
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Answer Explanation (shown after each question if enabled) -->
+                    <div id="answerExplanation" class="explanation-container" style="display: none;">
+                        <div class="explanation-card">
+                            <h4><i class="fas fa-lightbulb"></i> Explanation</h4>
+                            <p id="explanationText">Explanation will appear here...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Results Screen -->
+            <div id="resultsScreen" class="screen">
+                <div class="results-container">
+                    <div class="results-card">
+                        <div class="results-header">
+                            <div class="results-icon">
+                                <i class="fas fa-trophy" id="resultsIcon"></i>
+                            </div>
+                            <h2 id="resultsTitle">Exam Completed!</h2>
+                            <p id="resultsSubtitle">Here are your results</p>
+                        </div>
+                        
+                        <div class="results-stats">
+                            <div class="stat-card">
+                                <div class="stat-value" id="scoreValue">85%</div>
+                                <div class="stat-label">Score</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-value" id="correctAnswers">17</div>
+                                <div class="stat-label">Correct</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-value" id="incorrectAnswers">3</div>
+                                <div class="stat-label">Incorrect</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-value" id="timeTaken">45:30</div>
+                                <div class="stat-label">Time Taken</div>
+                            </div>
+                        </div>
+
+                        <div class="results-details">
+                            <h3>Performance by Topic</h3>
+                            <div class="topic-performance" id="topicPerformance">
+                                <!-- Topic performance will be populated by JavaScript -->
+                            </div>
+                        </div>
+
+                        <div class="results-actions">
+                            <button id="reviewAnswersBtn" class="btn btn-primary">
+                                <i class="fas fa-eye"></i> Review Answers
+                            </button>
+                            <button id="retakeExamBtn" class="btn btn-secondary">
+                                <i class="fas fa-redo"></i> Retake Exam
+                            </button>
+                            <button id="newExamBtn" class="btn btn-outline">
+                                <i class="fas fa-plus"></i> New Exam
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Review Screen -->
+            <div id="reviewScreen" class="screen">
+                <div class="review-container">
+                    <div class="review-header">
+                        <h2><i class="fas fa-eye"></i> Answer Review</h2>
+                        <button id="backToResultsBtn" class="btn btn-secondary">
+                            <i class="fas fa-arrow-left"></i> Back to Results
+                        </button>
+                    </div>
+
+                    <div class="review-content" id="reviewContent">
+                        <!-- Review content will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Help Modal -->
+        <div id="helpModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3><i class="fas fa-question-circle"></i> Help & Instructions</h3>
+                    <button class="modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <h4>How to Use the STG Study Guide</h4>
+                    <ol>
+                        <li><strong>Configure Settings:</strong> Click the Settings button to customize your exam experience</li>
+                        <li><strong>Select Topics:</strong> Choose which medical topics to include in your exam</li>
+                        <li><strong>Set Timing:</strong> Configure time per question and total exam time</li>
+                        <li><strong>Start Exam:</strong> Click "Start Exam" to begin your practice session</li>
+                        <li><strong>Answer Questions:</strong> Select your answer and use navigation buttons to move between questions</li>
+                        <li><strong>Submit:</strong> Review your answers and submit when ready</li>
+                        <li><strong>Review Results:</strong> See your score, performance by topic, and detailed explanations</li>
+                    </ol>
+                    
+                    <h4>Features</h4>
+                    <ul>
+                        <li>Realistic study questions covering key STG topics</li>
+                        <li>Configurable exam settings and timing</li>
+                        <li>Detailed explanations for each answer</li>
+                        <li>Performance tracking by topic</li>
+                        <li>Answer review functionality</li>
+                        <li>Responsive design for all devices</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="STGQuestions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
