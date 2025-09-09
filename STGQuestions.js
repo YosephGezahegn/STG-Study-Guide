@@ -3848,7 +3848,1403 @@
                     "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.4. ATHEROSCLEROTIC CARDIOVASCULAR DISEASES",
                     "explanation": "The constellation of fever, a new or changed heart murmur, and peripheral immunologic or vascular phenomena (like Osler's nodes or Janeway lesions) is highly suggestive of infective endocarditis, which is an infection of the heart's endocardial surface, most commonly the valves. (Page 124)",
                     "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 124"]
-                  }
+                  },{
+                    "id": 227,
+                    "question": "A 12-year-old child is diagnosed with acute rheumatic fever with carditis but without valvular disease. According to the STG, what is the recommended duration for secondary prophylaxis with Benzathine Penicillin G?",
+                    "choices": [
+                      "A. 5 years",
+                      "B. 10 years or until age 21, whichever is longer.",
+                      "C. 10 years or until age 40, whichever is longer.",
+                      "D. Lifelong"
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "The STG specifies the duration of secondary prophylaxis based on the clinical presentation. For a patient with rheumatic fever and carditis but no residual valvular disease, the recommendation is 10 years of prophylaxis or until the patient reaches age 21, whichever period is longer. (Page 134)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 134"]
+                  },
+                  {
+                    "id": 228,
+                    "question": "Which of the following is considered a major criterion in the Jones criteria for the diagnosis of a first episode of rheumatic fever?",
+                    "choices": [
+                      "A. Fever",
+                      "B. Arthralgia",
+                      "C. Carditis",
+                      "D. Elevated ESR or C-reactive protein"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "The Jones criteria are used to diagnose acute rheumatic fever. The five major criteria are: Carditis, Polyarthritis, Chorea, Erythema marginatum, and Subcutaneous nodules. Fever, arthralgia, and elevated inflammatory markers are all minor criteria. (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Basic", "Page 132"]
+                  },
+                  {
+                    "id": 229,
+                    "question": "A 10-year-old child presents with a sore throat, and a rapid antigen test is positive for Group A Streptococcus. To prevent an initial attack of acute rheumatic fever, what is the most appropriate primary prevention strategy?",
+                    "choices": [
+                      "A. A single intramuscular dose of Benzathine Penicillin G.",
+                      "B. A 5-day course of oral Azithromycin.",
+                      "C. A 10-day course of oral Amoxicillin.",
+                      "D. A 7-day course of oral Cephalexin."
+                    ],
+                    "correctAnswer": 0,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "Primary prevention of ARF involves the prompt and adequate treatment of Group A Streptococcal pharyngitis. The STG lists a single IM dose of Benzathine Penicillin G as a highly effective regimen. A 10-day course of oral penicillin or amoxicillin is an alternative, but the single IM dose ensures compliance. (Page 133)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 133"]
+                  },
+                  {
+                    "id": 230,
+                    "question": "A 25-year-old woman with established rheumatic heart disease involving the mitral valve requires lifelong secondary prophylaxis. She has a documented severe anaphylactic reaction to penicillin. What is the most appropriate alternative prophylactic agent?",
+                    "choices": [
+                      "A. Amoxicillin",
+                      "B. Cephalexin",
+                      "C. Erythromycin",
+                      "D. Vancomycin"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "For patients requiring secondary ARF prophylaxis who have a severe penicillin allergy, a macrolide such as Erythromycin is the recommended alternative. Cephalosporins may have cross-reactivity and should be avoided in cases of anaphylaxis. Amoxicillin is a penicillin and is contraindicated. (Page 134)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 134"]
+                  },
+                  {
+                    "id": 231,
+                    "question": "Which valvular lesion is the most common long-term consequence of rheumatic heart disease?",
+                    "choices": [
+                      "A. Aortic stenosis",
+                      "B. Mitral stenosis",
+                      "C. Tricuspid regurgitation",
+                      "D. Pulmonic stenosis"
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "Chronic rheumatic heart disease results from the inflammation and scarring of heart valves following acute rheumatic fever. The mitral valve is the most commonly affected valve, with mitral stenosis being the characteristic lesion that develops years after the initial illness. (Page 131)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Basic", "Page 131"]
+                  },
+                  {
+                    "id": 232,
+                    "question": "A 15-year-old presents with a migratory polyarthritis affecting the knees and ankles, and a low-grade fever. An ASO titer is elevated. According to the Jones criteria, what additional finding would be required to diagnose acute rheumatic fever?",
+                    "choices": [
+                      "A. A prolonged PR interval on ECG.",
+                      "B. A history of a sore throat two weeks ago.",
+                      "C. An elevated C-reactive protein.",
+                      "D. A new heart murmur."
+                    ],
+                    "correctAnswer": 0,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "The diagnosis of ARF requires evidence of a preceding Group A Strep infection plus two major criteria, OR one major and two minor criteria. The patient already has one major criterion (polyarthritis). A prolonged PR interval is a minor criterion, which, along with another minor criterion like fever or elevated CRP, would satisfy the diagnostic requirements. A new heart murmur would indicate carditis (a second major criterion). (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 132"]
+                  },
+                  {
+                    "id": 233,
+                    "question": "What is the primary medication used for the treatment of arthritis and arthralgia in acute rheumatic fever?",
+                    "choices": [
+                      "A. Prednisone",
+                      "B. Penicillin",
+                      "C. Aspirin",
+                      "D. Codeine"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "The arthritis of acute rheumatic fever is exquisitely sensitive to salicylates. High-dose Aspirin is the first-line treatment for the joint manifestations and typically provides rapid relief. Penicillin treats the underlying streptococcal infection but does not directly treat the arthritis. Corticosteroids are reserved for severe carditis. (Page 133)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 133"]
+                  },
+                  {
+                    "id": 234,
+                    "question": "A patient with severe carditis due to acute rheumatic fever is being treated. Which medication is indicated to suppress the intense inflammation and manage heart failure?",
+                    "choices": [
+                      "A. High-dose intravenous immunoglobulin (IVIG)",
+                      "B. High-dose Aspirin",
+                      "C. Oral Prednisone",
+                      "D. Intramuscular Benzathine Penicillin G"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "For patients with severe carditis, particularly those with cardiomegaly or heart failure, corticosteroids such as Prednisone are recommended to control the inflammatory process. Aspirin is typically withheld initially in these cases until the steroid course is completed. (Page 133)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 133"]
+                  },
+                  {
+                    "id": 235,
+                    "question": "What is the rationale for secondary prevention (prophylaxis) after an episode of acute rheumatic fever?",
+                    "choices": [
+                      "A. To prevent the development of streptococcal pharyngitis.",
+                      "B. To treat the long-term symptoms of valve damage.",
+                      "C. To prevent recurrent attacks of acute rheumatic fever and worsening of cardiac damage.",
+                      "D. To eradicate the streptococcal carrier state from the patient's household."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "Patients who have had one attack of ARF are at very high risk for recurrence if they get another Group A Strep infection. Secondary prophylaxis with continuous antibiotics (like Benzathine Penicillin G) is aimed at preventing these recurrent infections, which in turn prevents recurrent attacks of ARF and halts the progression of rheumatic heart disease. (Page 133)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Basic", "Page 133"]
+                  },
+                  {
+                    "id": 236,
+                    "question": "A patient had rheumatic fever at age 10 with carditis and has persistent, severe mitral regurgitation. The patient is now 30 years old. What is the recommended duration of secondary prophylaxis?",
+                    "choices": [
+                      "A. Until age 21",
+                      "B. Until age 30",
+                      "C. Until age 40",
+                      "D. Lifelong"
+                    ],
+                    "correctAnswer": 3,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "For patients with rheumatic fever and persistent valvular disease, the risk of recurrence and worsening damage is high. Therefore, the STG recommends lifelong secondary prophylaxis for this high-risk group. (Page 134)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 134"]
+                  },
+                  {
+                    "id": 237,
+                    "question": "Sydenham's chorea is a major manifestation of acute rheumatic fever. It is characterized by which of the following clinical features?",
+                    "choices": [
+                      "A. Symmetrical weakness of the lower extremities.",
+                      "B. Involuntary, purposeless, and rapid movements, often associated with emotional lability.",
+                      "C. A fine resting tremor of the hands.",
+                      "D. A painful, migratory arthritis of the large joints."
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "Sydenham's chorea is a neurological manifestation of ARF. It is a movement disorder characterized by abrupt, non-rhythmic, involuntary movements (chorea), muscular weakness, and emotional disturbances. It is often a late manifestation, appearing months after the initial streptococcal infection. (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 132"]
+                  },
+                  {
+                    "id": 238,
+                    "question": "The diagnosis of a first episode of rheumatic fever in a patient with evidence of a preceding Group A streptococcal infection requires:",
+                    "choices": [
+                      "A. One major and one minor Jones criterion.",
+                      "B. Two major Jones criteria.",
+                      "C. Three minor Jones criteria.",
+                      "D. One major Jones criterion and an elevated ASO titer."
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "According to the 2015 revised Jones criteria, the diagnosis of a primary episode of ARF is established by the presence of two major manifestations OR one major and two minor manifestations, in addition to evidence of a recent Group A Strep infection. (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Basic", "Page 132"]
+                  },
+                  {
+                    "id": 239,
+                    "question": "A patient with acute rheumatic fever is treated with high-dose aspirin for arthritis. Which potential side effect should be monitored for in this patient?",
+                    "choices": [
+                      "A. Hypertension",
+                      "B. Salicylism (tinnitus, headache, dizziness)",
+                      "C. Peripheral neuropathy",
+                      "D. Hypoglycemia"
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "High doses of aspirin, as used in ARF, can lead to salicylate toxicity (salicylism). Early symptoms include tinnitus (ringing in the ears), headache, and dizziness. Monitoring for these symptoms is important, and serum salicylate levels may be checked. (Page 133)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 133"]
+                  },
+                  {
+                    "id": 240,
+                    "question": "Which of the following is the most specific laboratory test for confirming a recent Group A streptococcal infection in a patient suspected of having acute rheumatic fever?",
+                    "choices": [
+                      "A. White blood cell count",
+                      "B. C-reactive protein (CRP)",
+                      "C. Erythrocyte sedimentation rate (ESR)",
+                      "D. Anti-streptolysin O (ASO) titer"
+                    ],
+                    "correctAnswer": 3,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "While CRP and ESR are markers of inflammation, they are non-specific. The ASO titer is a measure of antibodies against streptolysin O, an enzyme produced by Group A Streptococcus. An elevated or rising ASO titer is strong evidence of a recent streptococcal infection. (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 132"]
+                  },
+                  {
+                    "id": 241,
+                    "question": "The characteristic rash of acute rheumatic fever, known as erythema marginatum, is best described as:",
+                    "choices": [
+                      "A. A painful, nodular rash on the shins.",
+                      "B. A diffuse, sandpaper-like rash over the trunk.",
+                      "C. A non-pruritic rash with pink macules that have clear centers and serpiginous margins.",
+                      "D. A vesicular rash that follows a dermatomal distribution."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "Erythema marginatum is a rare but specific major manifestation of ARF. It is a distinctive rash, typically found on the trunk and limbs, consisting of pink or red macules that spread outwards, leaving a clear center, creating a wavy or snake-like (serpiginous) border. (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 132"]
+                  },
+                  {
+                    "id": 242,
+                    "question": "A patient with a history of rheumatic fever without carditis had their last attack 7 years ago at the age of 14. When can their secondary prophylaxis be discontinued?",
+                    "choices": [
+                      "A. Now (at age 21)",
+                      "B. At age 24 (after 10 years)",
+                      "C. At age 25",
+                      "D. It should be continued for life."
+                    ],
+                    "correctAnswer": 0,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "For rheumatic fever without carditis, the recommendation is to continue prophylaxis for 5 years or until age 21, whichever is longer. Since the patient is now 21, and has completed more than 5 years of prophylaxis, it is appropriate to discontinue it. (Page 134)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Intermediate", "Page 134"]
+                  },
+                  {
+                    "id": 243,
+                    "question": "What is the primary goal of treating the initial Group A streptococcal pharyngitis (primary prevention)?",
+                    "choices": [
+                      "A. To shorten the duration of the sore throat symptoms.",
+                      "B. To prevent the patient from being contagious to others.",
+                      "C. To prevent the non-suppurative complication of acute rheumatic fever.",
+                      "D. To prevent the suppurative complication of a peritonsillar abscess."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "While treating strep throat does alleviate symptoms and prevent complications like abscesses, the most crucial public health reason for ensuring adequate antibiotic treatment is to prevent the development of acute rheumatic fever, which can lead to lifelong cardiac disease. (Page 133)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Basic", "Page 133"]
+                  },
+                  {
+                    "id": 244,
+                    "question": "Subcutaneous nodules, a major criterion for rheumatic fever, are most commonly found over which areas?",
+                    "choices": [
+                      "A. The palms of the hands and soles of the feet.",
+                      "B. Bony prominences and extensor surfaces of tendons.",
+                      "C. The soft tissues of the face and neck.",
+                      "D. The abdomen and chest wall."
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "Subcutaneous nodules are firm, painless nodules that are a rare but specific finding in ARF. They are typically found over bony surfaces or tendons, such as the elbows, knuckles, knees, and scalp. (Page 132)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 132"]
+                  },
+                  {
+                    "id": 245,
+                    "question": "An 18-year-old patient with known rheumatic heart disease is scheduled for a dental extraction. She is on regular secondary prophylaxis with intramuscular Benzathine Penicillin G every 4 weeks. Does she require additional antibiotic prophylaxis before the dental procedure?",
+                    "choices": [
+                      "A. Yes, she needs a dose of oral Amoxicillin 1 hour before the procedure.",
+                      "B. Yes, she needs a dose of intravenous Ampicillin 30 minutes before the procedure.",
+                      "C. No, her regular prophylaxis regimen is sufficient.",
+                      "D. No, dental procedures no longer require endocarditis prophylaxis."
+                    ],
+                    "correctAnswer": 0,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "The monthly dose of Benzathine Penicillin G provides low antibiotic levels that are sufficient to prevent ARF recurrence but are not adequate for preventing infective endocarditis from the bacteremia caused by a dental procedure. Therefore, she needs a separate, standard prophylactic dose (like Amoxicillin 2g orally) before the procedure. (Page 134, cross-references with IE prophylaxis principles)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 134"]
+                  },
+                  {
+                    "id": 246,
+                    "question": "The pathophysiology of acute rheumatic fever is believed to be an autoimmune reaction triggered by:",
+                    "choices": [
+                      "A. A direct bacterial invasion of the heart tissue by Streptococcus.",
+                      "B. The release of a toxin from Streptococcus that damages joints and the heart.",
+                      "C. Molecular mimicry between streptococcal antigens and human host tissues.",
+                      "D. The formation of immune complexes that deposit in the heart and joints."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.5. RHEUMATIC HEART DISEASE",
+                    "explanation": "The leading hypothesis for the pathogenesis of ARF is molecular mimicry. It is thought that antibodies produced by the host against certain streptococcal components (like the M protein) cross-react with similar-looking proteins in human tissues, particularly the heart, joints, and brain, leading to an autoimmune inflammatory response. (Page 131)",
+                    "tags": ["Chapter 4", "Rheumatic Heart Disease", "Advanced", "Page 131"]
+                  }, {
+                    "id": 247,
+                    "question": "A 72-year-old man presents with exertional dyspnea, angina, and syncope. On examination, a harsh, crescendo-decrescendo systolic ejection murmur is heard at the right upper sternal border, radiating to the carotid arteries. What is the most likely diagnosis?",
+                    "choices": [
+                      "A. Mitral regurgitation",
+                      "B. Aortic regurgitation",
+                      "C. Mitral stenosis",
+                      "D. Aortic stenosis"
+                    ],
+                    "correctAnswer": 3,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The classic triad of symptoms (dyspnea, angina, syncope) combined with a systolic ejection murmur radiating to the carotids is pathognomonic for severe aortic stenosis. This is the most common valvular lesion in the elderly in developed countries. (Page 136)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 136"]
+                  },
+                  {
+                    "id": 248,
+                    "question": "A 35-year-old woman with a history of rheumatic fever presents with progressive shortness of breath. Examination reveals a low-pitched, rumbling diastolic murmur heard best at the apex with the patient in the left lateral decubitus position. What is the most likely valvular abnormality?",
+                    "choices": [
+                      "A. Aortic stenosis",
+                      "B. Mitral stenosis",
+                      "C. Aortic regurgitation",
+                      "D. Mitral regurgitation"
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "A mid-diastolic rumbling murmur at the apex, often accompanied by an opening snap, is the classic auscultatory finding of mitral stenosis. Her history of rheumatic fever is the most common cause of this condition worldwide. (Page 138)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 138"]
+                  },
+                  {
+                    "id": 249,
+                    "question": "A patient with severe symptomatic aortic stenosis is being considered for surgery. What is the definitive treatment for this condition?",
+                    "choices": [
+                      "A. Long-term medical management with beta-blockers and diuretics.",
+                      "B. Percutaneous balloon aortic valvuloplasty.",
+                      "C. Aortic valve replacement.",
+                      "D. Lifelong anticoagulation with warfarin."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "Once a patient with severe aortic stenosis becomes symptomatic, the prognosis is very poor without intervention. Aortic valve replacement (either surgical or transcatheter) is the only definitive treatment that improves survival and relieves symptoms. Medical therapy is for palliation only. (Page 137)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 137"]
+                  },
+                  {
+                    "id": 250,
+                    "question": "A 65-year-old man has a high-pitched, blowing, decrescendo diastolic murmur heard at the left sternal border. His blood pressure is 160/50 mmHg. What physical sign is commonly associated with this condition?",
+                    "choices": [
+                      "A. A weak, thready pulse (pulsus parvus et tardus)",
+                      "B. An irregularly irregular pulse",
+                      "C. A bounding, 'water-hammer' pulse (Corrigan's pulse)",
+                      "D. A fixed, split S2"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The diastolic murmur and wide pulse pressure (systolic minus diastolic, 110 mmHg in this case) are characteristic of chronic aortic regurgitation. The rapid runoff of blood back into the left ventricle during diastole causes a collapsing or 'water-hammer' pulse, along with other peripheral signs like Quincke's pulse and de Musset's sign. (Page 140)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Advanced", "Page 140"]
+                  },
+                  {
+                    "id": 251,
+                    "question": "A 55-year-old man is found to have a pansystolic (holosystolic) murmur heard best at the apex, radiating to the axilla. This finding is most characteristic of which valvular lesion?",
+                    "choices": [
+                      "A. Aortic stenosis",
+                      "B. Mitral valve prolapse",
+                      "C. Mitral regurgitation",
+                      "D. Aortic regurgitation"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The classic murmur of chronic mitral regurgitation is a high-pitched, blowing, pansystolic murmur that is heard best at the cardiac apex and radiates towards the left axilla. (Page 141)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 141"]
+                  },
+                  {
+                    "id": 252,
+                    "question": "For a patient with severe mitral stenosis who is in atrial fibrillation, which medication is essential to control the heart rate and prevent thromboembolism?",
+                    "choices": [
+                      "A. Aspirin",
+                      "B. Furosemide",
+                      "C. Warfarin",
+                      "D. Nitroglycerin"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "Atrial fibrillation is a common complication of mitral stenosis due to left atrial enlargement. This combination carries a very high risk of stroke. Long-term anticoagulation with Warfarin is mandatory to prevent left atrial thrombus formation. (Page 139)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 139"]
+                  },
+                  {
+                    "id": 253,
+                    "question": "A young, asymptomatic woman is found to have a mid-systolic click on cardiac auscultation. This finding is most suggestive of:",
+                    "choices": [
+                      "A. Rheumatic heart disease",
+                      "B. Bicuspid aortic valve",
+                      "C. Mitral valve prolapse",
+                      "D. Hypertrophic cardiomyopathy"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The hallmark auscultatory finding of mitral valve prolapse is the mid-systolic click, which may or may not be followed by a late systolic murmur of mitral regurgitation. (Page 141)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Basic", "Page 141"]
+                  },
+                  {
+                    "id": 254,
+                    "question": "Which of the following medical therapies is generally contraindicated in patients with severe aortic stenosis?",
+                    "choices": [
+                      "A. Diuretics for heart failure symptoms.",
+                      "B. Beta-blockers for associated hypertension.",
+                      "C. Vasodilators (e.g., nitrates, ACE inhibitors).",
+                      "D. Statins for hyperlipidemia."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "In severe aortic stenosis, cardiac output is dependent on adequate preload and afterload. Vasodilators can cause a precipitous drop in blood pressure and systemic vascular resistance, leading to profound hypotension and syncope. They should be used with extreme caution, if at all. (Page 137)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Advanced", "Page 137"]
+                  },
+                  {
+                    "id": 255,
+                    "question": "A patient develops acute, severe aortic regurgitation due to an aortic dissection. What is the expected clinical presentation?",
+                    "choices": [
+                      "A. A wide pulse pressure and bounding pulses.",
+                      "B. A slow, insidious onset of dyspnea on exertion.",
+                      "C. Rapid onset of pulmonary edema and cardiogenic shock.",
+                      "D. A loud, harsh systolic murmur."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "In acute aortic regurgitation, the left ventricle does not have time to dilate and adapt to the sudden volume overload. This leads to a rapid increase in left ventricular end-diastolic pressure, which is transmitted to the pulmonary circulation, causing acute pulmonary edema and cardiogenic shock. (Page 139)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Advanced", "Page 139"]
+                  },
+                  {
+                    "id": 256,
+                    "question": "What is the primary goal of medical therapy for patients with chronic, asymptomatic mitral regurgitation?",
+                    "choices": [
+                      "A. To reverse the valvular leakage.",
+                      "B. To prevent the development of atrial fibrillation.",
+                      "C. Afterload reduction to improve forward cardiac output and delay LV dysfunction.",
+                      "D. Rate control with beta-blockers."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "In asymptomatic patients with severe mitral regurgitation, medical therapy with vasodilators (afterload reduction), such as ACE inhibitors, is aimed at reducing the resistance the left ventricle pumps against. This promotes forward blood flow, reduces the regurgitant fraction, and can help delay the onset of left ventricular dysfunction. (Page 142)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 142"]
+                  },
+                  {
+                    "id": 257,
+                    "question": "A patient with mitral stenosis develops hemoptysis. This symptom is typically caused by:",
+                    "choices": [
+                      "A. Rupture of a pulmonary artery aneurysm.",
+                      "B. Coexisting lung cancer.",
+                      "C. Pulmonary embolism from a left atrial thrombus.",
+                      "D. Rupture of bronchial veins due to high pulmonary venous pressure."
+                    ],
+                    "correctAnswer": 3,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The obstruction at the mitral valve leads to increased left atrial pressure, which is transmitted back to the pulmonary veins. This chronic pulmonary venous hypertension can cause congestion and rupture of the thin-walled bronchial veins, leading to hemoptysis. (Page 138)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Advanced", "Page 138"]
+                  },
+                  {
+                    "id": 258,
+                    "question": "The definitive diagnosis and assessment of the severity of any valvular heart disease is best achieved by which imaging modality?",
+                    "choices": [
+                      "A. Chest X-ray",
+                      "B. Electrocardiogram (ECG)",
+                      "C. Transthoracic Echocardiography (TTE)",
+                      "D. Cardiac catheterization"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "Echocardiography is the cornerstone of diagnosis for valvular heart disease. It allows for direct visualization of the valve structure and function, assessment of chamber sizes, estimation of pressure gradients, and quantification of the severity of stenosis or regurgitation using Doppler techniques. (Page 136)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Basic", "Page 136"]
+                  },
+                  {
+                    "id": 259,
+                    "question": "A 40-year-old man requires an aortic valve replacement. He is an active athlete and wishes to avoid lifelong anticoagulation. Which type of prosthetic valve would be most suitable for him?",
+                    "choices": [
+                      "A. A mechanical bileaflet tilting disc valve.",
+                      "B. A bioprosthetic (tissue) valve.",
+                      "C. A homograft (human cadaver) valve.",
+                      "D. A caged-ball valve."
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The main advantage of a bioprosthetic (tissue) valve is that it does not typically require long-term anticoagulation with warfarin. This makes it a preferred choice for patients who cannot take anticoagulants or wish to avoid them. The trade-off is that these valves are less durable than mechanical valves and may require re-operation in the future. (Page 137)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 137"]
+                  },
+                  {
+                    "id": 260,
+                    "question": "The murmur of aortic regurgitation is best heard with the patient sitting up, leaning forward, and in which phase of respiration?",
+                    "choices": [
+                      "A. Held full inspiration.",
+                      "B. Held full expiration.",
+                      "C. During quiet, normal breathing.",
+                      "D. The phase of respiration does not affect the murmur."
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "To best hear the high-pitched, blowing diastolic murmur of aortic regurgitation, specific maneuvers are used. Having the patient sit up, lean forward, and hold their breath in full expiration brings the aortic root closer to the chest wall, making the murmur more audible. (Page 140)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 140"]
+                  },
+                  {
+                    "id": 261,
+                    "question": "Which of the following is an indication for surgical intervention in a patient with chronic severe mitral regurgitation?",
+                    "choices": [
+                      "A. The presence of a loud murmur on auscultation.",
+                      "B. Mild left atrial enlargement on echocardiogram.",
+                      "C. The onset of symptoms (e.g., dyspnea) or evidence of left ventricular dysfunction (e.g., EF < 60%).",
+                      "D. The development of mild pulmonary hypertension."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "The decision for surgery in chronic mitral regurgitation is based on the development of either symptoms or objective evidence of deteriorating left ventricular function (decreasing ejection fraction or increasing ventricular size). The goal is to intervene before irreversible LV damage occurs. (Page 142)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Advanced", "Page 142"]
+                  },
+                  {
+                    "id": 262,
+                    "question": "A pulsus parvus et tardus (a weak and delayed carotid upstroke) is a classic physical exam finding in which valvular condition?",
+                    "choices": [
+                      "A. Mitral stenosis",
+                      "B. Aortic regurgitation",
+                      "C. Aortic stenosis",
+                      "D. Mitral regurgitation"
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "In severe aortic stenosis, the obstruction to outflow from the left ventricle results in a diminished volume of blood being ejected into the aorta and a delayed peak in the arterial pulse. This is felt in the carotid arteries as a weak (parvus) and delayed (tardus) upstroke. (Page 136)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 136"]
+                  },
+                  {
+                    "id": 263,
+                    "question": "The primary hemodynamic problem in mitral stenosis is:",
+                    "choices": [
+                      "A. Volume overload of the left ventricle.",
+                      "B. Pressure overload of the left ventricle.",
+                      "C. Obstruction of blood flow from the left atrium to the left ventricle.",
+                      "D. Obstruction of blood flow from the right ventricle to the pulmonary artery."
+                    ],
+                    "correctAnswer": 2,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "Mitral stenosis is a narrowing of the mitral valve orifice. This creates a mechanical obstruction that impedes the flow of blood from the left atrium into the left ventricle during diastole, leading to increased left atrial pressure and pulmonary congestion. (Page 138)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Basic", "Page 138"]
+                  },
+                  {
+                    "id": 264,
+                    "question": "What is the most common cause of aortic stenosis in a patient under the age of 60?",
+                    "choices": [
+                      "A. Rheumatic heart disease",
+                      "B. Infective endocarditis",
+                      "C. Calcific degeneration of a normal trileaflet valve",
+                      "D. Calcification of a congenitally bicuspid aortic valve"
+                    ],
+                    "correctAnswer": 3,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "While senile calcific degeneration is the most common cause in the elderly, in younger patients (typically <60-70), aortic stenosis is most often due to the accelerated calcification and fibrosis of a congenitally bicuspid valve. (Page 136)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 136"]
+                  },
+                  {
+                    "id": 265,
+                    "question": "In a patient with chronic aortic regurgitation, the left ventricle compensates for the volume overload through which mechanism?",
+                    "choices": [
+                      "A. Concentric hypertrophy",
+                      "B. Eccentric hypertrophy",
+                      "C. Decreased contractility",
+                      "D. Increased heart rate"
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "To accommodate the large volume of blood (forward stroke volume plus the regurgitant volume), the left ventricle undergoes eccentric hypertrophy. This means the chamber dilates and the walls increase in muscle mass, allowing it to handle the increased volume while maintaining cardiac output, often for many years. (Page 140)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Advanced", "Page 140"]
+                  },
+                  {
+                    "id": 266,
+                    "question": "A patient with severe mitral regurgitation due to a ruptured chorda tendineae presents with acute pulmonary edema. What is the definitive treatment?",
+                    "choices": [
+                      "A. Medical stabilization with diuretics and vasodilators followed by elective surgery.",
+                      "B. Urgent surgical mitral valve repair or replacement.",
+                      "C. Intra-aortic balloon pump placement.",
+                      "D. Percutaneous balloon mitral valvuloplasty."
+                    ],
+                    "correctAnswer": 1,
+                    "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.6. VALVULAR HEART DISEASE",
+                    "explanation": "Acute severe mitral regurgitation is a surgical emergency. The sudden, large volume of regurgitant flow into an unprepared left atrium causes a rapid rise in pulmonary pressures and cardiogenic shock. While initial medical stabilization is important, definitive treatment requires urgent surgical intervention to repair or replace the mitral valve. (Page 141)",
+                    "tags": ["Chapter 4", "Valvular Heart Disease", "Intermediate", "Page 141"]
+                  },{
+      "id": 247,
+      "question": "A 30-year-old intravenous drug user presents with a high fever, chills, and malaise for one week. On examination, there are splinter hemorrhages under his fingernails and a new, holosystolic murmur loudest at the left lower sternal border that increases with inspiration. Which of the following is the most likely diagnosis?",
+      "choices": [
+        "A. Acute rheumatic fever",
+        "B. Septic arthritis",
+        "C. Infective endocarditis",
+        "D. Systemic lupus erythematosus"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The combination of fever, constitutional symptoms, a new heart murmur, and peripheral stigmata (like splinter hemorrhages) in a patient with a major risk factor (IV drug use) is highly suggestive of infective endocarditis. The murmur's characteristics suggest tricuspid regurgitation, common in IV drug users. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 248,
+      "question": "According to the modified Duke criteria, which of the following is considered a major criterion for the diagnosis of infective endocarditis?",
+      "choices": [
+        "A. Fever > 38.0°C",
+        "B. A single positive blood culture for a non-typical organism.",
+        "C. Echocardiographic evidence of an oscillating intracardiac mass on a valve (vegetation).",
+        "D. Presence of Roth spots on fundoscopy."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The modified Duke criteria have two major criteria: 1) Positive blood cultures for typical organisms, and 2) Evidence of endocardial involvement, which includes positive echocardiogram findings (vegetation, abscess, or new valve regurgitation). Fever and vascular phenomena like Roth spots are minor criteria. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 144"]
+    },
+    {
+      "id": 249,
+      "question": "What is the most common causative organism of infective endocarditis in patients with a prosthetic heart valve within the first two months after surgery (early PVE)?",
+      "choices": [
+        "A. Viridans group streptococci",
+        "B. Staphylococcus aureus",
+        "C. Coagulase-negative staphylococci (e.g., S. epidermidis)",
+        "D. Enterococcus faecalis"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Early prosthetic valve endocarditis (within 2 months of surgery) is most often caused by nosocomial organisms introduced during the perioperative period. Coagulase-negative staphylococci, particularly Staphylococcus epidermidis, are the most frequent pathogens. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 250,
+      "question": "A patient with suspected infective endocarditis has three sets of blood cultures drawn over 24 hours. All three are positive for Streptococcus gallolyticus (formerly S. bovis). This bacteriological finding satisfies which of the Duke criteria?",
+      "choices": [
+        "A. One major criterion",
+        "B. One minor criterion",
+        "C. Two minor criteria",
+        "D. It does not satisfy any criterion."
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Persistently positive blood cultures with a typical microorganism for infective endocarditis is a major Duke criterion. Streptococcus gallolyticus is considered a typical organism, and having multiple positive cultures meets this criterion. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 144"]
+    },
+    {
+      "id": 251,
+      "question": "Which of the following is the most common causative organism in native valve endocarditis in a patient who is an intravenous drug user?",
+      "choices": [
+        "A. Streptococcus pneumoniae",
+        "B. Staphylococcus aureus",
+        "C. Pseudomonas aeruginosa",
+        "D. Candida albicans"
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "While various organisms can cause IE in IV drug users, Staphylococcus aureus is by far the most common pathogen. It is often introduced from the skin flora during injections and has a predilection for affecting the tricuspid valve. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },
+    {
+      "id": 252,
+      "question": "A definitive diagnosis of infective endocarditis by the modified Duke criteria can be made with which of the following combinations?",
+      "choices": [
+        "A. One major and one minor criterion.",
+        "B. Two minor criteria.",
+        "C. One major and three minor criteria.",
+        "D. Four minor criteria."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "A definitive clinical diagnosis of infective endocarditis is made if a patient meets two major criteria, OR one major and three minor criteria, OR five minor criteria. (Page 145)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 145"]
+    },
+    {
+      "id": 253,
+      "question": "A patient being treated for streptococcal endocarditis develops a new, prolonged PR interval on their ECG. This finding is most concerning for which complication?",
+      "choices": [
+        "A. Myocardial infarction",
+        "B. Pericarditis",
+        "C. Perivalvular abscess formation",
+        "D. Pulmonary embolism"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The development of a new AV block (such as a prolonged PR interval) in a patient with endocarditis is a critical finding. It suggests that the infection has extended from the valve into the adjacent conduction tissue, forming a perivalvular abscess. This is an indication for urgent surgical consultation. (Page 144, implied under complications/surgical indications)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 144"]
+    },
+    {
+      "id": 254,
+      "question": "What is the recommended empiric antibiotic regimen for a hemodynamically stable patient with suspected native valve endocarditis while awaiting culture results?",
+      "choices": [
+        "A. Vancomycin plus Gentamicin",
+        "B. Ampicillin/Sulbactam plus Gentamicin",
+        "C. Ceftriaxone plus Vancomycin",
+        "D. Penicillin G plus Gentamicin"
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The STG recommends an empiric regimen for stable native valve IE that covers the most likely pathogens (Staphylococci, Streptococci, and Enterococci). The combination of Ampicillin/Sulbactam plus Gentamicin provides this broad coverage. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },
+    {
+      "id": 255,
+      "question": "Which of the following is considered a vascular phenomenon in the minor criteria for infective endocarditis?",
+      "choices": [
+        "A. Glomerulonephritis",
+        "B. Osler's nodes",
+        "C. Roth spots",
+        "D. Systemic arterial emboli"
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Vascular phenomena are one of the categories of minor criteria. This category includes major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, and Janeway lesions. Immunologic phenomena (glomerulonephritis, Osler's nodes, Roth spots) are a separate minor criterion. (Page 145)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 145"]
+    },
+    {
+      "id": 256,
+      "question": "A patient with a prosthetic mitral valve requires a dental extraction. According to the STG, what is the standard antibiotic prophylaxis regimen for this high-risk patient if they have no penicillin allergy?",
+      "choices": [
+        "A. Amoxicillin 2g orally, 30-60 minutes before the procedure.",
+        "B. Clindamycin 600 mg orally, 30-60 minutes before the procedure.",
+        "C. Azithromycin 500 mg orally, 30-60 minutes before the procedure.",
+        "D. No prophylaxis is needed."
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "A prosthetic heart valve is a high-risk cardiac condition requiring antibiotic prophylaxis before dental procedures that involve manipulation of gingival tissue. The standard oral regimen for patients who can take penicillin is a single 2g dose of Amoxicillin. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 257,
+      "question": "Osler's nodes, a sign of infective endocarditis, are best described as:",
+      "choices": [
+        "A. Painless, erythematous macules on the palms and soles.",
+        "B. Tender, violaceous nodules on the pads of the fingers and toes.",
+        "C. Linear hemorrhages under the nail beds.",
+        "D. Retinal hemorrhages with pale centers."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Osler's nodes are tender subcutaneous nodules, typically found on the distal pads of the fingers or toes. They are considered an immunologic phenomenon, resulting from the deposition of immune complexes in the microvasculature. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 258,
+      "question": "What is the recommended duration of antibiotic therapy for uncomplicated native valve endocarditis caused by a highly penicillin-sensitive Viridans group streptococcus?",
+      "choices": [
+        "A. 2 weeks",
+        "B. 4 weeks",
+        "C. 6 weeks",
+        "D. 8 weeks"
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "For native valve endocarditis caused by highly susceptible streptococci, a standard duration of therapy is 4 weeks of an appropriate parenteral antibiotic, such as Penicillin G or Ceftriaxone. A shorter 2-week course may be considered in some cases if combined with Gentamicin. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },
+    {
+      "id": 259,
+      "question": "A patient with infective endocarditis develops acute heart failure secondary to severe aortic regurgitation. What is the most appropriate management step?",
+      "choices": [
+        "A. Continue medical therapy with increased doses of diuretics.",
+        "B. Add an oral ACE inhibitor to reduce afterload.",
+        "C. An urgent consultation with a cardiothoracic surgeon for valve replacement.",
+        "D. Switch to a broader-spectrum antibiotic regimen."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The development of moderate to severe heart failure due to valve dysfunction is a primary indication for early surgery in infective endocarditis. Medical therapy alone is often insufficient, and surgical intervention to replace the damaged valve is necessary to prevent irreversible hemodynamic collapse and death. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 147"]
+    },
+    {
+      "id": 260,
+      "question": "Which of the following is NOT a high-risk cardiac condition requiring endocarditis prophylaxis before dental procedures?",
+      "choices": [
+        "A. Prosthetic heart valve",
+        "B. Previous history of infective endocarditis",
+        "C. Mitral valve prolapse with mild regurgitation",
+        "D. Unrepaired cyanotic congenital heart disease"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Prophylaxis guidelines have been narrowed to include only the highest-risk patients. Mitral valve prolapse, even with regurgitation, is no longer considered a condition that routinely requires antibiotic prophylaxis. The other options are all considered high-risk conditions. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 261,
+      "question": "A patient with culture-negative endocarditis is suspected of being infected with a HACEK group organism. What does the 'H' in HACEK stand for?",
+      "choices": [
+        "A. Haemophilus",
+        "B. Helicobacter",
+        "C. Human T-lymphotropic virus",
+        "D. Histoplasma"
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The HACEK group is an acronym for a group of fastidious gram-negative bacteria that are a cause of culture-negative endocarditis. The 'H' stands for Haemophilus species. The other letters stand for Aggregatibacter, Cardiobacterium, Eikenella, and Kingella. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 143"]
+    },
+    {
+      "id": 262,
+      "question": "A patient with endocarditis is found to have painless, erythematous macules on their palms and soles. What is the name of this physical finding?",
+      "choices": [
+        "A. Osler's nodes",
+        "B. Roth spots",
+        "C. Janeway lesions",
+        "D. Splinter hemorrhages"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Janeway lesions are non-tender, erythematous, and macular or nodular lesions, typically found on the palms and soles. They are considered a vascular phenomenon, caused by septic microemboli from the valve vegetation. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 263,
+      "question": "A patient with a history of rheumatic heart disease undergoes a transesophageal echocardiogram (TEE) for suspected endocarditis. Which finding would be more clearly visualized on TEE compared to a transthoracic echocardiogram (TTE)?",
+      "choices": [
+        "A. The size of the left ventricle.",
+        "B. The overall left ventricular ejection fraction.",
+        "C. A small vegetation on a prosthetic mitral valve.",
+        "D. The presence of a large pericardial effusion."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Transesophageal echocardiography (TEE) provides superior imaging of posterior cardiac structures, including the mitral valve. It is more sensitive than TTE for detecting small vegetations, especially on prosthetic valves, and for identifying complications like abscesses or valve perforation. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 144"]
+    },
+    {
+      "id": 264,
+      "question": "What is the recommended empiric antibiotic regimen for a critically ill patient with suspected early prosthetic valve endocarditis?",
+      "choices": [
+        "A. Vancomycin + Gentamicin + Cefepime",
+        "B. Penicillin G + Gentamicin",
+        "C. Ceftriaxone + Metronidazole",
+        "D. Ampicillin + Clindamycin"
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Early PVE in a critically ill patient requires broad-spectrum coverage for resistant nosocomial organisms, including MRSA, coagulase-negative staph, and gram-negative rods. The STG recommends a three-drug regimen of Vancomycin (for MRSA/MRSE), Gentamicin (for synergy), and a broad-spectrum anti-pseudomonal beta-lactam like Cefepime. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 265,
+      "question": "Which of the following procedures requires antibiotic prophylaxis for the prevention of infective endocarditis in a high-risk patient?",
+      "choices": [
+        "A. Placement of a peripheral intravenous line.",
+        "B. A routine upper gastrointestinal endoscopy without biopsy.",
+        "C. Incision and drainage of a cutaneous abscess.",
+        "D. A dental procedure involving perforation of the oral mucosa."
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Prophylaxis is recommended for high-risk patients undergoing procedures that are associated with a high risk of bacteremia. This includes all dental procedures that involve manipulation of gingival tissue or the periapical region of teeth or perforation of the oral mucosa. The other listed procedures are not indications for prophylaxis. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 266,
+      "question": "A patient with native valve endocarditis has persistently positive blood cultures after one week of appropriate antibiotic therapy. This is an indication for:",
+      "choices": [
+        "A. Discontinuing all antibiotics.",
+        "B. Adding an oral antibiotic to the regimen.",
+        "C. Considering surgical intervention.",
+        "D. Extending the duration of IV therapy to 12 weeks."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Persistently positive blood cultures despite adequate antibiotic therapy suggest that the infection is uncontrolled. This may be due to a large, protected vegetation, an abscess, or a highly resistant organism. It is a major indication that medical therapy is failing and that surgical debridement and valve replacement may be necessary. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 147"]
+    },
+    {
+      "id": 267,
+      "question": "A patient is diagnosed with endocarditis caused by Enterococcus faecalis. Why is combination therapy with a cell wall agent (like Penicillin or Ampicillin) and an aminoglycoside (like Gentamicin) often recommended?",
+      "choices": [
+        "A. To prevent the development of a rash.",
+        "B. To achieve a synergistic bactericidal effect.",
+        "C. To reduce the risk of nephrotoxicity.",
+        "D. To shorten the duration of therapy to one week."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Enterococci are relatively resistant to the bactericidal action of cell wall agents alone. The addition of an aminoglycoside allows the cell wall agent to penetrate the bacterium more effectively, leading to a synergistic bactericidal effect that is necessary to sterilize the vegetation and cure the infection. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 268,
+      "question": "In a patient with suspected endocarditis, the presence of glomerulonephritis would be classified as which type of Duke minor criterion?",
+      "choices": [
+        "A. Vascular phenomenon",
+        "B. Microbiological evidence",
+        "C. Immunologic phenomenon",
+        "D. Predisposing heart condition"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Glomerulonephritis in the setting of IE is caused by the deposition of immune complexes in the renal glomeruli. Therefore, it is classified as an immunologic phenomenon, along with Osler's nodes, Roth spots, and a positive rheumatoid factor. (Page 145)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 145"]
+    },
+    {
+      "id": 269,
+      "question": "For endocarditis prophylaxis in a high-risk patient with a severe, anaphylactic allergy to penicillin, what is the recommended oral medication?",
+      "choices": [
+        "A. Cephalexin 2g",
+        "B. Vancomycin 1g IV",
+        "C. Clindamycin 600 mg",
+        "D. Amoxicillin 2g"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "In patients with a severe penicillin allergy, cephalosporins should be avoided due to potential cross-reactivity. The recommended oral alternative is Clindamycin 600 mg, given 30-60 minutes before the procedure. Vancomycin is an IV alternative. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 270,
+      "question": "What is the most common portal of entry for Viridans group streptococci causing native valve endocarditis?",
+      "choices": [
+        "A. The gastrointestinal tract",
+        "B. The genitourinary tract",
+        "C. The skin",
+        "D. The oral cavity"
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Viridans group streptococci are normal commensal flora of the human oral cavity. Transient bacteremia commonly occurs after dental procedures or even with routine daily activities like brushing teeth, providing an opportunity for these organisms to seed damaged or abnormal heart valves. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 143"]
+    },
+    {
+      "id": 271,
+      "question": "A patient with infective endocarditis suddenly develops right-sided weakness and aphasia. This complication is most likely due to:",
+      "choices": [
+        "A. A mycotic aneurysm rupture.",
+        "B. A septic embolus to the brain.",
+        "C. An intracranial abscess.",
+        "D. A medication side effect."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Neurologic complications are common and serious in IE. The most frequent cause is a septic embolus, where a piece of the vegetation breaks off, travels through the arterial circulation, and lodges in a cerebral artery, causing an ischemic stroke with focal neurologic deficits. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 272,
+      "question": "The primary reason to obtain multiple blood cultures from different sites over a period of time in suspected endocarditis is to:",
+      "choices": [
+        "A. Increase the total volume of blood cultured.",
+        "B. Isolate different organisms from different parts of the body.",
+        "C. Differentiate a continuous bacteremia from a transient, contaminant bacteremia.",
+        "D. Speed up the time it takes to get a positive result."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Infective endocarditis causes a continuous, low-grade bacteremia as organisms are constantly shed from the vegetation. Obtaining multiple positive cultures over time with the same organism confirms this continuous bacteremia and makes it highly unlikely that the result is due to skin contamination during the blood draw. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 144"]
+    },
+    {
+      "id": 273,
+      "question": "Which of the following is a recognized risk factor for developing infective endocarditis?",
+      "choices": [
+        "A. Well-controlled hypertension",
+        "B. Mitral valve prolapse without regurgitation",
+        "C. Poor dental hygiene",
+        "D. A history of asthma"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Poor dental hygiene and periodontal disease lead to chronic inflammation and frequent, low-grade bacteremia with oral organisms (like Viridans streptococci). This provides a frequent opportunity for bacteria to seed heart valves, making it a significant risk factor for IE. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 143"]
+    },
+    {
+      "id": 274,
+      "question": "A patient is being treated for Staphylococcal prosthetic valve endocarditis. In addition to Vancomycin and Gentamicin, which third drug is recommended for the entire course of therapy to treat biofilm?",
+      "choices": [
+        "A. Metronidazole",
+        "B. Doxycycline",
+        "C. Rifampicin",
+        "D. Ciprofloxacin"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Staphylococci on prosthetic material form a biofilm that is difficult for many antibiotics to penetrate. Rifampicin has excellent activity against these stationary-phase bacteria within the biofilm. It is recommended as part of a three-drug regimen for Staphylococcal PVE to improve cure rates. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 275,
+      "question": "A patient is diagnosed with endocarditis. Isolation of Streptococcus gallolyticus (bovis) from the blood should prompt an investigation for pathology in which organ system?",
+      "choices": [
+        "A. Genitourinary tract",
+        "B. Central nervous system",
+        "C. Respiratory tract",
+        "D. Gastrointestinal tract"
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "There is a strong and well-established association between Streptococcus gallolyticus (bovis) bacteremia and endocarditis and underlying colonic pathology, particularly adenomatous polyps and colorectal cancer. Therefore, any patient with this infection requires a colonoscopy to rule out a GI malignancy. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 143"]
+    },
+    {
+      "id": 276,
+      "question": "What is the primary purpose of adding Gentamicin for the first two weeks to a Vancomycin regimen for treating Staphylococcal native valve endocarditis?",
+      "choices": [
+        "A. To provide coverage for gram-negative bacteria.",
+        "B. To provide a synergistic and more rapid bactericidal effect.",
+        "C. To prevent nephrotoxicity from the Vancomycin.",
+        "D. To treat a potential anaerobic co-infection."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The addition of an aminoglycoside like Gentamicin to a primary agent like Vancomycin or a beta-lactam is done to achieve synergy. This combination leads to a faster and more complete killing of the bacteria on the valve vegetation than either agent alone, which can be particularly important in severe infections. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },{
+      "id": 277,
+      "question": "A 30-year-old intravenous drug user presents with a high fever, chills, and malaise for one week. On examination, there are splinter hemorrhages under his fingernails and a new, holosystolic murmur loudest at the left lower sternal border that increases with inspiration. Which of the following is the most likely diagnosis?",
+      "choices": [
+        "A. Acute rheumatic fever",
+        "B. Septic arthritis",
+        "C. Infective endocarditis",
+        "D. Systemic lupus erythematosus"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The combination of fever, constitutional symptoms, a new heart murmur, and peripheral stigmata (like splinter hemorrhages) in a patient with a major risk factor (IV drug use) is highly suggestive of infective endocarditis. The murmur's characteristics suggest tricuspid regurgitation, common in IV drug users. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 278,
+      "question": "According to the modified Duke criteria, which of the following is considered a major criterion for the diagnosis of infective endocarditis?",
+      "choices": [
+        "A. Fever > 38.0°C",
+        "B. A single positive blood culture for a non-typical organism.",
+        "C. Echocardiographic evidence of an oscillating intracardiac mass on a valve (vegetation).",
+        "D. Presence of Roth spots on fundoscopy."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The modified Duke criteria have two major criteria: 1) Positive blood cultures for typical organisms, and 2) Evidence of endocardial involvement, which includes positive echocardiogram findings (vegetation, abscess, or new valve regurgitation). Fever and vascular phenomena like Roth spots are minor criteria. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 144"]
+    },
+    {
+      "id": 279,
+      "question": "What is the most common causative organism of infective endocarditis in patients with a prosthetic heart valve within the first two months after surgery (early PVE)?",
+      "choices": [
+        "A. Viridans group streptococci",
+        "B. Staphylococcus aureus",
+        "C. Coagulase-negative staphylococci (e.g., S. epidermidis)",
+        "D. Enterococcus faecalis"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Early prosthetic valve endocarditis (within 2 months of surgery) is most often caused by nosocomial organisms introduced during the perioperative period. Coagulase-negative staphylococci, particularly Staphylococcus epidermidis, are the most frequent pathogens. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 280,
+      "question": "A patient with suspected infective endocarditis has three sets of blood cultures drawn over 24 hours. All three are positive for Streptococcus gallolyticus (formerly S. bovis). This bacteriological finding satisfies which of the Duke criteria?",
+      "choices": [
+        "A. One major criterion",
+        "B. One minor criterion",
+        "C. Two minor criteria",
+        "D. It does not satisfy any criterion."
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Persistently positive blood cultures with a typical microorganism for infective endocarditis is a major Duke criterion. Streptococcus gallolyticus is considered a typical organism, and having multiple positive cultures meets this criterion. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 144"]
+    },
+    {
+      "id": 281,
+      "question": "Which of the following is the most common causative organism in native valve endocarditis in a patient who is an intravenous drug user?",
+      "choices": [
+        "A. Streptococcus pneumoniae",
+        "B. Staphylococcus aureus",
+        "C. Pseudomonas aeruginosa",
+        "D. Candida albicans"
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "While various organisms can cause IE in IV drug users, Staphylococcus aureus is by far the most common pathogen. It is often introduced from the skin flora during injections and has a predilection for affecting the tricuspid valve. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },
+    {
+      "id": 282,
+      "question": "A definitive diagnosis of infective endocarditis by the modified Duke criteria can be made with which of the following combinations?",
+      "choices": [
+        "A. One major and one minor criterion.",
+        "B. Two minor criteria.",
+        "C. One major and three minor criteria.",
+        "D. Four minor criteria."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "A definitive clinical diagnosis of infective endocarditis is made if a patient meets two major criteria, OR one major and three minor criteria, OR five minor criteria. (Page 145)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 145"]
+    },
+    {
+      "id": 283,
+      "question": "A patient being treated for streptococcal endocarditis develops a new, prolonged PR interval on their ECG. This finding is most concerning for which complication?",
+      "choices": [
+        "A. Myocardial infarction",
+        "B. Pericarditis",
+        "C. Perivalvular abscess formation",
+        "D. Pulmonary embolism"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The development of a new AV block (such as a prolonged PR interval) in a patient with endocarditis is a critical finding. It suggests that the infection has extended from the valve into the adjacent conduction tissue, forming a perivalvular abscess. This is an indication for urgent surgical consultation. (Page 144, implied under complications/surgical indications)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 144"]
+    },
+    {
+      "id": 284,
+      "question": "What is the recommended empiric antibiotic regimen for a hemodynamically stable patient with suspected native valve endocarditis while awaiting culture results?",
+      "choices": [
+        "A. Vancomycin plus Gentamicin",
+        "B. Ampicillin/Sulbactam plus Gentamicin",
+        "C. Ceftriaxone plus Vancomycin",
+        "D. Penicillin G plus Gentamicin"
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The STG recommends an empiric regimen for stable native valve IE that covers the most likely pathogens (Staphylococci, Streptococci, and Enterococci). The combination of Ampicillin/Sulbactam plus Gentamicin provides this broad coverage. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },
+    {
+      "id": 285,
+      "question": "Which of the following is considered a vascular phenomenon in the minor criteria for infective endocarditis?",
+      "choices": [
+        "A. Glomerulonephritis",
+        "B. Osler's nodes",
+        "C. Roth spots",
+        "D. Systemic arterial emboli"
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Vascular phenomena are one of the categories of minor criteria. This category includes major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, and Janeway lesions. Immunologic phenomena (glomerulonephritis, Osler's nodes, Roth spots) are a separate minor criterion. (Page 145)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 145"]
+    },
+    {
+      "id": 286,
+      "question": "A patient with a prosthetic mitral valve requires a dental extraction. According to the STG, what is the standard antibiotic prophylaxis regimen for this high-risk patient if they have no penicillin allergy?",
+      "choices": [
+        "A. Amoxicillin 2g orally, 30-60 minutes before the procedure.",
+        "B. Clindamycin 600 mg orally, 30-60 minutes before the procedure.",
+        "C. Azithromycin 500 mg orally, 30-60 minutes before the procedure.",
+        "D. No prophylaxis is needed."
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "A prosthetic heart valve is a high-risk cardiac condition requiring antibiotic prophylaxis before dental procedures that involve manipulation of gingival tissue. The standard oral regimen for patients who can take penicillin is a single 2g dose of Amoxicillin. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 287,
+      "question": "Osler's nodes, a sign of infective endocarditis, are best described as:",
+      "choices": [
+        "A. Painless, erythematous macules on the palms and soles.",
+        "B. Tender, violaceous nodules on the pads of the fingers and toes.",
+        "C. Linear hemorrhages under the nail beds.",
+        "D. Retinal hemorrhages with pale centers."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Osler's nodes are tender subcutaneous nodules, typically found on the distal pads of the fingers or toes. They are considered an immunologic phenomenon, resulting from the deposition of immune complexes in the microvasculature. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 288,
+      "question": "What is the recommended duration of antibiotic therapy for uncomplicated native valve endocarditis caused by a highly penicillin-sensitive Viridans group streptococcus?",
+      "choices": [
+        "A. 2 weeks",
+        "B. 4 weeks",
+        "C. 6 weeks",
+        "D. 8 weeks"
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "For native valve endocarditis caused by highly susceptible streptococci, a standard duration of therapy is 4 weeks of an appropriate parenteral antibiotic, such as Penicillin G or Ceftriaxone. A shorter 2-week course may be considered in some cases if combined with Gentamicin. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    },
+    {
+      "id": 289,
+      "question": "A patient with infective endocarditis develops acute heart failure secondary to severe aortic regurgitation. What is the most appropriate management step?",
+      "choices": [
+        "A. Continue medical therapy with increased doses of diuretics.",
+        "B. Add an oral ACE inhibitor to reduce afterload.",
+        "C. An urgent consultation with a cardiothoracic surgeon for valve replacement.",
+        "D. Switch to a broader-spectrum antibiotic regimen."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The development of moderate to severe heart failure due to valve dysfunction is a primary indication for early surgery in infective endocarditis. Medical therapy alone is often insufficient, and surgical intervention to replace the damaged valve is necessary to prevent irreversible hemodynamic collapse and death. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 147"]
+    },
+    {
+      "id": 290,
+      "question": "Which of the following is NOT a high-risk cardiac condition requiring endocarditis prophylaxis before dental procedures?",
+      "choices": [
+        "A. Prosthetic heart valve",
+        "B. Previous history of infective endocarditis",
+        "C. Mitral valve prolapse with mild regurgitation",
+        "D. Unrepaired cyanotic congenital heart disease"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Prophylaxis guidelines have been narrowed to include only the highest-risk patients. Mitral valve prolapse, even with regurgitation, is no longer considered a condition that routinely requires antibiotic prophylaxis. The other options are all considered high-risk conditions. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+          "id": 291,
+      "question": "A patient with culture-negative endocarditis is suspected of being infected with a HACEK group organism. What does the 'H' in HACEK stand for?",
+      "choices": [
+        "A. Haemophilus",
+        "B. Helicobacter",
+        "C. Human T-lymphotropic virus",
+        "D. Histoplasma"
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The HACEK group is an acronym for a group of fastidious gram-negative bacteria that are a cause of culture-negative endocarditis. The 'H' stands for Haemophilus species. The other letters stand for Aggregatibacter, Cardiobacterium, Eikenella, and Kingella. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 143"]
+    },
+    {
+      "id": 292,
+      "question": "A patient with endocarditis is found to have painless, erythematous macules on their palms and soles. What is the name of this physical finding?",
+      "choices": [
+        "A. Osler's nodes",
+        "B. Roth spots",
+        "C. Janeway lesions",
+        "D. Splinter hemorrhages"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Janeway lesions are non-tender, erythematous, and macular or nodular lesions, typically found on the palms and soles. They are considered a vascular phenomenon, caused by septic microemboli from the valve vegetation. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 293,
+      "question": "A patient with a history of rheumatic heart disease undergoes a transesophageal echocardiogram (TEE) for suspected endocarditis. Which finding would be more clearly visualized on TEE compared to a transthoracic echocardiogram (TTE)?",
+      "choices": [
+        "A. The size of the left ventricle.",
+        "B. The overall left ventricular ejection fraction.",
+        "C. A small vegetation on a prosthetic mitral valve.",
+        "D. The presence of a large pericardial effusion."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Transesophageal echocardiography (TEE) provides superior imaging of posterior cardiac structures, including the mitral valve. It is more sensitive than TTE for detecting small vegetations, especially on prosthetic valves, and for identifying complications like abscesses or valve perforation. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 144"]
+    },
+    {
+      "id": 294,
+      "question": "What is the recommended empiric antibiotic regimen for a critically ill patient with suspected early prosthetic valve endocarditis?",
+      "choices": [
+        "A. Vancomycin + Gentamicin + Cefepime",
+        "B. Penicillin G + Gentamicin",
+        "C. Ceftriaxone + Metronidazole",
+        "D. Ampicillin + Clindamycin"
+      ],
+      "correctAnswer": 0,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Early PVE in a critically ill patient requires broad-spectrum coverage for resistant nosocomial organisms, including MRSA, coagulase-negative staph, and gram-negative rods. The STG recommends a three-drug regimen of Vancomycin (for MRSA/MRSE), Gentamicin (for synergy), and a broad-spectrum anti-pseudomonal beta-lactam like Cefepime. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 295,
+      "question": "Which of the following procedures requires antibiotic prophylaxis for the prevention of infective endocarditis in a high-risk patient?",
+      "choices": [
+        "A. Placement of a peripheral intravenous line.",
+        "B. A routine upper gastrointestinal endoscopy without biopsy.",
+        "C. Incision and drainage of a cutaneous abscess.",
+        "D. A dental procedure involving perforation of the oral mucosa."
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Prophylaxis is recommended for high-risk patients undergoing procedures that are associated with a high risk of bacteremia. This includes all dental procedures that involve manipulation of gingival tissue or the periapical region of teeth or perforation of the oral mucosa. The other listed procedures are not indications for prophylaxis. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 296,
+      "question": "A patient with native valve endocarditis has persistently positive blood cultures after one week of appropriate antibiotic therapy. This is an indication for:",
+      "choices": [
+        "A. Discontinuing all antibiotics.",
+        "B. Adding an oral antibiotic to the regimen.",
+        "C. Considering surgical intervention.",
+        "D. Extending the duration of IV therapy to 12 weeks."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Persistently positive blood cultures despite adequate antibiotic therapy suggest that the infection is uncontrolled. This may be due to a large, protected vegetation, an abscess, or a highly resistant organism. It is a major indication that medical therapy is failing and that surgical debridement and valve replacement may be necessary. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 147"]
+    },
+    {
+      "id": 297,
+      "question": "A patient is diagnosed with endocarditis caused by Enterococcus faecalis. Why is combination therapy with a cell wall agent (like Penicillin or Ampicillin) and an aminoglycoside (like Gentamicin) often recommended?",
+      "choices": [
+        "A. To prevent the development of a rash.",
+        "B. To achieve a synergistic bactericidal effect.",
+        "C. To reduce the risk of nephrotoxicity.",
+        "D. To shorten the duration of therapy to one week."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Enterococci are relatively resistant to the bactericidal action of cell wall agents alone. The addition of an aminoglycoside allows the cell wall agent to penetrate the bacterium more effectively, leading to a synergistic bactericidal effect that is necessary to sterilize the vegetation and cure the infection. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 298,
+      "question": "In a patient with suspected endocarditis, the presence of glomerulonephritis would be classified as which type of Duke minor criterion?",
+      "choices": [
+        "A. Vascular phenomenon",
+        "B. Microbiological evidence",
+        "C. Immunologic phenomenon",
+        "D. Predisposing heart condition"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Glomerulonephritis in the setting of IE is caused by the deposition of immune complexes in the renal glomeruli. Therefore, it is classified as an immunologic phenomenon, along with Osler's nodes, Roth spots, and a positive rheumatoid factor. (Page 145)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 145"]
+    },
+    {
+      "id": 299,
+      "question": "For endocarditis prophylaxis in a high-risk patient with a severe, anaphylactic allergy to penicillin, what is the recommended oral medication?",
+      "choices": [
+        "A. Cephalexin 2g",
+        "B. Vancomycin 1g IV",
+        "C. Clindamycin 600 mg",
+        "D. Amoxicillin 2g"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "In patients with a severe penicillin allergy, cephalosporins should be avoided due to potential cross-reactivity. The recommended oral alternative is Clindamycin 600 mg, given 30-60 minutes before the procedure. Vancomycin is an IV alternative. (Page 147)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 147"]
+    },
+    {
+      "id": 300,
+      "question": "What is the most common portal of entry for Viridans group streptococci causing native valve endocarditis?",
+      "choices": [
+        "A. The gastrointestinal tract",
+        "B. The genitourinary tract",
+        "C. The skin",
+        "D. The oral cavity"
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Viridans group streptococci are normal commensal flora of the human oral cavity. Transient bacteremia commonly occurs after dental procedures or even with routine daily activities like brushing teeth, providing an opportunity for these organisms to seed damaged or abnormal heart valves. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 143"]
+    },
+    {
+        "id": 301,
+      "question": "A patient with infective endocarditis suddenly develops right-sided weakness and aphasia. This complication is most likely due to:",
+      "choices": [
+        "A. A mycotic aneurysm rupture.",
+        "B. A septic embolus to the brain.",
+        "C. An intracranial abscess.",
+        "D. A medication side effect."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Neurologic complications are common and serious in IE. The most frequent cause is a septic embolus, where a piece of the vegetation breaks off, travels through the arterial circulation, and lodges in a cerebral artery, causing an ischemic stroke with focal neurologic deficits. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 143"]
+    },
+    {
+      "id": 302,
+      "question": "The primary reason to obtain multiple blood cultures from different sites over a period of time in suspected endocarditis is to:",
+      "choices": [
+        "A. Increase the total volume of blood cultured.",
+        "B. Isolate different organisms from different parts of the body.",
+        "C. Differentiate a continuous bacteremia from a transient, contaminant bacteremia.",
+        "D. Speed up the time it takes to get a positive result."
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Infective endocarditis causes a continuous, low-grade bacteremia as organisms are constantly shed from the vegetation. Obtaining multiple positive cultures over time with the same organism confirms this continuous bacteremia and makes it highly unlikely that the result is due to skin contamination during the blood draw. (Page 144)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 144"]
+    },
+    {
+      "id": 303,
+      "question": "Which of the following is a recognized risk factor for developing infective endocarditis?",
+      "choices": [
+        "A. Well-controlled hypertension",
+        "B. Mitral valve prolapse without regurgitation",
+        "C. Poor dental hygiene",
+        "D. A history of asthma"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Poor dental hygiene and periodontal disease lead to chronic inflammation and frequent, low-grade bacteremia with oral organisms (like Viridans streptococci). This provides a frequent opportunity for bacteria to seed heart valves, making it a significant risk factor for IE. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Basic", "Page 143"]
+    },
+    {
+      "id": 304,
+      "question": "A patient is being treated for Staphylococcal prosthetic valve endocarditis. In addition to Vancomycin and Gentamicin, which third drug is recommended for the entire course of therapy to treat biofilm?",
+      "choices": [
+        "A. Metronidazole",
+        "B. Doxycycline",
+        "C. Rifampicin",
+        "D. Ciprofloxacin"
+      ],
+      "correctAnswer": 2,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "Staphylococci on prosthetic material form a biofilm that is difficult for many antibiotics to penetrate. Rifampicin has excellent activity against these stationary-phase bacteria within the biofilm. It is recommended as part of a three-drug regimen for Staphylococcal PVE to improve cure rates. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 146"]
+    },
+    {
+      "id": 305,
+      "question": "A patient is diagnosed with endocarditis. Isolation of Streptococcus gallolyticus (bovis) from the blood should prompt an investigation for pathology in which organ system?",
+      "choices": [
+        "A. Genitourinary tract",
+        "B. Central nervous system",
+        "C. Respiratory tract",
+        "D. Gastrointestinal tract"
+      ],
+      "correctAnswer": 3,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "There is a strong and well-established association between Streptococcus gallolyticus (bovis) bacteremia and endocarditis and underlying colonic pathology, particularly adenomatous polyps and colorectal cancer. Therefore, any patient with this infection requires a colonoscopy to rule out a GI malignancy. (Page 143)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Advanced", "Page 143"]
+    },
+    {
+      "id": 306,
+      "question": "What is the primary purpose of adding Gentamicin for the first two weeks to a Vancomycin regimen for treating Staphylococcal native valve endocarditis?",
+      "choices": [
+        "A. To provide coverage for gram-negative bacteria.",
+        "B. To provide a synergistic and more rapid bactericidal effect.",
+        "C. To prevent nephrotoxicity from the Vancomycin.",
+        "D. To treat a potential anaerobic co-infection."
+      ],
+      "correctAnswer": 1,
+      "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
+      "explanation": "The addition of an aminoglycoside like Gentamicin to a primary agent like Vancomycin or a beta-lactam is done to achieve synergy. This combination leads to a faster and more complete killing of the bacteria on the valve vegetation than either agent alone, which can be particularly important in severe infections. (Page 146)",
+      "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
+    }
             
         ]
     };

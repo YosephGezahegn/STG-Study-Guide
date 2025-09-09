@@ -17,6 +17,7 @@ class COCExamSimulator {
         this.questionStartTime = null;
         this.timers = { question: null, total: null };
         this.isExamActive = false;
+        this.markedQuestionIds = new Set();
 
         this.init();
     }
@@ -122,6 +123,16 @@ class COCExamSimulator {
         document.getElementById('submitExamBtn').addEventListener('click', () => this.submitExam());
         document.getElementById('exitExamBtn').addEventListener('click', () => this.exitExam());
 
+        const openSummaryBtn = document.getElementById('openSummaryBtn');
+        if (openSummaryBtn) openSummaryBtn.addEventListener('click', () => this.showSummaryModal());
+        const summaryCloseBtn = document.getElementById('summaryCloseBtn');
+        if (summaryCloseBtn) summaryCloseBtn.addEventListener('click', () => this.hideSummaryModal());
+        const summaryModal = document.getElementById('summaryModal');
+        if (summaryModal) summaryModal.addEventListener('click', (e) => { if (e.target.id === 'summaryModal') this.hideSummaryModal(); });
+
+        const markBtn = document.getElementById('markQuestionBtn');
+        if (markBtn) markBtn.addEventListener('click', () => this.toggleMarkCurrent());
+
         document.getElementById('selectAllTopics').addEventListener('click', () => this.selectAllTopics());
         document.getElementById('deselectAllTopics').addEventListener('click', () => this.deselectAllTopics());
 
@@ -161,29 +172,31 @@ class COCExamSimulator {
             }
         });
 
-        // Render groups with subtopic checkboxes
+        // Render groups with subtopic checkboxes (collapsible by chapter)
         Object.entries(groups).forEach(([chapter, subsSet]) => {
             const groupDiv = document.createElement('div');
             groupDiv.className = 'topic-group';
             const subs = Array.from(subsSet);
             const groupId = `chapter-${chapter}`;
             groupDiv.innerHTML = `
-                <div class="topic-group-title">${chapter}</div>
-                <div class="topics-grid">
-                    ${subs.length > 0 ? subs.map(sub => {
-                        const full = `${chapter} / ${sub}`;
-                        return `
-                        <div class="topic-checkbox checked">
-                            <input type="checkbox" id="topic-${full}" value="${full}" checked>
-                            <label for="topic-${full}">${sub}</label>
-                        </div>`;
-                    }).join('') : `
-                        <div class="topic-checkbox checked">
-                            <input type="checkbox" id="topic-${chapter}" value="${chapter}" checked>
-                            <label for="topic-${chapter}">${chapter}</label>
-                        </div>
-                    `}
-                </div>
+                <details class="topic-group-details">
+                    <summary class="topic-group-title">${chapter}</summary>
+                    <div class="topics-grid">
+                        ${subs.length > 0 ? subs.map(sub => {
+                            const full = `${chapter} / ${sub}`;
+                            return `
+                            <div class="topic-checkbox checked">
+                                <input type="checkbox" id="topic-${full}" value="${full}" checked>
+                                <label for="topic-${full}">${sub}</label>
+                            </div>`;
+                        }).join('') : `
+                            <div class="topic-checkbox checked">
+                                <input type="checkbox" id="topic-${chapter}" value="${chapter}" checked>
+                                <label for="topic-${chapter}">${chapter}</label>
+                            </div>
+                        `}
+                    </div>
+                </details>
             `;
             topicsGrid.appendChild(groupDiv);
 
@@ -403,6 +416,9 @@ class COCExamSimulator {
         document.getElementById('submitExamBtn').style.display = this.currentQuestionIndex === this.examQuestions.length - 1 ? 'inline-flex' : 'none';
         document.getElementById('answerExplanation').style.display = 'none';
         this.startQuestionTimer();
+
+        // Update mark button state and header badge
+        this.updateMarkUI(question);
     }
 
     selectChoice(questionId, choiceIndex) {
@@ -432,7 +448,13 @@ class COCExamSimulator {
     prevQuestion() { if (this.currentQuestionIndex > 0) { this.currentQuestionIndex--; this.loadQuestion(); } }
 
     submitExam() {
-        if (confirm('Are you sure you want to submit your exam? You cannot change answers after submission.')) {
+        const counts = this.getAnswerStatusCounts();
+        let warnMsg = 'Are you sure you want to submit your exam? You cannot change answers after submission.';
+        const extras = [];
+        if (counts.unanswered > 0) extras.push(`${counts.unanswered} unanswered`);
+        if (counts.marked > 0) extras.push(`${counts.marked} marked for review`);
+        if (extras.length) warnMsg = `You have ${extras.join(', ')}.\n\n` + warnMsg;
+        if (confirm(warnMsg)) {
             this.isExamActive = false;
             this.stopTimers();
             this.calculateResults();
@@ -531,6 +553,65 @@ class COCExamSimulator {
 
     retakeExam() { this.startExam(); }
     newExam() { this.showWelcome(); }
+
+    // Mark for Review logic
+    toggleMarkCurrent() {
+        const q = this.examQuestions && this.examQuestions[this.currentQuestionIndex];
+        if (!q) return;
+        if (this.markedQuestionIds.has(q.id)) this.markedQuestionIds.delete(q.id);
+        else this.markedQuestionIds.add(q.id);
+        this.updateMarkUI(q);
+    }
+    updateMarkUI(question) {
+        const btn = document.getElementById('markQuestionBtn');
+        if (!btn || !question) return;
+        const marked = this.markedQuestionIds.has(question.id);
+        btn.classList.toggle('is-marked', marked);
+        btn.innerHTML = marked ? '<i class="fas fa-flag"></i> Unmark' : '<i class="fas fa-flag"></i> Mark for Review';
+    }
+
+    // Summary modal
+    showSummaryModal() {
+        if (!this.examQuestions || this.examQuestions.length === 0) return;
+        const modal = document.getElementById('summaryModal');
+        const grid = document.getElementById('summaryGrid');
+        const countsDiv = document.getElementById('summaryCounts');
+        if (!modal || !grid || !countsDiv) return;
+        grid.innerHTML = '';
+        const counts = this.getAnswerStatusCounts();
+        countsDiv.textContent = `Answered: ${counts.answered} • Unanswered: ${counts.unanswered} • Marked: ${counts.marked}`;
+        this.examQuestions.forEach((q, idx) => {
+            const isAnswered = this.userAnswers[q.id] !== undefined;
+            const isMarked = this.markedQuestionIds.has(q.id);
+            const btn = document.createElement('button');
+            btn.className = 'summary-item';
+            if (isMarked) btn.classList.add('marked');
+            if (!isAnswered) btn.classList.add('unanswered');
+            btn.textContent = String(idx + 1);
+            btn.addEventListener('click', () => {
+                this.currentQuestionIndex = idx;
+                this.loadQuestion();
+                this.hideSummaryModal();
+            });
+            grid.appendChild(btn);
+        });
+        modal.classList.add('active');
+    }
+    hideSummaryModal() {
+        const modal = document.getElementById('summaryModal');
+        if (modal) modal.classList.remove('active');
+    }
+    getAnswerStatusCounts() {
+        let answered = 0;
+        let unanswered = 0;
+        let marked = 0;
+        const answers = this.userAnswers || {};
+        (this.examQuestions || []).forEach(q => {
+            if (answers[q.id] === undefined) unanswered++; else answered++;
+            if (this.markedQuestionIds.has(q.id)) marked++;
+        });
+        return { answered, unanswered, marked };
+    }
 
     startTimers() { this.startTotalTimer(); this.startQuestionTimer(); }
     startTotalTimer() {
