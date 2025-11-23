@@ -1,0 +1,2101 @@
+
+    {
+        "id": "872",
+        "question": "A 45-year-old obese woman from Addis Ababa presents to the general hospital outpatient clinic with a history of recurrent, severe dull pain in her right upper quadrant that started approximately 6 months ago. The pain typically occurs about an hour after eating fatty meals, lasts for 2-3 hours, and resolves completely. An abdominal ultrasound performed recently shows gallstones without signs of gallbladder wall thickening or pericholecystic fluid. She asks if she needs urgent surgery. What is the most appropriate initial management?",
+        "choices": [
+            "A. Urgent cholecystectomy due to symptomatic cholelithiasis.",
+            "B. Referral for ERCP to remove the gallstones and prevent complications.",
+            "C. Lifestyle advice, pain management, and elective cholecystectomy referral.",
+            "D. Prescribe oral bile acids for stone dissolution."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The patient presents with uncomplicated gallstone disease (typical biliary colic and gallstones on imaging, but no complications). While cholecystectomy is the curative treatment, it is elective. The most appropriate initial step is offering lifestyle advice and pain management for the acute episodes, followed by an elective cholecystectomy referral. (p. 224, 226)",
+        "tags": "uncomplicated_gallstone_disease, management"
+    },
+    {
+        "id": "873",
+        "question": "A 50-year-old male presents to the emergency department with severe, steady pain in the epigastrium radiating to his right shoulder. The pain began suddenly 4 hours after consuming a heavy, fatty dinner. Ultrasound confirms gallstones. What is the preferred immediate pharmacologic intervention for acute pain relief in this patient?",
+        "choices": [
+            "A. Oral Ibuprofen 400 mg PRN.",
+            "B. Intravenous Morphine 5 mg bolus.",
+            "C. Intravenous Diclofenac 75 mg bolus.",
+            "D. Intravenous Pethidine 50 mg bolus."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For acute biliary colic, parenteral NSAIDS (like Diclofenac) are the preferred agents for pain management. Opioids (Morphine, Pethidine) are second-line and reserved for patients with contraindications to NSAIDs. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": "874",
+        "question": "Which of the following findings on an abdominal ultrasound would classify a patient with gallstones as having uncomplicated gallstone disease?",
+        "choices": [
+            "A. Gallbladder wall thickening >3 mm.",
+            "B. Pericholecystic fluid collection.",
+            "C. Typical biliary colic symptoms and gallstones present.",
+            "D. Presence of common bile duct dilation."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Uncomplicated gallstone disease is defined as being symptomatic with typical biliary colic and gallstones on imaging but no evidence of complications such as acute cholecystitis, cholangitis, or gallstone pancreatitis. (p. 224)",
+        "tags": "uncomplicated_gallstone_disease, diagnosis"
+    },
+    {
+        "id": "875",
+        "question": "A 65-year-old diabetic male is found to have gallstones incidentally during an abdominal ultrasound for non-specific abdominal discomfort. He denies any history of biliary colic. Which category of gallstone disease does this patient fall under?",
+        "choices": [
+            "A. Uncomplicated gallstone disease.",
+            "B. Symptomatic gallstone disease.",
+            "C. Incidental gallstones.",
+            "D. Chronic cholecystitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This patient is asymptomatic, and the gallstones were found incidentally on imaging. This is categorized as incidental gallstones. (p. 225)",
+        "tags": "gallstone_disease, classification"
+    },
+    {
+        "id": "876",
+        "question": "Which statement accurately reflects the recommended surgical management approach for a patient diagnosed with incidental gallstones?",
+        "choices": [
+            "A. Cholecystectomy is indicated immediately to prevent future complications.",
+            "B. Cholecystectomy is not indicated as there is no history of biliary colic.",
+            "C. Cholecystectomy is only indicated if the patient is diabetic or severely obese.",
+            "D. Oral dissolution therapy should be tried before considering cholecystectomy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones (asymptomatic finding), cholecystectomy is not indicated as surgery exposes them to unnecessary surgical risk. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "877",
+        "question": "A 40-year-old woman presents to the emergency room with classic biliary colic. Her ultrasound shows gallstones. Which of the following atypical symptoms is poorly associated with gallstones and should prompt a search for an alternative diagnosis?",
+        "choices": [
+            "A. Right upper quadrant or epigastric pain.",
+            "B. Pain radiating to the right shoulder.",
+            "C. Non-specific abdominal bloating and early satiety.",
+            "D. Nausea and vomiting during a painful attack."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Symptoms like non-specific abdominal pain, bloating, and early satiety have a poor association with gallstones and their presence (Category 3) should prompt the clinician to look for other causes of the symptoms. (p. 225)",
+        "tags": "atypical_symptoms, diagnosis"
+    },
+    {
+        "id": "878",
+        "question": "Which imaging modality is considered the gold standard for the diagnosis of cholelithiasis?",
+        "choices": [
+            "A. Magnetic Resonance Cholangiopancreatography (MRCP).",
+            "B. Endoscopic Retrograde Cholangiopancreatography (ERCP).",
+            "C. Abdominal ultrasound.",
+            "D. Computed Tomography (CT) scan."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Abdominal ultrasound is cited as the gold standard tool for the diagnosis of cholelithiasis in the guidelines. (p. 225)",
+        "tags": "cholelithiasis, diagnosis, ultrasound"
+    },
+    {
+        "id": "879",
+        "question": "A 55-year-old woman is diagnosed with cholelithiasis. She has recurrent, classic biliary colic. When considering surgical management (cholecystectomy), what is the expected outcome based on the guidelines?",
+        "choices": [
+            "A. Surgery is absolutely contraindicated as it is elective.",
+            "B. Surgery is curative for uncomplicated symptomatic gallstone disease.",
+            "C. Surgery is typically reserved until complications like acute cholecystitis develop.",
+            "D. Only oral dissolution therapy has curative potential for this patient."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is curative for uncomplicated symptomatic gallstone disease, and it is indicated in Category 2 (uncomplicated gallstone disease). (p. 225, 226)",
+        "tags": "cholelithiasis, management, cholecystectomy"
+    },
+    {
+        "id": "880",
+        "question": "In a resource-limited general hospital setting, which of the following is the most crucial factor in determining the initial management strategy for a patient presenting with gallstones?",
+        "choices": [
+            "A. The size of the largest gallstone.",
+            "B. The composition of the gallstones.",
+            "C. The presence or absence of symptoms and complications.",
+            "D. The patient's serum bilirubin level."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The guidelines categorize gallstone disease primarily into incidental (asymptomatic) and uncomplicated gallstone disease (symptomatic but no complications), and complicated disease. The decision for conservative vs. elective vs. urgent management is fundamentally determined by the presence or absence of symptoms and complications. (p. 225, 226)",
+        "tags": "cholelithiasis, management_strategy"
+    },
+    {
+        "id": "881",
+        "question": "Which clinical presentation is most characteristic of typical biliary colic?",
+        "choices": [
+            "A. Dull, left upper quadrant pain, lasting several days.",
+            "B. Severe, dull, right upper quadrant pain, constant, lasting 3 hours.",
+            "C. Sharp, colicky pain that fluctuates in severity, lasting <30 minutes.",
+            "D. Epigastric burning pain associated with lying down."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is described as a severe, dull, right upper quadrant or epigastric pain, which is usually constant (contrary to the name), and typically lasts at least 30 minutes but less than six hours. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "882",
+        "question": "Which class of gallstones makes up the majority of cases in clinical practice?",
+        "choices": [
+            "A. Pigment stones.",
+            "B. Mixed stones.",
+            "C. Cholesterol stones.",
+            "D. Calcium phosphate stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The majority of gallstones are cholesterol stones. (p. 224)",
+        "tags": "gallstone_composition"
+    },
+    {
+        "id": "883",
+        "question": "A young, healthy woman presents with typical biliary colic. She is categorized as Category 2 (uncomplicated gallstone disease). When should cholecystectomy be performed?",
+        "choices": [
+            "A. Urgently, within 48 hours.",
+            "B. Electively, after lifestyle modifications fail.",
+            "C. Only if signs of jaundice or cholangitis develop.",
+            "D. It is strictly contraindicated in young, healthy individuals."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For uncomplicated symptomatic gallstone disease, cholecystectomy is indicated and should be done electively. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, cholecystectomy"
+    },
+    {
+        "id": "884",
+        "question": "In a patient with confirmed cholelithiasis presenting with non-specific, intermittent abdominal pain (Category 3), what is the most prudent initial step in management?",
+        "choices": [
+            "A. Urgent cholecystectomy referral to prevent complications.",
+            "B. Oral dissolution therapy for a minimum of 6 months.",
+            "C. Perform a search for alternative causes of the abdominal pain.",
+            "D. Prescribe NSAIDs for chronic, daily use."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For atypical symptoms (Category 3), there is a poor association with gallstones, so the clinician should first look for other causes for the symptoms before making a surgical decision. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": "885",
+        "question": "A 30-year-old patient with cholelithiasis and recurrent biliary colic is given a pethidine injection for severe pain relief in the emergency room. Why is Pethidine not the preferred agent for this condition?",
+        "choices": [
+            "A. It prolongs the QT interval and increases arrhythmia risk.",
+            "B. It is associated with higher rates of nausea and vomiting.",
+            "C. It does not effectively treat smooth muscle spasm causing the colic.",
+            "D. NSAIDs are preferred, and opioids like Pethidine are reserved as second-line."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are the preferred agents for acute biliary colic pain management. Opioids (Morphine, Pethidine) are reserved as second-line for patients with contraindications to NSAIDs. (p. 225)",
+        "tags": "biliary_colic, pain_management, pethidine"
+    },
+    {
+        "id": "886",
+        "question": "A 48-year-old woman with symptomatic cholelithiasis is being treated with IV Diclofenac in the ER. Which concurrent medical condition would be a contraindication to using this drug?",
+        "choices": [
+            "A. Mild hyperlipidemia.",
+            "B. Controlled Type 2 Diabetes Mellitus.",
+            "C. Chronic kidney disease.",
+            "D. History of well-controlled hypertension."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDS (like Diclofenac) should be avoided in patients with impaired kidney function or hypersensitivity, as they are nephrotoxic and can precipitate adverse effects. (p. 225)",
+        "tags": "NSAIDs, contraindications"
+    },
+    {
+        "id": "887",
+        "question": "A patient presents with acute biliary colic. The pain began 3 hours ago and is constant and severe. Which characteristic of the pain is typical of biliary colic?",
+        "choices": [
+            "A. Starts abruptly, fluctuates (colicky), and resolves in <30 minutes.",
+            "B. Severe, dull, constant, and lasts >30 minutes but <6 hours.",
+            "C. Located mainly in the left upper quadrant, radiating to the back.",
+            "D. Burning sensation in the epigastrium, worse with lying down."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is typically a severe, dull, right upper quadrant or epigastric pain, and is usually constant, lasting >30 minutes but <6 hours. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "888",
+        "question": "A patient with gallstones and typical biliary colic asks why surgery is considered. The most accurate explanation based on the guidelines is that cholecystectomy is a definitive treatment because it is designed to:",
+        "choices": [
+            "A. Cure the underlying metabolic disorder causing the stones.",
+            "B. Prevent the recurrent painful attacks.",
+            "C. Dissolve the existing gallstones.",
+            "D. Treat associated non-specific abdominal bloating."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is the definitive treatment because it removes the source of the recurrent painful attacks. (p. 225, 226)",
+        "tags": "cholecystectomy, indication"
+    },
+    {
+        "id": "889",
+        "question": "A patient with known gallstones presents with symptoms that include non-specific upper GI symptoms like belching, bloating, and early satiety, but no typical biliary colic. This presentation falls under which category of gallstone disease?",
+        "choices": [
+            "A. Category 1: Incidental gallstones.",
+            "B. Category 2: Uncomplicated gallstone disease.",
+            "C. Category 3: Atypical symptoms.",
+            "D. Category 4: Typical symptoms but no gallstones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This patient's symptoms are considered atypical. Category 3 is for atypical symptoms and gallstones on imaging. (p. 225)",
+        "tags": "atypical_symptoms, classification"
+    },
+    {
+        "id": "890",
+        "question": "Which type of gallstone is more commonly seen in patients with chronic hemolytic anemia or liver cirrhosis?",
+        "choices": [
+            "A. Cholesterol stones.",
+            "B. Calcium phosphate stones.",
+            "C. Pigment stones.",
+            "D. Mixed stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Pigment stones are specifically mentioned as being common in patients with hemolytic anemia or cirrhosis. (p. 224)",
+        "tags": "gallstone_composition, risk_factors"
+    },
+    {
+        "id": "891",
+        "question": "A patient presents with classic biliary colic pain. She is stable, and ultrasound confirms gallstones. What is the most appropriate discharge plan regarding the need for surgery?",
+        "choices": [
+            "A. Schedule urgent cholecystectomy within 24 hours.",
+            "B. Refer for elective cholecystectomy as it is the curative treatment.",
+            "C. Advise immediate follow-up only if jaundice develops.",
+            "D. Initiate a 3-month trial of oral bile acid dissolution therapy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The guidelines classify this as uncomplicated gallstone disease (Category 2) for which elective cholecystectomy is indicated. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, management"
+    },
+    {
+        "id": "892",
+        "question": "What is the primary mechanism responsible for the formation of gallstones?",
+        "choices": [
+            "A. Excessive dietary fat intake.",
+            "B. Chronic biliary tract infection.",
+            "C. Supersaturation of bile with materials like cholesterol.",
+            "D. Inherited structural defects in the gallbladder."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Stone formation occurs when normally soluble materials like calcium, oxalate or uric acid supersaturate (accumulate above the solubility capacity) and form small crystals. Gallstones are primarily cholesterol stones. (p. 564, 224)",
+        "tags": "gallstone_formation, pathophysiology"
+    },
+    {
+        "id": "893",
+        "question": "A 52-year-old man has recurrent biliary colic. He is allergic to NSAIDs. Which pharmacologic option is most appropriate for acute pain relief in the emergency setting?",
+        "choices": [
+            "A. Intravenous Pethidine.",
+            "B. Oral Paracetamol 1000 mg.",
+            "C. Oral Diclofenac 75 mg.",
+            "D. Intravenous Acetaminophen."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are preferred, but if the patient has a contraindication to NSAIDs (like allergy), Opioids (Morphine or Pethidine) should be used as they are the second-line option. (p. 225)",
+        "tags": "biliary_colic, pain_management, opioids"
+    },
+    {
+        "id": "894",
+        "question": "In the management of uncomplicated biliary colic, which of the following non-pharmacological measures is the most effective preventative advice?",
+        "choices": [
+            "A. Avoiding all protein-rich foods.",
+            "B. Avoiding spicy foods and carbonated beverages.",
+            "C. Avoiding heavy, fatty meals.",
+            "D. Drinking large volumes of water immediately after a meal."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is commonly triggered by eating a fatty meal. Advising the patient to avoid heavy, fatty meals is a key non-pharmacologic intervention for prevention of attacks. (p. 225)",
+        "tags": "biliary_colic, prevention"
+    },
+    {
+        "id": "895",
+        "question": "Which of the following is considered one of the major complications of cholelithiasis?",
+        "choices": [
+            "A. Gastritis.",
+            "B. Gastroesophageal reflux disease (GERD).",
+            "C. Acute cholecystitis.",
+            "D. Peptic ulcer disease."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The major complications of gallstones are cholecystitis, choledocholithiasis, acute cholangitis, and pancreatitis. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": "896",
+        "question": "A patient reports experiencing severe, dull pain in the right upper quadrant (RUQ) that plateaus within an hour and then gradually subsides after 5 hours. This description is most consistent with which phase of symptomatic gallstone disease?",
+        "choices": [
+            "A. Acute cholecystitis.",
+            "B. Chronic cholecystitis.",
+            "C. Biliary colic.",
+            "D. Obstructive jaundice."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The pain of biliary colic is described as reaching a plateau within an hour, then subsiding. The entire attack usually lasts less than six hours. (p. 224)",
+        "tags": "biliary_colic, clinical_course"
+    },
+    {
+        "id": "897",
+        "question": "A 70-year-old man with multiple comorbidities is found to have gallstones incidentally. He is asymptomatic for biliary symptoms. What is the recommended management strategy regarding surgery?",
+        "choices": [
+            "A. Immediate cholecystectomy due to high risk of complications.",
+            "B. Elective cholecystectomy after optimizing his medical conditions.",
+            "C. Conservative management without surgical intervention.",
+            "D. Oral dissolution therapy should be initiated as a trial."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Asymptomatic gallstones (Category 1, Incidental Gallstones) in any patient are generally managed conservatively, without surgical intervention. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "898",
+        "question": "A 35-year-old woman is admitted with severe biliary colic. She has been vomiting profusely and is now unable to tolerate oral intake. Her vital signs are stable. In the initial management, she should be kept NPO (nil per os) and should receive:",
+        "choices": [
+            "A. IV fluids and parenteral NSAIDs only.",
+            "B. IV fluids, parenteral NSAIDs, and oral dissolution medication.",
+            "C. Oral liquids and parenteral NSAIDs.",
+            "D. Oral liquids and antiemetics."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The patient should be kept NPO and given supportive care with IV fluids due to vomiting/poor oral intake, and parenteral NSAIDs for the acute pain. (p. 225, 227)",
+        "tags": "biliary_colic, initial_management"
+    },
+    {
+        "id": "899",
+        "question": "A patient presents with a history of typical biliary colic, but subsequent abdominal imaging fails to visualize any gallstones. Which category of symptomatic gallstone disease does this presentation fit?",
+        "choices": [
+            "A. Category 1: Incidental gallstones.",
+            "B. Category 2: Uncomplicated gallstone disease.",
+            "C. Category 3: Atypical symptoms.",
+            "D. Category 4: Typical biliary symptoms but without gallstones."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This is categorized as Category 4: Typical biliary symptoms but without gallstones on ultrasound. (p. 225)",
+        "tags": "symptomatic_gallstone_disease, classification"
+    },
+    {
+        "id": "900",
+        "question": "The definitive management for a patient with uncomplicated symptomatic gallstone disease is:",
+        "choices": [
+            "A. Oral bile acid dissolution therapy for 1 year.",
+            "B. Surgical removal of the gallbladder (cholecystectomy).",
+            "C. Dietary restriction and pain control for acute flares.",
+            "D. Endoscopic removal of the gallstones."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is the definitive and curative management indicated for uncomplicated symptomatic gallstone disease. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, definitive_treatment"
+    },
+    {
+        "id": "901",
+        "question": "When does the pain of biliary colic typically reach its maximal intensity?",
+        "choices": [
+            "A. Immediately upon eating a fatty meal.",
+            "B. Minutes after the attack begins.",
+            "C. After 48 hours of constant pain.",
+            "D. It is constant and does not peak."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The pain of biliary colic reaches a maximal intensity (plateaus) within an hour of the attack beginning. (p. 224)",
+        "tags": "biliary_colic, pain_course"
+    },
+    {
+        "id": "902",
+        "question": "A 42-year-old woman with known cholelithiasis reports persistent, intense abdominal bloating, dyspepsia, and occasional mild RUQ discomfort. She asks if these symptoms mean she needs surgery. Based on the guidelines, these atypical symptoms are classified as:",
+        "choices": [
+            "A. Category 1, requiring no surgical intervention.",
+            "B. Category 2, requiring elective surgery.",
+            "C. Category 3, requiring investigation for alternative causes.",
+            "D. Category 4, requiring urgent surgical consult."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "These are atypical symptoms (Category 3), which are poorly associated with gallstones. Management should involve investigating other possible causes for the symptoms before deciding on cholecystectomy. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": "903",
+        "question": "For a patient with classic biliary colic, the most effective long-term strategy for recurrence prevention is to advise:",
+        "choices": [
+            "A. Frequent, small meals.",
+            "B. Avoiding all high-fiber foods.",
+            "C. Avoiding heavy, high-fat meals.",
+            "D. Chronic low-dose aspirin therapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Since biliary colic attacks are often triggered by fatty meals, eliminating heavy, high-fat meals is a key non-pharmacologic preventative strategy. (p. 225)",
+        "tags": "biliary_colic, prevention"
+    },
+    {
+        "id": "904",
+        "question": "Which laboratory or imaging finding is NOT necessary for the initial diagnosis of uncomplicated cholelithiasis with biliary colic?",
+        "choices": [
+            "A. Patient history and clinical presentation.",
+            "B. Abdominal ultrasound confirming gallstones.",
+            "C. Liver function tests and bilirubin levels.",
+            "D. Serum amylase and lipase."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For uncomplicated gallstone disease, while imaging and clinical history are necessary, basic lab tests (LFTS) and labs to rule out pancreatitis (amylase/lipase) are generally done to rule out complications. However, the direct diagnosis of uncomplicated cholelithiasis is based on clinical features and ultrasound. If the lab results are normal and the patient only has colic, no further investigation is needed. The question asks what is not necessary for the initial diagnosis of the uncomplicated state. Labs for amylase and lipase are not required unless pancreatitis is suspected. (p. 225, 233)",
+        "tags": "uncomplicated_gallstone_disease, diagnosis"
+    },
+    {
+        "id": "905",
+        "question": "A patient presents with acute biliary colic pain that is refractory to the initial dose of IV Diclofenac. She has no contraindications to opioids. What is the next appropriate analgesic step?",
+        "choices": [
+            "A. Administer a continuous infusion of IV Diclofenac.",
+            "B. Administer IV Morphine 2.5-5 mg.",
+            "C. Administer oral Codeine 60 mg.",
+            "D. Administer IV Hyoscine Butylbromide."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "If NSAIDs are insufficient or contraindicated, opioids (Morphine or Pethidine) are the appropriate second-line treatment for severe acute biliary colic pain. (p. 225)",
+        "tags": "biliary_colic, pain_management, opioids"
+    },
+    {
+        "id": "906",
+        "question": "Which of the following is considered a major complication arising from cholelithiasis, as noted in the guidelines?",
+        "choices": [
+            "A. Chronic constipation.",
+            "B. Cholelithiasis-induced duodenal ulcer.",
+            "C. Acute cholangitis.",
+            "D. Asymptomatic hyperbilirubinemia."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The major complications listed are acute cholecystitis, choledocholithiasis (stone in the common bile duct), with or without acute cholangitis, and acute pancreatitis. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": "907",
+        "question": "A 38-year-old woman with symptomatic cholelithiasis is scheduled for elective cholecystectomy. The procedure is considered curative primarily because it eliminates:",
+        "choices": [
+            "A. The chronic inflammation in the gallbladder wall.",
+            "B. The source of the recurrent biliary pain.",
+            "C. The risk of developing primary sclerosing cholangitis.",
+            "D. The accumulation of cholesterol in the bile."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is curative for uncomplicated symptomatic gallstone disease because it eliminates the source of the recurrent painful attacks. (p. 225, 226)",
+        "tags": "cholecystectomy, curative_mechanism"
+    },
+    {
+        "id": "908",
+        "question": "A patient with known gallstones reports dull, non-specific abdominal discomfort that has been present for 3 months, unrelated to meals. How should this symptom presentation be initially managed?",
+        "choices": [
+            "A. Urgent surgical consult.",
+            "B. Treat empirically for acute cholecystitis.",
+            "C. Investigate for alternative causes of abdominal discomfort.",
+            "D. Start long-term oral bile acid therapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This is an atypical symptom (Category 3), and due to the poor correlation with gallstones, the initial management should focus on investigating alternative causes of the abdominal discomfort. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": "909",
+        "question": "The initial choice for pain management in acute biliary colic is a parenteral NSAID. This choice is not ideal for a patient with which co-morbidity?",
+        "choices": [
+            "A. Chronic stable angina.",
+            "B. Controlled type 1 diabetes.",
+            "C. History of peptic ulcer disease.",
+            "D. Severe primary hyperparathyroidism."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs are contraindicated or should be used with extreme caution in patients with an active peptic ulcer disease due to the high risk of hemorrhage. (p. 225)",
+        "tags": "pain_management, contraindications, NSAIDs"
+    },
+    {
+        "id": "910",
+        "question": "Which of the following is most likely to be a precipitating factor for an attack of biliary colic?",
+        "choices": [
+            "A. A meal rich in protein.",
+            "B. Emotional stress or anxiety.",
+            "C. Consumption of a heavy, fatty meal.",
+            "D. Periods of fasting or starvation."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Eating a fatty meal is listed as a common trigger for biliary colic. (p. 225)",
+        "tags": "biliary_colic, precipitating_factors"
+    },
+    {
+        "id": "911",
+        "question": "In cases of gallstones where no complications have occurred and there is no history of pain, what is the recommended course of action?",
+        "choices": [
+            "A. Elective cholecystectomy within 6 months.",
+            "B. Lifestyle advice and regular follow-up.",
+            "C. Aggressive pain management with NSAIDs.",
+            "D. Oral dissolution therapy for a minimum of 1 year."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones (asymptomatic), conservative management with regular follow-up is recommended; surgical intervention is not indicated. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "912",
+        "question": "The main distinction between uncomplicated gallstone disease (Category 2) and incidental gallstones (Category 1) is the:",
+        "choices": [
+            "A. Size of the gallstones.",
+            "B. Patient's age and co-morbidities.",
+            "C. Presence of typical biliary colic symptoms.",
+            "D. Gallstone composition (cholesterol vs. pigment)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The distinction between Category 1 (Incidental) and Category 2 (Uncomplicated) is the presence of symptoms, specifically typical biliary colic. (p. 225)",
+        "tags": "gallstone_classification"
+    },
+    {
+        "id": "913",
+        "question": "What is the least likely clinical presentation of typical biliary colic?",
+        "choices": [
+            "A. Pain that lasts less than 30 minutes.",
+            "B. Pain that radiates to the right shoulder.",
+            "C. Severe, dull pain in the epigastrium.",
+            "D. Pain that is constant, lasting 4 hours."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Typical biliary colic pain lasts at least 30 minutes and usually less than six hours. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "914",
+        "question": "Which of the following is considered a major complication of cholelithiasis, indicating a need for urgent management?",
+        "choices": [
+            "A. Non-specific epigastric burning.",
+            "B. Acute pancreatitis.",
+            "C. Non-painful, calcified gallbladder.",
+            "D. Chronic diarrhea."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Acute pancreatitis is listed as a major complication of gallstones, which may necessitate urgent management. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": "915",
+        "question": "A healthy 40-year-old patient has a documented gallstone on ultrasound but denies any history of pain or discomfort (Category 1). The patient should be managed with:",
+        "choices": [
+            "A. Referral for elective cholecystectomy.",
+            "B. Observation, lifestyle advice, and elective follow-up.",
+            "C. Immediate referral for oral dissolution therapy.",
+            "D. Immediate dietary restriction (no fat intake)."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones (Category 1), conservative management with observation, lifestyle advice, and follow-up is the recommended course. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "916",
+        "question": "A 58-year-old patient presents with classic biliary colic. He has a known allergy to NSAIDs and opioids. Which therapeutic option is least appropriate for immediate severe pain relief?",
+        "choices": [
+            "A. Intravenous Diclofenac.",
+            "B. Intramuscular Morphine.",
+            "C. Rectal Indomethacin.",
+            "D. Intravenous Acetaminophen."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Given the known allergy, an NSAID like Diclofenac is contraindicated. (p. 225)",
+        "tags": "pain_management, contraindications, NSAIDs"
+    },
+    {
+        "id": "917",
+        "question": "A patient with gallstones and typical biliary colic is prescribed oral Diclofenac for pain flares. What specific instruction should accompany this prescription?",
+        "choices": [
+            "A. Take immediately after consuming a fatty meal.",
+            "B. Use for severe pain only; stop if pain resolves.",
+            "C. Take daily for a minimum of 3 months to prevent recurrence.",
+            "D. Take continuously until scheduled for surgery."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs should be used for acute pain flares only (PRN) and discontinued once the pain subsides. Chronic pain therapy is only needed for symptoms lasting >6 hours. (p. 225)",
+        "tags": "biliary_colic, pharmacologic_management"
+    },
+    {
+        "id": "918",
+        "question": "What is a key non-pharmacological advice to prevent future attacks in a patient with uncomplicated symptomatic gallstone disease?",
+        "choices": [
+            "A. Drink 3 liters of water per day.",
+            "B. Maintain a regular, moderate exercise regimen.",
+            "C. Avoid milk and dairy products.",
+            "D. Strictly avoid eating after 6 PM."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "While dietary advice is important (avoiding fatty meals), regular exercise is a general lifestyle measure that contributes to prevention. (p. 225)",
+        "tags": "uncomplicated_gallstone_disease, prevention"
+    },
+    {
+        "id": "919",
+        "question": "A 45-year-old patient with atypical abdominal bloating and gallstones (Category 3) has had an extensive workup for other causes that was negative. Her symptoms are persistent and bothersome. What is the next appropriate step in management?",
+        "choices": [
+            "A. Referral for elective cholecystectomy.",
+            "B. Start long-term oral bile acid dissolution therapy.",
+            "C. Reassurance and symptomatic treatment only.",
+            "D. Urgent surgery due to persistence."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For Category 3 patients, if investigation for alternative causes is negative and symptoms are persistent and bothersome, an elective cholecystectomy referral may be individualized and considered. (p. 225, 226)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": "920",
+        "question": "A patient with confirmed gallstones has a sudden, severe RUQ pain 3 hours after a meal. Physical exam is benign. What is the expected typical duration for this pain episode (biliary colic)?",
+        "choices": [
+            "A. It will last exactly 6 hours.",
+            "B. It will last between 30 minutes and 6 hours.",
+            "C. It will resolve instantly with IV Diclofenac.",
+            "D. It is expected to last for more than 24 hours."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The typical duration of biliary colic is at least 30 minutes and usually less than six hours. (p. 224)",
+        "tags": "biliary_colic, duration"
+    },
+    {
+        "id": "921",
+        "question": "Which imaging modality would be the most appropriate initial study for a patient presenting with new-onset, classic biliary colic?",
+        "choices": [
+            "A. CT scan of the abdomen.",
+            "B. Magnetic Resonance Cholangiopancreatography (MRCP).",
+            "C. Abdominal ultrasound.",
+            "D. Plain X-ray of the abdomen."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Abdominal ultrasound is the gold standard tool and the most appropriate initial imaging for diagnosing cholelithiasis. (p. 225)",
+        "tags": "cholelithiasis, initial_investigation"
+    },
+    {
+        "id": "922",
+        "question": "For a patient with symptomatic gallstones (Category 2), the appropriate timing for definitive surgical intervention (cholecystectomy) is:",
+        "choices": [
+            "A. Urgent (within 24 hours).",
+            "B. Emergent (within 6 hours).",
+            "C. Elective.",
+            "D. Only if symptoms progress to jaundice."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For uncomplicated symptomatic gallstone disease, cholecystectomy is indicated and should be done electively. (p. 225, 226)",
+        "tags": "cholecystectomy, timing"
+    },
+    {
+        "id": "923",
+        "question": "Which of the following is considered a major complication of cholelithiasis?",
+        "choices": [
+            "A. Gastroesophageal reflux disease.",
+            "B. Acute cholangitis.",
+            "C. Chronic gastritis.",
+            "D. Irritable bowel syndrome."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Acute cholangitis is a listed major complication of gallstones (choledocholithiasis with or without cholangitis). (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": "924",
+        "question": "Which is the most common type of gallstone found in the population?",
+        "choices": [
+            "A. Pigment stones.",
+            "B. Calcium phosphate stones.",
+            "C. Cholesterol stones.",
+            "D. Mixed stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The majority of gallstones are cholesterol stones. (p. 224)",
+        "tags": "gallstone_composition"
+    },
+    {
+        "id": "925",
+        "question": "A patient presents with acute pain relief needs for biliary colic. He has a known peptic ulcer. The most appropriate initial parenteral pain management is:",
+        "choices": [
+            "A. IV Diclofenac.",
+            "B. IM Pethidine.",
+            "C. IV Ketorolac.",
+            "D. Rectal Diclofenac."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs (Diclofenac, Ketorolac) are contraindicated in patients with a history of peptic ulcer disease. Opioids (Morphine or Pethidine) are the appropriate second-line choice. (p. 225)",
+        "tags": "pain_management, peptic_ulcer_disease, contraindications"
+    },
+    {
+        "id": "926",
+        "question": "A patient with gallstones and recurring biliary colic should be referred for elective surgery (cholecystectomy) because this intervention primarily:",
+        "choices": [
+            "A. Dissolves the gallstones over time.",
+            "B. Prevents the source of the recurrent painful attacks.",
+            "C. Cures the underlying metabolic cause.",
+            "D. Prevents acute pancreatitis."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is curative for uncomplicated symptomatic gallstone disease because it removes the source of the recurrent painful attacks. (p. 225, 226)",
+        "tags": "cholecystectomy, curative_mechanism"
+    },
+    {
+        "id": "927",
+        "question": "Which of the following is an atypical symptom that is poorly associated with gallstones, making a surgical decision complex?",
+        "choices": [
+            "A. Nausea during an attack.",
+            "B. Severe, constant RUQ pain.",
+            "C. Pain radiating to the back.",
+            "D. Chronic, non-specific epigastric burning."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Chronic, non-specific epigastric burning is listed as an atypical symptom (Category 3) with poor association to gallstones, necessitating a search for other causes. (p. 225)",
+        "tags": "atypical_symptoms, diagnosis"
+    },
+    {
+        "id": "928",
+        "question": "For a patient with incidentally discovered gallstones (asymptomatic), the management strategy involves:",
+        "choices": [
+            "A. Elective cholecystectomy due to high lifetime risk.",
+            "B. Long-term oral dissolution therapy.",
+            "C. Conservative management.",
+            "D. Annual ultrasound surveillance for complications."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Incidental gallstones (Category 1) are managed conservatively, as surgery is not indicated. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "929",
+        "question": "A 48-year-old woman presents with severe biliary colic. The most appropriate initial pharmacological treatment class to control the pain is:",
+        "choices": [
+            "A. Opioids.",
+            "B. Antispasmodics.",
+            "C. Parenteral NSAIDs.",
+            "D. Oral antacids."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDS are the preferred agents for acute biliary colic pain management. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": "930",
+        "question": "In the context of gallstone disease, what does Category 4 describe?",
+        "choices": [
+            "A. Asymptomatic gallstones.",
+            "B. Typical biliary symptoms but without gallstones on ultrasound.",
+            "C. Atypical symptoms with gallstones.",
+            "D. Uncomplicated symptomatic gallstone disease."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Category 4 is defined as Typical biliary symptoms but without gallstones on imaging. (p. 225)",
+        "tags": "gallstone_classification, diagnosis"
+    },
+    {
+        "id": "931",
+        "question": "The pathophysiology of gallstone formation begins with:",
+        "choices": [
+            "A. Inflammation of the gallbladder lining.",
+            "B. Infection of the biliary tree.",
+            "C. Accumulation of cholesterol or pigment materials.",
+            "D. Bile duct stricture formation."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Gallstone formation occurs from the supersaturation and accumulation of soluble materials like cholesterol. (p. 224, 564)",
+        "tags": "gallstone_formation, pathophysiology"
+    },
+    {
+        "id": "932",
+        "question": "What is the recommended approach for managing a patient in Category 4 (typical biliary symptoms but no gallstones)?",
+        "choices": [
+            "A. Treat empirically for cholelithiasis.",
+            "B. Perform elective cholecystectomy.",
+            "C. Close observation with no intervention.",
+            "D. Follow-up and individualize the surgical decision."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For Category 4 patients, the management is follow-up and individualization of the surgical decision. (p. 225, 226)",
+        "tags": "symptomatic_gallstone_disease, management"
+    },
+    {
+        "id": "933",
+        "question": "A 50-year-old woman with chronic liver disease has gallstones. Which type of gallstone is most likely in this patient?",
+        "choices": [
+            "A. Mixed stones.",
+            "B. Cholesterol stones.",
+            "C. Pigment stones.",
+            "D. Calcium carbonate stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Pigment stones are common in patients with liver cirrhosis or chronic hemolytic anemia. (p. 224)",
+        "tags": "gallstone_composition, liver_cirrhosis"
+    },
+    {
+        "id": "934",
+        "question": "Which drug class is contraindicated for pain relief in biliary colic for a patient with severe kidney impairment?",
+        "choices": [
+            "A. Opioids.",
+            "B. NSAIDs.",
+            "C. Paracetamol.",
+            "D. Antispasmodics."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs are contraindicated or should be used with extreme caution in patients with impaired kidney function. (p. 225)",
+        "tags": "pain_management, contraindications, NSAIDs"
+    },
+    {
+        "id": "935",
+        "question": "Biliary colic pain typically lasts for what duration?",
+        "choices": [
+            "A. Less than 30 minutes.",
+            "B. 6-12 hours.",
+            "C. 30 minutes to 6 hours.",
+            "D. More than 24 hours."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Typical biliary colic pain lasts at least 30 minutes and usually less than six hours. (p. 224)",
+        "tags": "biliary_colic, duration"
+    },
+    {
+        "id": "936",
+        "question": "Which of the following is not a major complication of cholelithiasis?",
+        "choices": [
+            "A. Acute cholecystitis.",
+            "B. Choledocholithiasis.",
+            "C. Acute pancreatitis.",
+            "D. Chronic dyspepsia."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Chronic dyspepsia is an atypical symptom or separate condition, not a major complication of gallstones. (p. 224, 225)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": "937",
+        "question": "The definitive treatment for a patient in Category 2 (uncomplicated symptomatic gallstone disease) is:",
+        "choices": [
+            "A. Long-term dietary management.",
+            "B. Surgical removal of the gallbladder.",
+            "C. Oral bile acid dissolution therapy.",
+            "D. Endoscopic sphincterotomy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is the curative and definitive treatment for uncomplicated symptomatic gallstone disease. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, definitive_treatment"
+    },
+    {
+        "id": "938",
+        "question": "A patient presents with acute biliary colic. The pain is severe, constant, and located in the epigastrium. What is the most characteristic feature of this pain?",
+        "choices": [
+            "A. Sharp, fluctuating (colicky) nature.",
+            "B. Dull, steady, non-colicky nature.",
+            "C. Immediate onset after a meal.",
+            "D. Radiation to the left shoulder."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is described as a severe, dull pain that is usually constant (non-colicky). (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "939",
+        "question": "Which of the following is a key non-pharmacological advice for managing recurrent biliary colic flares?",
+        "choices": [
+            "A. Increase protein intake.",
+            "B. Decrease all fluid intake.",
+            "C. Avoidance of large, fatty meals.",
+            "D. Chronic use of heating pads."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is commonly triggered by fatty meals. Dietary modification to avoid large, high-fat meals is the essential non-pharmacologic intervention. (p. 225)",
+        "tags": "biliary_colic, non-pharmacologic"
+    },
+    {
+        "id": "940",
+        "question": "A patient presents with typical biliary colic. She is given IV Morphine for pain, but the pain recurs after 2 hours. What is the preferred analgesic class that should have been used initially?",
+        "choices": [
+            "A. Antispasmodics.",
+            "B. Parenteral NSAIDs.",
+            "C. Long-acting Opioids.",
+            "D. Oral Paracetamol."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are the preferred agents for acute pain management in biliary colic. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": "941",
+        "question": "The utility of oral dissolution therapy for gallstones is:",
+        "choices": [
+            "A. High, recommended for all gallstone disease.",
+            "B. Limited, due to poor efficacy and high recurrence.",
+            "C. Curative, for all pigment stone disease.",
+            "D. A mandatory first-line therapy before surgery."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Oral dissolution therapy is not mentioned as a standard or preferred treatment in the general guidelines for cholelithiasis, implying its limited role compared to surgery or pain management. (p. 225, 226)",
+        "tags": "cholelithiasis, treatment"
+    },
+    {
+        "id": "942",
+        "question": "A patient with no history of biliary symptoms is found to have gallstones on ultrasound (Category 1). The most appropriate long-term management is:",
+        "choices": [
+            "A. Oral dissolution therapy.",
+            "B. Urgent surgical consult.",
+            "C. Elective surgical planning.",
+            "D. Observation and lifestyle advice."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Incidental gallstones (Category 1) are managed with observation and lifestyle advice. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "943",
+        "question": "Which patient requires elective cholecystectomy referral?",
+        "choices": [
+            "A. 60-year-old with asymptomatic gallstones (Category 1).",
+            "B. 45-year-old with atypical symptoms and gallstones (Category 3).",
+            "C. 30-year-old with recurrent biliary colic (Category 2).",
+            "D. 50-year-old with typical symptoms but no stones (Category 4)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Uncomplicated symptomatic gallstone disease (Category 2) is the primary indication for elective cholecystectomy. (p. 225, 226)",
+        "tags": "cholecystectomy, indication"
+    },
+    {
+        "id": "944",
+        "question": "A key element in the presentation of typical biliary colic pain is its:",
+        "choices": [
+            "A. Location in the lower abdomen.",
+            "B. Duration (short-lived, less than 30 min).",
+            "C. Non-colicky (constant) nature.",
+            "D. Association with fever and chills."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is typically a severe, dull, constant (non-colicky) pain. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "945",
+        "question": "A patient is found to have incidental gallstones (Category 1). The patient is anxious and insists on surgery to prevent future problems. The most appropriate advice is:",
+        "choices": [
+            "A. Proceed with elective cholecystectomy.",
+            "B. Counsel that surgery is not indicated and carries unnecessary risk.",
+            "C. Prescribe NSAIDs for potential future pain.",
+            "D. Monitor with serial ultrasound every 3 months."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones, the primary management is conservative, as there is no indication for surgery and it poses an unnecessary risk. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": "946",
+        "question": "What are the preferred initial agents for pain control in acute biliary colic?",
+        "choices": [
+            "A. Oral Antacids.",
+            "B. Parenteral Opioids.",
+            "C. Parenteral NSAIDs.",
+            "D. Oral Acetaminophen."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are the preferred first-line agents for acute pain management in biliary colic. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": "947",
+        "question": "A patient presents with persistent, chronic, non-specific abdominal discomfort and gallstones. This is categorized as Category 3. Which step is most necessary in the management plan?",
+        "choices": [
+            "A. Scheduling immediate cholecystectomy.",
+            "B. Initiating an exhaustive search for alternative causes of pain.",
+            "C. Starting a high-dose opioid regimen.",
+            "D. Prescribing chronic antibiotics to prevent infection."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Category 3 (atypical symptoms) has a poor association with gallstones; therefore, a thorough search for alternative diagnoses is the most necessary step. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": "948",
+        "question": "In a patient with classic biliary colic, the expected pain pattern is:",
+        "choices": [
+            "A. Constant pain for 3 hours, then full resolution.",
+            "B. Colicky pain that moves frequently.",
+            "C. Pain that worsens only with deep inspiration.",
+            "D. Dull ache that lasts several days."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Typical biliary colic is a severe, dull, constant pain lasting 30 minutes to 6 hours, and then resolves. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "949",
+        "question": "The presence of gallstones incidentally found on imaging in an asymptomatic patient is classified as:",
+        "choices": [
+            "A. Category 4.",
+            "B. Category 3.",
+            "C. Category 2.",
+            "D. Category 1."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Incidental gallstones are classified as Category 1. (p. 225)",
+        "tags": "gallstone_classification"
+    },
+    {
+        "id": "950",
+        "question": "Which of the following is not a typical characteristic of biliary colic pain?",
+        "choices": [
+            "A. Radiation to the back or right shoulder.",
+            "B. Associated with nausea and vomiting.",
+            "C. Worsened by eating a fatty meal.",
+            "D. Relieved immediately by simple oral antacids."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is severe, constant pain that is not typically relieved by simple antacids. It typically lasts a significant duration. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": "951",
+        "question": "Which of the following is not a major complication of cholelithiasis, as defined by the guidelines?",
+        "choices": [
+            "A. Acute cholecystitis.",
+            "B. Choledocholithiasis.",
+            "C. Acute appendicitis.",
+            "D. Acute pancreatitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Acute appendicitis is an unrelated condition, not a complication of cholelithiasis. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": "952",
+        "question": "A 50-year-old woman presents to the emergency room with severe right upper quadrant pain that began 24 hours ago, fever (38.5°C), and nausea. Physical examination reveals localized RUQ tenderness and a positive Murphy's sign. According to the Tokyo Guidelines, what is the severity grade of her condition, assuming no organ dysfunction?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Incidental."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The patient meets the diagnostic criteria for acute cholecystitis. The severity grading is Grade II (Moderate) if at least one of the following is present: WBC count >18,000/mm³, palpable tender mass in the RUQ, duration of complaints >72 hours (patient is at 24 hours so this is not met), OR marked local inflammation. Given the severity of the symptoms (fever, localized tenderness, positive Murphy's sign) at 24 hours, this would be moderate to severe inflammation and should be treated as Grade II (Moderate) to prompt appropriate admission and management. However, based strictly on the Tokyo guidelines explicit criteria for Grade II, none are met except by implication of \"marked local inflammation\" if the physical exam is severe. Grade I (Mild) is for cases that do not meet Grade II or III criteria. Given the fever and positive Murphy's sign, she meets the criteria for acute cholecystitis. Without a WBC count, this is a borderline case. In a clinical setting, fever and localized tenderness/Murphy's in acute cholecystitis often suggest Moderate (Grade II) disease, pushing beyond the simple \"mild\" description. But based on the provided explicit list, she does not explicitly meet the numeric/threshold criteria for Grade II (WBC >18,000, duration >72h). However, Grade I is for healthy patients with mild inflammatory changes. A patient with fever and localized symptoms is likely beyond \"mild\" and should be managed as moderate. Let's assume localized tenderness and fever warrants Grade II (Moderate) as the clinical picture is beyond \"mild inflammatory changes.\" (p. 226, 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "953",
+        "question": "A 60-year-old male with Grade II acute calculous cholecystitis is admitted to the general hospital. What is the recommended initial antibiotic regimen?",
+        "choices": [
+            "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+            "B. Amoxicillin-Clavulanate 1.2g IV BID monotherapy.",
+            "C. Ceftriaxone 1gm IV BID PLUS Metronidazole 500mg IV TID.",
+            "D. Ceftriaxone 1gm IV BID monotherapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "The guidelines recommend a combination of a third-generation cephalosporin and Metronidazole. The First line is Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_treatment"
+    },
+    {
+        "id": "954",
+        "question": "A key step in the initial non-pharmacologic management of acute cholecystitis upon hospital admission is:",
+        "choices": [
+            "A. Preparing for an immediate percutaneous drain placement.",
+            "B. Keeping the patient NPO (nil per os) or resting the bowel.",
+            "C. Administering a strong opioid for pain control.",
+            "D. Encouraging immediate ambulation and oral fluids."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Upon admission, a key initial step is to rest the bowel by keeping the patient NPO. (p. 227)",
+        "tags": "acute_cholecystitis, initial_management"
+    },
+    {
+        "id": "955",
+        "question": "A patient with acute cholecystitis is administered parenteral NSAIDs for pain. Which co-morbidity requires this therapy to be reserved as second-line or avoided?",
+        "choices": [
+            "A. History of chronic cholelithiasis.",
+            "B. Controlled hypertension.",
+            "C. Impaired kidney function (CKD).",
+            "D. Mild fever."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Parenteral NSAIDs are the preferred agents for pain, but Opioids should be reserved for patients with contraindications to NSAIDs such as impaired kidney function. (p. 225, 227)",
+        "tags": "acute_cholecystitis, pain_management, contraindications"
+    },
+    {
+        "id": "956",
+        "question": "In acute cholecystitis, what is the most characteristic sign elicited during physical examination?",
+        "choices": [
+            "A. Rebound tenderness in the right lower quadrant.",
+            "B. Severe, generalized abdominal rigidity.",
+            "C. Positive Murphy's sign.",
+            "D. Diffuse epigastric guarding."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Patients frequently have a positive Murphy's sign, which is worsening of the RUQ pain upon deep inspiration during palpation of the gallbladder fossa. (p. 227)",
+        "tags": "acute_cholecystitis, clinical_features, Murphy's"
+    },
+    {
+        "id": "957",
+        "question": "A patient with acute cholecystitis and no organ dysfunction has a WBC count of 15,000/mm³. According to the Tokyo Guidelines (TG18/TG13), what is the severity grade?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Indeterminate."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "Grade I (Mild) cholecystitis is defined as a case that does not meet the criteria of Grade II or III. Grade II criteria include WBC >18,000/mm³. Since the patient is <18,000/mm³ and has no organ dysfunction (Grade III), the severity is Grade I (Mild). (p. 226, 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "958",
+        "question": "Which condition is defined by inflammation of the gallbladder that most commonly develops as a complication of gallstones?",
+        "choices": [
+            "A. Biliary colic.",
+            "B. Choledocholithiasis.",
+            "C. Acute cholecystitis.",
+            "D. Acute cholangitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Acute cholecystitis refers to inflammation of the gallbladder and commonly develops as a complication of gallstones, termed calculous cholecystitis. (p. 226)",
+        "tags": "acute_cholecystitis, definition"
+    },
+    {
+        "id": "959",
+        "question": "In a patient with acute cholecystitis, what is the duration of the recommended antibiotic course?",
+        "choices": [
+            "A. A single IV dose followed by reassessment.",
+            "B. 5-7 days of IV antibiotics only.",
+            "C. 7-10 days of combined IV antibiotic therapy.",
+            "D. Minimum 14 days of IV/oral antibiotics."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "The antibiotic regimen (e.g., Ceftriaxone + Metronidazole) is recommended for 7–10 days. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_duration"
+    },
+    {
+        "id": "960",
+        "question": "A patient with acute cholecystitis is successfully managed with antibiotics and supportive care. Cholecystectomy is indicated and should be performed:",
+        "choices": [
+            "A. Urgently, within 24 hours of presentation.",
+            "B. Emergent, only if fever persists past 48 hours.",
+            "C. During the same hospitalization or electively later (interval cholecystectomy).",
+            "D. Only if the patient develops acute pancreatitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Cholecystectomy is indicated once the patient is stable. The timing depends on clinical status: during the same hospitalization for low-risk patients, or electively later (interval cholecystectomy) for others. (p. 228)",
+        "tags": "acute_cholecystitis, cholecystectomy, timing"
+    },
+    {
+        "id": "961",
+        "question": "A 72-year-old woman with a prolonged INR of 1.8 and acute cholecystitis should be categorized into which severity grade according to the Tokyo Guidelines?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Indeterminate."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Grade III (Severe) acute cholecystitis is defined by dysfunction of any one organ/system, including Hepatic dysfunction (PT-INR >1.5). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "962",
+        "question": "Which of the following is an alternative initial antibiotic regimen for acute cholecystitis, if the patient has no signs of severe infection?",
+        "choices": [
+            "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+            "B. Ampicillin/Sulbactam 1.5g IV QID monotherapy.",
+            "C. Ceftriaxone 1gm IV BID monotherapy.",
+            "D. Vancomycin 1gm IV BID PLUS Gentamicin 80mg IV TID."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "The Alternative initial antibiotic regimen is Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_treatment"
+    },
+    {
+        "id": "963",
+        "question": "The appropriate initial pain management strategy for a patient with acute cholecystitis should utilize:",
+        "choices": [
+            "A. Parenteral NSAIDs (e.g., Diclofenac) as the preferred agent.",
+            "B. Opioids (e.g., Morphine) to prevent sphincter of Oddi spasm.",
+            "C. Oral antacids and H2 blockers.",
+            "D. No analgesia until a definitive diagnosis is confirmed."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "Parenteral NSAIDs (e.g., Diclofenac) are the preferred agents for pain management in acute cholecystitis. (p. 225, 227)",
+        "tags": "acute_cholecystitis, pain_management, NSAIDs"
+    },
+    {
+        "id": "964",
+        "question": "A patient is admitted with Grade II acute cholecystitis. In addition to securing IV access, keeping the patient NPO, and starting IV antibiotics, what is the most appropriate initial analgesic plan?",
+        "choices": [
+            "A. Oral Ibuprofen 400 mg every 8 hours.",
+            "B. Parenteral Pethidine 50 mg every 4-6 hours.",
+            "C. Parenteral Diclofenac 75 mg every 12 hours.",
+            "D. No analgesia is required in Grade II disease."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "For acute cholecystitis, parenteral NSAIDs like Diclofenac 50-75mg IV/IM every 12 hours are the preferred agents. (p. 227)",
+        "tags": "acute_cholecystitis, pain_management"
+    },
+    {
+        "id": "965",
+        "question": "Which finding is considered a Grade III (Severe) criterion according to the Tokyo Guidelines for acute cholecystitis?",
+        "choices": [
+            "A. WBC count 16,000/mm³.",
+            "B. Duration of symptoms of 48 hours.",
+            "C. Palpable tender mass in the RUQ.",
+            "D. Platelet count of 90,000/mm³ (Hematological dysfunction)."
+        ],
+        "correctAnswer": 3,
+        "topic": "Acute cholecystitis",
+        "explanation": "Platelet count <100,000/mm³ falls under Hematological dysfunction, which is a criterion for Grade III (Severe) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "966",
+        "question": "A patient is diagnosed with acute cholecystitis and is managing well with supportive care and antibiotics. Which factor would favor early cholecystectomy during the same hospitalization rather than an elective interval procedure?",
+        "choices": [
+            "A. High surgical risk due to co-morbidities.",
+            "B. Low risk for general anesthesia/surgery.",
+            "C. Presence of marked local inflammation.",
+            "D. Development of a liver abscess."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Early cholecystectomy during the same hospitalization is favored for patients who have low risk for general anesthesia/surgery. (p. 228)",
+        "tags": "acute_cholecystitis, cholecystectomy, timing"
+    },
+    {
+        "id": "967",
+        "question": "What is the pathophysiology of acute calculous cholecystitis?",
+        "choices": [
+            "A. Inflammation of the gallbladder due to non-specific viral infection.",
+            "B. Inflammation of the gallbladder due to duct obstruction by a stone.",
+            "C. Inflammation of the bile ducts (cholangitis) due to gallstones.",
+            "D. Inflammation of the liver parenchyma due to gallstone migration."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Acute calculous cholecystitis is inflammation of the gallbladder that commonly develops as a complication of gallstones, often due to obstruction of the cystic duct. (p. 226)",
+        "tags": "acute_cholecystitis, pathophysiology"
+    },
+    {
+        "id": "968",
+        "question": "A 45-year-old woman is admitted with acute cholecystitis. She has a documented penicillin allergy (rash only). What is an appropriate alternative oral antibiotic to prescribe upon discharge after successful IV therapy?",
+        "choices": [
+            "A. Oral Cloxacillin.",
+            "B. Oral Ampicillin.",
+            "C. Oral Ciprofloxacin.",
+            "D. Oral Vancomycin."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "The alternative IV regimen often uses Ciprofloxacin + Metronidazole. If the patient is clinically stable, Ciprofloxacin is an effective oral agent that can be used upon discharge to complete the 7-10 day course. (p. 227)",
+        "tags": "acute_cholecystitis, alternative_antibiotics"
+    },
+    {
+        "id": "969",
+        "question": "The diagnosis of acute cholecystitis is primarily confirmed by the finding of gallstones on ultrasound, plus one of the following:",
+        "choices": [
+            "A. Elevated serum amylase and lipase.",
+            "B. Palpable mass in the right lower quadrant.",
+            "C. Gallbladder wall thickening and/or positive sonographic Murphy's sign.",
+            "D. PT-INR >1.5."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Diagnosis requires gallstones plus features like gallbladder wall thickening, edema, and/or a positive sonographic Murphy's sign. (p. 227)",
+        "tags": "acute_cholecystitis, diagnosis"
+    },
+    {
+        "id": "970",
+        "question": "Which of the following is a criterion for Grade II (Moderate) acute cholecystitis in the Tokyo Guidelines (TG18/TG13)?",
+        "choices": [
+            "A. Systolic BP <90 mmHg.",
+            "B. Platelet count 90,000/mm³.",
+            "C. WBC count 20,000/mm³.",
+            "D. Creatinine 2.5 mg/dl."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Grade II (Moderate) criteria include Elevated WBC count (>18,000/mm³). All other options are Grade III (Severe) criteria. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "971",
+        "question": "What is the initial approach to fluid and nutrition management for a patient admitted with acute cholecystitis?",
+        "choices": [
+            "A. Encourage oral intake of low-fat foods.",
+            "B. Keep NPO and administer IV fluids.",
+            "C. Keep NPO and administer IV dextrose only.",
+            "D. Only administer IV fluids if signs of dehydration are present."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The initial management includes resting the bowel by keeping the patient NPO and administering intravenous fluids. (p. 227)",
+        "tags": "acute_cholecystitis, initial_management"
+    },
+    {
+        "id": "972",
+        "question": "Which of the following is not a criterion for Grade III (Severe) acute cholecystitis in the Tokyo Guidelines (TG18/TG13)?",
+        "choices": [
+            "A. Neurological dysfunction (e.g., decreased level of consciousness).",
+            "B. Respiratory dysfunction (PaO₂/FiO₂ ratio <300).",
+            "C. WBC count >20,000/mm³.",
+            "D. Cardiovascular dysfunction (hypotension requiring dopamine)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Grade II (Moderate) uses a WBC threshold of >18,000/mm³. All other options are indicators of single organ dysfunction, which defines Grade III (Severe). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "973",
+        "question": "The most appropriate next step for a patient with acute cholecystitis who is not improving after 48 hours of IV antibiotics and supportive care, and remains febrile, is:",
+        "choices": [
+            "A. Discharge home with oral antibiotics.",
+            "B. Step-down to oral Diclofenac.",
+            "C. Emergency surgery due to lack of response.",
+            "D. Repeat imaging and reassessment for complications or alternative diagnoses."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Emergency surgery (cholecystectomy) is indicated for patients with worsening clinical condition or complication of acute cholecystitis, which is suggested by a lack of improvement after 48 hours. (p. 228)",
+        "tags": "acute_cholecystitis, management_failure"
+    },
+    {
+        "id": "974",
+        "question": "A patient with acute cholecystitis is noted to have a Creatinine of 2.5 mg/dl. Which severity grade is most appropriate according to the Tokyo Guidelines?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Incidental."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Creatinine >2.0 mg/dl indicates Renal dysfunction, which is a criterion for Grade III (Severe) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "975",
+        "question": "What is the alternative initial antibiotic regimen for acute cholecystitis, if the patient has no contraindications?",
+        "choices": [
+            "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+            "B. Amoxicillin/Clavulanate monotherapy.",
+            "C. Ceftriaxone 1gm IV BID monotherapy.",
+            "D. Meropenem 1gm IV TID."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "The Alternative regimen to Ceftriaxone + Metronidazole is Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID. (p. 227)",
+        "tags": "acute_cholecystitis, alternative_antibiotics"
+    },
+    {
+        "id": "976",
+        "question": "The most effective analgesic class for managing pain in acute cholecystitis is:",
+        "choices": [
+            "A. Oral Opioids.",
+            "B. Parenteral NSAIDs.",
+            "C. Antispasmodics.",
+            "D. Oral Paracetamol."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Parenteral NSAIDs (e.g., Diclofenac) are the preferred agents for pain management in acute cholecystitis. (p. 225, 227)",
+        "tags": "acute_cholecystitis, pain_management, NSAIDs"
+    },
+    {
+        "id": "977",
+        "question": "A patient with acute cholecystitis is treated medically due to high surgical risk. What is the expected duration of antibiotic therapy?",
+        "choices": [
+            "A. 3 days.",
+            "B. 5 days.",
+            "C. 7-10 days.",
+            "D. 14 days."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "The antibiotic course is recommended for 7–10 days. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_duration"
+    },
+    {
+        "id": "978",
+        "question": "A patient presents with acute RUQ pain and a WBC count of 14,000/mm³ but no other signs of severity or organ dysfunction. According to the Tokyo Guidelines, what is the severity grade?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Severe, due to leukocytosis."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "This does not meet the WBC threshold for Grade II (>18,000/mm³) or any Grade III criteria; therefore, it is classified as Grade I (Mild). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "979",
+        "question": "What is the definitive management strategy for acute cholecystitis once the patient is clinically stable?",
+        "choices": [
+            "A. Long-term use of oral antibiotics.",
+            "B. Percutaneous cholecystostomy tube placement.",
+            "C. Cholecystectomy (during the same admission or electively).",
+            "D. Oral bile acid dissolution therapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Cholecystectomy is the definitive management, with timing depending on surgical risk. (p. 228)",
+        "tags": "acute_cholecystitis, definitive_management"
+    },
+    {
+        "id": "980",
+        "question": "A 68-year-old patient with acute cholecystitis has hypotension requiring Norepinephrine to maintain MAP >65 mmHg. Which severity grade is applicable?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Indeterminate."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Hypotension requiring Norepinephrine is an indicator of Cardiovascular dysfunction, which is a criterion for Grade III (Severe) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "981",
+        "question": "A patient with acute cholecystitis is started on IV antibiotics. What is the duration of the recommended total antibiotic course (IV and oral)?",
+        "choices": [
+            "A. 5-7 days.",
+            "B. 7-10 days.",
+            "C. 14 days.",
+            "D. 21 days."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The total antibiotic course (IV and oral combined) is recommended for 7–10 days. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_duration"
+    },
+    {
+        "id": "982",
+        "question": "For patients with acute cholecystitis, when is emergency surgery (cholecystectomy) indicated?",
+        "choices": [
+            "A. For all patients within 24 hours of admission.",
+            "B. If the patient has a low surgical risk.",
+            "C. If the patient has worsening clinical condition or a complication.",
+            "D. Only for Grade I (Mild) cholecystitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Emergency surgery is indicated for patients with a worsening clinical condition or a complication, such as perforation or severe sepsis. (p. 228)",
+        "tags": "acute_cholecystitis, emergency_surgery"
+    },
+    {
+        "id": "983",
+        "question": "What is the most appropriate initial IV fluid for a patient admitted with acute cholecystitis who is kept NPO?",
+        "choices": [
+            "A. D5W (5% Dextrose in Water).",
+            "B. Ringer's Lactate or Normal Saline.",
+            "C. Half-Normal Saline.",
+            "D. 3% Hypertonic Saline."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The patient needs IV fluids due to being NPO and often due to vomiting/poor oral intake. The guidelines refer to IV fluid therapy generally, and Ringer's Lactate or Normal Saline are the standard crystalloid resuscitation fluids. (p. 227)",
+        "tags": "acute_cholecystitis, initial_management"
+    },
+    {
+        "id": "984",
+        "question": "The presence of Gallbladder wall thickening and/or edema on ultrasound in a patient with RUQ pain and fever is most indicative of:",
+        "choices": [
+            "A. Biliary colic.",
+            "B. Chronic cholecystitis.",
+            "C. Acute cholecystitis.",
+            "D. Acute cholangitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Gallbladder wall thickening or edema on ultrasound, along with RUQ pain and fever/tenderness, is diagnostic of acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, diagnosis"
+    },
+    {
+        "id": "985",
+        "question": "In the management of acute cholecystitis, what is the first-line non-pharmacologic intervention upon admission?",
+        "choices": [
+            "A. Surgical consultation.",
+            "B. Intubation and mechanical ventilation.",
+            "C. Rest the bowel (NPO).",
+            "D. Nasogastric tube insertion."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Upon admission, a key initial step is to rest the bowel by keeping the patient NPO. (p. 227)",
+        "tags": "acute_cholecystitis, non-pharmacologic"
+    },
+    {
+        "id": "986",
+        "question": "The initial choice for pain management in acute cholecystitis is a parenteral NSAID. Which drug is the preferred NSAID agent?",
+        "choices": [
+            "A. Intravenous Indomethacin.",
+            "B. Intravenous Diclofenac.",
+            "C. Intravenous Ibuprofen.",
+            "D. Oral Naproxen."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Parenteral NSAIDs are the preferred agents, with Diclofenac 50-75mg IV/IM every 12 hours listed as the example dosage. (p. 227)",
+        "tags": "acute_cholecystitis, pain_management, NSAIDs"
+    },
+    {
+        "id": "987",
+        "question": "A patient with acute cholecystitis presents with a WBC count of 22,000/mm³ but no signs of organ dysfunction. Which severity grade applies?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Indeterminate."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "WBC count >18,000/mm³ is a criterion for Grade II (Moderate) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "988",
+        "question": "What is the first-line antibiotic regimen for acute cholecystitis in a non-allergic, non-severe patient?",
+        "choices": [
+            "A. Ampicillin/Sulbactam monotherapy.",
+            "B. Ceftriaxone PLUS Metronidazole.",
+            "C. Ciprofloxacin PLUS Clindamycin.",
+            "D. Gentamicin monotherapy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The First line is Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_treatment"
+    },
+    {
+        "id": "989",
+        "question": "A patient with acute cholecystitis has Creatinine of 1.8 mg/dl. Which potential complication of NSAID use is most concerning in this scenario?",
+        "choices": [
+            "A. Hemorrhage.",
+            "B. Hepatic dysfunction.",
+            "C. Acute kidney injury.",
+            "D. Hypoglycemia."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "NSAIDs are contraindicated or used with caution in impaired kidney function due to the risk of precipitating Acute Kidney Injury. (p. 225, 227)",
+        "tags": "NSAIDs, contraindications, AKI"
+    },
+    {
+        "id": "990",
+        "question": "Which of the following is a criterion for Grade II (Moderate) acute cholecystitis?",
+        "choices": [
+            "A. Hypotension requiring vasopressors.",
+            "B. Creatinine >2.0 mg/dl.",
+            "C. Duration of complaints >72 hours.",
+            "D. Platelet count <100,000/mm³."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Duration of complaints >72 hours is a specific criterion for Grade II (Moderate). All others are Grade III (Severe). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "991",
+        "question": "The definitive management for a patient with acute cholecystitis is:",
+        "choices": [
+            "A. IV antibiotic therapy for 10 days.",
+            "B. IV fluid resuscitation and NPO status.",
+            "C. Surgical removal of the gallbladder.",
+            "D. Oral bile acid dissolution therapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Cholecystectomy is the definitive management once the patient is stable. (p. 228)",
+        "tags": "acute_cholecystitis, definitive_management"
+    },
+    {
+        "id": "992",
+        "question": "For a low-risk patient with acute cholecystitis who stabilizes quickly with medical management, the preferred timing for cholecystectomy is:",
+        "choices": [
+            "A. Emergent (within 6 hours).",
+            "B. Urgent (within 24 hours).",
+            "C. During the same hospitalization.",
+            "D. Elective (after 6 weeks)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Early cholecystectomy during the same hospitalization is favored for low-risk patients. (p. 228)",
+        "tags": "acute_cholecystitis, cholecystectomy, timing"
+    },
+    {
+        "id": "993",
+        "question": "A patient has acute cholecystitis. He is allergic to Cephalosporins and Penicillins (anaphylaxis). Which antibiotic is the most appropriate initial choice?",
+        "choices": [
+            "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+            "B. Vancomycin 1gm IV BID monotherapy.",
+            "C. Gentamicin 80mg IV TID monotherapy.",
+            "D. Ampicillin/Sulbactam 1.5g IV QID."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "The recommended regimen is a combination. If Ceftriaxone is contraindicated, the alternative is Ciprofloxacin PLUS Metronidazole. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_treatment"
+    },
+    {
+        "id": "994",
+        "question": "Which initial intervention is most crucial in the management of acute cholecystitis?",
+        "choices": [
+            "A. Immediate surgical consultation.",
+            "B. Early administration of broad-spectrum IV antibiotics.",
+            "C. Immediate oral intake of soft foods.",
+            "D. Corticosteroid administration for inflammation."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Early administration of broad-spectrum IV antibiotics (along with supportive care) is crucial to control the infection and prevent complications. (p. 227)",
+        "tags": "acute_cholecystitis, initial_management"
+    },
+    {
+        "id": "995",
+        "question": "A patient presents with acute cholecystitis. She is stable, and IV Diclofenac is given for pain. What is the expected duration of action for this pain relief?",
+        "choices": [
+            "A. <1 hour.",
+            "B. 1-2 hours.",
+            "C. 6-12 hours.",
+            "D. >24 hours."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Diclofenac 75mg IV/IM is dosed to provide pain relief for 12 hours. (p. 227)",
+        "tags": "Diclofenac, duration_of_action"
+    },
+    {
+        "id": "996",
+        "question": "What is the primary mechanism by which acute calculous cholecystitis develops?",
+        "choices": [
+            "A. Viral infection of the gallbladder.",
+            "B. Chemical irritation due to oral bile acids.",
+            "C. Obstruction of the cystic duct by a gallstone.",
+            "D. Ascending bacterial infection from the common bile duct."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Acute calculous cholecystitis commonly develops as a complication of gallstones, often due to obstruction of the cystic duct by a stone. (p. 226)",
+        "tags": "acute_cholecystitis, pathophysiology"
+    },
+    {
+        "id": "997",
+        "question": "A 55-year-old male with acute cholecystitis presents with Platelet count 80,000/mm³ and Creatinine 1.5 mg/dl. What is the severity grade?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Grade IV (Critical)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Platelet count <100,000/mm³ is a criterion for Hematological dysfunction, which is a criterion for Grade III (Severe) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "998",
+        "question": "The preferred analgesic agent for acute cholecystitis in patients with impaired renal function is:",
+        "choices": [
+            "A. Parenteral NSAIDs.",
+            "B. Parenteral Opioids (e.g., Morphine).",
+            "C. Oral Diclofenac.",
+            "D. Oral Acetaminophen."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Opioids are reserved as second-line for patients with contraindications to NSAIDs, such as impaired kidney function. (p. 225, 227)",
+        "tags": "acute_cholecystitis, pain_management, opioids"
+    },
+    {
+        "id": "999",
+        "question": "In the setting of acute cholecystitis, when should antibiotic therapy be initiated?",
+        "choices": [
+            "A. After a definitive culture result is available.",
+            "B. After cholecystectomy is performed.",
+            "C. As soon as the diagnosis is suspected.",
+            "D. Only for Grade III (Severe) cases."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Antibiotic therapy should be administered promptly (as soon as the diagnosis is suspected) for better outcome. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_timing"
+    },
+    {
+        "id": "1000",
+        "question": "The first-line IV antibiotic regimen for acute cholecystitis is aimed at covering which likely pathogens?",
+        "choices": [
+            "A. Pseudomonas aeruginosa and MRSA.",
+            "B. Gram-negative bacilli and anaerobes.",
+            "C. Atypical organisms (Mycoplasma, Chlamydia).",
+            "D. Clostridium difficile."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The first-line regimen (Ceftriaxone + Metronidazole) covers common aerobic Gram-negative bacilli (with Ceftriaxone) and anaerobes (with Metronidazole). (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_coverage"
+    },
+    {
+        "id": "1001",
+        "question": "A patient with acute cholecystitis has severe respiratory dysfunction (PaO₂/FiO₂ ratio <300). This indicates a severity grade of:",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Critical, but not severe."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Respiratory dysfunction is a criterion for Grade III (Severe) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1002",
+        "question": "A patient is admitted with acute cholecystitis. In the absence of organ dysfunction or severe signs, what is the initial severity grade?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Indeterminate."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "If the patient does not meet the criteria for Grade II or III, the severity is Grade I (Mild). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1003",
+        "question": "What is a key complication of acute cholecystitis that would necessitate emergency surgery?",
+        "choices": [
+            "A. Perforation leading to peritonitis.",
+            "B. Chronic pain refractory to oral NSAIDs.",
+            "C. Persistent nausea and vomiting.",
+            "D. Incidental discovery of gallstones."
+        ],
+        "correctAnswer": 0,
+        "topic": "Acute cholecystitis",
+        "explanation": "Perforation leading to peritonitis is a severe complication that requires emergency surgery. (p. 226, 228)",
+        "tags": "acute_cholecystitis, complications, emergency_surgery"
+    },
+    {
+        "id": "1004",
+        "question": "A patient with acute cholecystitis is kept NPO. What should be done for fluid replacement?",
+        "choices": [
+            "A. Administer only D5W to prevent sodium overload.",
+            "B. Administer IV fluids (RL or NS) to maintain hydration.",
+            "C. Administer no fluids until symptoms resolve.",
+            "D. Administer only oral rehydration solution (ORS)."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The patient is kept NPO and should be managed with intravenous fluids (RL or NS). (p. 227)",
+        "tags": "acute_cholecystitis, fluid_management"
+    },
+    {
+        "id": "1005",
+        "question": "Which of the following defines Grade I (Mild) acute cholecystitis according to the Tokyo Guidelines?",
+        "choices": [
+            "A. Patient meets all criteria for Grade II.",
+            "B. Patient does not meet criteria for Grade II or III.",
+            "C. Patient requires vasopressors.",
+            "D. Patient has a palpable tender mass."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Grade I (Mild) is the default category for patients who do not meet the criteria of Grade II or III. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1006",
+        "question": "The surgical procedure for definitive management of acute cholecystitis is:",
+        "choices": [
+            "A. Percutaneous drainage.",
+            "B. Cholecystectomy.",
+            "C. Endoscopic Retrograde Cholangiopancreatography (ERCP).",
+            "D. Cholecystostomy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Cholecystectomy (surgical removal of the gallbladder) is the definitive management. (p. 228)",
+        "tags": "acute_cholecystitis, definitive_management"
+    },
+    {
+        "id": "1007",
+        "question": "A patient with acute cholecystitis should be given antibiotics targeting which organisms?",
+        "choices": [
+            "A. Atypical organisms and viruses.",
+            "B. Gram-negative bacilli and anaerobes.",
+            "C. Pseudomonas and MRSA.",
+            "D. Fungi (Candida)."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The antibiotic regimen (Ceftriaxone + Metronidazole) targets common Gram-negative bacilli and anaerobes. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_coverage"
+    },
+    {
+        "id": "1008",
+        "question": "Which of the following is a Grade III (Severe) criterion?",
+        "choices": [
+            "A. WBC count 17,000/mm³.",
+            "B. PT-INR 1.2.",
+            "C. PaO₂/FiO₂ ratio 250.",
+            "D. Palpable tender mass in RUQ."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "PaO₂/FiO₂ ratio <300 (Respiratory dysfunction) is a criterion for Grade III (Severe). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1009",
+        "question": "What is the purpose of performing the Murphy's sign test during the physical examination for suspected acute cholecystitis?",
+        "choices": [
+            "A. To assess for peritoneal irritation in the lower abdomen.",
+            "B. To check for signs of jaundice (scleral icterus).",
+            "C. To localize and confirm inflammation around the gallbladder.",
+            "D. To evaluate for liver cirrhosis (tender hepatomegaly)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "A positive Murphy's sign helps localize and confirm the suspicion of inflammation around the gallbladder. (p. 227)",
+        "tags": "acute_cholecystitis, diagnosis, Murphy's"
+    },
+    {
+        "id": "1010",
+        "question": "A patient is admitted with acute cholecystitis. The initial IV fluid replacement should utilize which type of fluid?",
+        "choices": [
+            "A. Dextrose in Water (D5W).",
+            "B. Ringer's Lactate (RL) or Normal Saline (NS).",
+            "C. Half Normal Saline with Dextrose.",
+            "D. Colloids (e.g., Albumin)."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Ringer's Lactate (RL) or Normal Saline (NS) are the standard crystalloid solutions for IV hydration and management. (p. 227)",
+        "tags": "acute_cholecystitis, fluid_management"
+    },
+    {
+        "id": "1011",
+        "question": "Which of the following is a criterion for Grade II (Moderate) acute cholecystitis in the Tokyo Guidelines?",
+        "choices": [
+            "A. Decreased level of consciousness.",
+            "B. WBC count 19,000/mm³.",
+            "C. PT-INR 1.6.",
+            "D. Hypotension requiring dopamine."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "WBC count >18,000/mm³ is a criterion for Grade II (Moderate). All other options are Grade III (Severe) criteria. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1012",
+        "question": "In acute cholecystitis, what is the first-line antibiotic combination?",
+        "choices": [
+            "A. Ciprofloxacin + Metronidazole.",
+            "B. Ampicillin + Sulbactam.",
+            "C. Ceftriaxone + Metronidazole.",
+            "D. Gentamicin + Ampicillin."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "The First line is Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_treatment"
+    },
+    {
+        "id": "1013",
+        "question": "Which severity grade is characterized by organ dysfunction (e.g., Creatinine >2.0 mg/dl)?",
+        "choices": [
+            "A. Grade I (Mild).",
+            "B. Grade II (Moderate).",
+            "C. Grade III (Severe).",
+            "D. Indeterminate."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Organ dysfunction is the defining characteristic of Grade III (Severe) acute cholecystitis. (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1014",
+        "question": "A patient with acute cholecystitis and low surgical risk should undergo cholecystectomy:",
+        "choices": [
+            "A. Urgently, within 6 hours.",
+            "B. Electively, after 6 weeks.",
+            "C. During the current hospitalization.",
+            "D. Only if symptoms persist after 10 days."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Early cholecystectomy during the same hospitalization is favored for low-risk patients. (p. 228)",
+        "tags": "acute_cholecystitis, cholecystectomy, timing"
+    },
+    {
+        "id": "1015",
+        "question": "The preferred agent for pain management in acute cholecystitis is:",
+        "choices": [
+            "A. Oral Opioids.",
+            "B. Parenteral NSAIDs.",
+            "C. Oral Antispasmodics.",
+            "D. Parenteral Acetaminophen."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Parenteral NSAIDs (e.g., Diclofenac) are the preferred agents for pain management. (p. 227)",
+        "tags": "acute_cholecystitis, pain_management, NSAIDs"
+    },
+    {
+        "id": "1016",
+        "question": "In a patient with acute cholecystitis, the typical duration for the total course of antibiotics is:",
+        "choices": [
+            "A. 5 days.",
+            "B. 7-10 days.",
+            "C. 14 days.",
+            "D. 21 days."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The total antibiotic course (IV and oral combined) is recommended for 7–10 days. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_duration"
+    },
+    {
+        "id": "1017",
+        "question": "A patient with acute cholecystitis is found to have PaO₂/FiO₂ ratio <200. This indicates:",
+        "choices": [
+            "A. Grade I (Mild) disease.",
+            "B. Grade II (Moderate) disease.",
+            "C. Grade III (Severe) disease.",
+            "D. No significant severity."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "A PaO₂/FiO₂ ratio <300 indicates Respiratory dysfunction, classifying the disease as Grade III (Severe). (p. 227)",
+        "tags": "acute_cholecystitis, severity_grading"
+    },
+    {
+        "id": "1018",
+        "question": "Which initial step is mandatory in the management of acute cholecystitis upon admission?",
+        "choices": [
+            "A. Immediate administration of oral Diclofenac.",
+            "B. Insertion of a nasogastric tube.",
+            "C. Keeping the patient NPO.",
+            "D. Urgent referral for ERCP."
+        ],
+        "correctAnswer": 2,
+        "topic": "Acute cholecystitis",
+        "explanation": "Keeping the patient NPO (resting the bowel) is a key, mandatory step in initial supportive management. (p. 227)",
+        "tags": "acute_cholecystitis, initial_management"
+    },
+    {
+        "id": "1019",
+        "question": "A patient with Grade III acute cholecystitis is treated medically due to critical status. What is the recommended antibiotic duration?",
+        "choices": [
+            "A. 5 days.",
+            "B. 7-10 days.",
+            "C. 14 days.",
+            "D. 21 days."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The total antibiotic course is recommended for 7–10 days, regardless of the severity grade. (p. 227)",
+        "tags": "acute_cholecystitis, antibiotic_duration"
+    },
+    {
+        "id": "1020",
+        "question": "Which of the following is an alternative parenteral analgesic for a patient with acute cholecystitis who is refractory to NSAIDs?",
+        "choices": [
+            "A. Oral Acetaminophen.",
+            "B. Intravenous Morphine.",
+            "C. Oral Codeine.",
+            "D. Oral Tadalafil."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "Opioids (Morphine or Pethidine) are the appropriate second-line parenteral analgesic. (p. 225, 227)",
+        "tags": "acute_cholecystitis, pain_management, opioids"
+    },
+    {
+        "id": "1021",
+        "question": "The definitive management for acute cholecystitis is surgical removal of the gallbladder. What is the name of this procedure?",
+        "choices": [
+            "A. Cholecystostomy.",
+            "B. Cholecystectomy.",
+            "C. Choledocholithotomy.",
+            "D. Pyloromyotomy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Acute cholecystitis",
+        "explanation": "The surgical procedure for definitive management is Cholecystectomy. (p. 228)",
+        "tags": "acute_cholecystitis, procedure"
+    }

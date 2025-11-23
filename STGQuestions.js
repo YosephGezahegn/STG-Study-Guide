@@ -5244,9 +5244,13893 @@
       "topic": "CHAPTER 4: CARDIOVASCULAR DISORDERS / 4.7. INFECTIVE ENDOCARDITIS",
       "explanation": "The addition of an aminoglycoside like Gentamicin to a primary agent like Vancomycin or a beta-lactam is done to achieve synergy. This combination leads to a faster and more complete killing of the bacteria on the valve vegetation than either agent alone, which can be particularly important in severe infections. (Page 146)",
       "tags": ["Chapter 4", "Infective Endocarditis", "Intermediate", "Page 146"]
-    }
-            
-        ]
-    };
-})();
+    },
+  {
+    "id": 307,
+    "question": "A 45-year-old male farmer from rural Ethiopia presents with epigastric burning pain for 4 months, relieved by eating and antacids, and often waking him at night. He denies weight loss, vomiting, or melena. Physical examination is unremarkable. What is the most likely diagnosis?",
+    "choices": [
+      "A. Gastric ulcer",
+      "B. Duodenal ulcer",
+      "C. Gastroesophageal reflux disease",
+      "D. Gastric cancer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "The classic presentation of duodenal ulcer includes epigastric pain relieved by food or antacids and nocturnal pain, as described in the Ethiopian STG 2021 (p. 180). Gastric ulcers typically worsen with eating, and alarm symptoms are absent here, making cancer unlikely.",
+    "tags": [
+      "Chapter 6.1",
+      "duodenal_ulcer",
+      "dyspepsia",
+      "nocturnal_pain"
+    ]
+  },
+  {
+    "id": 308,
+    "question": "A 50-year-old woman presents with new-onset epigastric pain, unintentional weight loss of 5 kg over 2 months, early satiety, and occult blood in stool. She has a history of smoking. What is the most appropriate initial management?",
+    "choices": [
+      "A. Empirical proton pump inhibitor (PPI) therapy for 4 weeks",
+      "B. Test for Helicobacter pylori and treat if positive",
+      "C. Urgent upper gastrointestinal endoscopy",
+      "D. Abdominal ultrasound"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Alarm features such as age >45 years, unintentional weight loss, early satiety, and evidence of bleeding require urgent upper GI endoscopy to exclude malignancy or complicated ulcer (Ethiopian STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "alarm_features",
+      "endoscopy",
+      "dyspepsia"
+    ]
+  },
+  {
+    "id": 309,
+    "question": "According to the Ethiopian STG 2021, which of the following is NOT considered an alarm symptom in dyspepsia requiring immediate endoscopy?",
+    "choices": [
+      "A. Age over 45 years with new symptoms",
+      "B. Persistent vomiting for more than 2 weeks",
+      "C. Epigastric pain relieved by antacids",
+      "D. Family history of gastric cancer"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Epigastric pain relieved by antacids is a typical feature of uncomplicated peptic ulcer disease and not an alarm symptom. Alarm symptoms include age >45, weight loss, bleeding, dysphagia, persistent vomiting, and family history (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "alarm_symptoms",
+      "peptic_ulcer"
+    ]
+  },
+  {
+    "id": 310,
+    "question": "A 30-year-old asymptomatic teacher from Addis Ababa is found to have a positive Helicobacter pylori stool antigen test during a routine check-up. According to Ethiopian STG 2021, what is the recommended management?",
+    "choices": [
+      "A. No treatment needed as he is asymptomatic",
+      "B. Empirical eradication therapy",
+      "C. Upper GI endoscopy before treatment",
+      "D. Repeat test after 4 weeks"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "In asymptomatic individuals, routine screening and treatment for H. pylori is not recommended unless there are specific risk factors like family history of gastric cancer (STG 2021, p. 181). Treatment is indicated for confirmed peptic ulcer disease or other indications.",
+    "tags": [
+      "Chapter 6.1",
+      "H_pylori",
+      "asymptomatic",
+      "screening"
+    ]
+  },
+  {
+    "id": 311,
+    "question": "A 38-year-old man with confirmed duodenal ulcer tests positive for H. pylori. He has no history of previous antibiotic use. What is the first-line eradication regimen per Ethiopian STG 2021?",
+    "choices": [
+      "A. PPI + clarithromycin + amoxicillin for 14 days",
+      "B. PPI + clarithromycin + metronidazole for 7 days",
+      "C. Bismuth subsalicylate + tetracycline + metronidazole + PPI for 14 days",
+      "D. PPI + levofloxacin + amoxicillin for 10 days"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "The first-line regimen for H. pylori eradication in treatment-naïve patients is a 14-day triple therapy: PPI (e.g., omeprazole 20 mg BID) + clarithromycin 500 mg BID + amoxicillin 1 g BID (STG 2021, p. 181). Quadruple therapy is for failures or resistance.",
+    "tags": [
+      "Chapter 6.1",
+      "H_pylori_eradication",
+      "triple_therapy",
+      "first_line"
+    ]
+  },
+  {
+    "id": 312,
+    "question": "A 25-year-old pregnant woman at 16 weeks gestation presents with heartburn and epigastric discomfort. No alarm symptoms. What is the safest initial treatment according to STG 2021?",
+    "choices": [
+      "A. Omeprazole 20 mg daily",
+      "B. Ranitidine 150 mg twice daily",
+      "C. Aluminum and magnesium hydroxide antacid as needed",
+      "D. Metoclopramide 10 mg three times daily"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Antacids (aluminum/magnesium hydroxide) are the first-line and safest option in pregnancy for symptomatic relief. PPIs and H2 blockers are used if necessary but with caution (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "pregnancy",
+      "dyspepsia_treatment",
+      "antacids"
+    ]
+  },
+  {
+    "id": 313,
+    "question": "A 55-year-old diabetic patient on long-term NSAIDs presents with sudden severe epigastric pain radiating to the back, abdominal guarding, and tachycardia. What is the most likely complication of peptic ulcer disease?",
+    "choices": [
+      "A. Upper GI bleeding",
+      "B. Gastric outlet obstruction",
+      "C. Perforated ulcer",
+      "D. Penetration into adjacent organs"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Sudden severe pain with signs of peritonitis (guarding, rigidity) indicates perforated peptic ulcer, a surgical emergency, especially in NSAID users (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "perforation",
+      "complications",
+      "NSAIDs"
+    ]
+  },
+  {
+    "id": 314,
+    "question": "A patient with peptic ulcer disease completed H. pylori eradication therapy. When should confirmation of eradication be performed according to Ethiopian STG 2021?",
+    "choices": [
+      "A. Immediately after completing antibiotics",
+      "B. 2 weeks after therapy",
+      "C. At least 4 weeks after therapy and off PPI for 2 weeks",
+      "D. 6 months after therapy"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Eradication is confirmed with non-invasive tests (stool antigen or urea breath test) at least 4 weeks after antibiotics and 2 weeks off PPI to avoid false negatives (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "H_pylori_confirmation",
+      "follow_up",
+      "testing"
+    ]
+  },
+  {
+    "id": 315,
+    "question": "A 42-year-old man with recurrent duodenal ulcers despite two courses of eradication therapy and ongoing NSAID use for arthritis. What is the next step?",
+    "choices": [
+      "A. Repeat triple therapy with different PPI",
+      "B. Endoscopy with biopsy for culture and sensitivity",
+      "C. Long-term high-dose PPI without further testing",
+      "D. Switch to H2 receptor antagonists"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Refractory ulcers require endoscopy and biopsy for H. pylori culture/sensitivity to guide salvage therapy, especially with NSAID continuation (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "refractory_ulcer",
+      "biopsy",
+      "antibiotic_resistance"
+    ]
+  },
+  {
+    "id": 316,
+    "question": "Which risk factor is most strongly associated with peptic ulcer disease in the Ethiopian context per STG 2021?",
+    "choices": [
+      "A. Chronic alcohol consumption",
+      "B. Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+      "C. Spicy food intake",
+      "D. High coffee consumption"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "NSAIDs are a major cause of peptic ulcers, second only to H. pylori in Ethiopia, due to inhibition of prostaglandin synthesis (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "risk_factors",
+      "NSAIDs",
+      "etiology"
+    ]
+  },
+  {
+    "id": 317,
+    "question": "A 60-year-old patient requiring long-term NSAIDs for rheumatoid arthritis has a history of peptic ulcer. What is the recommended prophylaxis?",
+    "choices": [
+      "A. No prophylaxis needed if low-dose aspirin only",
+      "B. Daily PPI (e.g., omeprazole 20 mg)",
+      "C. Misoprostol 200 mcg four times daily",
+      "D. H2 blocker like ranitidine 150 mg at night"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "High-risk patients (history of ulcer) on NSAIDs should receive daily PPI prophylaxis to prevent recurrence (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "NSAID_prophylaxis",
+      "PPI",
+      "high_risk"
+    ]
+  },
+  {
+    "id": 318,
+    "question": "A 35-year-old man presents with epigastric pain, diarrhea, and symptoms worsening after meals. He has multiple ulcers on endoscopy. What is the suspected diagnosis?",
+    "choices": [
+      "A. Zollinger-Ellison syndrome",
+      "B. Crohn's disease",
+      "C. Functional dyspepsia",
+      "D. NSAID-induced ulcer"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Zollinger-Ellison syndrome presents with refractory ulcers, diarrhea due to acid inactivation of enzymes, and postprandial pain (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "Zollinger_Ellison",
+      "refractory_ulcers",
+      "gastrinoma"
+    ]
+  },
+  {
+    "id": 319,
+    "question": "Following successful H. pylori eradication in a patient with duodenal ulcer, what is the duration of PPI therapy recommended?",
+    "choices": [
+      "A. Continue indefinitely",
+      "B. 4-8 weeks total, then stop",
+      "C. 2 weeks after eradication",
+      "D. Lifelong if >60 years"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "After eradication, PPI is given for 4-8 weeks for ulcer healing, then discontinued if symptoms resolve (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "PPI_duration",
+      "ulcer_healing",
+      "follow_up"
+    ]
+  },
+  {
+    "id": 320,
+    "question": "A 28-year-old woman with dyspepsia tests negative for H. pylori and has normal endoscopy. What is the most likely diagnosis?",
+    "choices": [
+      "A. Peptic ulcer disease",
+      "B. Non-ulcer dyspepsia",
+      "C. Esophageal cancer",
+      "D. Biliary colic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Non-ulcer (functional) dyspepsia is diagnosed after excluding organic causes like H. pylori or ulcers via testing and endoscopy (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "non_ulcer_dyspepsia",
+      "functional",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 321,
+    "question": "In a patient with bleeding peptic ulcer confirmed by endoscopy, what is the initial pharmacological management?",
+    "choices": [
+      "A. IV PPI bolus followed by infusion",
+      "B. Oral amoxicillin-clavulanate",
+      "C. Transfusion only if Hb <7 g/dL",
+      "D. Surgical ligation immediately"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "High-dose IV PPI (80 mg bolus then 8 mg/hr infusion for 72 hours) reduces rebleeding in high-risk lesions (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "bleeding_ulcer",
+      "PPI_infusion",
+      "endoscopy"
+    ]
+  },
+  {
+    "id": 322,
+    "question": "Which diagnostic test for H. pylori is most accurate in untreated patients according to STG 2021?",
+    "choices": [
+      "A. Serology",
+      "B. Urea breath test or stool antigen",
+      "C. Rapid urease test on biopsy",
+      "D. All are equally accurate"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Urea breath test and stool antigen are non-invasive, highly sensitive/specific for active infection in untreated patients (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "H_pylori_test",
+      "non_invasive",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 323,
+    "question": "A 65-year-old man on chronic PPI develops hypomagnesemia. What is the recommended action?",
+    "choices": [
+      "A. Continue PPI and monitor",
+      "B. Switch to H2 blocker",
+      "C. Add magnesium supplement and check levels",
+      "D. Stop PPI abruptly"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Long-term PPI use can cause hypomagnesemia; supplement magnesium and monitor levels, considering alternative therapy if persistent (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "PPI_side_effects",
+      "hypomagnesemia",
+      "long_term"
+    ]
+  },
+  {
+    "id": 324,
+    "question": "For a patient with duodenal ulcer and confirmed clarithromycin resistance, what is the salvage regimen?",
+    "choices": [
+      "A. Repeat triple therapy",
+      "B. Bismuth-based quadruple therapy for 14 days",
+      "C. Levofloxacin triple therapy",
+      "D. Metronidazole single agent"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Bismuth quadruple therapy (PPI + bismuth + tetracycline + metronidazole) is recommended for treatment failures due to resistance (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "salvage_therapy",
+      "resistance",
+      "quadruple"
+    ]
+  },
+  {
+    "id": 325,
+    "question": "A 40-year-old HIV-positive patient with dyspepsia and positive H. pylori. What modification to eradication therapy?",
+    "choices": [
+      "A. Standard triple therapy",
+      "B. Avoid metronidazole if recent exposure",
+      "C. Use levofloxacin first-line",
+      "D. No modification needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "In HIV patients, avoid metronidazole in quadruple therapy if recent use to prevent resistance; prefer bismuth quadruple or levofloxacin-based (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "HIV",
+      "H_pylori",
+      "resistance"
+    ]
+  },
+  {
+    "id": 326,
+    "question": "What lifestyle modification is most effective for preventing peptic ulcer recurrence?",
+    "choices": [
+      "A. Avoid all dairy products",
+      "B. Stop smoking and limit alcohol",
+      "C. Eat small frequent meals",
+      "D. Raise head of bed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Smoking cessation and alcohol limitation reduce acid secretion and improve healing; diet has less impact (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "lifestyle",
+      "smoking",
+      "prevention"
+    ]
+  },
+  {
+    "id": 327,
+    "question": "A patient with giant duodenal ulcer (>2 cm) on endoscopy. What additional evaluation?",
+    "choices": [
+      "A. Routine H. pylori test only",
+      "B. Search for malignancy or Crohn's",
+      "C. Immediate surgery",
+      "D. Ignore size"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Giant ulcers require biopsy to rule out malignancy or other etiologies like Crohn's disease (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "giant_ulcer",
+      "biopsy",
+      "differential"
+    ]
+  },
+  {
+    "id": 328,
+    "question": "In ICU patients on mechanical ventilation, when is stress ulcer prophylaxis indicated?",
+    "choices": [
+      "A. All ICU admissions",
+      "B. High-risk patients (coagulopathy, sepsis >1 week)",
+      "C. Only if H. pylori positive",
+      "D. Never in Ethiopia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Prophylaxis with PPI or H2 blocker for high-risk ICU patients to prevent stress ulcers (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "stress_ulcer",
+      "ICU",
+      "prophylaxis"
+    ]
+  },
+  {
+    "id": 329,
+    "question": "Which H. pylori test is preferred post-eradication?",
+    "choices": [
+      "A. Serology",
+      "B. Stool antigen test",
+      "C. Endoscopy with histology",
+      "D. Blood PCR"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Stool antigen test is non-invasive and reliable for confirming eradication post-therapy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "post_eradication_test",
+      "stool_antigen",
+      "follow_up"
+    ]
+  },
+  {
+    "id": 330,
+    "question": "A 32-year-old with dyspepsia in first trimester of pregnancy. What is the approach?",
+    "choices": [
+      "A. Routine endoscopy",
+      "B. Avoid medications; use lifestyle measures",
+      "C. Start empirical antibiotics",
+      "D. Full H. pylori workup"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "In pregnancy, especially first trimester, avoid unnecessary drugs and investigations; use antacids and lifestyle advice first (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "pregnancy",
+      "first_trimester",
+      "conservative"
+    ]
+  },
+  {
+    "id": 331,
+    "question": "Patient with peptic ulcer and gastric outlet obstruction. Initial management?",
+    "choices": [
+      "A. Immediate surgery",
+      "B. IV fluids, NG decompression, PPI",
+      "C. H. pylori test only",
+      "D. Oral rehydration"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Conservative management with IV fluids, nasogastric suction, and PPI for edema resolution; surgery if persistent (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "outlet_obstruction",
+      "conservative",
+      "complication"
+    ]
+  },
+  {
+    "id": 332,
+    "question": "Second-line therapy for H. pylori failure in Ethiopia?",
+    "choices": [
+      "A. PPI + amoxicillin + metronidazole 14 days",
+      "B. PPI + bismuth + tetracycline + metronidazole 14 days",
+      "C. PPI + clarithromycin + levofloxacin 10 days",
+      "D. PPI monotherapy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Bismuth quadruple therapy is second-line for failures (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "second_line",
+      "quadruple_therapy",
+      "failure"
+    ]
+  },
+  {
+    "id": 333,
+    "question": "A child with epigastric pain and H. pylori positive. Treatment difference from adults?",
+    "choices": [
+      "A. Same as adults",
+      "B. Avoid clarithromycin; use amoxicillin + PPI",
+      "C. No antibiotics under 12 years",
+      "D. Surgery preferred"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "In children, due to resistance, use amoxicillin + PPI or quadruple; consult pediatrics (STG 2021, p. 181, cross-referenced to Chapter 16).",
+    "tags": [
+      "Chapter 6.1",
+      "pediatric",
+      "H_pylori",
+      "children"
+    ]
+  },
+  {
+    "id": 334,
+    "question": "Patient with dyspepsia and iron deficiency anemia. Next step?",
+    "choices": [
+      "A. Oral iron only",
+      "B. Endoscopy to rule out bleeding ulcer",
+      "C. H. pylori test without endoscopy",
+      "D. Colonoscopy first"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Anemia is an alarm feature requiring endoscopy to exclude occult bleeding from ulcer or malignancy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "anemia",
+      "alarm",
+      "endoscopy"
+    ]
+  },
+  {
+    "id": 335,
+    "question": "Role of sucralfate in peptic ulcer treatment?",
+    "choices": [
+      "A. First-line acid suppression",
+      "B. Cytoprotective agent for mild cases or adjunct",
+      "C. Eradication of H. pylori",
+      "D. Antiemetic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Sucralfate coats ulcers for protection; used as adjunct or in mild cases when PPI not available (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "sucralfate",
+      "cytoprotective",
+      "adjunct"
+    ]
+  },
+  {
+    "id": 336,
+    "question": "A 48-year-old with uninvestigated dyspepsia, age <45, no alarms, high H. pylori area. Approach?",
+    "choices": [
+      "A. Endoscopy first",
+      "B. Test and treat H. pylori",
+      "C. Empirical PPI 4 weeks",
+      "D. Reassure"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Test-and-treat strategy for <45 years, no alarms in high-prevalence settings (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "test_treat",
+      "young_patient",
+      "high_prevalence"
+    ]
+  },
+  {
+    "id": 337,
+    "question": "Complication of untreated H. pylori-associated ulcer?",
+    "choices": [
+      "A. Reduced risk of gastric cancer",
+      "B. Increased risk of gastric adenocarcinoma",
+      "C. No long-term risks",
+      "D. Only anemia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Chronic H. pylori infection increases gastric cancer risk; eradication reduces it (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "H_pylori",
+      "gastric_cancer",
+      "complication"
+    ]
+  },
+  {
+    "id": 338,
+    "question": "Patient with perforated ulcer. Surgical option?",
+    "choices": [
+      "A. Medical management only",
+      "B. Simple closure +/- omental patch",
+      "C. Vagotomy always",
+      "D. Total gastrectomy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Graham patch (omental) for perforation; definitive surgery if recurrent (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "perforation_surgery",
+      "graham_patch",
+      "emergency"
+    ]
+  },
+  {
+    "id": 339,
+    "question": "H2 blockers like ranitidine in peptic ulcer?",
+    "choices": [
+      "A. Preferred over PPI",
+      "B. Alternative if PPI intolerant",
+      "C. Not recommended",
+      "D. For maintenance only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "H2 blockers are less effective than PPI but useful if intolerant or unavailable (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "H2_blocker",
+      "alternative",
+      "intolerance"
+    ]
+  },
+  {
+    "id": 340,
+    "question": "Dyspepsia in patient >55 years, no alarms. Approach?",
+    "choices": [
+      "A. Test-treat H. pylori",
+      "B. Empirical PPI trial",
+      "C. Endoscopy",
+      "D. Barium meal"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "For >45-55 years, even without alarms, endoscopy is recommended due to malignancy risk (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "older_patient",
+      "endoscopy",
+      "age_risk"
+    ]
+  },
+  {
+    "id": 341,
+    "question": "Post-endoscopy clean-based ulcer. Management?",
+    "choices": [
+      "A. Discharge without therapy",
+      "B. H. pylori test and eradicate if positive; PPI 4 weeks",
+      "C. Surgery",
+      "D. Antibiotics only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Test for H. pylori and treat; PPI for healing (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "clean_ulcer",
+      "H_pylori",
+      "PPI"
+    ]
+  },
+  {
+    "id": 342,
+    "question": "Role of probiotics in H. pylori therapy?",
+    "choices": [
+      "A. Essential component",
+      "B. May improve eradication rates as adjunct",
+      "C. Contraindicated",
+      "D. Replace antibiotics"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Probiotics can reduce side effects and improve compliance, but not standard (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "probiotics",
+      "adjunct",
+      "side_effects"
+    ]
+  },
+  {
+    "id": 343,
+    "question": "Patient with ulcer and penicillin allergy. Eradication regimen?",
+    "choices": [
+      "A. Standard triple with amoxicillin",
+      "B. PPI + clarithromycin + metronidazole",
+      "C. Quadruple without bismuth",
+      "D. Levofloxacin based"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Substitute metronidazole for amoxicillin in allergy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "penicillin_allergy",
+      "alternative_regimen",
+      "metronidazole"
+    ]
+  },
+  {
+    "id": 344,
+    "question": "Monitoring for ulcer healing post-therapy?",
+    "choices": [
+      "A. Repeat endoscopy routinely",
+      "B. Symptom resolution; endoscopy if persistent",
+      "C. Barium study at 6 weeks",
+      "D. No follow-up needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Follow symptoms; endoscopy only if refractory or alarms (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "follow_up",
+      "symptom_based",
+      "healing"
+    ]
+  },
+  {
+    "id": 345,
+    "question": "H. pylori prevalence in Ethiopian dyspepsia patients?",
+    "choices": [
+      "A. <20%",
+      "B. 70-90%",
+      "C. 100%",
+      "D. Declining to 10%"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "High prevalence (70-90%) justifies test-and-treat strategy (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "prevalence",
+      "Ethiopia",
+      "H_pylori"
+    ]
+  },
+  {
+    "id": 346,
+    "question": "A 70-year-old with dyspepsia, dysphagia, weight loss. Priority?",
+    "choices": [
+      "A. H. pylori test",
+      "B. Urgent endoscopy for possible esophageal/gastric cancer",
+      "C. PPI trial",
+      "D. CT abdomen"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Dysphagia and weight loss in elderly are alarms for urgent endoscopy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "dysphagia",
+      "elderly",
+      "cancer_risk"
+    ]
+  },
+  {
+    "id": 347,
+    "question": "PPI of choice in Ethiopia for ulcer treatment?",
+    "choices": [
+      "A. Omeprazole",
+      "B. Pantoprazole",
+      "C. Esomeprazole",
+      "D. Any equivalent"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Any available PPI (omeprazole preferred due to availability) at standard doses (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "PPI_choice",
+      "omeprazole",
+      "availability"
+    ]
+  },
+  {
+    "id": 348,
+    "question": "Indication for surgery in peptic ulcer?",
+    "choices": [
+      "A. All uncomplicated ulcers",
+      "B. Refractory bleeding after endoscopic therapy",
+      "C. H. pylori positive",
+      "D. Mild pain"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Surgery for complications like uncontrolled bleeding, perforation, or obstruction failing conservative/endoscopic management (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "surgery_indication",
+      "refractory",
+      "complications"
+    ]
+  },
+  {
+    "id": 349,
+    "question": "False positive H. pylori serology in?",
+    "choices": [
+      "A. Active infection only",
+      "B. Past infection (does not distinguish)",
+      "C. Children <5 years",
+      "D. Post-eradication"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Serology detects antibodies, remaining positive post-eradication; not for confirmation (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "serology_limit",
+      "past_infection",
+      "test"
+    ]
+  },
+  {
+    "id": 350,
+    "question": "Maintenance therapy after complicated ulcer?",
+    "choices": [
+      "A. No need after healing",
+      "B. Long-term PPI if high-risk (age >60, NSAID use)",
+      "C. H. pylori retest only",
+      "D. Annual endoscopy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Long-term PPI for high-risk patients to prevent recurrence (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "maintenance",
+      "high_risk",
+      "PPI"
+    ]
+  },
+  {
+    "id": 351,
+    "question": "A 55-year-old with epigastric pain, no relief with antacids, bloating. Normal exam. Next?",
+    "choices": [
+      "A. Reassure",
+      "B. H. pylori testing",
+      "C. Endoscopy",
+      "D. Ultrasound"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Unrelieved dyspepsia warrants H. pylori testing in <45 no alarms (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "unrelieved",
+      "testing",
+      "bloating"
+    ]
+  },
+  {
+    "id": 352,
+    "question": "Clarithromycin resistance rate in Ethiopia prompting regimen change?",
+    "choices": [
+      "A. <5%",
+      "B. >15%",
+      "C. 50%",
+      "D. Unknown"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "High resistance (>15%) supports bismuth quadruple as alternative, but triple still first-line (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "resistance",
+      "clarithromycin",
+      "Ethiopia"
+    ]
+  },
+  {
+    "id": 353,
+    "question": "Symptom of gastric vs duodenal ulcer?",
+    "choices": [
+      "A. Gastric: pain after meals; duodenal: before meals",
+      "B. Both same",
+      "C. Gastric nocturnal; duodenal daytime",
+      "D. No difference"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Gastric ulcer pain worsens postprandial; duodenal relieved by food (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "gastric_vs_duodenal",
+      "pain_pattern",
+      "symptoms"
+    ]
+  },
+  {
+    "id": 354,
+    "question": "Patient with ulcer, on warfarin. Bleeding risk management?",
+    "choices": [
+      "A. Continue warfarin",
+      "B. Reverse anticoagulation, endoscopic hemostasis",
+      "C. PPI only",
+      "D. Transfuse PRBC"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "In anticoagulated patients with bleeding, reverse and perform endoscopy (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "anticoagulation",
+      "bleeding",
+      "endoscopy"
+    ]
+  },
+  {
+    "id": 355,
+    "question": "Non-H. pylori, non-NSAID ulcer cause?",
+    "choices": [
+      "A. Common in Ethiopia",
+      "B. Rare; investigate for malignancy, Crohn's",
+      "C. Viral infection",
+      "D. Stress only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Idiopathic ulcers are rare; further workup needed (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "idiopathic_ulcer",
+      "investigate",
+      "rare"
+    ]
+  },
+  {
+    "id": 356,
+    "question": "Duration of triple therapy in confirmed ulcer?",
+    "choices": [
+      "A. 7 days",
+      "B. 14 days",
+      "C. 21 days",
+      "D. 28 days"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "14 days for optimal eradication in ulcer patients (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "duration",
+      "triple_therapy",
+      "ulcer"
+    ]
+  },
+  {
+    "id": 357,
+    "question": "A 29-year-old with dyspepsia, positive UBT. After treatment, repeat UBT negative. Next?",
+    "choices": [
+      "A. Continue PPI lifelong",
+      "B. Stop PPI after 4-8 weeks if asymptomatic",
+      "C. Repeat endoscopy",
+      "D. Add H2 blocker"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Discontinue PPI after healing if symptoms resolve (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "post_eradication",
+      "PPI_stop",
+      "asymptomatic"
+    ]
+  },
+  {
+    "id": 358,
+    "question": "Endoscopic finding in uncomplicated duodenal ulcer?",
+    "choices": [
+      "A. Clean base, no stigmata",
+      "B. Visible vessel",
+      "C. Active spurting",
+      "D. Adherent clot"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Uncomplicated: clean base; high-risk stigmata require intervention (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "endoscopy_findings",
+      "clean_base",
+      "low_risk"
+    ]
+  },
+  {
+    "id": 359,
+    "question": "PPI interaction with clopidogrel?",
+    "choices": [
+      "A. No interaction",
+      "B. Omeprazole reduces efficacy; use pantoprazole",
+      "C. Increases bleeding",
+      "D. Dose adjustment needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Omeprazole inhibits CYP2C19, reducing clopidogrel activation; prefer pantoprazole (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "drug_interaction",
+      "PPI_clopidogrel",
+      "omeprazole"
+    ]
+  },
+  {
+    "id": 360,
+    "question": "Symptomatic relief in functional dyspepsia?",
+    "choices": [
+      "A. Eradicate H. pylori if positive",
+      "B. Antidepressants first",
+      "C. Surgery",
+      "D. No treatment"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "H. pylori eradication can help even in functional dyspepsia if positive (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "functional_dyspepsia",
+      "H_pylori",
+      "relief"
+    ]
+  },
+  {
+    "id": 361,
+    "question": "A 62-year-old with melena, hypotension. Initial resuscitation?",
+    "choices": [
+      "A. Endoscopy immediately",
+      "B. 2 large-bore IV lines, fluids, blood if needed",
+      "C. PPI oral",
+      "D. NG lavage"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "ABC: secure IV access, fluid resuscitation, transfuse if unstable (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "bleeding_management",
+      "resuscitation",
+      "melena"
+    ]
+  },
+  {
+    "id": 362,
+    "question": "Urea breath test sensitivity/specificity?",
+    "choices": [
+      "A. 90-95% both",
+      "B. 70% sensitivity",
+      "C. 50% specificity",
+      "D. Better than serology"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "UBT has >90% sensitivity/specificity for active infection (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "UBT",
+      "accuracy",
+      "test"
+    ]
+  },
+  {
+    "id": 363,
+    "question": "In khat chewer with recurrent ulcers, additional risk?",
+    "choices": [
+      "A. No association",
+      "B. Increases acid secretion",
+      "C. Protects mucosa",
+      "D. Reduces H. pylori"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Khat may exacerbate by stimulating acid (contextual in Ethiopia, STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "khat",
+      "risk_factor",
+      "Ethiopia"
+    ]
+  },
+  {
+    "id": 364,
+    "question": "Post-perforation management?",
+    "choices": [
+      "A. Early ambulation",
+      "B. IV PPI, antibiotics, NPO, NG tube",
+      "C. Oral feeding day 1",
+      "D. Discharge day 2"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Supportive: NPO, IV PPI, antibiotics for peritonitis (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "post_perforation",
+      "supportive",
+      "care"
+    ]
+  },
+  {
+    "id": 365,
+    "question": "H. pylori transmission in Ethiopia?",
+    "choices": [
+      "A. Airborne",
+      "B. Fecal-oral, waterborne",
+      "C. Sexual",
+      "D. Vector"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Fecal-oral route, poor sanitation contributes to high prevalence (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "transmission",
+      "fecal_oral",
+      "prevention"
+    ]
+  },
+  {
+    "id": 366,
+    "question": "Elderly patient on multiple meds with dyspepsia. Concern?",
+    "choices": [
+      "A. Polypharmacy increasing ulcer risk",
+      "B. Ignore if no pain",
+      "C. Only if diabetic",
+      "D. Diet change sufficient"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Polypharmacy (NSAIDs, steroids) heightens risk; review meds (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "elderly",
+      "polypharmacy",
+      "risk"
+    ]
+  },
+  {
+    "id": 367,
+    "question": "Forrest classification for bleeding ulcer rebleeding risk?",
+    "choices": [
+      "A. Ia (spurting) high risk",
+      "B. III (clean) low risk",
+      "C. IIb medium",
+      "D. All low"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Forrest Ia/Ib high risk for rebleed; III low (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "Forrest",
+      "rebleeding",
+      "classification"
+    ]
+  },
+  {
+    "id": 368,
+    "question": "Alternative to endoscopy in resource-limited setting for alarms?",
+    "choices": [
+      "A. Barium swallow",
+      "B. Not recommended; refer",
+      "C. Ultrasound",
+      "D. CT scan"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Endoscopy is gold standard; if unavailable, urgent referral (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "resource_limited",
+      "referral",
+      "alarms"
+    ]
+  },
+  {
+    "id": 369,
+    "question": "PPI in renal impairment?",
+    "choices": [
+      "A. Contraindicated",
+      "B. Dose reduce",
+      "C. No adjustment",
+      "D. Avoid omeprazole"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "No dose adjustment needed in renal failure (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "renal",
+      "PPI_dose",
+      "adjustment"
+    ]
+  },
+  {
+    "id": 370,
+    "question": "Symptom-based diagnosis in primary care for dyspepsia?",
+    "choices": [
+      "A. Always accurate",
+      "B. Use cautiously; test for H. pylori",
+      "C. Ignore symptoms",
+      "D. Treat all as ulcer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Symptoms overlap; H. pylori testing helps stratify (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "symptom_diagnosis",
+      "primary_care",
+      "stratify"
+    ]
+  },
+  {
+    "id": 371,
+    "question": "After successful therapy, recurrence rate if H. pylori eradicated?",
+    "choices": [
+      "A. 100%",
+      "B. <5% per year",
+      "C. 50%",
+      "D. Same as untreated"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Eradication reduces recurrence to <5%/year (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "recurrence",
+      "eradication",
+      "low_rate"
+    ]
+  },
+  {
+    "id": 372,
+    "question": "A 41-year-old with epigastric pain, positive family history of ulcers. Test?",
+    "choices": [
+      "A. No test needed",
+      "B. H. pylori stool antigen",
+      "C. Endoscopy",
+      "D. Breath test only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Family history is not alarm but warrants H. pylori testing (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "family_history",
+      "testing",
+      "H_pylori"
+    ]
+  },
+  {
+    "id": 373,
+    "question": "Metronidazole in quadruple therapy dose?",
+    "choices": [
+      "A. 250 mg TID",
+      "B. 500 mg TID",
+      "C. 1 g BID",
+      "D. 400 mg daily"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Standard dose 500 mg TID for 14 days (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "metronidazole_dose",
+      "quadruple",
+      "therapy"
+    ]
+  },
+  {
+    "id": 374,
+    "question": "Dyspepsia with orthopnea, worse lying down. Differential?",
+    "choices": [
+      "A. Only ulcer",
+      "B. Consider cardiac cause like MI",
+      "C. Biliary",
+      "D. Musculoskeletal"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Atypical symptoms may indicate cardiac disease; evaluate accordingly (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "differential",
+      "cardiac",
+      "atypical"
+    ]
+  },
+  {
+    "id": 375,
+    "question": "Cost-effective strategy in Ethiopia for dyspepsia?",
+    "choices": [
+      "A. Routine endoscopy",
+      "B. Test-and-treat H. pylori",
+      "C. All PPI trials",
+      "D. No testing"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Test-and-treat is cost-effective in high-prevalence areas (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "cost_effective",
+      "test_treat",
+      "Ethiopia"
+    ]
+  },
+  {
+    "id": 376,
+    "question": "Patient with ulcer, cirrhosis. Adjustment?",
+    "choices": [
+      "A. Standard therapy",
+      "B. Avoid bismuth (encephalopathy risk)",
+      "C. Increase PPI dose",
+      "D. No antibiotics"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Bismuth contraindicated in liver disease; use non-bismuth regimens (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "cirrhosis",
+      "bismuth",
+      "contraindication"
+    ]
+  },
+  {
+    "id": 377,
+    "question": "Rapid urease test (CLO test) for H. pylori?",
+    "choices": [
+      "A. Non-invasive",
+      "B. Endoscopic biopsy-based",
+      "C. Blood test",
+      "D. Home kit"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "CLO test on gastric biopsy during endoscopy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "CLO_test",
+      "biopsy",
+      "invasive"
+    ]
+  },
+  {
+    "id": 378,
+    "question": "Healing time for duodenal ulcer with PPI?",
+    "choices": [
+      "A. 1 week",
+      "B. 4-6 weeks",
+      "C. 3 months",
+      "D. 6 months"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Most heal in 4-6 weeks with PPI (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "healing_time",
+      "PPI",
+      "duodenal"
+    ]
+  },
+  {
+    "id": 379,
+    "question": "Alarm feature: progressive dysphagia in 50-year-old?",
+    "choices": [
+      "A. No",
+      "B. Yes, urgent endoscopy",
+      "C. Treat as GERD",
+      "D. Barium first"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Dysphagia suggests possible stricture or cancer (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "dysphagia",
+      "alarm",
+      "urgent"
+    ]
+  },
+  {
+    "id": 380,
+    "question": "Levofloxacin triple therapy when?",
+    "choices": [
+      "A. First-line",
+      "B. Penicillin allergy and failure",
+      "C. Pregnancy",
+      "D. Children"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Salvage for allergy or failure, but resistance emerging (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "levofloxacin",
+      "salvage",
+      "allergy"
+    ]
+  },
+  {
+    "id": 381,
+    "question": "A 33-year-old with postprandial pain, nausea. Likely gastric ulcer?",
+    "choices": [
+      "A. Yes",
+      "B. No, more duodenal",
+      "C. Equal",
+      "D. Functional"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Postprandial pain typical for gastric ulcer (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "gastric_ulcer",
+      "postprandial",
+      "pain"
+    ]
+  },
+  {
+    "id": 382,
+    "question": "Endoscopic therapy for high-risk bleeding ulcer?",
+    "choices": [
+      "A. Epinephrine injection or clips",
+      "B. Observation",
+      "C. Antibiotics only",
+      "D. Balloon tamponade"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Endoscopic hemostasis (injection, thermal, clips) for active bleeding or visible vessel (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "endoscopic_therapy",
+      "hemostasis",
+      "high_risk"
+    ]
+  },
+  {
+    "id": 383,
+    "question": "Compliance issue in eradication therapy?",
+    "choices": [
+      "A. No issue",
+      "B. Side effects reduce; counsel patient",
+      "C. Shorten duration",
+      "D. Use injectable"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Side effects common; emphasize adherence for success (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "compliance",
+      "side_effects",
+      "counseling"
+    ]
+  },
+  {
+    "id": 384,
+    "question": "H. pylori negative ulcer on NSAIDs. Management?",
+    "choices": [
+      "A. Stop NSAID, PPI 8 weeks",
+      "B. Continue NSAID",
+      "C. Add misoprostol only",
+      "D. Surgery"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Discontinue NSAID if possible, PPI for healing (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "NSAID_ulcer",
+      "stop_NSAID",
+      "PPI"
+    ]
+  },
+  {
+    "id": 385,
+    "question": "Test of choice during PPI use for H. pylori?",
+    "choices": [
+      "A. Stool antigen (false negative)",
+      "B. Histology or culture from biopsy",
+      "C. Serology",
+      "D. UBT (avoid)"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspeptic and Peptic Ulcer Disease",
+    "explanation": "PPI suppresses bacteria; use invasive tests like histology (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "PPI_interference",
+      "histology",
+      "testing"
+    ]
+  },
+  {
+    "id": 386,
+    "question": "Annual retesting for H. pylori in treated patients?",
+    "choices": [
+      "A. Yes",
+      "B. No, only if symptoms recur",
+      "C. Every 6 months",
+      "D. Lifelong"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "No routine retesting post-eradication unless recurrence (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "retesting",
+      "symptom_driven",
+      "no_routine"
+    ]
+  },
+  {
+    "id": 387,
+    "question": "A 27-year-old with dyspepsia, anxiety. Management?",
+    "choices": [
+      "A. Rule out organic first",
+      "B. Antidepressants only",
+      "C. Ignore anxiety",
+      "D. Beta blockers"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Exclude organic causes before attributing to functional/psych (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "anxiety",
+      "organic_first",
+      "differential"
+    ]
+  },
+  {
+    "id": 388,
+    "question": "Bismuth subsalicylate contraindication?",
+    "choices": [
+      "A. Allergy to aspirin",
+      "B. Renal failure",
+      "C. Pregnancy",
+      "D. All"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Avoid in salicylate allergy, children (Reye's), severe renal/liver (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "bismuth",
+      "contraindication",
+      "salicylate"
+    ]
+  },
+  {
+    "id": 389,
+    "question": "Ulcer healing without H. pylori treatment?",
+    "choices": [
+      "A. No",
+      "B. Yes with PPI, but recurs",
+      "C. Surgery only",
+      "D. Antibiotics unnecessary"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "PPI heals but eradication prevents recurrence (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "healing_without_eradication",
+      "recurrence",
+      "PPI"
+    ]
+  },
+  {
+    "id": 390,
+    "question": "Patient with marginal ulcer post-bariatric surgery. Cause?",
+    "choices": [
+      "A. H. pylori or NSAID",
+      "B. Infection only",
+      "C. Diet",
+      "D. Rare"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Similar etiology; test and treat (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "marginal_ulcer",
+      "bariatric",
+      "etiology"
+    ]
+  },
+  {
+    "id": 391,
+    "question": "Dose of omeprazole for active ulcer?",
+    "choices": [
+      "A. 20 mg daily",
+      "B. 40 mg daily",
+      "C. 20 mg BID",
+      "D. 80 mg infusion"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "40 mg daily for active disease (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "omeprazole_dose",
+      "active_ulcer",
+      "PPI"
+    ]
+  },
+  {
+    "id": 392,
+    "question": "Dyspepsia workup in HIV patient?",
+    "choices": [
+      "A. Same as general",
+      "B. Consider opportunistic like CMV",
+      "C. No H. pylori",
+      "D. Endoscopy always"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Higher risk for other causes; broader differential (STG 2021, cross Chapter 8).",
+    "tags": [
+      "Chapter 6.1",
+      "HIV",
+      "opportunistic",
+      "differential"
+    ]
+  },
+  {
+    "id": 393,
+    "question": "Success rate of first-line triple therapy?",
+    "choices": [
+      "A. >90%",
+      "B. 70-85%",
+      "C. <50%",
+      "D. Variable"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "70-85% in areas with resistance (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "success_rate",
+      "triple_therapy",
+      "resistance"
+    ]
+  },
+  {
+    "id": 394,
+    "question": "A 36-year-old with pain, no response to PPI. Next?",
+    "choices": [
+      "A. Increase PPI dose",
+      "B. Endoscopy",
+      "C. Add antacid",
+      "D. Reassure"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Failure of empirical therapy warrants endoscopy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "PPI_failure",
+      "endoscopy",
+      "refractory"
+    ]
+  },
+  {
+    "id": 395,
+    "question": "Role of diet in peptic ulcer?",
+    "choices": [
+      "A. Avoid spicy, caffeine; small meals",
+      "B. No specific diet needed",
+      "C. High fiber only",
+      "D. Low carb"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Blunt diet advice: avoid irritants, eat regularly (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "diet",
+      "lifestyle",
+      "advice"
+    ]
+  },
+  {
+    "id": 396,
+    "question": "Tetracycline dose in quadruple therapy?",
+    "choices": [
+      "A. 250 mg QID",
+      "B. 500 mg QID",
+      "C. 1 g BID",
+      "D. 250 mg BID"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "500 mg QID for 14 days (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "tetracycline_dose",
+      "quadruple",
+      "therapy"
+    ]
+  },
+  {
+    "id": 397,
+    "question": "Alarm in dyspepsia: unexplained anemia?",
+    "choices": [
+      "A. No",
+      "B. Yes",
+      "C. Only if severe",
+      "D. Ignore in men"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Iron deficiency anemia is alarm for bleeding (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "anemia",
+      "alarm",
+      "bleeding"
+    ]
+  },
+  {
+    "id": 398,
+    "question": "Post-treatment, persistent symptoms. Cause?",
+    "choices": [
+      "A. Treatment failure",
+      "B. Functional overlay",
+      "C. Both possible",
+      "D. Always cancer"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Recheck eradication or functional dyspepsia (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "persistent_symptoms",
+      "failure",
+      "functional"
+    ]
+  },
+  {
+    "id": 399,
+    "question": "H. pylori vaccine status?",
+    "choices": [
+      "A. Available in Ethiopia",
+      "B. Not available; focus on hygiene",
+      "C. Routine for children",
+      "D. Effective 100%"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "No vaccine; prevention via sanitation (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "vaccine",
+      "prevention",
+      "hygiene"
+    ]
+  },
+  {
+    "id": 400,
+    "question": "A 49-year-old with epigastric mass on exam. Urgent?",
+    "choices": [
+      "A. No",
+      "B. Endoscopy and biopsy",
+      "C. Ultrasound",
+      "D. CT first"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Palpable mass is alarm for malignancy (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "mass",
+      "alarm",
+      "malignancy"
+    ]
+  },
+  {
+    "id": 401,
+    "question": "Amoxicillin dose in triple therapy?",
+    "choices": [
+      "A. 500 mg BID",
+      "B. 1 g BID",
+      "C. 1 g TID",
+      "D. 500 mg QID"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "1 g BID for 14 days (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "amoxicillin_dose",
+      "triple",
+      "therapy"
+    ]
+  },
+  {
+    "id": 402,
+    "question": "Dyspepsia after viral illness. Likely?",
+    "choices": [
+      "A. Post-infectious functional dyspepsia",
+      "B. Ulcer",
+      "C. Cancer",
+      "D. GERD"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Can follow acute gastroenteritis (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "post_infectious",
+      "functional",
+      "dyspepsia"
+    ]
+  },
+  {
+    "id": 403,
+    "question": "In perforation, free air on X-ray confirms?",
+    "choices": [
+      "A. No, ultrasound",
+      "B. Yes, under diaphragm",
+      "C. CT needed",
+      "D. Barium"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Upright chest X-ray shows pneumoperitoneum (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "perforation_diagnosis",
+      "X_ray",
+      "pneumoperitoneum"
+    ]
+  },
+  {
+    "id": 404,
+    "question": "Long-term PPI risk: osteoporosis?",
+    "choices": [
+      "A. No risk",
+      "B. Possible; monitor in elderly",
+      "C. Absolute",
+      "D. Only in men"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Associated with fractures; use lowest dose (STG 2021, p. 180).",
+    "tags": [
+      "Chapter 6.1",
+      "PPI_risk",
+      "osteoporosis",
+      "long_term"
+    ]
+  },
+  {
+    "id": 405,
+    "question": "Eradication confirmation in children?",
+    "choices": [
+      "A. UBT >4 weeks post",
+      "B. Serology",
+      "C. No need",
+      "D. Endoscopy always"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Same as adults: UBT or stool antigen (STG 2021, p. 181).",
+    "tags": [
+      "Chapter 6.1",
+      "children_confirmation",
+      "UBT",
+      "eradication"
+    ]
+  },
+  {
+    "id": 406,
+    "question": "Final advice for patient post-eradication?",
+    "choices": [
+      "A. Annual H. pylori test",
+      "B. Report recurrence; avoid NSAIDs",
+      "C. Daily PPI",
+      "D. No follow-up"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.1 Dyspepsia and Peptic Ulcer Disease",
+    "explanation": "Educate on symptoms, risk factors avoidance (STG 2021, p. 182).",
+    "tags": [
+      "Chapter 6.1",
+      "patient_education",
+      "recurrence",
+      "avoid_NSAIDs"
+    ]
+  },
+  {
+    "id": 407,
+    "question": "A 38-year-old female teacher presents with heartburn and acid regurgitation for 6 months that worsens when lying down and after heavy meals. Symptoms improve with antacids. No dysphagia or weight loss. What is the most likely diagnosis?",
+    "choices": [
+      "A. Peptic ulcer disease",
+      "B. Gastroesophageal reflux disease (GERD)",
+      "C. Achalasia cardia",
+      "D. Esophageal carcinoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Typical GERD symptoms: heartburn, acid regurgitation, worse on lying down and after meals, relieved by antacids (STG 2021, p.182).",
+    "tags": ["GERD", "classic_presentation", "heartburn"]
+  },
+  {
+    "id": 408,
+    "question": "A 45-year-old man presents with chronic heartburn and nocturnal cough for 1 year. He has no alarm symptoms. According to Ethiopian STG 2021, what is the initial management?",
+    "choices": [
+      "A. Immediate upper GI endoscopy",
+      "B. Lifestyle modification + empirical PPI trial for 4–8 weeks",
+      "C. Barium swallow",
+      "D. 24-hour pH monitoring"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "In uncomplicated GERD (no alarm features), start lifestyle changes and empirical PPI trial (omeprazole 20–40 mg daily) for 4–8 weeks (STG 2021, p.182).",
+    "tags": ["GERD", "empirical_treatment", "lifestyle"]
+  },
+  {
+    "id": 409,
+    "question": "Which of the following is NOT a recommended lifestyle modification for GERD according to Ethiopian STG 2021?",
+    "choices": [
+      "A. Elevate head of bed",
+      "B. Avoid meals 3 hours before bedtime",
+      "C. Stop smoking and alcohol",
+      "D. Increase coffee and spicy food intake"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Avoid trigger foods (spicy, fatty, coffee, chocolate, citrus), alcohol, smoking; elevate head of bed; avoid late meals (STG 2021, p.182).",
+    "tags": ["GERD", "lifestyle_modification", "avoid_triggers"]
+  },
+  {
+    "id": 410,
+    "question": "A 52-year-old man with long-standing GERD now presents with progressive dysphagia to solids and 6 kg weight loss in 2 months. What is the most urgent next step?",
+    "choices": [
+      "A. Double-dose PPI",
+      "B. Urgent upper GI endoscopy",
+      "C. Barium swallow",
+      "D. Continue current therapy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "New-onset dysphagia and weight loss in chronic GERD are alarm symptoms indicating possible Barrett’s esophagus or adenocarcinoma → urgent endoscopy (STG 2021, p.182).",
+    "tags": ["GERD", "alarm_features", "dysphagia", "endoscopy"]
+  },
+  {
+    "id": 411,
+    "question": "First-line pharmacological treatment for GERD in Ethiopia per STG 2021 is:",
+    "choices": [
+      "A. Ranitidine 150 mg BID",
+      "B. Omeprazole 20–40 mg daily for 4–8 weeks",
+      "C. Domperidone 10 mg TID",
+      "D. Aluminium hydroxide mixture"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Proton pump inhibitors (omeprazole preferred) are the most effective and first-line therapy (STG 2021, p.182).",
+    "tags": ["GERD", "PPI", "first_line"]
+  },
+  {
+    "id": 412,
+    "question": "A 28-year-old pregnant woman at 32 weeks gestation presents with severe heartburn. Safest initial treatment?",
+    "choices": [
+      "A. Omeprazole 20 mg daily",
+      "B. Lifestyle modification + antacids (Ca/Mg-based)",
+      "C. Ranitidine 150 mg BID",
+      "D. Metoclopramide"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "In pregnancy, start with lifestyle changes and non-absorbable antacids; PPIs only if severe and unresponsive (STG 2021, p.182).",
+    "tags": ["GERD", "pregnancy", "antacids", "safe"]
+  },
+  {
+    "id": 413,
+    "question": "A 60-year-old man with GERD symptoms unresponsive to 8 weeks of omeprazole 40 mg daily. Next step?",
+    "choices": [
+      "A. Switch to ranitidine",
+      "B. Refer for upper GI endoscopy",
+      "C. Add domperidone",
+      "D. Life-long antacids"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Refractory GERD (no response to 8 weeks high-dose PPI) requires endoscopy to rule out erosive esophagitis, Barrett’s, or other pathology (STG 2021, p.182).",
+    "tags": ["GERD", "refractory", "endoscopy"]
+  },
+  {
+    "id": 414,
+    "question": "Which endoscopic finding confirms erosive esophagitis in GERD?",
+    "choices": [
+      "A. Normal mucosa",
+      "B. Los Angeles Grade A–D mucosal breaks",
+      "C. Hiatal hernia only",
+      "D. Schatzki ring"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Erosive esophagitis is graded by LA classification (A–D) based on mucosal breaks (STG 2021, p.182).",
+    "tags": ["GERD", "erosive_esophagitis", "LA_classification"]
+  },
+  {
+    "id": 415,
+    "question": "A patient with long-standing GERD is found to have Barrett’s esophagus on biopsy. Most important next step?",
+    "choices": [
+      "A. Stop PPI",
+      "B. Continue high-dose PPI + endoscopic surveillance",
+      "C. Immediate surgery",
+      "D. Add H2 blocker"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Barrett’s esophagus requires lifelong high-dose PPI and regular endoscopic surveillance for dysplasia (STG 2021, p.182).",
+    "tags": ["GERD", "Barretts_esophagus", "surveillance"]
+  },
+  {
+    "id": 416,
+    "question": "Most common extra-esophageal manifestation of GERD in Ethiopia?",
+    "choices": [
+      "A. Dental erosion",
+      "B. Chronic cough / asthma-like symptoms",
+      "C. Hoarseness",
+      "D. Chest pain"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Chronic cough and asthma exacerbation are common atypical presentations (STG 2021, p.182).",
+    "tags": ["GERD", "extraesophageal", "cough"]
+  },
+  {
+    "id": 417,
+    "question": "A 35-year-old obese man with GERD symptoms. Most effective non-pharmacological advice?",
+    "choices": [
+      "A. Increase fiber intake",
+      "B. Weight reduction",
+      "C. Drink milk before bed",
+      "D. Sleep on right side"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Weight loss is the most effective lifestyle intervention in overweight/obese patients (STG 2021, p.182).",
+    "tags": ["GERD", "obesity", "weight_loss"]
+  },
+  {
+    "id": 418,
+    "question": "Maintenance therapy in patient with LA Grade C/D esophagitis after healing?",
+    "choices": [
+      "A. Stop PPI",
+      "B. Half-dose PPI long-term",
+      "C. Antacids as needed",
+      "D. H2 blocker"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Severe erosive esophagitis (Grade C/D) usually requires long-term maintenance PPI at lowest effective dose (STG 2021, p.182).",
+    "tags": ["GERD", "maintenance", "severe_esophagitis"]
+  },
+  {
+    "id": 419,
+    "question": "Indication for anti-reflux surgery (fundoplication) in Ethiopia?",
+    "choices": [
+      "A. All GERD patients",
+      "B. Young patient with refractory symptoms despite optimal PPI + confirmed reflux",
+      "C. Mild symptoms",
+      "D. Elderly patients"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Surgery reserved for young patients with proven reflux who fail or do not want long-term PPI (STG 2021, p.182).",
+    "tags": ["GERD", "surgery", "fundoplication"]
+  },
+  {
+    "id": 420,
+    "question": "Role of prokinetics (domperidone/metoclopramide) in GERD?",
+    "choices": [
+      "A. First-line therapy",
+      "B. Adjunct in patients with delayed gastric emptying",
+      "C. Contraindicated",
+      "D. Replace PPI"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Prokinetics are second-line, used as adjunct when gastroparesis coexists (STG 2021, p.182).",
+    "tags": ["GERD", "prokinetics", "adjunct"]
+  },
+  {
+    "id": 421,
+    "question": "A 55-year-old man with GERD and chronic cough improves dramatically on PPI. Diagnosis?",
+    "choices": [
+      "A. Asthma",
+      "B. GERD-related laryngopharyngeal reflux",
+      "C. Tuberculosis",
+      "D. Cardiac disease"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "PPI-responsive chronic cough in non-smoker strongly suggests LPR (STG 2021, p.182).",
+    "tags": ["GERD", "LPR", "cough", "PPI_trial"]
+  },
+  {
+    "id": 422,
+    "question": "Which drug class most commonly worsens GERD symptoms?",
+    "choices": [
+      "A. Beta blockers",
+      "B. Calcium channel blockers and nitrates",
+      "C. ACE inhibitors",
+      "D. Statins"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Drugs that relax LES (CCBs, nitrates, benzodiazepines, theophylline) exacerbate reflux (STG 2021, p.182).",
+    "tags": ["GERD", "drug_induced", "LES_relaxants"]
+  },
+  {
+    "id": 423,
+    "question": "Normal finding on endoscopy in up to 70% of GERD patients?",
+    "choices": [
+      "A. Erosive esophagitis",
+      "B. Normal esophageal mucosa (NERD)",
+      "C. Barrett’s esophagus",
+      "D. Stricture"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Non-erosive reflux disease (NERD) is the most common endoscopic finding (STG 2021, p.182).",
+    "tags": ["GERD", "NERD", "normal_endoscopy"]
+  },
+  {
+    "id": 424,
+    "question": "Complication of long-standing untreated GERD?",
+    "choices": [
+      "A. Peptic ulcer",
+      "B. Barrett’s esophagus → adenocarcinoma",
+      "C. Gastric cancer",
+      "D. Pancreatitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Chronic reflux → Barrett’s metaplasia → increased risk of esophageal adenocarcinoma (STG 2021, p.182).",
+    "tags": ["GERD", "Barretts", "adenocarcinoma"]
+  },
+  {
+    "id": 425,
+    "question": "Best time to take PPI for optimal effect in GERD?",
+    "choices": [
+      "A. At bedtime",
+      "B. 30–60 minutes before breakfast",
+      "C. With meals",
+      "D. Anytime"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "PPIs should be taken 30–60 minutes before the first meal to maximize acid suppression (STG 2021, p.182).",
+    "tags": ["GERD", "PPI_timing", "before_meal"]
+  },
+  {
+    "id": 426,
+    "question": "A 42-year-old with GERD symptoms and iron deficiency anemia. Next step?",
+    "choices": [
+      "A. Oral iron only",
+      "B. Urgent endoscopy",
+      "C. Increase PPI dose",
+      "D. Transfusion"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Anemia in GERD may indicate erosive esophagitis or Cameron lesions → alarm symptom (STG 2021, p.182).",
+    "tags": ["GERD", "anemia", "alarm"]
+  },
+  {
+    "id": 427,
+    "question": "Duration of PPI trial in suspected GERD before declaring refractory?",
+    "choices": [
+      "A. 2 weeks",
+      "B. 4 weeks",
+      "C. 8 weeks at maximum dose",
+      "D. 12 weeks"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Failure to respond to 8 weeks of high-dose PPI (e.g., omeprazole 40 mg) defines refractory GERD (STG 2021, p.182).",
+    "tags": ["GERD", "refractory", "PPI_trial"]
+  },
+  {
+    "id": 428,
+    "question": "Most common risk factor for GERD in Ethiopia?",
+    "choices": [
+      "A. H. pylori infection",
+      "B. Obesity and hiatal hernia",
+      "C. Alcohol",
+      "D. Smoking only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Obesity, hiatal hernia, and delayed gastric emptying are major risk factors (STG 2021, p.182).",
+    "tags": ["GERD", "risk_factors", "obesity"]
+  },
+  {
+    "id": 429,
+    "question": "Patient with GERD develops odynophagia (painful swallowing). Likely cause?",
+    "choices": [
+      "A. Erosive esophagitis",
+      "B. Esophageal candidiasis",
+      "C. Pill esophagitis",
+      "D. All possible"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Odynophagia suggests severe esophagitis, infection, or ulceration (STG 2021, p.182).",
+    "tags": ["GERD", "odynophagia", "complication"]
+  },
+  {
+    "id": 430,
+    "question": "Role of H2-receptor antagonists in GERD 2021?",
+    "choices": [
+      "A. First-line",
+      "B. Alternative if PPI not tolerated or unavailable",
+      "C. Superior to PPI",
+      "D. Not recommended"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "H2RAs (e.g., ranitidine) are less effective than PPIs but acceptable alternatives (STG 2021, p.182).",
+    "tags": ["GERD", "H2RA", "alternative"]
+  },
+  {
+    "id": 431,
+    "question": "A 30-year-old with heartburn only at night. Best advice?",
+    "choices": [
+      "A. Take PPI at night",
+      "B. Elevate head of bed + avoid late meals",
+      "C. Sleep on left side",
+      "D. Take antacid at bedtime"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Nocturnal symptoms respond best to head elevation and avoiding food 3 hours before bed (STG 2021, p.182).",
+    "tags": ["GERD", "nocturnal", "head_elevation"]
+  },
+  {
+    "id": 432,
+    "question": "Alarm symptoms in GERD requiring urgent endoscopy include all EXCEPT:",
+    "choices": [
+      "A. Dysphagia",
+      "B. Odynophagia",
+      "C. Weight loss",
+      "D. Heartburn relieved by antacids"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Relief with antacids is typical of uncomplicated GERD; the others are red flags (STG 2021, p.182).",
+    "tags": ["GERD", "alarm_features"]
+  },
+  {
+    "id": 433,
+    "question": "Patient with GERD and known hiatal hernia. Management change?",
+    "choices": [
+      "A. Immediate surgery",
+      "B. Same medical management",
+      "C. Avoid PPI",
+      "D. Use only antacids"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Hiatal hernia alone does not change initial medical management (STG 2021, p.182).",
+    "tags": ["GERD", "hiatal_hernia", "medical"]
+  },
+  {
+    "id": 434,
+    "question": "Best diagnostic test for refractory GERD when endoscopy is normal?",
+    "choices": [
+      "A. Barium swallow",
+      "B. 24-hour esophageal pH monitoring",
+      "C. Manometry",
+      "D. Repeat endoscopy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Ambulatory pH monitoring confirms acid reflux in PPI-refractory, endoscopy-negative patients (STG 2021, p.182).",
+    "tags": ["GERD", "pH_monitoring", "refractory"]
+  },
+  {
+    "id": 435,
+    "question": "Long-term PPI use in GERD is indicated in:",
+    "choices": [
+      "A. All patients",
+      "B. Severe erosive esophagitis or Barrett’s esophagus",
+      "C. Mild NERD",
+      "D. Only 3 months"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Long-term PPI reserved for complicated or severe disease (STG 2021, p.182).",
+    "tags": ["GERD", "long_term_PPI", "indication"]
+  },
+  {
+    "id": 436,
+    "question": "A 48-year-old with GERD and hoarseness. Likely diagnosis?",
+    "choices": [
+      "A. Vocal cord polyp",
+      "B. Laryngopharyngeal reflux (LPR)",
+      "C. Thyroid cancer",
+      "D. Asthma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "LPR commonly causes hoarseness, throat clearing, globus (STG 2021, p.182).",
+    "tags": ["GERD", "LPR", "hoarseness"]
+  },
+  {
+    "id": 437,
+    "question": "On-demand PPI therapy is appropriate for:",
+    "choices": [
+      "A. Severe erosive esophagitis",
+      "B. Mild, infrequent symptoms (NERD)",
+      "C. Barrett’s esophagus",
+      "D. Stricture"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Patients with mild, non-erosive disease can use PPI on-demand (STG 2021, p.182).",
+    "tags": ["GERD", "on_demand", "mild"]
+  },
+  {
+    "id": 438,
+    "question": "Most common complication of chronic GERD requiring dilation?",
+    "choices": [
+      "A. Bleeding",
+      "B. Peptic stricture",
+      "C. Perforation",
+      "D. Aspiration"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Long-standing reflux can cause fibrotic peptic stricture → dysphagia (STG 2021, p.182).",
+    "tags": ["GERD", "stricture", "dilation"]
+  },
+  {
+    "id": 439,
+    "question": "Patient with GERD symptoms and normal endoscopy responds to PPI. Diagnosis?",
+    "choices": [
+      "A. Functional heartburn",
+      "B. Non-erosive reflux disease (NERD)",
+      "C. Esophageal hypersensitivity",
+      "D. Achalasia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "PPI-responsive, endoscopy-negative GERD = NERD (STG 2021, p.182).",
+    "tags": ["GERD", "NERD", "PPI_responsive"]
+  },
+  {
+    "id": 440,
+    "question": "Best sleeping position to reduce nocturnal GERD?",
+    "choices": [
+      "A. Right lateral",
+      "B. Left lateral + head elevated",
+      "C. Supine",
+      "D. Prone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Left lateral decubitus with head elevation reduces reflux episodes (STG 2021, p.182).",
+    "tags": ["GERD", "sleep_position", "left_lateral"]
+  },
+  {
+    "id": 441,
+    "question": "A 62-year-old with GERD and new-onset atrial fibrillation. Likely trigger?",
+    "choices": [
+      "A. Large hiatal hernia",
+      "B. Vagal irritation from distended stomach",
+      "C. PPI side effect",
+      "D. No relation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Large meals or distension can trigger AF via vagal mechanism (STG 2021, p.182).",
+    "tags": ["GERD", "atrial_fibrillation", "vagal"]
+  },
+  {
+    "id": 442,
+    "question": "Step-up vs step-down approach in GERD: Ethiopia recommends?",
+    "choices": [
+      "A. Step-up (antacid → H2RA → PPI)",
+      "B. Step-down (start with PPI, then taper)",
+      "C. Both acceptable",
+      "D. Antacids only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Start with PPI (most effective) then step down if controlled (STG 2021, p.182).",
+    "tags": ["GERD", "step_down", "PPI_first"]
+  },
+  {
+    "id": 443,
+    "question": "Patient with GERD and osteoporosis on long-term PPI. Concern?",
+    "choices": [
+      "A. Increased fracture risk",
+      "B. No concern",
+      "C. Only kidney stones",
+      "D. Vitamin B12 only"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Long-term PPI associated with reduced calcium absorption → fracture risk (STG 2021, p.182).",
+    "tags": ["GERD", "PPI_side_effect", "fracture"]
+  },
+  {
+    "id": 444,
+    "question": "Child with recurrent vomiting and failure to thrive. Possible diagnosis?",
+    "choices": [
+      "A. GERD",
+      "B. Pyloric stenosis",
+      "C. Both possible",
+      "D. Intestinal obstruction"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "GERD in children can present with vomiting, poor weight gain (cross-reference pediatric chapter, STG 2021).",
+    "tags": ["GERD", "pediatric", "vomiting"]
+  },
+  {
+    "id": 445,
+    "question": "Most effective way to confirm GERD when endoscopy and pH are unavailable?",
+    "choices": [
+      "A. Barium swallow",
+      "B. Therapeutic PPI trial (PPI test)",
+      "C. Manometry",
+      "D. Clinical history only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "PPI test (symptom resolution on 2–4 weeks PPI) has high sensitivity/specificity (STG 2021, p.182).",
+    "tags": ["GERD", "PPI_test", "diagnosis"]
+  },
+  {
+    "id": 446,
+    "question": "Patient with GERD develops black stools. Most likely cause?",
+    "choices": [
+      "A. Erosive esophagitis bleeding",
+      "B. Peptic ulcer",
+      "C. Iron supplementation",
+      "D. Any of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Severe esophagitis or concomitant ulcer can bleed; iron also causes black stool (STG 2021).",
+    "tags": ["GERD", "melena", "bleeding"]
+  },
+  {
+    "id": 447,
+    "question": "Role of antacids in GERD management?",
+    "choices": [
+      "A. First-line",
+      "B. For rapid symptom relief (on-demand)",
+      "C. Healing esophagitis",
+      "D. Long-term maintenance"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Antacids provide quick relief but do not heal esophagitis (STG 2021, p.182).",
+    "tags": ["GERD", "antacids", "symptomatic"]
+  },
+  {
+    "id": 448,
+    "question": "Patient with scleroderma and severe GERD. Reason?",
+    "choices": [
+      "A. Increased acid production",
+      "B. Impaired esophageal motility and low LES pressure",
+      "C. H. pylori",
+      "D. Hiatal hernia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Connective tissue diseases cause poor peristalsis and LES incompetence (STG 2021, p.182).",
+    "tags": ["GERD", "scleroderma", "motility"]
+  },
+  {
+    "id": 449,
+    "question": "Minimum duration of PPI for healing erosive esophagitis?",
+    "choices": [
+      "A. 2 weeks",
+      "B. 4–8 weeks",
+      "C. 12 weeks",
+      "D. 6 months"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Most heal within 4–8 weeks; severe cases may need longer (STG 2021, p.182).",
+    "tags": ["GERD", "healing_duration", "PPI"]
+  },
+  {
+    "id": 450,
+    "question": "A 40-year-old with GERD symptoms and globus sensation. Management?",
+    "choices": [
+      "A. Reassure + PPI trial",
+      "B. Immediate ENT referral",
+      "C. Thyroid ultrasound",
+      "D. Surgery"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Globus is common in LPR; responds to PPI (STG 2021, p.182).",
+    "tags": ["GERD", "globus", "LPR"]
+  },
+  {
+    "id": 451,
+    "question": "Strongest indication for 24-hour pH monitoring?",
+    "choices": [
+      "A. Typical symptoms",
+      "B. Refractory symptoms with normal endoscopy",
+      "C. Before starting PPI",
+      "D. All patients"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Gold standard for confirming reflux in endoscopy-negative, PPI-refractory cases (STG 2021, p.182).",
+    "tags": ["GERD", "pH_monitoring", "refractory"]
+  },
+  {
+    "id": 452,
+    "question": "Patient with GERD and dental erosions. Likely cause?",
+    "choices": [
+      "A. Bulimia",
+      "B. Chronic acid reflux",
+      "C. Poor hygiene",
+      "D. Fluoride deficiency"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Acid exposure causes dental enamel erosion (STG 2021, p.182).",
+    "tags": ["GERD", "dental_erosion", "extraesophageal"]
+  },
+  {
+    "id": 453,
+    "question": "When to repeat endoscopy in GERD?",
+    "choices": [
+      "A. Every year",
+      "B. New alarm symptoms or Barrett’s surveillance",
+      "C. After 8 weeks PPI",
+      "D. Never"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Repeat only if alarm symptoms or for Barrett’s surveillance (STG 2021, p.182).",
+    "tags": ["GERD", "repeat_endoscopy", "indication"]
+  },
+  {
+    "id": 454,
+    "question": "Most common type of hiatal hernia associated with GERD?",
+    "choices": [
+      "A. Paraesophageal (Type II–IV)",
+      "B. Sliding (Type I)",
+      "C. Mixed",
+      "D. Traumatic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Sliding hiatal hernia (Type I) is most common and contributes to GERD (STG 2021, p.182).",
+    "tags": ["GERD", "sliding_hernia", "hiatal"]
+  },
+  {
+    "id": 455,
+    "question": "Patient with GERD well-controlled on PPI wants to stop. Advice?",
+    "choices": [
+      "A. Stop abruptly",
+      "B. Gradual taper and lifestyle continuation",
+      "C. Switch to H2RA",
+      "D. Never stop"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Attempt step-down or discontinuation in mild disease with sustained lifestyle measures (STG 2021, p.182).",
+    "tags": ["GERD", "PPI_taper", "discontinuation"]
+  },
+  {
+    "id": 456,
+    "question": "Final patient education point for GERD?",
+    "choices": [
+      "A. Symptoms will disappear forever",
+      "B. Chronic, relapsing condition; continue lifestyle changes even on treatment",
+      "C. Surgery cures all",
+      "D. Antacids are enough"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "GERD is chronic and relapsing; lifestyle modification is lifelong (STG 2021, p.182).",
+    "tags": ["GERD", "patient_education", "chronic"]
+  },
+  {
+    "id": 457,
+    "question": "A 39-year-old woman presents with heartburn for 8 months. She took omeprazole 20 mg daily for 4 weeks with partial improvement. What is the most appropriate next step according to Ethiopian STG 2021?",
+    "choices": [
+      "A. Stop omeprazole and switch to ranitidine",
+      "B. Increase omeprazole to 40 mg daily for another 4–8 weeks",
+      "C. Immediate referral for fundoplication",
+      "D. Add aluminium hydroxide only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Partial responders should receive dose escalation to omeprazole 40 mg once daily (or 20 mg twice daily) for another 4–8 weeks before declaring treatment failure (STG 2021, p.182).",
+    "tags": ["GERD", "partial_response", "dose_escalation"]
+  },
+  {
+    "id": 458,
+    "question": "A 45-year-old truck driver has typical GERD symptoms only when driving long distances lying semi-reclined. The single most effective advice is:",
+    "choices": [
+      "A. Take PPI twice daily",
+      "B. Avoid lying down immediately after meals and use extra pillows",
+      "C. Stop eating spicy food only",
+      "D. Drink coffee to stay awake"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Postural reflux is best prevented by avoiding recumbency after meals and elevating the head of the bed (STG 2021, p.182).",
+    "tags": ["GERD", "postural_reflux", "lifestyle"]
+  },
+  {
+    "id": 459,
+    "question": "Which of the following foods has the strongest evidence for worsening GERD symptoms?",
+    "choices": [
+      "A. Injera with shiro",
+      "B. Chocolate and peppermint",
+      "C. Teff bread",
+      "D. Banana"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Chocolate, peppermint, coffee, fatty foods, citrus, and alcohol consistently lower LES pressure (STG 2021, p.182).",
+    "tags": ["GERD", "trigger_foods", "LES_relaxation"]
+  },
+  {
+    "id": 460,
+    "question": "A 55-year-old man with chronic GERD presents with new-onset dysphagia to solids progressing to liquids over 3 weeks. Most likely diagnosis?",
+    "choices": [
+      "A. Achalasia",
+      "B. Peptic stricture",
+      "C. Functional dysphagia",
+      "D. Stroke"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Progressive dysphagia from solids to liquids in long-standing GERD is classic for peptic stricture (STG 2021, p.182).",
+    "tags": ["GERD", "peptic_stricture", "progressive_dysphagia"]
+  },
+  {
+    "id": 461,
+    "question": "Management of peptic stricture in GERD includes all EXCEPT:",
+    "choices": [
+      "A. High-dose PPI",
+      "B. Endoscopic dilatation",
+      "C. Long-term PPI after dilatation",
+      "D. Immediate esophagectomy"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Peptic strictures are managed with PPI + endoscopic balloon/savary dilatation; surgery is rarely needed (STG 2021, p.182).",
+    "tags": ["GERD", "stricture", "dilatation"]
+  },
+  {
+    "id": 462,
+    "question": "A 32-year-old woman at 28 weeks gestation has daily heartburn not relieved by lifestyle changes and calcium-based antacids. Next safest step?",
+    "choices": [
+      "A. Ranitidine 150 mg BID",
+      "B. Omeprazole 20 mg daily",
+      "C. Domperidone",
+      "D. Continue antacids only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "If lifestyle + antacids fail in pregnancy, PPI (omeprazole preferred) is safe and recommended (category B) (STG 2021, p.182).",
+    "tags": ["GERD", "pregnancy", "PPI_safe"]
+  },
+  {
+    "id": 463,
+    "question": "Which of the following is an absolute contraindication to metoclopramide as adjunct in GERD?",
+    "choices": [
+      "A. Pregnancy",
+      "B. Parkinson’s disease",
+      "C. Hypertension",
+      "D. Diabetes"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Metoclopramide can worsen Parkinson’s disease due to dopamine antagonism (STG 2021).",
+    "tags": ["GERD", "metoclopramide", "contraindication"]
+  },
+  {
+    "id": 464,
+    "question": "A patient with GERD and asthma has frequent night-time wheezing. Most effective intervention?",
+    "choices": [
+      "A. Increase salbutamol",
+      "B. Start high-dose PPI",
+      "C. Add montelukast",
+      "D. Inhaled corticosteroid only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Nocturnal asthma in GERD patients often improves dramatically with adequate acid suppression (STG 2021, p.182).",
+    "tags": ["GERD", "asthma", "nocturnal"]
+  },
+  {
+    "id": 465,
+    "question": "The Los Angeles Classification is used for grading:",
+    "choices": [
+      "A. Barrett’s esophagus",
+      "B. Erosive esophagitis",
+      "C. Hiatal hernia",
+      "D. Esophageal varices"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "LA classification grades erosive esophagitis from A (one or more mucosal breaks ≤5 mm) to D (>75% circumferential) (STG 2021, p.182).",
+    "tags": ["GERD", "LA_classification", "erosive"]
+  },
+  {
+    "id": 466,
+    "question": "A 50-year-old man with GERD for 10 years has salmon-coloured mucosa extending 3 cm above the GE junction on endoscopy. Next step?",
+    "choices": [
+      "A. Repeat endoscopy in 6 months",
+      "B. Biopsy to confirm Barrett’s + start surveillance program",
+      "C. Start sucralfate",
+      "D. No further action"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Salmon-coloured mucosa = suspected Barrett’s → mandatory biopsy and surveillance every 3–5 years if no dysplasia (STG 2021, p.182).",
+    "tags": ["GERD", "Barretts", "surveillance"]
+  },
+  {
+    "id": 467,
+    "question": "Which Barrett’s esophagus finding requires immediate referral to tertiary centre?",
+    "choices": [
+      "A. Short segment <3 cm",
+      "B. High-grade dysplasia or early adenocarcinoma",
+      "C. Intestinal metaplasia without dysplasia",
+      "D. Long segment >8 cm"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "High-grade dysplasia or early cancer requires endoscopic resection or ablation (STG 2021, p.182).",
+    "tags": ["GERD", "Barretts", "HGD"]
+  },
+  {
+    "id": 468,
+    "question": "A patient with refractory GERD is scheduled for Nissen fundoplication. Most important preoperative investigation?",
+    "choices": [
+      "A. Barium swallow",
+      "B. 24-hour pH monitoring + manometry",
+      "C. CT chest",
+      "D. ECG"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Objective evidence of reflux (pH study) and normal esophageal motility are required before anti-reflux surgery (STG 2021, p.182).",
+    "tags": ["GERD", "surgery", "preop"]
+  },
+  {
+    "id": 469,
+    "question": "Most common side effect that leads to PPI discontinuation in Ethiopia?",
+    "choices": [
+      "A. Diarrhoea",
+      "B. Headache",
+      "C. Cost of long-term therapy",
+      "D. Vitamin B12 deficiency"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Economic factors are the leading cause of non-adherence in resource-limited settings (STG 2021).",
+    "tags": ["GERD", "PPI", "adherence"]
+  },
+  {
+    "id": 470,
+    "question": "A 29-year-old with heartburn and chest pain. ECG normal. Most useful test to differentiate cardiac from esophageal pain?",
+    "choices": [
+      "A. Troponin",
+      "B. Therapeutic PPI trial",
+      "C. Exercise stress test",
+      "D. Coronary angiography"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Non-cardiac chest pain that responds to high-dose PPI is diagnostic of esophageal origin (STG 2021, p.182).",
+    "tags": ["GERD", "chest_pain", "PPI_test"]
+  },
+  {
+    "id": 471,
+    "question": "Which of the following reduces GERD symptoms in overweight patients most effectively?",
+    "choices": [
+      "A. 5 kg weight loss",
+      "B. 10–15% body weight reduction",
+      "C. Low-fat diet only",
+      "D. High-protein diet"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Significant weight loss (≥10%) markedly reduces reflux episodes (STG 2021, p.182).",
+    "tags": ["GERD", "obesity", "weight_loss"]
+  },
+  {
+    "id": 472,
+    "question": "A patient with GERD on long-term PPI develops community-acquired pneumonia. Most likely relationship?",
+    "choices": [
+      "A. No relation",
+      "B. Possible increased risk due to reduced gastric acidity",
+      "C. PPI protects against pneumonia",
+      "D. Only in elderly"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Long-term PPI slightly increases risk of CAP due to bacterial overgrowth (STG 2021).",
+    "tags": ["GERD", "PPI", "pneumonia_risk"]
+  },
+  {
+    "id": 473,
+    "question": "Best management for Cameron lesions in large hiatal hernia causing chronic blood loss?",
+    "choices": [
+      "A. Iron supplementation only",
+      "B. High-dose PPI + iron therapy",
+      "C. Surgical hernia repair",
+      "D. Transfusion"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Cameron lesions heal with aggressive acid suppression + iron (STG 2021, p.182).",
+    "tags": ["GERD", "Cameron_lesions", "anemia"]
+  },
+  {
+    "id": 474,
+    "question": "A 44-year-old teacher has GERD symptoms only during stressful examination periods. Likely diagnosis?",
+    "choices": [
+      "A. Functional heartburn",
+      "B. Stress-related increase in acid reflux",
+      "C. Peptic ulcer",
+      "D. Gallstones"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Stress transiently lowers LES pressure and increases acid exposure (STG 2021).",
+    "tags": ["GERD", "stress", "transient"]
+  },
+  {
+    "id": 475,
+    "question": "Patient with NERD and normal pH study but symptoms correlate with reflux events. Diagnosis?",
+    "choices": [
+      "A. Functional heartburn",
+      "B. Reflux hypersensitivity",
+      "C. True GERD",
+      "D. Achalasia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Positive symptom-reflux association despite normal acid exposure = reflux hypersensitivity (Rome IV, referenced in STG).",
+    "tags": ["GERD", "hypersensitivity", "SI_positive"]
+  },
+  {
+    "id": 476,
+    "question": "A patient with severe GERD develops pill-induced esophagitis. Most implicated drug in Ethiopia?",
+    "choices": [
+      "A. Doxycycline",
+      "B. Ferrous sulphate",
+      "C. NSAIDs",
+      "D. All of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Common culprits: doxycycline, potassium, NSAIDs, bisphosphonates (STG 2021).",
+    "tags": ["GERD", "pill_esophagitis", "doxycycline"]
+  },
+  {
+    "id": 477,
+    "question": "Most important counselling point when prescribing long-term PPI?",
+    "choices": [
+      "A. Take with meals",
+      "B. Take 30–60 minutes before breakfast",
+      "C. Take at bedtime",
+      "D. Take only when symptomatic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "PPIs require pre-meal administration for maximal parietal cell inhibition (STG 2021, p.182).",
+    "tags": ["GERD", "PPI_timing", "counselling"]
+  },
+  {
+    "id": 478,
+    "question": "A 60-year-old man with GERD and chronic kidney disease stage 4. Safest long-term acid suppressant?",
+    "choices": [
+      "A. Omeprazole",
+      "B. Ranitidine (avoid high dose)",
+      "C. Pantoprazole (dose adjustment)",
+      "D. All equally safe"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Pantoprazole has least renal excretion; preferred in advanced CKD (STG 2021).",
+    "tags": ["GERD", "CKD", "pantoprazole"]
+  },
+  {
+    "id": 479,
+    "question": "Patient with GERD and new iron-deficiency anaemia but no overt bleeding. Most likely source?",
+    "choices": [
+      "A. Colon cancer",
+      "B. Chronic erosive esophagitis / Cameron lesions",
+      "C. Duodenal ulcer",
+      "D. Hemorrhoids"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Chronic microscopic blood loss from erosions or Cameron lesions common in long-standing GERD (STG 2021).",
+    "tags": ["GERD", "anemia", "occult_bleeding"]
+  },
+  {
+    "id": 480,
+    "question": "Best non-invasive test when endoscopy is unavailable and PPI trial is equivocal?",
+    "choices": [
+      "A. Barium swallow",
+      "B. Upper GI series may show reflux or hiatal hernia",
+      "C. Abdominal ultrasound",
+      "D. Chest X-ray"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "In resource-limited settings, barium swallow can demonstrate reflux or structural abnormality (STG 2021).",
+    "tags": ["GERD", "barium_swallow", "resource_limited"]
+  },
+  {
+    "id": 481,
+    "question": "A patient with refractory GERD on maximal PPI still has symptoms. Next most useful add-on therapy?",
+    "choices": [
+      "A. Baclofen",
+      "B. Alginate (Gaviscon)",
+      "C. Sucralfate",
+      "D. All reasonable"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Options for refractory GERD: alginate raft, baclofen (TLESR inhibitor), or pain modulators (STG 2021).",
+    "tags": ["GERD", "refractory", "alginate"]
+  },
+  {
+    "id": 482,
+    "question": "Patient with GERD develops new-onset sinusitis. Possible link?",
+    "choices": [
+      "A. No link",
+      "B. Aspiration of refluxate",
+      "C. PPI-induced hypochlorhydria",
+      "D. Coincidence"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Extra-esophageal reflux can cause chronic sinusitis via microaspiration (STG 2021).",
+    "tags": ["GERD", "sinusitis", "extraesophageal"]
+  },
+  {
+    "id": 483,
+    "question": "Most common endoscopic finding in patients with typical GERD symptoms in Ethiopia?",
+    "choices": [
+      "A. Erosive esophagitis",
+      "B. Normal esophagus (NERD)",
+      "C. Barrett’s",
+      "D. Stricture"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "60–70% of patients with typical symptoms have non-erosive reflux disease (STG 2021, p.182).",
+    "tags": ["GERD", "NERD", "Ethiopia"]
+  },
+  {
+    "id": 484,
+    "question": "A 35-year-old with GERD wants to conceive. Advice regarding PPI?",
+    "choices": [
+      "A. Stop immediately",
+      "B. Omeprazole is safe throughout pregnancy",
+      "C. Switch to ranitidine",
+      "D. Use only in third trimester"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Large data show omeprazole is safe in all trimesters (STG 2021).",
+    "tags": ["GERD", "pregnancy_planning", "omeprazole"]
+  },
+  {
+    "id": 485,
+    "question": "Patient with GERD and laryngeal cancer risk. Strongest preventive measure?",
+    "choices": [
+      "A. Smoking cessation",
+      "B. Aggressive acid suppression",
+      "C. Alcohol abstinence",
+      "D. All important"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Tobacco and alcohol are far stronger risk factors than reflux for laryngeal cancer.",
+    "tags": ["GERD", "LPR", "cancer_risk"]
+  },
+  {
+    "id": 486,
+    "question": "A 48-year-old with GERD symptoms wakes up choking at night. Likely mechanism?",
+    "choices": [
+      "A. Laryngospasm due to LPR",
+      "B. Asthma attack",
+      "C. Cardiac arrhythmia",
+      "D. Panic attack"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Nocturnal laryngopharyngeal reflux can trigger laryngospasm (STG 2021).",
+    "tags": ["GERD", "LPR", "choking"]
+  },
+  {
+    "id": 487,
+    "question": "Minimum duration of symptoms required to diagnose GERD clinically?",
+    "choices": [
+      "A. 1 week",
+      "B. Symptoms at least twice weekly for several weeks",
+      "C. Daily symptoms only",
+      "D. No duration needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Heartburn/regurgitation ≥2 times/week for several weeks defines clinically significant GERD (STG 2021).",
+    "tags": ["GERD", "definition", "frequency"]
+  },
+  {
+    "id": 488,
+    "question": "Patient with HIV on atazanavir develops severe GERD. Management issue?",
+    "choices": [
+      "A. PPI reduces atazanavir absorption",
+      "B. Use H2 blocker or antacid instead",
+      "C. Stop atazanavir",
+      "D. No interaction"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "PPIs contraindicated with atazanavir; use ranitidine or spaced antacids (STG 2021).",
+    "tags": ["GERD", "HIV", "atazanavir"]
+  },
+  {
+    "id": 489,
+    "question": "Most common cause of refractory GERD in clinical practice?",
+    "choices": [
+      "A. Poor adherence to PPI timing",
+      "B. Zollinger-Ellison",
+      "C. Eosinophilic esophagitis",
+      "D. Bile reflux"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Incorrect timing (taking PPI after meals or at night) is the leading cause of apparent refractoriness (STG 2021).",
+    "tags": ["GERD", "refractory", "adherence"]
+  },
+  {
+    "id": 490,
+    "question": "A 42-year-old with GERD and depression on amitriptyline. Effect on reflux?",
+    "choices": [
+      "A. Improves",
+      "B. Worsens (anticholinergic effect)",
+      "C. No effect",
+      "D. Only sedation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Tricyclic antidepressants relax LES and delay gastric emptying.",
+    "tags": ["GERD", "drug_interaction", "amitriptyline"]
+  },
+  {
+    "id": 491,
+    "question": "Patient with GERD and nocturnal regurgitation wants to prevent aspiration. Best advice?",
+    "choices": [
+      "A. Sleep with two pillows",
+      "B. Elevate head of bed 15–20 cm + avoid meals 3–4 hours before bed",
+      "C. Take PPI at night",
+      "D. Sleep on right side"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Head elevation + prolonged pre-bedtime fasting most effective against nocturnal reflux (STG 2021).",
+    "tags": ["GERD", "nocturnal", "aspiration_prevention"]
+  },
+  {
+    "id": 492,
+    "question": "A 38-year-old with GERD develops halitosis and bitter taste. Likely cause?",
+    "choices": [
+      "A. Dental caries",
+      "B. Regurgitation of gastric contents",
+      "C. H. pylori",
+      "D. Sinusitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Passive regurgitation causes bad breath and sour taste.",
+    "tags": ["GERD", "halitosis", "regurgitation"]
+  },
+  {
+    "id": 493,
+    "question": "Safest acid suppressant in lactation?",
+    "choices": [
+      "A. Omeprazole",
+      "B. Ranitidine",
+      "C. Both safe",
+      "D. Antacids only"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Both omeprazole and ranitidine are compatible with breastfeeding (STG 2021).",
+    "tags": ["GERD", "lactation", "safe"]
+  },
+  {
+    "id": 494,
+    "question": "Patient with GERD and large hiatal hernia develops acute chest pain and vomiting. Most worrying diagnosis?",
+    "choices": [
+      "A. Myocardial infarction",
+      "B. Paraesophageal hernia incarceration",
+      "C. Perforated ulcer",
+      "D. Pancreatitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Acute incarceration/strangulation of paraesophageal hernia is surgical emergency.",
+    "tags": ["GERD", "paraesophageal", "emergency"]
+  },
+  {
+    "id": 495,
+    "question": "A patient with GERD improves on PPI but relapses immediately after stopping. Best long-term strategy?",
+    "choices": [
+      "A. Continue high-dose PPI forever",
+      "B. Lowest effective PPI dose + sustained lifestyle changes",
+      "C. Switch to surgery",
+      "D. On-demand therapy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Step-down to minimal effective dose with lifelong lifestyle modification is recommended (STG 2021).",
+    "tags": ["GERD", "maintenance", "step_down"]
+  },
+  {
+    "id": 496,
+    "question": "Most important risk factor for erosive esophagitis severity?",
+    "choices": [
+      "A. Duration of symptoms",
+      "B. Hiatal hernia size",
+      "C. BMI",
+      "D. H. pylori status"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Longer duration of untreated reflux strongly correlates with erosive severity (STG 2021).",
+    "tags": ["GERD", "erosive", "duration"]
+  },
+  {
+    "id": 497,
+    "question": "Patient with GERD and scleroderma has severe symptoms despite maximal PPI. Reason?",
+    "choices": [
+      "A. Poor esophageal clearance",
+      "B. High acid production",
+      "C. Bile reflux",
+      "D. Gastritis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Scleroderma causes absent peristalsis → prolonged acid contact despite normal/suppressed acid (STG 2021).",
+    "tags": ["GERD", "scleroderma", "motility"]
+  },
+  {
+    "id": 498,
+    "question": "A 27-year-old medical student has heartburn only after late-night studying with coffee. Best management?",
+    "choices": [
+      "A. Lifelong PPI",
+      "B. Lifestyle: stop late meals and coffee",
+      "C. Endoscopy",
+      "D. H. pylori test"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Clear trigger-related symptoms in young patient → lifestyle modification first (STG 2021).",
+    "tags": ["GERD", "young", "lifestyle"]
+  },
+  {
+    "id": 499,
+    "question": "Patient with GERD and known esophageal stricture after dilatation still requires long-term PPI to:",
+    "choices": [
+      "A. Prevent re-stricture",
+      "B. Heal mucosa only",
+      "C. Reduce saliva",
+      "D. No need"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Continued acid suppression dramatically reduces recurrence of peptic strictures (STG 2021).",
+    "tags": ["GERD", "stricture", "PPI_prevention"]
+  },
+  {
+    "id": 500,
+    "question": "Final take-home message for every GERD patient in Ethiopia?",
+    "choices": [
+      "A. You will need PPI forever",
+      "B. GERD is a chronic relapsing disease; lifestyle changes are lifelong even if symptoms disappear",
+      "C. Surgery cures it",
+      "D. Spicy food is the only trigger"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.2 Gastroesophageal Reflux Disease (GERD)",
+    "explanation": "Patient education on chronicity and importance of sustained lifestyle measures is crucial for long-term control (Ethiopian STG 2021, p.182).",
+    "tags": ["GERD", "patient_education", "chronic"]
+  },
+  {
+    "id": 501,
+    "question": "A 55-year-old farmer presents with massive hematemesis and melena for 6 hours. He has been vomiting blood at home and is now dizzy. On examination BP 80/50 mmHg, pulse 130/min. What is the FIRST priority according to Ethiopian STG 2021?",
+    "choices": [
+      "A. Urgent upper GI endoscopy",
+      "B. IV omeprazole 80 mg bolus",
+      "C. Secure two large-bore IV lines and rapid fluid resuscitation",
+      "D. Blood transfusion immediately"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "ABC resuscitation comes first. Secure large-bore IV access (≥18G) and start crystalloid resuscitation in actively bleeding UGIB with shock (STG 2021, p.185).",
+    "tags": ["UGIB", "shock", "resuscitation"]
+  },
+  {
+    "id": 502,
+    "question": "A patient with upper GI bleeding has BP 90/60 mmHg after 1 litre of normal saline. Next most appropriate fluid?",
+    "choices": [
+      "A. Continue saline",
+      "B. Start packed red blood cells",
+      "C. Give fresh frozen plasma",
+      "D. Colloids"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Target transfusion when Hb <7 g/dL or ongoing bleeding with hemodynamic instability. In shock, transfuse PRBC early (STG 2021, p.185).",
+    "tags": ["UGIB", "transfusion", "PRBC"]
+  },
+  {
+    "id": 503,
+    "question": "Most common cause of severe acute upper GI bleeding in Ethiopia?",
+    "choices": [
+      "A. Mallory-Weiss tear",
+      "B. Peptic ulcer disease",
+      "C. Esophageal varices",
+      "D. Gastritis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Peptic ulcer (duodenal > gastric) remains the leading cause of non-variceal UGIB in Ethiopia (STG 2021, p.185).",
+    "tags": ["UGIB", "peptic_ulcer", "Ethiopia"]
+  },
+  {
+    "id": 504,
+    "question": "A 45-year-old chronic alcohol user presents with massive hematemesis. No signs of chronic liver disease. Most likely source?",
+    "choices": [
+      "A. Varices",
+      "B. Peptic ulcer",
+      "C. Mallory-Weiss tear",
+      "D. Gastritis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Even in alcoholics, peptic ulcer is more common than varices unless stigmata of portal hypertension are present (STG 2021).",
+    "tags": ["UGIB", "alcohol", "peptic_ulcer"]
+  },
+  {
+    "id": 505,
+    "question": "First-line pharmacological therapy for acute non-variceal UGIB after resuscitation?",
+    "choices": [
+      "A. IV octreotide",
+      "B. IV omeprazole 80 mg bolus followed by 8 mg/hour infusion",
+      "C. Oral tranexamic acid",
+      "D. IV ranitidine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "High-dose IV PPI (omeprazole 80 mg bolus + 8 mg/hr for 72 hours) reduces rebleeding and need for intervention in non-variceal UGIB (STG 2021, p.186).",
+    "tags": ["non_variceal", "PPI_infusion", "high_dose"]
+  },
+  {
+    "id": 506,
+    "question": "A patient with suspected variceal bleeding. Drug of choice before endoscopy?",
+    "choices": [
+      "A. IV omeprazole",
+      "B. Terlipressin 1–2 mg IV every 4–6 hours or octreotide 50 mcg bolus + 50 mcg/hr",
+      "C. Propranolol oral",
+      "D. Ceftriaxone only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Terlipressin (or octreotide if unavailable) + ceftriaxone 1 g IV started before endoscopy in suspected variceal bleed (STG 2021, p.187).",
+    "tags": ["variceal", "terlipressin", "octreotide"]
+  },
+  {
+    "id": 507,
+    "question": "Prophylactic antibiotic in cirrhotic patient with UGIB?",
+    "choices": [
+      "A. Ceftriaxone 1 g IV daily for 7 days",
+      "B. Amoxicillin only",
+      "C. Metronidazole",
+      "D. No need"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Ceftriaxone 1 g IV daily (or norfloxacin if IV unavailable) reduces bacterial infections and mortality in variceal bleeding (STG 2021, p.187).",
+    "tags": ["variceal", "ceftriaxone", "prophylaxis"]
+  },
+  {
+    "id": 508,
+    "question": "Timing of endoscopy in hemodynamically stable patient with UGIB?",
+    "choices": [
+      "A. Immediate",
+      "B. Within 24 hours",
+      "C. Within 12 hours",
+      "D. After 72 hours PPI"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Stable patients: endoscopy within 24 hours. Unstable after resuscitation: as soon as possible (STG 2021, p.185).",
+    "tags": ["UGIB", "endoscopy_timing", "stable"]
+  },
+  {
+    "id": 509,
+    "question": "Rockall score is used to predict:",
+    "choices": [
+      "A. Source of bleeding",
+      "B. Risk of rebleeding and mortality",
+      "C. Need for surgery",
+      "D. H. pylori status"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Pre- and post-endoscopy Rockall score stratifies mortality risk in UGIB (STG 2021).",
+    "tags": ["Rockall_score", "risk_stratification"]
+  },
+  {
+    "id": 510,
+    "question": "A patient with UGIB has active spurting vessel on endoscopy. Forrest classification?",
+    "choices": [
+      "A. Ia",
+      "B. Ib",
+      "C. IIa",
+      "D. IIb"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Forrest Ia = active spurting bleeding (highest rebleeding risk) (STG 2021).",
+    "tags": ["Forrest", "Ia", "spurting"]
+  },
+  {
+    "id": 511,
+    "question": "Endoscopic hemostasis indicated in all EXCEPT:",
+    "choices": [
+      "A. Active spurting (Ia)",
+      "B. Visible vessel (IIa)",
+      "C. Adherent clot (IIb) – controversial, often removed",
+      "D. Clean base ulcer (III)"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Clean-based ulcer (Forrest III) has <5% rebleeding risk → no endoscopic therapy needed (STG 2021).",
+    "tags": ["Forrest_III", "no_therapy"]
+  },
+  {
+    "id": 512,
+    "question": "Best endoscopic method for bleeding peptic ulcer in most Ethiopian hospitals?",
+    "choices": [
+      "A. Adrenaline injection + heater probe/coagulation",
+      "B. Band ligation",
+      "C. Hemoclips alone",
+      "D. Argon plasma coagulation"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Dual therapy (adrenaline injection + thermal coagulation or clips) is superior to injection alone (STG 2021).",
+    "tags": ["endoscopic_hemostasis", "dual_therapy"]
+  },
+  {
+    "id": 513,
+    "question": "Patient rebleeds 24 hours after endoscopic therapy for peptic ulcer. Next step?",
+    "choices": [
+      "A. Repeat endoscopy",
+      "B. Immediate surgery",
+      "C. Angiography",
+      "D. Conservative only"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Second-look endoscopy and repeat hemostasis preferred over surgery in most cases (STG 2021).",
+    "tags": ["rebleeding", "second_endoscopy"]
+  },
+  {
+    "id": 514,
+    "question": "Indication for surgery in non-variceal UGIB?",
+    "choices": [
+      "A. Failed second endoscopic attempt",
+      "B. All patients",
+      "C. Only if Hb <7",
+      "D. After 4 units transfusion"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Surgery indicated after two failed endoscopic therapies or massive bleeding unresponsive to resuscitation (STG 2021).",
+    "tags": ["surgery", "failed_endoscopy"]
+  },
+  {
+    "id": 515,
+    "question": "A 60-year-old with bright red hematochezia and hemodynamic instability. Most likely source?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Upper GI source (brisk UGIB)",
+      "C. Diverticular bleed",
+      "D. Ischemic colitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Massive hematochezia with shock → think brisk UGIB until proven otherwise (up to 15% of presumed LGIB are actually UGIB) (STG 2021).",
+    "tags": ["hematochezia", "brisk_UGIB"]
+  },
+  {
+    "id": 516,
+    "question": "Blatchford score is used at presentation to decide:",
+    "choices": [
+      "A. Need for endoscopic intervention",
+      "B. Need for hospital admission and early endoscopy",
+      "C. Mortality risk",
+      "D. H. pylori status"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Blatchford score = 0 → safe for outpatient management (STG 2021).",
+    "tags": ["Blatchford", "admission"]
+  },
+  {
+    "id": 517,
+    "question": "Patient with variceal bleeding controlled by banding. Secondary prophylaxis?",
+    "choices": [
+      "A. Propranolol or nadolol + repeat banding until obliteration",
+      "B. PPI only",
+      "C. Octreotide lifelong",
+      "D. No need"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Combination non-selective beta-blocker + endoscopic variceal ligation (EVL) is standard secondary prophylaxis (STG 2021).",
+    "tags": ["variceal", "secondary_prophylaxis"]
+  },
+  {
+    "id": 518,
+    "question": "Best method for acute variceal bleeding control when endoscopy unavailable?",
+    "choices": [
+      "A. Sengstaken-Blakemore tube",
+      "B. IV PPI",
+      "C. Tranexamic acid",
+      "D. Fresh frozen plasma"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Balloon tamponade is a temporary bridge (max 24 hours) until definitive therapy (STG 2021).",
+    "tags": ["variceal", "balloon_tamponade"]
+  },
+  {
+    "id": 519,
+    "question": "Most common cause of lower GI bleeding in adults in Ethiopia?",
+    "choices": [
+      "A. Colorectal cancer",
+      "B. Hemorrhoids",
+      "C. Infectious colitis (dysentery)",
+      "D. Diverticulosis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Hemorrhoids remain the most common cause of LGIB in Ethiopia (STG 2021).",
+    "tags": ["LGIB", "hemorrhoids", "Ethiopia"]
+  },
+  {
+    "id": 520,
+    "question": "A 70-year-old with painless massive hematochezia. Most likely diagnosis?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Diverticular bleeding",
+      "C. Ischemic colitis",
+      "D. Cancer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Elderly + painless + large volume → diverticular bleed (right colon) (STG 2021).",
+    "tags": ["LGIB", "diverticular"]
+  },
+  {
+    "id": 521,
+    "question": "Patient passes bright red blood per rectum with clots and abdominal pain. Likely diagnosis?",
+    "choices": [
+      "A. Upper GI bleed",
+      "B. Dysentery (shigella/amoeba)",
+      "C. Hemorrhoids",
+      "D. Diverticulosis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Bloody diarrhea with pain and tenesmus → infectious colitis (STG 2021).",
+    "tags": ["LGIB", "dysentery"]
+  },
+  {
+    "id": 522,
+    "question": "NSAID-induced UGIB. Management includes all EXCEPT:",
+    "choices": [
+      "A. Stop NSAID permanently",
+      "B. High-dose IV PPI",
+      "C. H. pylori testing and eradication",
+      "D. Restart low-dose aspirin if cardiovascular indication"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "In patients with cardiovascular disease, aspirin should be restarted as soon as hemostasis achieved (usually within 1–3 days) (STG 2021).",
+    "tags": ["NSAID", "aspirin_restart"]
+  },
+  {
+    "id": 523,
+    "question": "Transfusion threshold in stable UGIB patient without cardiac disease?",
+    "choices": [
+      "A. Hb <7 g/dL",
+      "B. Hb <8 g/dL",
+      "C. Hb <9 g/dL",
+      "D. Hb <10 g/dL"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Restrictive strategy (Hb <7 g/dL) reduces mortality compared to liberal transfusion (STG 2021).",
+    "tags": ["transfusion", "restrictive"]
+  },
+  {
+    "id": 524,
+    "question": "A patient with UGIB on warfarin presents with INR 5. Next immediate step?",
+    "choices": [
+      "A. Vitamin K 10 mg IV",
+      "B. Stop warfarin + vitamin K + prothrombin complex concentrate (PCC) or FFP",
+      "C. Fresh frozen plasma only",
+      "D. Continue warfarin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Major bleeding on warfarin → reverse with PCC (or FFP if unavailable) + vitamin K (STG 2021).",
+    "tags": ["warfarin", "reversal", "PCC"]
+  },
+  {
+    "id": 525,
+    "question": "Most important predictor of poor outcome in variceal bleeding?",
+    "choices": [
+      "A. Child-Pugh class C",
+      "B. Active bleeding on endoscopy",
+      "C. HVPG >20 mmHg",
+      "D. All of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Child C, active spurting, and high HVPG are strong predictors (STG 2021).",
+    "tags": ["variceal", "prognosis"]
+  },
+  {
+    "id": 526,
+    "question": "TIPS (transjugular intrahepatic portosystemic shunt) indicated in variceal bleeding when:",
+    "choices": [
+      "A. All patients",
+      "B. Refractory to medical + endoscopic therapy (salvage TIPS)",
+      "C. First bleed",
+      "D. Only Child A"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Salvage TIPS for uncontrolled variceal bleeding despite pharmacology + banding (STG 2021).",
+    "tags": ["TIPS", "salvage"]
+  },
+  {
+    "id": 527,
+    "question": "Patient with peptic ulcer bleeding successfully treated. When to test and treat H. pylori?",
+    "choices": [
+      "A. Immediately",
+      "B. After 4–8 weeks when off PPI",
+      "C. During acute bleed",
+      "D. Never"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "False negative common during acute phase and on PPI → test after 4 weeks off PPI (STG 2021).",
+    "tags": ["H_pylori", "timing"]
+  },
+  {
+    "id": 528,
+    "question": "A 30-year-old with massive UGIB and known duodenal ulcer history. Endoscopy shows clean base. Management?",
+    "choices": [
+      "A. Discharge same day",
+      "B. Observe 24–48 hours + oral PPI",
+      "C. IV PPI 72 hours",
+      "D. Surgery"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Low-risk ulcer (clean base, Rockall ≤2) → early discharge safe with oral PPI (STG 2021).",
+    "tags": ["low_risk", "early_discharge"]
+  },
+  {
+    "id": 529,
+    "question": "Most common complication of Sengstaken-Blakemore tube?",
+    "choices": [
+      "A. Esophageal rupture",
+      "B. Aspiration pneumonia",
+      "C. Nasal bleeding",
+      "D. All possible"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "High complication rate (up to 30%) including necrosis and aspiration (STG 2021).",
+    "tags": ["balloon", "complications"]
+  },
+  {
+    "id": 530,
+    "question": "Patient with cirrhosis and UGIB. Platelet count 40,000. Need for platelet transfusion?",
+    "choices": [
+      "A. Always",
+      "B. Only if active bleeding and <50,000 before procedure",
+      "C. Never",
+      "D. If <20,000"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Threshold for endoscopy: platelets >50,000; transfuse if lower and active bleeding (STG 2021).",
+    "tags": ["thrombocytopenia", "transfusion"]
+  },
+  {
+    "id": 531,
+    "question": "A patient passes maroon stool and is hemodynamically stable. Likely source?",
+    "choices": [
+      "A. Right colon",
+      "B. Small bowel or brisk upper GI",
+      "C. Left colon",
+      "D. Rectum"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Maroon stool usually indicates small bowel or rapid transit from right colon/proximal source (STG 2021).",
+    "tags": ["maroon_stool", "small_bowel"]
+  },
+  {
+    "id": 532,
+    "question": "Best investigation for obscure GI bleeding when upper and lower endoscopy negative?",
+    "choices": [
+      "A. Repeat colonoscopy",
+      "B. Capsule endoscopy",
+      "C. CT abdomen",
+      "D. Angiography"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Capsule endoscopy is first-line for small bowel evaluation in obscure-overt bleeding (STG 2021).",
+    "tags": ["obscure", "capsule"]
+  },
+  {
+    "id": 533,
+    "question": "Patient with UGIB and aortic graft presents with hematemesis. Suspected diagnosis?",
+    "choices": [
+      "A. Peptic ulcer",
+      "B. Aortoenteric fistula",
+      "C. Varices",
+      "D. Gastritis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Herald bleed followed by massive hemorrhage classic for secondary aortoenteric fistula (STG 2021).",
+    "tags": ["aortoenteric_fistula", "herald_bleed"]
+  },
+  {
+    "id": 534,
+    "question": "Dieulafoy lesion is best treated endoscopically by:",
+    "choices": [
+      "A. Injection only",
+      "B. Band ligation or hemoclip",
+      "C. Thermal coagulation only",
+      "D. No treatment"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Mechanical methods (banding or clipping) preferred over injection alone for Dieulafoy (STG 2021).",
+    "tags": ["Dieulafoy", "band_ligation"]
+  },
+  {
+    "id": 535,
+    "question": "Patient with massive LGIB not responding to resuscitation. Next step?",
+    "choices": [
+      "A. Colonoscopy",
+      "B. Tagged RBC scan",
+      "C. Angiography with embolization",
+      "D. Surgery"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Unstable patient with ongoing LGIB → emergency angiography ± embolization (STG 2021).",
+    "tags": ["LGIB", "angiography"]
+  },
+  {
+    "id": 536,
+    "question": "Most common site of diverticular bleeding?",
+    "choices": [
+      "A. Left colon",
+      "B. Right colon",
+      "C. Rectum",
+      "D. Transverse"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Paradoxically, right colonic diverticula bleed more frequently (STG 2021).",
+    "tags": ["diverticular", "right_colon"]
+  },
+  {
+    "id": 537,
+    "question": "Patient with UGIB improves after 72-hour PPI infusion. Next step?",
+    "choices": [
+      "A. Stop PPI",
+      "B. Switch to oral PPI 40 mg daily for 4–8 weeks",
+      "C. Lifelong PPI",
+      "D. H. pylori only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "After high-dose IV PPI, step down to oral high-dose PPI for ulcer healing (STG 2021).",
+    "tags": ["post_bleed", "oral_PPI"]
+  },
+  {
+    "id": 538,
+    "question": "A 28-year-old with bloody diarrhea and fever for 3 days. Most appropriate initial management?",
+    "choices": [
+      "A. Upper endoscopy",
+      "B. Stool microscopy/culture + empirical ciprofloxacin + metronidazole",
+      "C. Colonoscopy",
+      "D. IV PPI"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Suspected infectious colitis (dysentery) → stool exam + empirical therapy while awaiting results (STG 2021).",
+    "tags": ["dysentery", "empirical"]
+  },
+  {
+    "id": 539,
+    "question": "Patient with cirrhosis and ascites presents with hematemesis. First drug to give in ER?",
+    "choices": [
+      "A. Ceftriaxone 1 g IV",
+      "B. Terlipressin 2 mg IV",
+      "C. Octreotide 50 mcg bolus",
+      "D. All of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Start vasoactive drug (terlipressin/octreotide) + antibiotic immediately in suspected variceal bleed (STG 2021).",
+    "tags": ["variceal", "prehospital"]
+  },
+  {
+    "id": 540,
+    "question": "Most sensitive sign of significant UGIB?",
+    "choices": [
+      "A. Hematemesis",
+      "B. Melena",
+      "C. Hematochezia",
+      "D. Hypotension"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Melena indicates ≥60 mL blood loss and is the most sensitive clinical sign (STG 2021).",
+    "tags": ["melena", "sensitivity"]
+  },
+  {
+    "id": 541,
+    "question": "Patient on clopidogrel presents with UGIB. Management of antiplatelet?",
+    "choices": [
+      "A. Stop permanently",
+      "B. Stop temporarily, restart when hemostasis achieved",
+      "C. Continue throughout",
+      "D. Switch to aspirin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Early resumption (within 5–7 days) of antiplatelet in high cardiac risk patients (STG 2021).",
+    "tags": ["clopidogrel", "restart"]
+  },
+  {
+    "id": 542,
+    "question": "NG tube placement in UGIB is:",
+    "choices": [
+      "A. Mandatory in all",
+      "B. Useful for diagnosis and gastric lavage in selected cases",
+      "C. Contraindicated in varices",
+      "D. Diagnostic gold standard"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Not routine, but helpful to confirm active UGIB and clear stomach before endoscopy (STG 2021).",
+    "tags": ["NG_tube", "selective"]
+  },
+  {
+    "id": 543,
+    "question": "Patient with UGIB has coffee-ground vomitus and stable vitals. Risk category?",
+    "choices": [
+      "A. High risk",
+      "B. Low risk",
+      "C. Intermediate",
+      "D. Cannot tell"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Coffee-ground (not bright red) + stable → lower risk than active hematemesis (STG 2021).",
+    "tags": ["coffee_ground", "low_risk"]
+  },
+  {
+    "id": 544,
+    "question": "Best position for patient with active variceal bleeding during transport?",
+    "choices": [
+      "A. Supine",
+      "B. Left lateral decubitus with head elevated",
+      "C. Sitting upright",
+      "D. Trendelenburg"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Reduces aspiration risk while maintaining venous return (STG 2021).",
+    "tags": ["position", "aspiration"]
+  },
+  {
+    "id": 545,
+    "question": "Child-Pugh score includes all EXCEPT:",
+    "choices": [
+      "A. Bilirubin",
+      "B. Albumin",
+      "C. INR",
+      "D. Creatinine"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Child-Pugh: bilirubin, albumin, INR, ascites, encephalopathy (STG 2021).",
+    "tags": ["Child_Pugh"]
+  },
+  {
+    "id": 546,
+    "question": "Patient with rectal bleeding and history of radiation therapy for cervical cancer. Likely diagnosis?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Radiation proctitis",
+      "C. Recurrent cancer",
+      "D. Diverticulitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Chronic radiation proctitis causes telangiectasia and bleeding months to years later (STG 2021).",
+    "tags": ["radiation_proctitis"]
+  },
+  {
+    "id": 547,
+    "question": "Most effective treatment for bleeding internal hemorrhoids in stable patient?",
+    "choices": [
+      "A. Surgery",
+      "B. Rubber band ligation",
+      "C. Sclerotherapy",
+      "D. Conservative (fiber + sitz bath)"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Band ligation is outpatient, effective, and widely available (STG 2021).",
+    "tags": ["hemorrhoids", "banding"]
+  },
+  {
+    "id": 548,
+    "question": "Patient with UGIB found to have gastric antral vascular ectasia (GAVE). Best endoscopic therapy?",
+    "choices": [
+      "A. Band ligation",
+      "B. Argon plasma coagulation (APC)",
+      "C. Injection",
+      "D. Clips"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "APC is treatment of choice for watermelon stomach (GAVE) (STG 2021).",
+    "tags": ["GAVE", "APC"]
+  },
+  {
+    "id": 549,
+    "question": "Final message to every patient after UGIB due to peptic ulcer?",
+    "choices": [
+      "A. Avoid all spicy food forever",
+      "B. Stop NSAIDs, treat H. pylori, continue PPI for at least 4–8 weeks",
+      "C. No need for follow-up",
+      "D. Surgery next time"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Patient education on risk factors and adherence crucial for prevention (STG 2021).",
+    "tags": ["patient_education", "prevention"]
+  },
+  {
+    "id": 550,
+    "question": "A patient presents with hematochezia 5 days after starting warfarin. INR 8. Most likely source?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Diverticular bleed exacerbated by anticoagulation",
+      "C. Ischemic colitis",
+      "D. Upper GI source"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Over-anticoagulation can unmask or worsen any bleeding source (STG 2021).",
+    "tags": ["warfarin", "INR", "LGIB"]
+  },
+  {
+    "id": 551,
+    "question": "A 48-year-old chronic alcohol user with known cirrhosis presents with massive fresh hematemesis and hypotension. After securing two large-bore IV lines and starting fluids, the NEXT most important simultaneous action is:",
+    "choices": [
+      "A. Urgent upper GI endoscopy",
+      "B. Start IV ceftriaxone 1 g + terlipressin 2 mg IV stat",
+      "C. Insert Sengstaken-Blakemore tube",
+      "D. Transfuse 4 units PRBC immediately"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "In suspected variceal bleeding in cirrhosis, start vasoactive drug (terlipressin or octreotide) + prophylactic antibiotic (ceftriaxone 1 g) immediately, even before endoscopy (STG 2021, p.187).",
+    "tags": ["variceal", "terlipressin", "ceftriaxone", "prehospital"]
+  },
+  {
+    "id": 552,
+    "question": "A patient with peptic ulcer bleeding has a visible vessel (Forrest IIa) at endoscopy. Best definitive endoscopic therapy in a general hospital setting in Ethiopia?",
+    "choices": [
+      "A. Adrenaline injection alone",
+      "B. Adrenaline injection + thermal coagulation (heater probe or bipolar)",
+      "C. Hemoclip alone",
+      "D. Argon plasma coagulation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Dual therapy (epinephrine injection + thermal coagulation) is the most widely available and effective method in Ethiopian general hospitals (STG 2021, p.186).",
+    "tags": ["Forrest_IIa", "dual_therapy", "Ethiopia"]
+  },
+  {
+    "id": 553,
+    "question": "After successful endoscopic banding of esophageal varices, the patient is stable. Duration of IV vasoactive drug (terlipressin/octreotide)?",
+    "choices": [
+      "A. 24 hours",
+      "B. 2–5 days",
+      "C. Until discharge",
+      "D. Only stat dose"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Continue vasoactive drugs for 2–5 days after endoscopic control to prevent early rebleeding (STG 2021, p.187).",
+    "tags": ["variceal", "vasoactive_duration"]
+  },
+  {
+    "id": 554,
+    "question": "A 62-year-old man on aspirin for secondary prevention presents with melena and Hb 7.8 g/dL. He is hemodynamically stable. When should aspirin be restarted?",
+    "choices": [
+      "A. Never",
+      "B. After 4 weeks",
+      "C. As soon as hemostasis is achieved (usually within 1–7 days)",
+      "D. After H. pylori eradication"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "In patients with cardiovascular indication, restarting aspirin early (within 1–7 days) reduces cardiovascular events and mortality more than bleeding risk (STG 2021, p.186).",
+    "tags": ["aspirin", "restart", "cardiovascular"]
+  },
+  {
+    "id": 555,
+    "question": "Most common cause of massive lower GI bleeding requiring hospitalization in elderly Ethiopians?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Diverticular disease",
+      "C. Colorectal cancer",
+      "D. Ischemic colitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "With increasing age and dietary westernization, diverticular bleeding is becoming more common in elderly Ethiopians (STG 2021, p.189).",
+    "tags": ["LGIB", "diverticular", "elderly"]
+  },
+  {
+    "id": 556,
+    "question": "A patient with massive UGIB is intubated for airway protection. Next most important drug to prevent rebleeding?",
+    "choices": [
+      "A. IV octreotide",
+      "B. IV omeprazole 80 mg bolus → 8 mg/hour infusion for 72 hours",
+      "C. Oral sucralfate",
+      "D. Tranexamic acid"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "High-dose IV PPI for 72 hours after endoscopy is standard for high-risk non-variceal ulcers (STG 2021, p.186).",
+    "tags": ["high_dose_PPI", "72_hours"]
+  },
+  {
+    "id": 557,
+    "question": "A cirrhotic patient with variceal bleed is on maximum terlipressin and banding but continues to bleed. Next step?",
+    "choices": [
+      "A. Repeat banding",
+      "B. Balloon tamponade as bridge + urgent referral for TIPS/surgery",
+      "C. Increase terlipressin dose",
+      "D. Tranexamic acid"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Refractory variceal bleeding → temporary balloon tamponade + urgent referral for salvage TIPS or shunt surgery (STG 2021, p.187).",
+    "tags": ["refractory_variceal", "TIPS"]
+  },
+  {
+    "id": 558,
+    "question": "A 35-year-old woman presents with hematochezia 10 days postpartum. Most likely diagnosis?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Anal fissure",
+      "C. Inflammatory bowel disease",
+      "D. Colorectal cancer"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Perianal conditions (hemorrhoids, fissure) are extremely common postpartum due to constipation and straining (STG 2021).",
+    "tags": ["postpartum", "hemorrhoids"]
+  },
+  {
+    "id": 559,
+    "question": "Patient with UGIB has Rockall score of 7 post-endoscopy. Predicted mortality?",
+    "choices": [
+      "A. <5 Автор%",
+      "B. 10–20%",
+      "C. >40%",
+      "D. 100%"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Complete Rockall score ≥7 → mortality >40% (STG 2021).",
+    "tags": ["Rockall", "high_risk"]
+  },
+  {
+    "id": 560,
+    "question": "A patient with bleeding duodenal ulcer is on warfarin for atrial fibrillation. INR 6.5. Management of anticoagulation?",
+    "choices": [
+      "A. Vitamin K 10 mg IV only",
+      "B. Stop warfarin + vitamin K 5–10 mg IV + PCC (or FFP if unavailable)",
+      "C. Fresh frozen plasma only",
+      "D. Continue warfarin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Major bleeding + supratherapeutic INR → full reversal with vitamin K + PCC/FFP (STG 2021).",
+    "tags": ["warfarin_reversal", "PCC"]
+  },
+  {
+    "id": 561,
+    "question": "Most common site of peptic ulcer causing massive UGIB in Ethiopia?",
+    "choices": [
+      "A. Gastric antrum",
+      "B. Posterior duodenal bulb",
+      "C. Gastric body",
+      "D. Pre-pyloric"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Posterior duodenal bulb ulcers erode into gastroduodenal artery → severe bleeding (STG 2021).",
+    "tags": ["duodenal_ulcer", "gastroduodenal_artery"]
+  },
+  {
+    "id": 562,
+    "question": "A 25-year-old with bloody diarrhea, fever, and abdominal pain for 4 days. Stool shows plenty of pus cells. Initial empirical antibiotics?",
+    "choices": [
+      "A. Ceftriaxone only",
+      "B. Ciprofloxacin 500 mg BID + metronidazole 400 mg TID",
+      "C. Doxycycline",
+      "D. No antibiotic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Suspected shigellosis/amoebiasis → ciprofloxacin + metronidazole until culture/sensitivity (STG 2021).",
+    "tags": ["dysentery", "empirical"]
+  },
+  {
+    "id": 563,
+    "question": "Patient with cirrhosis and variceal bleeding. Target non-selective beta-blocker after discharge?",
+    "choices": [
+      "A. Propranolol titrated to heart rate 55–60 or max tolerated",
+      "B. Atenolol",
+      "C. Metoprolol",
+      "D. Carvedilol only"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Propranolol or nadolol for secondary prophylaxis; carvedilol is alternative (STG 2021).",
+    "tags": ["propranolol", "secondary_prophylaxis"]
+  },
+  {
+    "id": 564,
+    "question": "A patient with melena has Hb 6.2 g/dL but is hemodynamically stable. Transfusion threshold?",
+    "choices": [
+      "A. Transfuse to Hb >10",
+      "B. Transfuse to Hb >7–8 g/dL (restrictive strategy)",
+      "C. No transfusion",
+      "D. Transfuse only if symptomatic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Restrictive transfusion (Hb <7–8 g/dL) is safe and preferred in stable patients (STG 2021).",
+    "tags": ["restrictive_transfusion"]
+  },
+  {
+    "id": 565,
+    "question": "Most important factor reducing mortality in variceal bleeding in Ethiopia in recent years?",
+    "choices": [
+      "A. Endoscopic banding",
+      "B. Early use of antibiotics (ceftriaxone)",
+      "C. TIPS availability",
+      "D. Beta-blockers"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Prophylactic ceftriaxone has dramatically reduced bacterial infections and mortality (STG 2021).",
+    "tags": ["antibiotics", "mortality_reduction"]
+  },
+  {
+    "id": 566,
+    "question": "A patient with UGIB and known H. pylori-positive duodenal ulcer. When to perform repeat endoscopy to confirm ulcer healing?",
+    "choices": [
+      "A. 2 weeks",
+      "B. 4–8 weeks only if symptoms persist or alarm features",
+      "C. Routinely at 4 weeks",
+      "D. Never"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Routine repeat endoscopy not required if symptoms resolve and no alarm features (STG 2021).",
+    "tags": ["repeat_endoscopy", "not_routine"]
+  },
+  {
+    "id": 567,
+    "question": "Patient with massive LGIB is unstable despite resuscitation. Best next investigation?",
+    "choices": [
+      "A. Colonoscopy",
+      "B. CT angiography",
+      "C. Capsule endoscopy",
+      "D. Flexible sigmoidoscopy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Unstable massive LGIB → CT angiography to localize before embolization or surgery (STG 2021).",
+    "tags": ["CT_angiography", "unstable_LGIB"]
+  },
+  {
+    "id": 568,
+    "question": "A patient with rectal bleeding has multiple internal hemorrhoids. Best outpatient treatment?",
+    "choices": [
+      "A. Hemorrhoidectomy",
+      "B. Rubber band ligation",
+      "C. Infrared coagulation",
+      "D. High fiber + sitz bath only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Rubber band ligation is safe, effective, and widely available in Ethiopia (STG 2021).",
+    "tags": ["hemorrhoids", "band_ligation"]
+  },
+  {
+    "id": 569,
+    "question": "Patient with UGIB is on dabigatran for AF. Management of anticoagulation?",
+    "choices": [
+      "A. Idarucizumab (Praxbind) if available",
+      "B. Stop dabigatran + supportive care + PCC",
+      "C. Vitamin K",
+      "D. Fresh frozen plasma"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Dabigatran-specific reversal agent is idarucizumab; if unavailable, use activated charcoal (if recent ingestion) + supportive care (STG 2021).",
+    "tags": ["dabigatran", "idarucizumab"]
+  },
+  {
+    "id": 570,
+    "question": "Most common presentation of Meckel’s diverticulum bleeding in children?",
+    "choices": [
+      "A. Melena",
+      "B. Painless massive hematochezia",
+      "C. Chronic iron deficiency",
+      "D. Intussusception"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Classic: painless, large-volume, brick-red or maroon bleeding in children/young adults (STG 2021).",
+    "tags": ["Meckel", "hematochezia"]
+  },
+  {
+    "id": 571,
+    "question": "A patient with cirrhosis and variceal bleed has hepatic encephalopathy grade III. Most important immediate action besides lactulose?",
+    "choices": [
+      "A. IV mannitol",
+      "B. Protect airway (intubation if needed)",
+      "C. Rifaximin",
+      "D. Flumazenil"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Grade III–IV encephalopathy in bleeding cirrhotic → high aspiration risk → secure airway (STG 2021).",
+    "tags": ["encephalopathy", "intubation"]
+  },
+  {
+    "id": 572,
+    "question": "Patient with UGIB has active alcohol withdrawal. Safest drug?",
+    "choices": [
+      "A. Diazepam",
+      "B. Lorazepam or oxazepam (no active metabolites)",
+      "C. Phenobarbital",
+      "D. Haloperidol"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Short-acting benzodiazepines without active metabolites preferred in liver disease (STG 2021).",
+    "tags": ["alcohol_withdrawal", "liver_safe"]
+  },
+  {
+    "id": 573,
+    "question": "A 70-year-old with diverticular bleed stops spontaneously. Discharge advice includes:",
+    "choices": [
+      "A. High-fiber diet",
+      "B. Low-fiber diet",
+      "C. Avoid seeds and nuts",
+      "D. Lifelong antibiotics"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "High-fiber diet prevents recurrence of diverticular bleeding (STG 2021).",
+    "tags": ["diverticular", "fiber"]
+  },
+  {
+    "id": 574,
+    "question": "Patient with UGIB and known chronic kidney disease. Transfusion threshold?",
+    "choices": [
+      "A. Hb <7 g/dL",
+      "B. Hb <8–9 g/dL (more liberal)",
+      "C. Hb <10 g/dL",
+      "D. No transfusion"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Patients with cardiovascular disease or CKD may need higher threshold (Hb 8–9 g/dL) (STG 2021).",
+    "tags": ["CKD", "transfusion_threshold"]
+  },
+  {
+    "id": 575,
+    "question": "Final take-home message for every patient after non-variceal UGIB?",
+    "choices": [
+      "A. Avoid all NSAIDs including low-dose aspirin",
+      "B. Eradicate H. pylori, avoid NSAIDs, continue PPI if high risk",
+      "C. Surgery is inevitable",
+      "D. No follow-up needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Key prevention: H. pylori eradication + avoid NSAIDs + long-term PPI if ongoing risk (STG 2021, p.186).",
+    "tags": ["prevention", "NSAID", "H_pylori"]
+  },
+  {
+    "id": 576,
+    "question": "A patient with suspected variceal bleeding arrives in shock. Blood pressure does not respond to 2 liters crystalloid. Next fluid?",
+    "choices": [
+      "A. More crystalloid",
+      "B. Uncrosmatched O-negative blood",
+      "C. Wait for type-specific",
+      "D. Albumin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Life-threatening hemorrhage + shock → give O-negative blood while waiting for crossmatch (STG 2021).",
+    "tags": ["O_negative", "massive_transfusion"]
+  },
+  {
+    "id": 577,
+    "question": "Patient with UGIB has platelet count 30,000. Need for platelet transfusion before endoscopy?",
+    "choices": [
+      "A. Always",
+      "B. Only if active bleeding and platelets <50,000",
+      "C. Never",
+      "D. If <20,000 only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Transfuse platelets if <50,000 and active bleeding or before invasive procedure (STG 2021).",
+    "tags": ["platelets", "threshold"]
+  },
+  {
+    "id": 578,
+    "question": "Most common cause of obscure-overt GI bleeding in young adults in Ethiopia?",
+    "choices": [
+      "A. Meckel’s diverticulum",
+      "B. Small bowel tumors",
+      "C. Crohn’s disease",
+      "D. NSAID enteropathy"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Meckel’s remains the leading cause in patients <40 years (STG 2021).",
+    "tags": ["obscure", "Meckel"]
+  },
+  {
+    "id": 579,
+    "question": "Patient with bleeding peptic ulcer is on twice-daily clopidogrel. Best long-term strategy after hemostasis?",
+    "choices": [
+      "A. Stop clopidogrel forever",
+      "B. Continue clopidogrel alone",
+      "C. Clopidogrel + PPI lifelong",
+      "D. Switch to aspirin + PPI"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "High-risk cardiac patients (e.g., recent stent) need dual antiplatelet; protect with lifelong PPI (STG 2021).",
+    "tags": ["DAPT", "PPI_protection"]
+  },
+  {
+    "id": 580,
+    "question": "A patient with LGIB is found to have angiodysplasia in the cecum. Best treatment?",
+    "choices": [
+      "A. Endoscopic argon plasma coagulation",
+      "B. Surgery",
+      "C. Embolization",
+      "D. Octreotide"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "APC is first-line for vascular lesions like angiodysplasia (STG 2021).",
+    "tags": ["angiodysplasia", "APC"]
+  },
+  {
+    "id": 581,
+    "question": "Patient presents with sentinel bleed (small hematemesis) followed by massive hemorrhage. History of aortic graft 2 years ago. Diagnosis?",
+    "choices": [
+      "A. Peptic ulcer",
+      "B. Aortoenteric fistula",
+      "C. Varices",
+      "D. Mallory-Weiss"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Classic herald/sentinel bleed in patient with aortic graft → secondary aortoenteric fistula (STG 2021).",
+    "tags": ["aortoenteric_fistula", "sentinel"]
+  },
+  {
+    "id": 582,
+    "question": "Most important nursing instruction for patient with Sengstaken-Blakemore tube?",
+    "choices": [
+      "A. Deflate gastric balloon every 4 hours",
+      "B. Keep scissors at bedside for emergency deflation",
+      "C. Inflate esophageal balloon to 100 mmHg",
+      "D. Leave in place for 72 hours"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Risk of esophageal necrosis → scissors must be at bedside to cut tube if respiratory distress (STG 2021).",
+    "tags": ["Sengstaken", "scissors"]
+  },
+  {
+    "id": 583,
+    "question": "Patient with UGIB and liver cirrhosis has ascites. Fluid of choice for volume expansion?",
+    "choices": [
+      "A. Normal saline",
+      "B. Albumin 20–40 g after large-volume paracentesis, but crystalloid initially",
+      "C. Ringer’s lactate",
+      "D. Dextrose 5%"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Crystalloid first; albumin reserved for specific indications in cirrhosis (STG 2021).",
+    "tags": ["ascites", "volume_expansion"]
+  },
+  {
+    "id": 584,
+    "question": "A 19-year-old presents with sudden painless massive rectal bleeding. Most likely diagnosis?",
+    "choices": [
+      "A. Hemorrhoids",
+      "B. Meckel’s diverticulum",
+      "C. IBD",
+      "D. Polyps"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Young patient + painless + large volume → Meckel’s until proven otherwise (STG 2021).",
+    "tags": ["Meckel", "young_adult"]
+  },
+  {
+    "id": 585,
+    "question": "Patient with variceal bleeding controlled. When to start oral feeding?",
+    "choices": [
+      "A. Immediately",
+      "B. After 24–48 hours if no rebleeding",
+      "C. After 5 days",
+      "D. Only parenteral"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Early oral feeding safe after 24–48 hours if hemostasis achieved (STG 2021).",
+    "tags": ["oral_feeding", "variceal"]
+  },
+  {
+    "id": 586,
+    "question": "Most common cause of GI bleeding in children under 2 years in Ethiopia?",
+    "choices": [
+      "A. Meckel’s",
+      "B. Anal fissure",
+      "C. Intussusception",
+      "D. Polyps"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Anal fissure from constipation is extremely common in toddlers (STG 2021).",
+    "tags": ["pediatric", "fissure"]
+  },
+  {
+    "id": 587,
+    "question": "Patient with UGIB has coffee-ground vomiting only, BP 130/80, HR 88. Blatchford score likely?",
+    "choices": [
+      "A. 0–1 (can be managed outpatient)",
+      "B. 2–5",
+      "C. >6 (admit)",
+      "D. Cannot calculate"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Coffee-ground (not fresh blood), stable vitals → low Blatchford → possible outpatient management if reliable follow-up (STG 2021).",
+    "tags": ["Blatchford_low"]
+  },
+  {
+    "id": 588,
+    "question": "A patient with massive UGIB requires 8 units PRBC in first 24 hours. Next most important blood product?",
+    "choices": [
+      "A. FFP and platelets (1:1:1 ratio)",
+      "B. Cryoprecipitate",
+      "C. Albumin",
+      "D. Whole blood"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Massive transfusion protocol → balanced resuscitation with PRBC:FFP:platelets 1:1:1 (STG 2021).",
+    "tags": ["massive_transfusion", "1:1:1"]
+  },
+  {
+    "id": 589,
+    "question": "Patient with cirrhosis and variceal bleed develops oliguric AKI. Most likely cause?",
+    "choices": [
+      "A. Hypovolemia",
+      "B. Abdominal compartment syndrome from ascites",
+      "C. Hepatorenal syndrome",
+      "D. Terlipressin-induced"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Hypovolemia from bleeding is the most common reversible cause of AKI in this setting (STG 2021).",
+    "tags": ["AKI", "hypovolemia"]
+  },
+  {
+    "id": 590,
+    "question": "Most effective way to prevent recurrent variceal bleeding long-term?",
+    "choices": [
+      "A. Repeated banding alone",
+      "B. Beta-blocker + repeated EVL until variceal obliteration",
+      "C. PPI",
+      "D. Shunt surgery"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Combination therapy (non-selective beta-blocker + EVL) is gold standard for secondary prophylaxis (STG 2021).",
+    "tags": ["secondary_prophylaxis", "combination"]
+  },
+  {
+    "id": 591,
+    "question": "Patient with bleeding peptic ulcer is discharged on oral PPI. Duration of treatment?",
+    "choices": [
+      "A. 2 weeks",
+      "B. 4–8 weeks",
+      "C. 3 months",
+      "D. Lifelong"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Standard ulcer healing course 4–8 weeks; longer if giant ulcer or persistent risk factors (STG 2021).",
+    "tags": ["PPI_duration", "ulcer_healing"]
+  },
+  {
+    "id": 592,
+    "question": "A 65-year-old with ischemic heart disease and recent stent presents with melena. Best antiplatelet management?",
+    "choices": [
+      "A. Stop all antiplatelet drugs",
+      "B. Continue dual antiplatelet + high-dose PPI",
+      "C. Stop clopidogrel, continue aspirin",
+      "D. Stop aspirin, continue clopidogrel"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Recent stent (<12 months) → continue DAPT; bleeding risk reduced by PPI (STG 2021).",
+    "tags": ["DAPT", "recent_stent"]
+  },
+  {
+    "id": 593,
+    "question": "Patient with LGIB has negative colonoscopy. Next investigation if bleeding continues?",
+    "choices": [
+      "A. Repeat colonoscopy",
+      "B. CT angiography or tagged RBC scan",
+      "C. Upper endoscopy",
+      "D. Small bowel capsule"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Ongoing overt bleeding with negative colonoscopy → localize with tagged RBC or CT angio (STG 2021).",
+    "tags": ["LGIB", "localization"]
+  },
+  {
+    "id": 594,
+    "question": "Most common cause of GI bleeding in patients on dual antiplatelet therapy?",
+    "choices": [
+      "A. Gastric ulcer",
+      "B. Duodenal ulcer",
+      "C. Erosive gastritis",
+      "D. Hemorrhoids"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Duodenal ulcers remain the most frequent serious bleeding source despite PPI use (STG 2021).",
+    "tags": ["DAPT", "duodenal_ulcer"]
+  },
+  {
+    "id": 595,
+    "question": "Patient with variceal bleeding has fever on day 3 despite ceftriaxone. Next antibiotic?",
+    "choices": [
+      "A. Add metronidazole",
+      "B. Change to piperacillin-tazobactam or meropenem",
+      "C. Vancomycin",
+      "D. Stop antibiotics"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Suspected resistant organism or SBP → broaden coverage (STG 2021).",
+    "tags": ["resistant_infection", "cirrhosis"]
+  },
+  {
+    "id": 596,
+    "question": "A patient with UGIB is found to have multiple gastric ulcers and is on chronic diclofenac. Management includes:",
+    "choices": [
+      "A. Stop NSAID + high-dose PPI + H. pylori treatment",
+      "B. Continue diclofenac + add misoprostol",
+      "C. Switch to celecoxib",
+      "D. Surgery"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Permanent NSAID discontinuation is mandatory after serious bleeding (STG 2021).",
+    "tags": ["NSAID_ulcer", "stop_NSAID"]
+  },
+  {
+    "id": 597,
+    "question": "Most important prognostic factor in non-variceal UGIB?",
+    "choices": [
+      "A. Age >60",
+      "B. Shock on presentation",
+      "C. Comorbidity",
+      "D. All of the above (Rockall score)"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Rockall score incorporates age, shock, comorbidity, diagnosis, and stigmata (STG 2021).",
+    "tags": ["Rockall", "prognosis"]
+  },
+  {
+    "id": 598,
+    "question": "Patient with cirrhosis and variceal bleed has tense ascites causing respiratory distress. Immediate management?",
+    "choices": [
+      "A. Large-volume paracentesis with albumin cover",
+      "B. Spironolactone",
+      "C. Furosemide",
+      "D. Wait"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Tense ascites with respiratory compromise → therapeutic paracentesis + albumin 6–8 g/L removed (STG 2021).",
+    "tags": ["tense_ascites", "paracentesis"]
+  },
+  {
+    "id": 599,
+    "question": "A patient with obscure recurrent GI bleeding is scheduled for capsule endoscopy. Most important preparation?",
+    "choices": [
+      "A. Clear liquids 24 hours",
+      "B. Bowel preparation + prokinetic (if gastroparesis)",
+      "C. Fasting only",
+      "D. Enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Good bowel prep improves visualization in small bowel (STG 2021).",
+    "tags": ["capsule_endoscopy", "prep"]
+  },
+  {
+    "id": 600,
+    "question": "Final key message for prevention of GI bleeding in Ethiopia?",
+    "choices": [
+      "A. Avoid all traditional medicines",
+      "B. Eradicate H. pylori, avoid NSAIDs, use PPI when indicated, control portal hypertension",
+      "C. Surgery for all ulcers",
+      "D. Avoid spicy food only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.3 Gastrointestinal Bleeding",
+    "explanation": "Comprehensive prevention: H. pylori eradication, rational NSAID use, PPI co-prescription, and variceal prophylaxis are the cornerstones (Ethiopian STG 2021, p.185–189).",
+    "tags": ["prevention", "comprehensive"]
+  },
+  {
+    "id": 601,
+    "question": "A 28-year-old woman at 8 weeks gestation presents with severe vomiting 6–8 times/day, unable to keep any food or water for 3 days. She is dehydrated, urine ketones 3+. According to Ethiopian STG 2021, most appropriate INITIAL management?",
+    "choices": [
+      "A. Oral ondansetron 8 mg TID",
+      "B. Admit, IV normal saline + 5% dextrose, thiamine 100 mg IV, then start antiemetic",
+      "C. IM promethazine 25 mg stat",
+      "D. Discharge with oral rehydration solution"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Hyperemesis gravidarum with dehydration and ketonuria requires hospital admission, IV rehydration with dextrose-containing fluids + thiamine to prevent Wernicke’s, then antiemetics (STG 2021, p.193).",
+    "tags": ["hyperemesis", "admission", "thiamine"]
+  },
+  {
+    "id": 602,
+    "question": "Safest and most effective first-line antiemetic in pregnancy in Ethiopia?",
+    "choices": [
+      "A. Metoclopramide",
+      "B. Ondansetron",
+      "C. Doxylamine + pyridoxine (not available) → use promethazine or metoclopramide",
+      "D. Domperidone"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Promethazine and metoclopramide are the most widely available and safe first-line agents in Ethiopian hospitals for hyperemesis (STG 2021, p.193).",
+    "tags": ["pregnancy", "promethazine"]
+  },
+  {
+    "id": 603,
+    "question": "A 45-year-old man post-laparotomy day 2 has persistent vomiting and abdominal distension. Nasogastric tube drains 1.2 L bilious fluid. Most likely diagnosis?",
+    "choices": [
+      "A. Ileus",
+      "B. Mechanical small bowel obstruction",
+      "C. Gastroparesis",
+      "D. Acute gastric dilatation"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Postoperative ileus is the most common cause of nausea/vomiting in the first 72 hours after abdominal surgery (STG 2021, p.194).",
+    "tags": ["postoperative_ileus"]
+  },
+  {
+    "id": 604,
+    "question": "Best initial management for postoperative ileus?",
+    "choices": [
+      "A. IV metoclopramide 10 mg TID",
+      "B. NPO, NG tube if distended, IV fluids, correct electrolytes, encourage early ambulation",
+      "C. Oral erythromycin",
+      "D. Neostigmine IV"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Supportive care (NPO, NG decompression, fluids, electrolytes, ambulation) is the cornerstone; most resolve within 3–5 days (STG 2021, p.194).",
+    "tags": ["ileus", "supportive"]
+  },
+  {
+    "id": 605,
+    "question": "A 60-year-old diabetic presents with vomiting of undigested food eaten 8 hours ago, succussion splash positive. Most likely diagnosis?",
+    "choices": [
+      "A. Peptic ulcer disease",
+      "B. Diabetic gastroparesis",
+      "C. Gastric outlet obstruction",
+      "D. Pancreatic cancer"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Chronic peptic ulcer disease leading to pyloric stenosis is the leading cause of gastric outlet obstruction in Ethiopia (STG 2021, p.194).",
+    "tags": ["GOO", "pyloric_stenosis"]
+  },
+  {
+    "id": 606,
+    "question": "A patient with suspected cannabinoid hyperemesis syndrome in Addis Ababa. Most characteristic feature?",
+    "choices": [
+      "A. Vomiting only at night",
+      "B. Compulsive hot bathing for relief",
+      "C. Weight loss >20 kg",
+      "D. Diarrhoea"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Relief with hot showers/baths is pathognomonic; seen increasingly with khat + cannabis co-use (STG 2021 recognizes this entity).",
+    "tags": ["cannabinoid_hyperemesis", "hot_bath"]
+  },
+  {
+    "id": 607,
+    "question": "Drug of choice for chemotherapy-induced nausea/vomiting (moderate–high emetogenic risk) in Ethiopia?",
+    "choices": [
+      "A. Metoclopramide",
+      "B. Ondansetron 8 mg IV before chemotherapy + dexamethasone",
+      "C. Promethazine",
+      "D. Domperidone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "5-HT3 antagonist (ondansetron) + dexamethasone is the standard regimen where available (STG 2021, p.195).",
+    "tags": ["CINV", "ondansetron_dexa"]
+  },
+  {
+    "id": 608,
+    "question": "A 35-year-old with migraine presents to emergency with severe nausea and vomiting. Best acute antiemetic?",
+    "choices": [
+      "A. Oral ondansetron",
+      "B. IV metoclopramide 10 mg + IV fluid",
+      "C. Oral domperidone",
+      "D. IM promethazine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Metoclopramide IV is highly effective in migraine-associated nausea and also treats headache (STG 2021).",
+    "tags": ["migraine", "metoclopramide"]
+  },
+  {
+    "id": 609,
+    "question": "Most common cause of acute nausea and vomiting in children in Ethiopia?",
+    "choices": [
+      "A. Gastroenteritis",
+      "B. Appendicitis",
+      "C. Intussusception",
+      "D. Malaria"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Viral/bacterial gastroenteritis remains the leading cause; use ORS + zinc + ondansetron if severe (STG 2021).",
+    "tags": ["pediatric", "gastroenteritis"]
+  },
+  {
+    "id": 610,
+    "question": "Safest antiemetic in a 3-year-old child with severe vomiting due to gastroenteritis?",
+    "choices": [
+      "A. Metoclopramide",
+      "B. Ondansetron oral dissolving tablet or IV",
+      "C. Domperidone",
+      "D. Promethazine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Ondansetron is the only antiemetic approved and recommended in children in Ethiopia for severe vomiting (STG 2021).",
+    "tags": ["pediatric", "ondansetron"]
+  },
+  {
+    "id": 611,
+    "question": "A patient on TB treatment (RHZE) develops daily vomiting 1 hour after taking drugs. Best management?",
+    "choices": [
+      "A. Stop all drugs",
+      "B. Give drugs at night + antiemetic (ondansetron or metoclopramide)",
+      "C. Split doses",
+      "D. Change to second-line"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Take TB drugs at bedtime with light meal + add antiemetic; rarely need to stop treatment (STG 2021).",
+    "tags": ["TB", "vomiting"]
+  },
+  {
+    "id": 612,
+    "question": "Red flag symptom in patient with nausea and vomiting requiring urgent investigation?",
+    "choices": [
+      "A. Weight loss >10% + age >50",
+      "B. Early satiety only",
+      "C. Heartburn",
+      "D. Epigastric discomfort"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Age >50 + unintentional weight loss + persistent vomiting → urgent upper endoscopy to rule out gastric cancer (STG 2021, p.193).",
+    "tags": ["alarm_symptoms", "gastric_cancer"]
+  },
+  {
+    "id": 613,
+    "question": "A 19-year-old student has cyclic vomiting every 2–3 months lasting 3–7 days, normal between attacks, heavy cannabis user. Diagnosis?",
+    "choices": [
+      "A. Migraine variant",
+      "B. Cannabinoid hyperemesis syndrome",
+      "C. Gastroparesis",
+      "D. Psychogenic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Cyclic pattern + cannabis use + relief with hot bathing = classic cannabinoid hyperemesis (STG 2021).",
+    "tags": ["cyclic_vomiting", "cannabis"]
+  },
+  {
+    "id": 614,
+    "question": "Best treatment for acute attack of cannabinoid hyperemesis?",
+    "choices": [
+      "A. IV ondansetron",
+      "B. IV haloperidol 2.5–5 mg + aggressive hydration + topical capsaicin",
+      "C. PPI",
+      "D. Lorazepam"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Haloperidol IV and capsaicin cream are the most effective acute treatments; ondansetron often fails (STG 2021).",
+    "tags": ["haloperidol", "capsaicin"]
+  },
+  {
+    "id": 615,
+    "question": "A patient with chronic kidney disease stage 5 on dialysis has persistent nausea. Safest long-term antiemetic?",
+    "choices": [
+      "A. Metoclopramide",
+      "B. Ondansetron 4–8 mg daily",
+      "C. Domperidone",
+      "D. Promethazine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Metoclopramide is contraindicated in advanced CKD due to extrapyramidal side effects; ondansetron is safe (STG 2021).",
+    "tags": ["CKD", "ondansetron"]
+  },
+  {
+    "id": 616,
+    "question": "Most common cause of nausea and vomiting in advanced HIV/AIDS in Ethiopia?",
+    "choices": [
+      "A. Cryptococcal meningitis",
+      "B. Drug side effects (ART, cotrimoxazole, TB drugs)",
+      "C. Cerebral toxoplasmosis",
+      "D. Oesophageal candidiasis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Polypharmacy and high pill burden cause most nausea in stable HIV patients (STG 2021).",
+    "tags": ["HIV", "ART_nausea"]
+  },
+  {
+    "id": 617,
+    "question": "A 55-year-old man with sudden severe headache followed by projectile vomiting. Most likely diagnosis?",
+    "choices": [
+      "A. Migraine",
+      "B. Subarachnoid hemorrhage",
+      "C. Gastroenteritis",
+      "D. Meningitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Thunderclap headache + projectile vomiting = SAH until proven otherwise (STG 2021).",
+    "tags": ["SAH", "projectile"]
+  },
+  {
+    "id": 618,
+    "question": "Patient with known peptic ulcer disease presents with repeated coffee-ground vomiting and dizziness. Next step?",
+    "choices": [
+      "A. Oral PPI",
+      "B. Urgent upper GI endoscopy + resuscitation",
+      "C. IV ondansetron",
+      "D. Wait and observe"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Coffee-ground vomiting in known ulcer patient → suspect UGIB → resuscitate + urgent endoscopy (STG 2021).",
+    "tags": ["UGIB", "coffee_ground"]
+  },
+  {
+    "id": 619,
+    "question": "Drug most likely to cause nausea and vomiting in Ethiopian patients on treatment for multidrug-resistant TB?",
+    "choices": [
+      "A. Levofloxacin",
+      "B. Cycloserine",
+      "C. Ethionamide/prothionamide",
+      "D. Bedaquiline"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Ethionamide/prothionamide frequently cause severe GI intolerance; take at night with antiemetic (STG 2021).",
+    "tags": ["MDR_TB", "ethionamide"]
+  },
+  {
+    "id": 620,
+    "question": "A 30-year-old woman 2 days post-caesarean section has vomiting and abdominal distension. X-ray shows multiple air-fluid levels. Management?",
+    "choices": [
+      "A. Immediate re-laparotomy",
+      "B. Conservative: NPO, NG tube, IV fluids, electrolytes",
+      "C. Oral laxatives",
+      "D. Neostigmine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Post-caesarean ileus is common and usually resolves with conservative management (STG 2021).",
+    "tags": ["post_caesarean_ileus"]
+  },
+  {
+    "id": 621,
+    "question": "Best antiemetic for motion sickness in Ethiopia?",
+    "choices": [
+      "A. Ondansetron",
+      "B. Promethazine 25 mg 30–60 min before travel",
+      "C. Metoclopramide",
+      "D. Domperidone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Promethazine and hyoscine are the most effective and available for motion sickness (STG 2021).",
+    "tags": ["motion_sickness", "promethazine"]
+  },
+  {
+    "id": 622,
+    "question": "Patient with advanced cancer and bowel obstruction has continuous nausea. Best long-term management?",
+    "choices": [
+      "A. IV ondansetron",
+      "B. Nasogastric tube + octreotide 100–300 mcg SC TID + haloperidol or levomepromazine",
+      "C. Surgery",
+      "D. PPI only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Malignant bowel obstruction → NG if vomiting large volume + octreotide to reduce secretions + antiemetic (STG 2021 palliative section).",
+    "tags": ["malignant_obstruction", "octreotide"]
+  },
+  {
+    "id": 623,
+    "question": "A patient with severe vomiting has serum Na 128 mmol/L, K 2.8 mmol/L. Most urgent correction?",
+    "choices": [
+      "A. Normal saline",
+      "B. Hypokalemia first (risk of arrhythmia)",
+      "C. 3% saline",
+      "D. Free water"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Severe hypokalemia in vomiting must be corrected before or with sodium to prevent cardiac complications (STG 2021).",
+    "tags": ["hypokalemia", "priority"]
+  },
+  {
+    "id": 624,
+    "question": "Most common metabolic abnormality in prolonged vomiting?",
+    "choices": [
+      "A. Metabolic acidosis",
+      "B. Hypochloremic hypokalemic metabolic alkalosis",
+      "C. Hyperkalemia",
+      "D. Hyponatremia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Loss of HCl → hypochloremic, hypokalemic, metabolic alkalosis (STG 2021).",
+    "tags": ["metabolic_alkalosis"]
+  },
+  {
+    "id": 625,
+    "question": "A 22-year-old with bulimia nervosa presents with frequent vomiting. Most likely electrolyte finding?",
+    "choices": [
+      "A. Hyperkalemia",
+      "B. Hypokalemia + metabolic alkalosis",
+      "C. Metabolic acidosis",
+      "D. Normal electrolytes"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Self-induced vomiting causes the same alkalosis as pyloric stenosis (STG 2021).",
+    "tags": ["bulimia", "alkalosis"]
+  },
+  {
+    "id": 626,
+    "question": "Patient with nausea and vertigo, worse on head movement. Diagnosis?",
+    "choices": [
+      "A. Vestibular migraine",
+      "B. Benign paroxysmal positional vertigo (BPPV)",
+      "C. Meniere’s disease",
+      "D. Cerebellar stroke"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Positional vertigo + nausea → BPPV; treat with Epley maneuver (STG 2021).",
+    "tags": ["BPPV", "Epley"]
+  },
+  {
+    "id": 627,
+    "question": "Best antiemetic for opioid-induced nausea?",
+    "choices": [
+      "A. Ondansetron",
+      "B. Metoclopramide or haloperidol",
+      "C. Domperidone",
+      "D. Promethazine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Opioid nausea is centrally mediated → dopamine antagonists (metoclopramide, haloperidol) most effective (STG 2021).",
+    "tags": ["opioid_nausea", "dopamine_antagonist"]
+  },
+  {
+    "id": 628,
+    "question": "A patient with typhoid fever has persistent vomiting despite ceftriaxone. Best add-on antiemetic?",
+    "choices": [
+      "A. Ondansetron 8 mg IV",
+      "B. Metoclopramide",
+      "C. Domperidone",
+      "D. Promethazine"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Ondansetron is safe and effective in systemic infections with vomiting (STG 2021).",
+    "tags": ["typhoid", "ondansetron"]
+  },
+  {
+    "id": 629,
+    "question": "Most important counselling point for patients with hyperemesis gravidarum at discharge?",
+    "choices": [
+      "A. Take PPI lifelong",
+      "B. Small frequent meals, ginger, avoid triggers, return if unable to keep fluids",
+      "C. Bed rest only",
+      "D. Stop prenatal vitamins"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Non-pharmacological measures (small meals, ginger, acupressure) are first-line and continue after discharge (STG 2021).",
+    "tags": ["hyperemesis", "counselling"]
+  },
+  {
+    "id": 630,
+    "question": "Patient with nausea has vertical nystagmus and ataxia. Most urgent investigation?",
+    "choices": [
+      "A. Upper endoscopy",
+      "B. Head CT/MRI (rule out Wernicke’s or posterior fossa lesion)",
+      "C. Abdominal ultrasound",
+      "D. ECG"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Vertical nystagmus + ataxia + vomiting → suspect Wernicke’s encephalopathy → give thiamine immediately + neuroimaging (STG 2021).",
+    "tags": ["Wernicke", "vertical_nystagmus"]
+  },
+  {
+    "id": 631,
+    "question": "A 40-year-old alcoholic presents with repeated vomiting, hematemesis, and retching. Most likely diagnosis?",
+    "choices": [
+      "A. Peptic ulcer",
+      "B. Mallory-Weiss tear",
+      "C. Varices",
+      "D. Gastritis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Forceful retching followed by hematemesis in alcoholic → classic Mallory-Weiss (STG 2021).",
+    "tags": ["Mallory_Weiss"]
+  },
+  {
+    "id": 632,
+    "question": "Safest route of thiamine administration in vomiting patient with suspected Wernicke’s?",
+    "choices": [
+      "A. Oral 100 mg",
+      "B. IV 500 mg TID for 3–5 days (Pabrinex regime if available)",
+      "C. IM 100 mg",
+      "D. No need"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "High-dose parenteral thiamine (IV preferred over IM) for 3–5 days then oral (STG 2021).",
+    "tags": ["Wernicke", "high_dose_thiamine"]
+  },
+  {
+    "id": 633,
+    "question": "Most common preventable cause of severe nausea in hospitalized patients in Ethiopia?",
+    "choices": [
+      "A. Antibiotics",
+      "B. Opioids and poor pain management",
+      "C. Chemotherapy",
+      "D. Anaesthesia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Inadequate postoperative pain control with opioids is the leading iatrogenic cause (STG 2021).",
+    "tags": ["opioids", "postoperative"]
+  },
+  {
+    "id": 634,
+    "question": "A patient with nausea and vomiting has serum amylase 1200 U/L. Most likely diagnosis?",
+    "choices": [
+      "A. Acute pancreatitis",
+      "B. Intestinal obstruction",
+      "C. Appendicitis",
+      "D. Cholecystitis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Severe epigastric pain radiating to back + vomiting + elevated amylase/lipase → acute pancreatitis (STG 2021).",
+    "tags": ["pancreatitis", "amylase"]
+  },
+  {
+    "id": 635,
+    "question": "Best fluid for rehydration in hyperemesis gravidarum?",
+    "choices": [
+      "A. Normal saline",
+      "B. 5% dextrose in normal saline or Ringer’s lactate + KCl",
+      "C. Plain 5% dextrose",
+      "D. Hartmann’s solution"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Most patients are hypokalemic; dextrose prevents hypoglycemia and Wernicke’s (STG 2021).",
+    "tags": ["hyperemesis", "dextrose_saline"]
+  },
+  {
+    "id": 636,
+    "question": "Patient with nausea and vomiting for 3 days has BP 90/60, dry mucosa, urine output 200 mL/day. Classification of dehydration?",
+    "choices": [
+      "A. Mild",
+      "B. Moderate",
+      "C. Severe",
+      "D. No dehydration"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Hypotension, oliguria, dry mucosa in adult → severe dehydration → rapid IV rehydration (STG 2021).",
+    "tags": ["severe_dehydration"]
+  },
+  {
+    "id": 637,
+    "question": "Most effective non-pharmacological measure for pregnancy nausea?",
+    "choices": [
+      "A. Ginger 1 g/day or P6 acupressure",
+      "B. Vitamin B6 alone",
+      "C. Avoiding all food",
+      "D. Bed rest"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Ginger and acupressure (wrist bands) have strong evidence and are widely recommended (STG 2021).",
+    "tags": ["ginger", "acupressure"]
+  },
+  {
+    "id": 638,
+    "question": "A patient with severe vomiting is on furosemide for heart failure. Most likely contributing factor?",
+    "choices": [
+      "A. Hypokalemia",
+      "B. Hyponatremia",
+      "C. Hypercalcemia",
+      "D. Hypoglycemia"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Loop diuretics cause hypokalemia → nausea and ileus (STG 2021).",
+    "tags": ["furosemide", "hypokalemia"]
+  },
+  {
+    "id": 639,
+    "question": "Best antiemetic for radiotherapy-induced nausea?",
+    "choices": [
+      "A. Metoclopramide",
+      "B. Ondansetron or granisetron + dexamethasone",
+      "C. Promethazine",
+      "D. Domperidone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "5-HT3 antagonists are the cornerstone for radiation-induced nausea (STG 2021).",
+    "tags": ["RINV", "5HT3"]
+  },
+  {
+    "id": 640,
+    "question": "A 25-year-old with nausea and vomiting has wide pulse pressure and collapsing pulse. Most likely diagnosis?",
+    "choices": [
+      "A. Pregnancy",
+      "B. Thyrotoxicosis",
+      "C. Anaemia",
+      "D. Adrenal insufficiency"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Hyperthyroidism commonly presents with nausea, vomiting, weight loss, and collapsing pulse (STG 2021).",
+    "tags": ["thyrotoxicosis", "collapsing_pulse"]
+  },
+  {
+    "id": 641,
+    "question": "Patient with chronic nausea has early satiety and bloating. Most useful investigation in district hospital?",
+    "choices": [
+      "A. Upper GI endoscopy",
+      "B. Abdominal ultrasound",
+      "C. Gastric emptying study (not available)",
+      "D. CT abdomen"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Endoscopy is widely available and can rule out gastric outlet obstruction or ulcer disease (STG 2021).",
+    "tags": ["chronic_nausea", "endoscopy"]
+  },
+  {
+    "id": 642,
+    "question": "Most common cause of nausea in patients taking iron tablets in Ethiopia?",
+    "choices": [
+      "A. Gastritis",
+      "B. Direct GI irritation",
+      "C. Constipation",
+      "D. Allergic reaction"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Ferrous sulphate commonly causes nausea; take with meals or at night (STG 2021).",
+    "tags": ["iron", "GI_irritation"]
+  },
+  {
+    "id": 643,
+    "question": "A patient with nausea and vomiting has blood glucose 28 mmol/L. Most likely diagnosis?",
+    "choices": [
+      "A. Diabetic ketoacidosis",
+      "B. Hyperosmolar hyperglycemic state",
+      "C. Lactic acidosis",
+      "D. Sepsis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "DKA classically presents with nausea, vomiting, abdominal pain, and Kussmaul breathing (STG 2021).",
+    "tags": ["DKA", "vomiting"]
+  },
+  {
+    "id": 644,
+    "question": "Best antiemetic in raised intracranial pressure?",
+    "choices": [
+      "A. Ondansetron",
+      "B. Cyclizine or promethazine (non-sedating preferred)",
+      "C. Metoclopramide (contraindicated)",
+      "D. Dexamethasone + ondansetron"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Metoclopramide contraindicated (lowers seizure threshold); dexamethasone reduces edema and nausea (STG 2021).",
+    "tags": ["ICP", "dexamethasone"]
+  },
+  {
+    "id": 645,
+    "question": "A 32-year-old with nausea and vomiting has orthostatic hypotension and hyperpigmentation. Diagnosis?",
+    "choices": [
+      "A. Pregnancy",
+      "B. Addison’s disease",
+      "C. Hyperthyroidism",
+      "D. Phaeochromocytoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Primary adrenal insufficiency presents with chronic nausea, fatigue, hypotension, hyperpigmentation (STG 2021).",
+    "tags": ["Addison", "hyperpigmentation"]
+  },
+  {
+    "id": 646,
+    "question": "Most important laboratory test in prolonged vomiting?",
+    "choices": [
+      "A. Serum amylase",
+      "B. Electrolytes, renal function, glucose",
+      "C. Liver function",
+      "D. Pregnancy test only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Hypokalemia, hyponatremia, elevated urea, metabolic alkalosis are common and guide therapy (STG 2021).",
+    "tags": ["electrolytes", "prolonged_vomiting"]
+  },
+  {
+    "id": 647,
+    "question": "Patient with nausea and vomiting for 6 weeks has epigastric mass. Most likely diagnosis in Ethiopia?",
+    "choices": [
+      "A. Peptic ulcer",
+      "B. Gastric cancer",
+      "C. Pancreatic cancer",
+      "D. Lymphoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Age >50 + progressive symptoms + epigastric mass → gastric adenocarcinoma until proven otherwise (STG 2021).",
+    "tags": ["gastric_cancer", "epigastric_mass"]
+  },
+  {
+    "id": 648,
+    "question": "Best antiemetic combination for breakthrough nausea in palliative care?",
+    "choices": [
+      "A. Metoclopramide + ondansetron",
+      "B. Haloperidol 1–2 mg + levomepromazine or olanzapine",
+      "C. Domperidone + PPI",
+      "D. Cyclizine + dexamethasone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Multiple receptor blockade is needed in complex palliative nausea (STG 2021 palliative guidelines).",
+    "tags": ["palliative", "haloperidol"]
+  },
+  {
+    "id": 649,
+    "question": "A child with vomiting has sunken eyes, dry mouth, and drinks eagerly. Dehydration category?",
+    "choices": [
+      "A. No dehydration",
+      "B. Some dehydration",
+      "C. Severe dehydration",
+      "D. Shock"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "WHO criteria: two of (restless, sunken eyes, drinks eagerly, slow skin pinch) = some dehydration → Plan B (STG 2021).",
+    "tags": ["WHO_dehydration", "Plan_B"]
+  },
+  {
+    "id": 650,
+    "question": "Final take-home message for every patient with nausea and vomiting in Ethiopia?",
+    "choices": [
+      "A. Vomiting is always harmless",
+      "B. Persistent vomiting >48 hours or any red flag symptom needs urgent evaluation and correction of electrolytes",
+      "C. Just take metoclopramide",
+      "D. Fasting cures everything"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.4 Nausea and Vomiting",
+    "explanation": "Early recognition of dehydration, electrolyte imbalance, and alarm symptoms prevents mortality (Ethiopian STG 2021, p.193–195).",
+    "tags": ["key_message", "red_flags"]
+  },
+  {
+    "id": 651,
+    "question": "A 35-year-old HIV-positive man on ART presents with large-volume watery diarrhoea for 6 weeks, weight loss 12 kg, no blood or fever. Most likely diagnosis in Ethiopia?",
+    "choices": [
+      "A. Chronic shigellosis",
+      "B. Cryptosporidiosis / Isospora belli infection",
+      "C. Tuberculosis",
+      "D. Lymphoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Large-volume watery diarrhoea + severe weight loss in HIV patient = opportunistic protozoal infection (Cryptosporidium or Isospora) until proven otherwise (STG 2021, p.198).",
+    "tags": ["HIV", "chronic_diarrhoea", "cryptosporidiosis"]
+  },
+  {
+    "id": 652,
+    "question": "First-line treatment for Isospora belli in HIV patient in Ethiopian hospitals?",
+    "choices": [
+      "A. Metronidazole",
+      "B. Co-trimoxazole high dose (TMP 5 mg/kg + SMX 25 mg/kg QID) for 10 days then secondary prophylaxis",
+      "C. Ciprofloxacin",
+      "D. Nitazoxanide"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Co-trimoxazole is the drug of choice and widely available in Ethiopia (STG 2021, p.198).",
+    "tags": ["Isospora", "co-trimoxazole"]
+  },
+  {
+    "id": 653,
+    "question": "A 28-year-old woman has chronic large-volume diarrhoea with greasy, difficult-to-flush stools, weight loss, and bloating. Most likely diagnosis?",
+    "choices": [
+      "A. Irritable bowel syndrome",
+      "B. Giardia lamblia chronic infection",
+      "C. Tropical sprue / small bowel bacterial overgrowth",
+      "D. Ulcerative colitis"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Malabsorption features (greasy stool, bloating, weight loss) in tropical area = tropical sprue/SBBO (STG 2021, p.198).",
+    "tags": ["tropical_sprue", "malabsorption"]
+  },
+  {
+    "id": 654,
+    "question": "Best empirical treatment for tropical sprue in Ethiopia?",
+    "choices": [
+      "A. Metronidazole alone",
+      "B. Tetracycline or doxycycline 100 mg QID + folic acid 5 mg daily for 3–6 months",
+      "C. Loperamide",
+      "D. Albendazole"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Long-course tetracycline/doxycycline + folic acid is the cornerstone of treatment (STG 2021, p.198).",
+    "tags": ["tropical_sprue", "tetracycline_folic"]
+  },
+  {
+    "id": 655,
+    "question": "Most common cause of chronic bloody diarrhoea in adults in Ethiopia?",
+    "choices": [
+      "A. Amoebiasis",
+      "B. Schistosoma mansoni",
+      "C. Ulcerative colitis",
+      "D. Colorectal cancer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "S. mansoni is endemic and frequently causes chronic bloody diarrhoea with hepatosplenomegaly (STG 2021, p.199).",
+    "tags": ["schistosomiasis", "bloody_diarrhoea"]
+  },
+  {
+    "id": 656,
+    "question": "A 45-year-old farmer from Lake Tana area presents with chronic bloody diarrhoea, tenesmus, and left hypochondrial pain. Stool exam shows S. mansoni eggs. Treatment of choice?",
+    "choices": [
+      "A. Metronidazole",
+      "B. Praziquantel 40 mg/kg single dose",
+      "C. Albendazole",
+      "D. Ciprofloxacin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Praziquantel single dose is curative for intestinal schistosomiasis (STG 2021, p.199).",
+    "tags": ["S_mansoni", "praziquantel"]
+  },
+  {
+    "id": 657,
+    "question": "A 30-year-old with chronic diarrhoea has CD4 count 80 cells/µL. Stool modified ZN stain shows red coccoid forms. Diagnosis and treatment?",
+    "choices": [
+      "A. Cryptosporidium – no specific treatment, start ART",
+      "B. Isospora – high-dose co-trimoxazole",
+      "C. Cyclospora – co-trimoxazole",
+      "D. Mycobacterium avium complex"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Cryptosporidium is acid-fast, appears as small round oocysts; no effective treatment except immune reconstitution with ART (STG 2021, p.198).",
+    "tags": ["cryptosporidium", "ART"]
+  },
+  {
+    "id": 658,
+    "question": "Red flag symptom in chronic diarrhoea requiring urgent colonoscopy?",
+    "choices": [
+      "A. Nocturnal diarrhoea",
+      "B. Age >50 years + weight loss + blood in stool",
+      "C. Abdominal pain only",
+      "D. Alternating constipation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Age >50 + unintentional weight loss + chronic bloody diarrhoea → rule out colorectal cancer urgently (STG 2021, p.197).",
+    "tags": ["alarm_features", "colorectal_cancer"]
+  },
+  {
+    "id": 659,
+    "question": "A patient with chronic diarrhoea has macrocytic anaemia and peripheral neuropathy. Most likely diagnosis?",
+    "choices": [
+      "A. Tropical sprue (folate/B12 malabsorption)",
+      "B. Celiac disease (rare in Ethiopia)",
+      "C. Chronic pancreatitis",
+      "D. VIPoma"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Tropical sprue commonly causes folate and B12 deficiency leading to macrocytic anaemia and neuropathy (STG 2021).",
+    "tags": ["tropical_sprue", "macrocytic"]
+  },
+  {
+    "id": 660,
+    "question": "Most common cause of chronic diarrhoea in well-controlled HIV patients on ART in Ethiopia?",
+    "choices": [
+      "A. Opportunistic infections",
+      "B. ART side effects (especially protease inhibitors)",
+      "C. IRIS",
+      "D. Lymphoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Lopinavir/ritonavir and other PIs frequently cause chronic osmotic diarrhoea (STG 2021).",
+    "tags": ["ART", "PI_diarrhoea"]
+  },
+  {
+    "id": 661,
+    "question": "A 40-year-old woman has post-prandial diarrhoea, bloating, and weight loss after starting metformin. Most likely mechanism?",
+    "choices": [
+      "A. Infectious",
+      "B. Osmotic diarrhoea due to metformin",
+      "C. Bile acid malabsorption",
+      "D. Lactose intolerance"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Metformin commonly causes osmotic diarrhoea; take with meals or switch to extended-release (STG 2021).",
+    "tags": ["metformin", "osmotic"]
+  },
+  {
+    "id": 662,
+    "question": "Best initial investigation for chronic diarrhoea in district hospital in Ethiopia?",
+    "choices": [
+      "A. Colonoscopy",
+      "B. Stool microscopy + occult blood + modified ZN stain (if HIV)",
+      "C. Abdominal CT",
+      "D. Faecal calprotectin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Stool examination is cheap, widely available, and high yield especially for parasites and AFB (STG 2021, p.197).",
+    "tags": ["stool_exam", "first_line"]
+  },
+  {
+    "id": 663,
+    "question": "A patient with chronic diarrhoea has stool pH 5.0 and positive reducing substances. Diagnosis?",
+    "choices": [
+      "A. Fat malabsorption",
+      "B. Carbohydrate malabsorption (lactose, glucose)",
+      "C. Protein-losing enteropathy",
+      "D. Bacterial overgrowth"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Acidic stool + reducing substances = osmotic diarrhoea from unabsorbed sugars (STG 2021).",
+    "tags": ["osmotic", "reducing_substances"]
+  },
+  {
+    "id": 664,
+    "question": "Most common intestinal parasite causing chronic diarrhoea in HIV patients in Ethiopia?",
+    "choices": [
+      "A. Giardia",
+      "B. Entamoeba histolytica",
+      "C. Strongyloides stercoralis",
+      "D. Isospora belli"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Isospora and Cryptosporidium dominate in advanced HIV; Giardia is common in general population (STG 2021).",
+    "tags": ["Isospora", "HIV"]
+  },
+  {
+    "id": 665,
+    "question": "A 55-year-old man has chronic diarrhoea, dermatitis herpetiformis-like rash, and iron deficiency. Most likely diagnosis (though rare in Ethiopia)?",
+    "choices": [
+      "A. Tropical sprue",
+      "B. Celiac disease",
+      "C. Crohn’s disease",
+      "D. Behcet’s"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Classic triad of celiac: diarrhoea, dermatitis herpetiformis, iron deficiency (STG 2021 mentions it).",
+    "tags": ["celiac", "dermatitis_herpetiformis"]
+  },
+  {
+    "id": 666,
+    "question": "Patient with chronic diarrhoea improves dramatically on fasting but recurs on eating. Type of diarrhoea?",
+    "choices": [
+      "A. Secretory",
+      "B. Osmotic",
+      "C. Inflammatory",
+      "D. Motility-related"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Osmotic diarrhoea stops with fasting; secretory continues (STG 2021, p.197).",
+    "tags": ["osmotic", "fasting"]
+  },
+  {
+    "id": 667,
+    "question": "A patient with chronic large-volume secretory diarrhoea has normal colonoscopy but low serum K+ and metabolic acidosis. Most likely diagnosis?",
+    "choices": [
+      "A. VIPoma (rare)",
+      "B. Laxative abuse (phenolphthalein, bisacodyl)",
+      "C. Bile acid diarrhoea",
+      "D. Microscopic colitis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "VIPoma causes massive secretory diarrhoea with hypokalemia and acidosis (WDHA syndrome) (STG 2021).",
+    "tags": ["VIPoma", "secretory"]
+  },
+  {
+    "id": 668,
+    "question": "Most common cause of chronic diarrhoea in diabetic patients with autonomic neuropathy?",
+    "choices": [
+      "A. Metformin",
+      "B. Small bowel bacterial overgrowth",
+      "C. Chronic pancreatitis",
+      "D. Celiac disease"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Diabetic enteropathy + stasis → SBBO → treat with rotating antibiotics (STG 2021).",
+    "tags": ["diabetic", "SBBO"]
+  },
+  {
+    "id": 669,
+    "question": "A 60-year-old with chronic watery diarrhoea has faecal incontinence and perianal excoriation. Most likely mechanism?",
+    "choices": [
+      "A. Inflammatory",
+      "B. Overflow diarrhoea from severe constipation",
+      "C. Bile acid malabsorption",
+      "D. Lactose intolerance"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Elderly + incontinence + watery stool → suspect faecal impaction with overflow (STG 2021).",
+    "tags": ["overflow", "impaction"]
+  },
+  {
+    "id": 670,
+    "question": "Best treatment for chronic diarrhoea due to bile acid malabsorption after ileal resection?",
+    "choices": [
+      "A. Loperamide",
+      "B. Cholestyramine or colestipol",
+      "C. Metronidazole",
+      "D. Octreotide"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Bile acid sequestrants are first-line (STG 2021).",
+    "tags": ["bile_acid", "cholestyramine"]
+  },
+  {
+    "id": 671,
+    "question": "A patient with chronic diarrhoea has stool osmotic gap <50 mOsm/kg. Interpretation?",
+    "choices": [
+      "A. Osmotic diarrhoea",
+      "B. Secretory diarrhoea",
+      "C. Fatty diarrhoea",
+      "D. Inflammatory"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Osmotic gap = 290 – 2×(Na + K); <50 = secretory; >50 = osmotic (STG 2021).",
+    "tags": ["osmotic_gap", "secretory"]
+  },
+  {
+    "id": 672,
+    "question": "Most common cause of chronic bloody diarrhoea in young adults in urban Ethiopia?",
+    "choices": [
+      "A. Schistosomiasis",
+      "B. Inflammatory bowel disease (increasing incidence)",
+      "C. Amoebiasis",
+      "D. Cancer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "IBD (especially ulcerative colitis) is rising rapidly in Addis Ababa and other cities (STG 2021).",
+    "tags": ["IBD", "urban"]
+  },
+  {
+    "id": 673,
+    "question": "A patient with chronic diarrhoea is on long-term PPI. Most likely contributing factor?",
+    "choices": [
+      "A. Hypochlorhydria → small bowel bacterial overgrowth",
+      "B. Direct osmotic effect",
+      "C. Bile acid malabsorption",
+      "D. Lactose intolerance"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Prolonged acid suppression promotes SBBO (STG 2021).",
+    "tags": ["PPI", "SBBO"]
+  },
+  {
+    "id": 674,
+    "question": "A 25-year-old with chronic diarrhoea has peripheral eosinophilia and history of eating raw beef (kitfo). Most likely diagnosis?",
+    "choices": [
+      "A. Taenia saginata",
+      "B. Strongyloides stercoralis",
+      "C. Intestinal flukes",
+      "D. Toxocariasis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Raw meat consumption + eosinophilia + chronic diarrhoea → suspect Strongyloides or other tissue parasites (STG 2021).",
+    "tags": ["strongyloides", "kitfo"]
+  },
+  {
+    "id": 675,
+    "question": "Patient with chronic diarrhoea and HIV has CMV retinitis. Most likely cause of diarrhoea?",
+    "choices": [
+      "A. Cryptosporidium",
+      "B. CMV colitis",
+      "C. MAC",
+      "D. Isospora"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "CMV disease in multiple organs in advanced HIV → treat with ganciclovir/valganciclovir (STG 2021).",
+    "tags": ["CMV_colitis"]
+  },
+  {
+    "id": 676,
+    "question": "Most important nutritional intervention in chronic diarrhoea with malnutrition?",
+    "choices": [
+      "A. High protein diet",
+      "B. Ready-to-use therapeutic food (RUTF) or F-100 if severe",
+      "C. Low-fat diet",
+      "D. Lactose-free only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Severe malnutrition secondary to chronic diarrhoea → treat as SAM with F-75/F-100 or RUTF (STG 2021).",
+    "tags": ["malnutrition", "RUTF"]
+  },
+  {
+    "id": 677,
+    "question": "A patient with chronic diarrhoea has nocturnal symptoms waking him from sleep. Most likely type?",
+    "choices": [
+      "A. Functional (IBS)",
+      "B. Organic (inflammatory, secretory, malabsorption)",
+      "C. Osmotic",
+      "D. Motility"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Nocturnal diarrhoea is a red flag for organic disease (STG 2021).",
+    "tags": ["nocturnal", "organic"]
+  },
+  {
+    "id": 678,
+    "question": "Best empirical antibiotic for suspected small bowel bacterial overgrowth?",
+    "choices": [
+      "A. Ciprofloxacin 500 mg BID 7–10 days",
+      "B. Rifaximin (not available) → use metronidazole or rotating antibiotics",
+      "C. Amoxicillin",
+      "D. Doxycycline"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Metronidazole 400 mg TID or norfloxacin/ciprofloxacin commonly used in Ethiopia (STG 2021).",
+    "tags": ["SBBO", "metronidazole"]
+  },
+  {
+    "id": 679,
+    "question": "A patient with chronic diarrhoea after pelvic radiotherapy has proctitis and rectal bleeding. Best treatment?",
+    "choices": [
+      "A. Mesalazine suppositories",
+      "B. Sucralfate enemas or hydrocortisone foam",
+      "C. Oral metronidazole",
+      "D. Loperamide"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Radiation proctitis → topical sucralfate or steroid enemas (STG 2021).",
+    "tags": ["radiation_proctitis", "sucralfate"]
+  },
+  {
+    "id": 680,
+    "question": "Most common cause of chronic diarrhoea in thyroid clinic patients?",
+    "choices": [
+      "A. Hypothyroidism",
+      "B. Hyperthyroidism",
+      "C. Thyroid cancer",
+      "D. Hashimoto"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Hyperthyroidism increases gut motility → chronic loose stools (STG 2021).",
+    "tags": ["hyperthyroidism"]
+  },
+  {
+    "id": 681,
+    "question": "A 32-year-old with chronic diarrhoea has positive anti-tissue transglutaminase antibody. Diagnosis and treatment?",
+    "choices": [
+      "A. Tropical sprue – tetracycline",
+      "B. Celiac disease – lifelong gluten-free diet",
+      "C. IBD – mesalazine",
+      "D. Behcet – colchicine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Though rare, celiac is increasingly diagnosed; strict GFD is curative (STG 2021).",
+    "tags": ["celiac", "GFD"]
+  },
+  {
+    "id": 682,
+    "question": "Patient with chronic diarrhoea and HIV has acid-fast bacilli in stool. Most likely organism?",
+    "choices": [
+      "A. Cryptosporidium",
+      "B. Mycobacterium tuberculosis",
+      "C. MAC",
+      "D. Isospora"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "TB can involve intestine; MAC is rare in Ethiopia due to BCG (STG 2021).",
+    "tags": ["intestinal_TB"]
+  },
+  {
+    "id": 683,
+    "question": "Most important counselling for all patients with chronic diarrhoea?",
+    "choices": [
+      "A. Stop all spicy food",
+      "B. Continue oral rehydration, nutrition, return if dehydration or blood",
+      "C. Fasting is best",
+      "D. Loperamide lifelong"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Prevent dehydration and malnutrition while investigating cause (STG 2021, p.197).",
+    "tags": ["counselling", "ORS"]
+  },
+  {
+    "id": 684,
+    "question": "A patient with chronic diarrhoea has stool Na 90 mmol/L, K 45 mmol/L. Calculated osmotic gap?",
+    "choices": [
+      "A. >100 (osmotic)",
+      "B. <50 (secretory)",
+      "C. Normal",
+      "D. Cannot calculate"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "290 – 2×(90+45) = 290 – 270 = 20 → secretory (STG 2021).",
+    "tags": ["osmotic_gap_calculation"]
+  },
+  {
+    "id": 685,
+    "question": "Most common presentation of intestinal tuberculosis in Ethiopia?",
+    "choices": [
+      "A. Acute bloody diarrhoea",
+      "B. Subacute obstruction + chronic diarrhoea + weight loss",
+      "C. Massive bleeding",
+      "D. Perianal fistula"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Ileocaecal TB causes doughy abdomen, subacute obstruction, chronic diarrhoea (STG 2021).",
+    "tags": ["intestinal_TB"]
+  },
+  {
+    "id": 686,
+    "question": "Patient with chronic diarrhoea after Billroth II surgery. Most likely mechanism?",
+    "choices": [
+      "A. Dumping syndrome",
+      "B. Bile reflux gastritis",
+      "C. Bacterial overgrowth in afferent loop",
+      "D. Stump cancer"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Blind loop syndrome → SBBO (STG 2021).",
+    "tags": ["afferent_loop", "SBBO"]
+  },
+  {
+    "id": 687,
+    "question": "A 70-year-old with chronic watery diarrhoea has normal investigations. Most likely diagnosis?",
+    "choices": [
+      "A. Microscopic colitis",
+      "B. IBS-diarrhoea predominant",
+      "C. Small bowel cancer",
+      "D. Pancreatic insufficiency"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Elderly + watery diarrhoea + normal colonoscopy → consider microscopic (lymphocytic/collagenous) colitis; treat with budesonide (STG 2021).",
+    "tags": ["microscopic_colitis"]
+  },
+  {
+    "id": 688,
+    "question": "Best drug for symptomatic relief in non-infectious chronic diarrhoea?",
+    "choices": [
+      "A. Loperamide 4 mg stat then 2 mg after each loose stool (max 16 mg/day)",
+      "B. Codeine phosphate",
+      "C. Diphenoxylate",
+      "D. Racecadotril"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Loperamide is safest and most effective; avoid in dysentery (STG 2021).",
+    "tags": ["loperamide"]
+  },
+  {
+    "id": 689,
+    "question": "Patient with chronic diarrhoea and rheumatoid arthritis is on chronic NSAIDs. Most likely contributing factor?",
+    "choices": [
+      "A. NSAID enteropathy/colopathy",
+      "B. Reactive arthritis",
+      "C. Rheumatoid vasculitis",
+      "D. Felty syndrome"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Long-term NSAIDs cause small bowel and colonic ulcers/diaphragms (STG 2021).",
+    "tags": ["NSAID_enteropathy"]
+  },
+  {
+    "id": 690,
+    "question": "Most common cause of fat malabsorption in Ethiopia?",
+    "choices": [
+      "A. Chronic pancreatitis (alcohol, gallstones)",
+      "B. Tropical sprue",
+      "C. Celiac",
+      "D. HIV enteropathy"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Chronic calcific pancreatitis from alcohol and recurrent gallstone disease is very common (STG 2021).",
+    "tags": ["chronic_pancreatitis"]
+  },
+  {
+    "id": 691,
+    "question": "A patient with chronic diarrhoea has low serum albumin but no proteinuria. Most likely diagnosis?",
+    "choices": [
+      "A. Nephrotic syndrome",
+      "B. Protein-losing enteropathy",
+      "C. Liver cirrhosis",
+      "D. Malnutrition only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Chronic diarrhoea + hypoalbuminaemia without liver or kidney disease → PLE (STG 2021).",
+    "tags": ["PLE"]
+  },
+  {
+    "id": 692,
+    "question": "Patient with chronic diarrhoea after multiple antibiotics has positive C. difficile toxin. Treatment of choice?",
+    "choices": [
+      "A. Metronidazole 400 mg TID 10 days",
+      "B. Oral vancomycin 125 mg QID 10 days (preferred)",
+      "C. Ciprofloxacin",
+      "D. Stop antibiotics only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "First-line in Ethiopia remains oral vancomycin if available; metronidazole alternative (STG 2021).",
+    "tags": ["C_difficile", "vancomycin"]
+  },
+  {
+    "id": 693,
+    "question": "Most important preventive measure for chronic diarrhoea in HIV patients?",
+    "choices": [
+      "A. Daily co-trimoxazole prophylaxis",
+      "B. Early ART initiation",
+      "C. Albendazole every 6 months",
+      "D. All of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "CPT prevents Isospora, Pneumocystis, and some bacterial diarrhoea; ART restores immunity (STG 2021).",
+    "tags": ["prevention", "CPT_ART"]
+  },
+  {
+    "id": 694,
+    "question": "A patient with chronic diarrhoea has finger clubbing and bronchiectasis. Most likely underlying condition?",
+    "choices": [
+      "A. Celiac disease",
+      "B. Hypogammaglobulinaemia",
+      "C. Cystic fibrosis (extremely rare)",
+      "D. Alpha-1 antitrypsin deficiency"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Chronic diarrhoea + recurrent sinusitis/bronchiectasis → consider primary immunodeficiency (STG 2021).",
+    "tags": ["immunodeficiency"]
+  },
+  {
+    "id": 695,
+    "question": "Final key message for chronic diarrhoea management in Ethiopia?",
+    "choices": [
+      "A. All chronic diarrhoea is IBS",
+      "B. Look for treatable infections (parasites, TB, HIV-related), red flags for cancer/IBD, and provide nutrition/ORS while investigating",
+      "C. Just give loperamide",
+      "D. Colonoscopy for everyone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Stepwise approach starting with stool microscopy, HIV testing, and treating common causes prevents mortality (Ethiopian STG 2021, p.197–199).",
+    "tags": ["key_message", "stepwise"]
+  },
+  {
+    "id": 696,
+    "question": "A 42-year-old teacher has intermittent diarrhoea alternating with constipation for 2 years, bloating, no weight loss. Most likely diagnosis?",
+    "choices": [
+      "A. Colorectal cancer",
+      "B. Irritable bowel syndrome",
+      "C. Hyperthyroidism",
+      "D. Chronic amoebiasis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Rome IV criteria + no alarm features → IBS (common functional disorder) (STG 2021).",
+    "tags": ["IBS", "alternating"]
+  },
+  {
+    "id": 697,
+    "question": "Most common helminth causing chronic diarrhoea with malabsorption in Ethiopia?",
+    "choices": [
+      "A. Ascaris",
+      "B. Strongyloides stercoralis (hyperinfection in immunocompromised)",
+      "C. Hookworm",
+      "D. Taenia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Strongyloides causes protein-losing enteropathy and malabsorption especially in steroid use (STG 2021).",
+    "tags": ["strongyloides"]
+  },
+  {
+    "id": 698,
+    "question": "Patient with chronic diarrhoea has positive Strongyloides larvae in stool and is starting prednisolone for nephrotic syndrome. Immediate action?",
+    "choices": [
+      "A. Start steroids",
+      "B. Treat with ivermectin 200 µg/kg daily × 2 days (or albendazole) first",
+      "C. Give albendazole only",
+      "D. No need"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Prevent potentially fatal Strongyloides hyperinfection syndrome (STG 2021).",
+    "tags": ["strongyloides", "ivermectin_pre_steroid"]
+  },
+  {
+    "id": 699,
+    "question": "A patient with chronic diarrhoea has normal stool exam but high faecal calprotectin (if available). Next step?",
+    "choices": [
+      "A. Reassure IBS",
+      "B. Colonoscopy to look for IBD",
+      "C. Trial of loperamide",
+      "D. Abdominal ultrasound"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Elevated calprotectin indicates mucosal inflammation → proceed to colonoscopy (STG 2021).",
+    "tags": ["calprotectin", "IBD"]
+  },
+  {
+    "id": 700,
+    "question": "Most cost-effective way to reduce burden of chronic diarrhoea in rural Ethiopia?",
+    "choices": [
+      "A. Mass colonoscopy",
+      "B. Safe water, sanitation, hygiene (WASH), deworming, HIV control, early ART",
+      "C. Free loperamide",
+      "D. Routine stool culture"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.5 Chronic Diarrhoea",
+    "explanation": "Prevention through public health measures is far more effective than treatment (STG 2021 & national policy).",
+    "tags": ["prevention", "WASH"]
+  },
+  {
+    "id": 701,
+    "question": "A 65-year-old man from rural Ethiopia presents with no bowel movement for 10 days, progressive abdominal distension, vomiting and absolute constipation. On examination he is dehydrated and has tympanitic abdomen. Most likely diagnosis?",
+    "choices": [
+      "A. Simple constipation",
+      "B. Paralytic ileus",
+      "C. Large bowel obstruction (most likely sigmoid volvulus)",
+      "D. Faecal impaction"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Elderly male + sudden absolute constipation + massive distension in Ethiopia = sigmoid volvulus until proven otherwise (STG 2021, p.203).",
+    "tags": ["sigmoid_volvulus", "elderly"]
+  },
+  {
+    "id": 702,
+    "question": "Initial management of suspected sigmoid volvulus in a stable patient in general hospital?",
+    "choices": [
+      "A. Urgent laparotomy",
+      "B. Insert flatus tube per rectum + IV fluids + NG tube",
+      "C. Oral laxatives",
+      "D. Enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Rigid or flexible sigmoidoscopy with flatus tube decompression is first-line in stable patient (STG 2021, p.203).",
+    "tags": ["flatus_tube", "decompression"]
+  },
+  {
+    "id": 703,
+    "question": "Most common cause of chronic constipation in adults in Ethiopia?",
+    "choices": [
+      "A. Low-fibre diet",
+      "B. Hirschsprung’s disease",
+      "C. Hypothyroidism",
+      "D. Colonic cancer"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Low dietary fibre intake (teff-based diet low in vegetables/fruits) is the leading cause (STG 2021, p.202).",
+    "tags": ["dietary_fibre"]
+  },
+  {
+    "id": 704,
+    "question": "First-line treatment for simple functional constipation in Ethiopia?",
+    "choices": [
+      "A. Bisacodyl tablets",
+      "B. Lifestyle: high fibre (>30 g/day), ≥2 L water, exercise + bulk laxative (psyllium/ispaghula)",
+      "C. Lactulose lifelong",
+      "D. Daily enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Non-pharmacological measures + bulk-forming laxatives are first-line (STG 2021, p.202).",
+    "tags": ["lifestyle", "bulk_laxative"]
+  },
+  {
+    "id": 705,
+    "question": "A 50-year-old woman on amitriptyline for depression presents with severe constipation. Best initial step?",
+    "choices": [
+      "A. Stop amitriptyline",
+      "B. Add bulk laxative + plenty of water; if not enough add osmotic (lactulose)",
+      "C. Switch to fluoxetine",
+      "D. Give bisacodyl daily"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Anticholinergic drugs commonly cause constipation – treat with fibre + osmotic laxatives (STG 2021, p.202).",
+    "tags": ["drug_induced"]
+  },
+  {
+    "id": 706,
+    "question": "Red flag signs in constipation requiring urgent investigation?",
+    "choices": [
+      "A. Straining only",
+      "B. Age >50 + new constipation + weight loss + rectal bleeding",
+      "C. Hard stool",
+      "D. Infrequent defecation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Alarm features suggest colorectal cancer – urgent colonoscopy (STG 2021, p.202).",
+    "tags": ["alarm_features", "colorectal_cancer"]
+  },
+  {
+    "id": 707,
+    "question": "A 6-month-old infant has no bowel movement since birth, delayed passage of meconium, and abdominal distension. Most likely diagnosis?",
+    "choices": [
+      "A. Hypothyroidism",
+      "B. Hirschsprung’s disease",
+      "C. Meconium ileus",
+      "D. Anal stenosis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Failure to pass meconium in first 48 hours + chronic constipation = Hirschsprung’s until proven otherwise (STG 2021, p.203).",
+    "tags": ["Hirschsprung"]
+  },
+  {
+    "id": 708,
+    "question": "Most common opioid causing severe constipation in palliative care patients in Ethiopia?",
+    "choices": [
+      "A. Tramadol",
+      "B. Morphine",
+      "C. Codeine",
+      "D. Pethidine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "All opioids cause constipation; morphine is most commonly used in cancer pain (STG 2021, p.203).",
+    "tags": ["opioid_constipation"]
+  },
+  {
+    "id": 709,
+    "question": "Best prophylactic laxative regimen when starting morphine in palliative care?",
+    "choices": [
+      "A. Bisacodyl alone",
+      "B. Lactulose 15–30 mL BID + senna 2–4 tablets at night",
+      "C. Glycerin suppository",
+      "D. No need"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Combination osmotic (lactulose) + stimulant (senna) prevents opioid-induced constipation (STG 2021, p.203).",
+    "tags": ["opioid_prophylaxis", "lactulose_senna"]
+  },
+  {
+    "id": 710,
+    "question": "Safest laxative in pregnancy?",
+    "choices": [
+      "A. Bisacodyl",
+      "B. Bulk-forming (ispaghula) + adequate water",
+      "C. Senna",
+      "D. Castor oil"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Bulk laxatives are safest; stimulant laxatives used short-term if needed (STG 2021, p.202).",
+    "tags": ["pregnancy_safe"]
+  },
+  {
+    "id": 711,
+    "question": "A patient with chronic constipation has overflow diarrhoea and palpable faecal mass in left iliac fossa. Diagnosis?",
+    "choices": [
+      "A. IBS",
+      "B. Faecal impaction",
+      "C. Colorectal cancer",
+      "D. Diverticular disease"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Elderly + chronic constipation + overflow = faecal impaction (STG 2021, p.203).",
+    "tags": ["faecal_impaction", "overflow"]
+  },
+  {
+    "id": 712,
+    "question": "Best initial treatment for faecal impaction?",
+    "choices": [
+      "A. Oral lactulose alone",
+      "B. Warm water or oil enema + manual evacuation if needed",
+      "C. Immediate surgery",
+      "D. High-fibre diet only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Enema (oil/phosphate) to soften + digital evacuation under analgesia (STG 2021, p.203).",
+    "tags": ["impaction_treatment"]
+  },
+  {
+    "id": 713,
+    "question": "Drug contraindicated in constipation with suspected bowel obstruction?",
+    "choices": [
+      "A. Lactulose",
+      "B. Bulk-forming laxatives (ispaghula)",
+      "C. Glycerin suppository",
+      "D. Phosphate enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Bulk agents can worsen obstruction by absorbing water (STG 2021, p.202).",
+    "tags": ["contraindication"]
+  },
+  {
+    "id": 714,
+    "question": "Most common electrolyte abnormality in severe chronic constipation with laxative abuse?",
+    "choices": [
+      "A. Hyperkalemia",
+      "B. Hypokalemia",
+      "C. Hypernatremia",
+      "D. Hyponatremia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Stimulant laxative abuse → hypokalemia and metabolic alkalosis (STG 2021, p.202).",
+    "tags": ["laxative_abuse"]
+  },
+  {
+    "id": 715,
+    "question": "A patient with Parkinson’s disease has severe constipation unresponsive to lactulose. Next best agent?",
+    "choices": [
+      "A. Bisacodyl suppository",
+      "B. Add senna or bisacodyl tablets",
+      "C. Linaclotide",
+      "D. Prucalopride (not available)"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Neurological disease → add stimulant laxative (STG 2021, p.202).",
+    "tags": ["Parkinson"]
+  },
+  {
+    "id": 716,
+    "question": "Most common anatomical cause of constipation in children in Ethiopia?",
+    "choices": [
+      "A. Hypothyroidism",
+      "B. Anorectal malformation / anterior ectopic anus",
+      "C. Hirschsprung’s",
+      "D. Celiac disease"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Anterior displaced anus is very common and under-recognised (STG 2021, p.203).",
+    "tags": ["anorectal_malformation"]
+  },
+  {
+    "id": 717,
+    "question": "After successful decompression of sigmoid volvulus with flatus tube, next definitive management?",
+    "choices": [
+      "A. Discharge home",
+      "B. Elective sigmoid resection during same admission (after bowel prep)",
+      "C. Repeat flatus tube monthly",
+      "D. High-fibre diet only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Recurrence rate >50% → elective resection is standard (STG 2021, p.203).",
+    "tags": ["sigmoid_resection"]
+  },
+  {
+    "id": 718,
+    "question": "A 70-year-old man has new constipation, tenesmus and pencil-thin stool. Most urgent investigation?",
+    "choices": [
+      "A. Abdominal X-ray",
+      "B. Colonoscopy or CT colonography",
+      "C. Barium enema",
+      "D. Faecal occult blood"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Change in bowel habit + age >50 → rule out colorectal cancer urgently (STG 2021, p.202).",
+    "tags": ["colorectal_cancer"]
+  },
+  {
+    "id": 719,
+    "question": "Safest laxative in chronic kidney disease stage 4–5?",
+    "choices": [
+      "A. Sodium phosphate enema",
+      "B. Lactulose or polyethylene glycol (Movicol)",
+      "C. Senna",
+      "D. Magnesium salts"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Avoid phosphate and magnesium-containing laxatives (STG 2021, p.202).",
+    "tags": ["CKD_safe"]
+  },
+  {
+    "id": 720,
+    "question": "A patient with spinal cord injury at T12 has chronic constipation. Best long-term management?",
+    "choices": [
+      "A. Daily bisacodyl suppository + digital stimulation",
+      "B. Oral lactulose only",
+      "C. Permanent colostomy",
+      "D. Manual evacuation daily"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Neurogenic bowel → timed bowel care with suppository + stimulation (STG 2021, p.203).",
+    "tags": ["spinal_cord"]
+  },
+  {
+    "id": 721,
+    "question": "Most common cause of acute colonic pseudo-obstruction (Ogilvie syndrome) in hospitalised patients?",
+    "choices": [
+      "A. Electrolyte imbalance (hypokalemia)",
+      "B. Post-operative state + opioids + immobility",
+      "C. Hypothyroidism",
+      "D. Sepsis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Multifactorial – surgery, opioids, electrolytes (STG 2021, p.203).",
+    "tags": ["Ogilvie"]
+  },
+  {
+    "id": 722,
+    "question": "Initial management of Ogilvie syndrome with caecal diameter <12 cm and no peritonism?",
+    "choices": [
+      "A. Urgent surgery",
+      "B. Conservative: NPO, NG tube, correct electrolytes, stop opioids, ambulation",
+      "C. Neostigmine IV",
+      "D. Colonoscopic decompression"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Conservative management first; 70–80% resolve (STG 2021, p.203).",
+    "tags": ["conservative_Ogilvie"]
+  },
+  {
+    "id": 723,
+    "question": "A pregnant woman at 34 weeks has severe constipation unresponsive to fibre and lactulose. Safest next agent?",
+    "choices": [
+      "A. Bisacodyl tablets/suppository short course",
+      "B. Sodium picosulfate",
+      "C. Castor oil",
+      "D. Senna daily"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Stimulant laxatives safe short-term in third trimester (STG 2021, p.202).",
+    "tags": ["pregnancy_stimulant"]
+  },
+  {
+    "id": 724,
+    "question": "Most important dietary advice for prevention of constipation in Ethiopia?",
+    "choices": [
+      "A. Increase teff intake",
+      "B. Add vegetables, fruits, legumes, whole grains daily (>30 g fibre)",
+      "C. Drink coffee",
+      "D. Reduce water"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Traditional diet low in fibre – education crucial (STG 2021, p.202).",
+    "tags": ["prevention"]
+  },
+  {
+    "id": 725,
+    "question": "A patient with hypothyroidism has chronic constipation. Will it improve with thyroxine alone?",
+    "choices": [
+      "A. No, needs lifelong laxatives",
+      "B. Yes, usually resolves with adequate thyroxine replacement",
+      "C. Only if surgery done",
+      "D. Needs colostomy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Treat underlying cause – constipation improves with euthyroidism (STG 2021, p.202).",
+    "tags": ["hypothyroidism"]
+  },
+  {
+    "id": 726,
+    "question": "Drug commonly used for bowel preparation before colonoscopy in Ethiopia?",
+    "choices": [
+      "A. Oral fleet phospho-soda",
+      "B. Polyethylene glycol (PEG) 4 L solution (Fortrans/Klean-Prep)",
+      "C. Bisacodyl only",
+      "D. Castor oil"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "PEG-based solutions are safest and most effective (STG 2021, p.203).",
+    "tags": ["bowel_prep"]
+  },
+  {
+    "id": 727,
+    "question": "A patient with constipation has hypokalemia and metabolic alkalosis. Most likely cause?",
+    "choices": [
+      "A. Villous adenoma",
+      "B. Chronic laxative abuse (stimulant)",
+      "C. VIPoma",
+      "D. Conn’s syndrome"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Long-term stimulant laxative abuse → hypokalemia (STG 2021, p.202).",
+    "tags": ["laxative_abuse"]
+  },
+  {
+    "id": 728,
+    "question": "Best laxative for elderly bedridden patient with chronic constipation?",
+    "choices": [
+      "A. Daily phosphate enema",
+      "B. Lactulose 15–45 mL daily + senna at night",
+      "C. Bulk laxatives only",
+      "D. Manual evacuation daily"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Combination osmotic + stimulant is effective and safe (STG 2021, p.202).",
+    "tags": ["elderly"]
+  },
+  {
+    "id": 729,
+    "question": "A child with constipation soils underwear with soft stool. Most likely mechanism?",
+    "choices": [
+      "A. Hirschsprung’s",
+      "B. Overflow soiling from retained faeces (encopresis)",
+      "C. IBD",
+      "D. Sexual abuse"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Functional constipation → retentive behaviour → overflow (STG 2021, p.203).",
+    "tags": ["encopresis"]
+  },
+  {
+    "id": 730,
+    "question": "Management of encopresis in children?",
+    "choices": [
+      "A. Punishment",
+      "B. Disimpaction (PEG or enema) → maintenance lactulose + toilet training + behaviour therapy",
+      "C. Surgery",
+      "D. Antibiotics"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Clear impaction first then maintenance and behaviour modification (STG 2021, p.203).",
+    "tags": ["encopresis_treatment"]
+  },
+  {
+    "id": 731,
+    "question": "Most common site of colorectal cancer presenting with constipation in Ethiopia?",
+    "choices": [
+      "A. Caecum",
+      "B. Rectosigmoid",
+      "C. Transverse colon",
+      "D. Ascending colon"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Left-sided tumours → obstructive symptoms (STG 2021, p.202).",
+    "tags": ["rectosigmoid_cancer"]
+  },
+  {
+    "id": 732,
+    "question": "A patient with constipation and hypercalcaemia. Most likely underlying malignancy?",
+    "choices": [
+      "A. Prostate",
+      "B. Multiple myeloma or metastatic cancer",
+      "C. Lung",
+      "D. Breast"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Hypercalcaemia + constipation common in myeloma and bone metastases (STG 2021).",
+    "tags": ["hypercalcaemia"]
+  },
+  {
+    "id": 733,
+    "question": "Safest laxative in hepatic encephalopathy?",
+    "choices": [
+      "A. Senna",
+      "B. Lactulose 15–45 mL to produce 2–3 soft stools/day",
+      "C. Bisacodyl",
+      "D. Phosphate enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Lactulose is first-line for encephalopathy and treats constipation (STG 2021, p.202).",
+    "tags": ["lactulose_encephalopathy"]
+  },
+  {
+    "id": 734,
+    "question": "After 3 months of adequate fibre and laxatives, patient still has <3 bowel movements/week. Next step?",
+    "choices": [
+      "A. Continue same",
+      "B. Investigate for slow-transit constipation or pelvic floor dysfunction",
+      "C. Surgery",
+      "D. Life-long enemas"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Refractory constipation → need tertiary evaluation (STG 2021, p.202).",
+    "tags": ["refractory"]
+  },
+  {
+    "id": 735,
+    "question": "Most common preventable cause of severe constipation in hospitalised patients?",
+    "choices": [
+      "A. Immobility",
+      "B. Opioids without laxatives",
+      "C. Dehydration",
+      "D. All of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Iatrogenic constipation is very common – always give laxatives with opioids (STG 2021, p.203).",
+    "tags": ["iatrogenic"]
+  },
+  {
+    "id": 736,
+    "question": "A patient with chronic constipation has anal pain and bright red blood on paper. Most likely additional diagnosis?",
+    "choices": [
+      "A. Haemorrhoids",
+      "B. Anal fissure",
+      "C. Rectal cancer",
+      "D. Solitary rectal ulcer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Hard stool + straining → anal fissure (STG 2021).",
+    "tags": ["anal_fissure"]
+  },
+  {
+    "id": 737,
+    "question": "Best treatment for chronic anal fissure with constipation?",
+    "choices": [
+      "A. Lateral internal sphincterotomy",
+      "B. Soften stool (lactulose/fibre) + topical GTN or diltiazem",
+      "C. Daily enema",
+      "D. Botox injection"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Stool softeners are essential to prevent recurrence (STG 2021, p.203).",
+    "tags": ["fissure_treatment"]
+  },
+  {
+    "id": 738,
+    "question": "Patient with constipation and urinary retention after delivery. Most likely cause?",
+    "choices": [
+      "A. Pudendal nerve injury",
+      "B. Epidural analgesia + immobility",
+      "C. Uterine retroversion",
+      "D. UTI"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Post-partum constipation common due to pain, opioids, dehydration (STG 2021).",
+    "tags": ["postpartum"]
+  },
+  {
+    "id": 739,
+    "question": "A patient with constipation has koilonychia and angular stomatitis. Underlying cause?",
+    "choices": [
+      "A. Iron deficiency (plummer-vinson possible)",
+      "B. B12 deficiency",
+      "C. Zinc deficiency",
+      "D. Hypothyroidism"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Chronic iron deficiency can cause constipation; treat iron (STG 2021).",
+    "tags": ["iron_deficiency"]
+  },
+  {
+    "id": 740,
+    "question": "Most important counselling point for all patients with constipation?",
+    "choices": [
+      "A. Take laxatives lifelong",
+      "B. Never strain, respond to call to stool, high fibre + water + exercise",
+      "C. Enema daily",
+      "D. Surgery is best"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Lifestyle modification prevents recurrence (STG 2021, p.202).",
+    "tags": ["counselling"]
+  },
+  {
+    "id": 741,
+    "question": "Drug that can cause life-threatening constipation in elderly?",
+    "choices": [
+      "A. Verapamil",
+      "B. Ondansetron",
+      "C. Tramadol",
+      "D. All opioids"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Opioids + reduced mobility → severe constipation and impaction (STG 2021, p.203).",
+    "tags": ["opioids_elderly"]
+  },
+  {
+    "id": 742,
+    "question": "A patient with constipation has abdominal X-ray showing loaded colon with faecal matter up to rectum. Best next step?",
+    "choices": [
+      "A. Urgent surgery",
+      "B. Oral PEG (polyethylene glycol) 1–2 sachets daily for disimpaction",
+      "C. Phosphate enema",
+      "D. Observe"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "High-dose PEG safe and effective for disimpaction (STG 2021, p.203).",
+    "tags": ["PEG_disimpaction"]
+  },
+  {
+    "id": 743,
+    "question": "Most common complication of untreated chronic constipation in elderly Ethiopians?",
+    "choices": [
+      "A. Diverticulosis",
+      "B. Faecal impaction → overflow diarrhoea → falls",
+      "C. Haemorrhoids",
+      "D. Volvulus"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Impaction is very common and leads to confusion and falls (STG 2021, p.203).",
+    "tags": ["impaction_elderly"]
+  },
+  {
+    "id": 744,
+    "question": "Patient with constipation and narrow-angle glaucoma. Which laxative to avoid?",
+    "choices": [
+      "A. Lactulose",
+      "B. Anticholinergic-containing preparations",
+      "C. Senna",
+      "D. PEG"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Avoid drugs with anticholinergic side effects (STG 2021).",
+    "tags": ["glaucoma"]
+  },
+  {
+    "id": 745,
+    "question": "A diabetic patient with constipation has early satiety and vomiting. Most likely additional diagnosis?",
+    "choices": [
+      "A. Diabetic gastroparesis",
+      "B. Autonomic neuropathy affecting colon",
+      "C. Pancreatic cancer",
+      "D. Both A and B"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Diabetic autonomic neuropathy affects entire GI tract (STG 2021).",
+    "tags": ["diabetic_neuropathy"]
+  },
+  {
+    "id": 746,
+    "question": "Best laxative combination for terminal cancer patient on high-dose morphine?",
+    "choices": [
+      "A. Lactulose + senna (titrate to 2–3 soft stools/day)",
+      "B. Daily phosphate enema",
+      "C. Methylnaltrexone (not available)",
+      "D. Stop morphine"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Escalate laxatives aggressively in palliative care (STG 2021, p.203).",
+    "tags": ["palliative_laxatives"]
+  },
+  {
+    "id": 747,
+    "question": "A patient with constipation has serum calcium 2.9 mmol/L. Most urgent action?",
+    "choices": [
+      "A. Give laxatives",
+      "B. Treat hypercalcaemia first (IV fluids + bisphosphonate)",
+      "C. Enema",
+      "D. Fibre"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Severe hypercalcaemia causes paralytic ileus and constipation (STG 2021).",
+    "tags": ["hypercalcaemia_treatment"]
+  },
+  {
+    "id": 748,
+    "question": "Most common cause of secondary constipation in HIV patients on ART?",
+    "choices": [
+      "A. Opportunistic infections",
+      "B. Lopinavir/ritonavir or other drugs",
+      "C. CMV colitis",
+      "D. Lymphoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Protease inhibitors and other ART can slow gut motility (STG 2021).",
+    "tags": ["ART_constipation"]
+  },
+  {
+    "id": 749,
+    "question": "Patient with chronic constipation is found to have megacolon on X-ray. Most likely long-term complication?",
+    "choices": [
+      "A. Colorectal cancer",
+      "B. Recurrent sigmoid volvulus",
+      "C. Malnutrition",
+      "D. Diverticulosis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Chronic megacolon predisposes to recurrent volvulus (STG 2021, p.203).",
+    "tags": ["megacolon_volvulus"]
+  },
+  {
+    "id": 750,
+    "question": "Final take-home message for constipation in Ethiopian general hospitals?",
+    "choices": [
+      "A. All constipation is cancer",
+      "B. Start with lifestyle + bulk/osmotic laxatives, recognise red flags and sigmoid volvulus early, always give laxatives with opioids",
+      "C. Surgery for everyone",
+      "D. Laxatives are dangerous"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.6 Constipation",
+    "explanation": "Simple measures cure most cases; early recognition of volvulus and cancer saves lives (Ethiopian STG 2021, p.202–203).",
+    "tags": ["key_message"]
+  },
+  {
+    "id": 751,
+    "question": "A 32-year-old man presents with sudden onset severe epigastric pain radiating to the back, vomiting, and abdominal distension for 12 hours. He drinks alcohol heavily. Most likely diagnosis?",
+    "choices": [
+      "A. Perforated peptic ulcer",
+      "B. Acute pancreatitis",
+      "C. Acute cholecystitis",
+      "D. Ruptured aortic aneurysm"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Severe epigastric pain radiating to back + vomiting + alcohol history = acute pancreatitis until proven otherwise (STG 2021, p.204).",
+    "tags": ["acute_pancreatitis", "alcohol"]
+  },
+  {
+    "id": 752,
+    "question": "Initial management of acute pancreatitis in general hospital?",
+    "choices": [
+      "A. Immediate surgery",
+      "B. NPO, IV fluids (aggressive), NG tube if vomiting, analgesia (pethidine/tramadol), monitor vital signs",
+      "C. Oral feeding",
+      "D. Antibiotics routinely"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Supportive care: fasting, aggressive IV hydration, pain relief; antibiotics only if infected necrosis suspected (STG 2021, p.204).",
+    "tags": ["pancreatitis_management"]
+  },
+  {
+    "id": 753,
+    "question": "A 28-year-old woman has sudden severe right upper quadrant pain radiating to right shoulder tip, 2 hours after fatty meal. Most likely diagnosis?",
+    "choices": [
+      "A. Acute pancreatitis",
+      "B. Acute cholecystitis",
+      "C. Biliary colic",
+      "D. Perforated peptic ulcer"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Post-prandial RUQ pain radiating to shoulder tip = biliary colic; if fever + Murphy’s sign → cholecystitis (STG 2021, p.205).",
+    "tags": ["biliary_colic"]
+  },
+  {
+    "id": 754,
+    "question": "Most common cause of acute abdominal pain requiring surgery in Ethiopia?",
+    "choices": [
+      "A. Acute pancreatitis",
+      "B. Acute appendicitis",
+      "C. Perforated peptic ulcer",
+      "D. Intestinal obstruction"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Acute appendicitis remains the commonest surgical emergency (STG 2021, p.205).",
+    "tags": ["appendicitis"]
+  },
+  {
+    "id": 755,
+    "question": "Classic presentation of acute appendicitis in Ethiopian adults?",
+    "choices": [
+      "A. Central abdominal pain shifting to RIF + anorexia + vomiting",
+      "B. Sudden epigastric pain",
+      "C. Left lower quadrant pain",
+      "D. Diffuse pain"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Periumbilical pain → migration to RIF (McBurney’s point tenderness) is classic (STG 2021, p.205).",
+    "tags": ["appendicitis_presentation"]
+  },
+  {
+    "id": 756,
+    "question": "A 45-year-old man has sudden severe epigastric pain, becomes rigid and shocked within hours. Chest X-ray shows air under diaphragm. Most likely diagnosis?",
+    "choices": [
+      "A. Acute pancreatitis",
+      "B. Perforated peptic ulcer",
+      "C. Ruptured ectopic pregnancy",
+      "D. Mesenteric infarction"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Sudden severe epigastric pain + board-like rigidity + free air = perforated DU/GU (STG 2021, p.205).",
+    "tags": ["perforated_ulcer"]
+  },
+  {
+    "id": 757,
+    "question": "First-line management of perforated peptic ulcer in stable patient?",
+    "choices": [
+      "A. IV PPI + antibiotics + NG tube + urgent laparotomy/laparoscopic repair",
+      "B. Conservative only",
+      "C. Oral antibiotics",
+      "D. Endoscopy"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Resuscitate + broad-spectrum antibiotics (ceftriaxone + metronidazole) + surgery within 24 h (STG 2021, p.205).",
+    "tags": ["perforation_surgery"]
+  },
+  {
+    "id": 758,
+    "question": "Most common cause of intestinal obstruction in adults in Ethiopia?",
+    "choices": [
+      "A. Adhesions",
+      "B. Sigmoid volvulus",
+      "C. Hernia",
+      "D. Colorectal cancer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Sigmoid volvulus is the leading cause of large bowel obstruction (STG 2021, p.204).",
+    "tags": ["sigmoid_volvulus"]
+  },
+  {
+    "id": 759,
+    "question": "A 60-year-old man has sudden severe lower abdominal pain, massive distension, no flatus/stool for 2 days. Abdominal X-ray shows coffee-bean sign. Immediate management?",
+    "choices": [
+      "A. Urgent laparotomy",
+      "B. Rigid sigmoidoscopy + flatus tube insertion",
+      "C. Conservative",
+      "D. Enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Coffee-bean sign = sigmoid volvulus; decompression via sigmoidoscopy is life-saving (STG 2021, p.204).",
+    "tags": ["coffee_bean_sign"]
+  },
+  {
+    "id": 760,
+    "question": "Red flag signs in acute abdominal pain requiring urgent surgical review?",
+    "choices": [
+      "A. Mild pain only",
+      "B. Guarding, rigidity, rebound tenderness, shock, absent bowel sounds",
+      "C. Vomiting once",
+      "D. Diarrhoea"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Signs of peritonitis or shock = surgical emergency (STG 2021, p.204).",
+    "tags": ["peritonitis"]
+  },
+  {
+    "id": 761,
+    "question": "Most common cause of acute right lower quadrant pain in young Ethiopian female?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Ruptured ectopic pregnancy",
+      "C. Ovarian torsion",
+      "D. PID"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Sexually active female + missed period + sudden lower abdominal pain → ectopic until proven otherwise (STG 2021, p.205).",
+    "tags": ["ectopic_pregnancy"]
+  },
+  {
+    "id": 762,
+    "question": "A patient with acute abdominal pain has positive urine pregnancy test and hypotension. Immediate action?",
+    "choices": [
+      "A. Ultrasound",
+      "B. IV fluids + blood + urgent laparotomy (suspected ruptured ectopic)",
+      "C. Misoprostol",
+      "D. Observe"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Ruptured ectopic is life-threatening; resuscitate and operate immediately (STG 2021, p.205).",
+    "tags": ["ruptured_ectopic"]
+  },
+  {
+    "id": 763,
+    "question": "Most useful initial investigation in non-traumatic acute abdominal pain in district hospital?",
+    "choices": [
+      "A. CT abdomen",
+      "B. Erect and supine abdominal X-ray + abdominal ultrasound + pregnancy test (females)",
+      "C. Endoscopy",
+      "D. Laparoscopy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Plain X-ray detects perforation/obstruction; ultrasound widely available for biliary/gynaecological causes (STG 2021, p.204).",
+    "tags": ["investigations"]
+  },
+  {
+    "id": 764,
+    "question": "A 55-year-old diabetic presents with gradual severe left flank pain, fever, dysuria. Most likely diagnosis?",
+    "choices": [
+      "A. Pyelonephritis",
+      "B. Renal colic",
+      "C. Acute pancreatitis",
+      "D. Diverticulitis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Flank pain + fever + diabetes → acute pyelonephritis (STG 2021, p.205).",
+    "tags": ["pyelonephritis"]
+  },
+  {
+    "id": 765,
+    "question": "Classic triad of renal colic?",
+    "choices": [
+      "A. Severe colicky flank pain radiating to groin + haematuria + vomiting",
+      "B. Constant pain + fever",
+      "C. Lower abdominal pain",
+      "D. Diarrhoea"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Colicky pain + radiation to groin + microscopic haematuria (STG 2021, p.205).",
+    "tags": ["renal_colic"]
+  },
+  {
+    "id": 766,
+    "question": "A 25-year-old man has acute severe testicular pain with vomiting. Diagnosis?",
+    "choices": [
+      "A. Testicular torsion",
+      "B. Epididymitis",
+      "C. Orchitis",
+      "D. Inguinal hernia"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Sudden severe scrotal pain + vomiting in young male = torsion until proven otherwise; surgical emergency (STG 2021, p.205).",
+    "tags": ["testicular_torsion"]
+  },
+  {
+    "id": 767,
+    "question": "Most common cause of acute mesenteric ischaemia in Ethiopia?",
+    "choices": [
+      "A. Embolus",
+      "B. Mesenteric venous thrombosis",
+      "C. Atrial fibrillation → arterial embolism",
+      "D. Atherosclerosis"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Rheumatic heart disease + AF very common → embolus to SMA (STG 2021, p.204).",
+    "tags": ["mesenteric_ischaemia"]
+  },
+  {
+    "id": 768,
+    "question": "Pain out of proportion to examination findings in elderly patient with AF → think?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Acute mesenteric ischaemia",
+      "C. Pancreatitis",
+      "D. Perforation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Severe pain with soft abdomen early on = mesenteric ischaemia (STG 2021, p.204).",
+    "tags": ["pain_disproportionate"]
+  },
+  {
+    "id": 769,
+    "question": "A 40-year-old woman has acute lower abdominal pain, vaginal discharge, cervical motion tenderness. Diagnosis?",
+    "choices": [
+      "A. Ectopic pregnancy",
+      "B. Pelvic inflammatory disease (PID)",
+      "C. Ovarian cyst rupture",
+      "D. Appendicitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Bilateral lower pain + CMT + discharge = PID (STG 2021, p.205).",
+    "tags": ["PID"]
+  },
+  {
+    "id": 770,
+    "question": "Best analgesia for severe acute abdominal pain before surgical review?",
+    "choices": [
+      "A. Withhold until surgeon sees",
+      "B. IV morphine or pethidine titrated + antiemetic",
+      "C. Oral paracetamol",
+      "D. IM diclofenac only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Adequate analgesia does NOT mask signs; give opioids early (STG 2021, p.204).",
+    "tags": ["analgesia_myth"]
+  },
+  {
+    "id": 771,
+    "question": "A patient with acute abdominal pain has serum amylase 1200 U/L. Most likely diagnosis?",
+    "choices": [
+      "A. Perforated ulcer",
+      "B. Acute pancreatitis",
+      "C. Bowel obstruction",
+      "D. Cholecystitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Amylase >3 times upper limit = acute pancreatitis (STG 2021, p.204).",
+    "tags": ["amylase"]
+  },
+  {
+    "id": 772,
+    "question": "Most common cause of acute abdominal pain in children in Ethiopia?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Intestinal obstruction (intussusception, volvulus, ascariasis)",
+      "C. Gastroenteritis",
+      "D. UTI"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Ascaris bolus, intussusception common in paediatric age (STG 2021, p.205).",
+    "tags": ["paediatric"]
+  },
+  {
+    "id": 773,
+    "question": "A child with intermittent severe colicky pain, vomiting, red currant jelly stool. Diagnosis?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Intussusception",
+      "C. Gastroenteritis",
+      "D. Meckel diverticulum"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Classic triad of intussusception (STG 2021, p.205).",
+    "tags": ["intussusception"]
+  },
+  {
+    "id": 774,
+    "question": "A patient with sickle cell disease presents with acute abdominal pain. Most important differential to exclude?",
+    "choices": [
+      "A. Acute chest syndrome",
+      "B. Surgical cause (cholecystitis, appendicitis) – same as general population",
+      "C. Vaso-occlusive crisis only",
+      "D. Sequestration"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "SCD patients can have all surgical emergencies; do not assume vaso-occlusive crisis alone (STG 2021, p.204).",
+    "tags": ["sickle_cell"]
+  },
+  {
+    "id": 775,
+    "question": "Most common cause of acute severe abdominal pain in elderly Ethiopians?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Sigmoid volvulus",
+      "C. Perforated ulcer",
+      "D. Biliary colic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "High-fibre diet + poor motility → volvulus very common (STG 2021, p.204).",
+    "tags": ["elderly_volvulus"]
+  },
+  {
+    "id": 776,
+    "question": "A HIV-positive patient has acute abdominal pain and free air under diaphragm. Most likely cause?",
+    "choices": [
+      "A. Perforated peptic ulcer",
+      "B. TB-related perforation (ileal)",
+      "C. CMV colitis perforation",
+      "D. Any of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Advanced HIV → higher risk of TB perforation and CMV (STG 2021, p.205).",
+    "tags": ["HIV_perforation"]
+  },
+  {
+    "id": 777,
+    "question": "Best antibiotic regimen for suspected perforated viscus in Ethiopia?",
+    "choices": [
+      "A. Ceftriaxone + metronidazole",
+      "B. Amoxicillin only",
+      "C. Ciprofloxacin",
+      "D. Gentamicin"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Broad-spectrum covering aerobes and anaerobes (STG 2021, p.205).",
+    "tags": ["antibiotics_perforation"]
+  },
+  {
+    "id": 778,
+    "question": "A patient with acute abdominal pain has temperature 38.9°C, tachycardia, rebound tenderness in RIF. Next step?",
+    "choices": [
+      "A. Oral antibiotics",
+      "B. IV fluids + antibiotics + urgent appendicectomy",
+      "C. Ultrasound first",
+      "D. Observe"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Clinical diagnosis of acute appendicitis → early surgery (STG 2021, p.205).",
+    "tags": ["appendicectomy"]
+  },
+  {
+    "id": 779,
+    "question": "Most important blood test in acute abdominal pain?",
+    "choices": [
+      "A. Amylase",
+      "B. CBC, pregnancy test, group & save/cross-match if shocked",
+      "C. LFT",
+      "D. CRP"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Haemoglobin, WCC, pregnancy test guide management (STG 2021, p.204).",
+    "tags": ["blood_tests"]
+  },
+  {
+    "id": 780,
+    "question": "A 19-year-old female has acute lower abdominal pain, previously had similar episodes that resolved. Examination normal. Most likely diagnosis?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Mittelschmerz (mid-cycle ovulatory pain)",
+      "C. PID",
+      "D. Ectopic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Self-limiting mid-cycle pain common and benign (STG 2021, p.205).",
+    "tags": ["mittelschmerz"]
+  },
+  {
+    "id": 781,
+    "question": "Patient with acute abdominal pain and jaundice. Most likely diagnosis?",
+    "choices": [
+      "A. Acute pancreatitis",
+      "B. Acute cholangitis / gallstone disease",
+      "C. Viral hepatitis",
+      "D. Perforated ulcer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Charcot’s triad (pain, fever, jaundice) = acute cholangitis (STG 2021, p.205).",
+    "tags": ["cholangitis"]
+  },
+  {
+    "id": 782,
+    "question": "A patient with acute abdominal pain has visible peristalsis and resonant abdomen. Diagnosis?",
+    "choices": [
+      "A. Peritonitis",
+      "B. Intestinal obstruction",
+      "C. Pancreatitis",
+      "D. Ileus"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Visible peristalsis + tympanitic = mechanical obstruction (STG 2021, p.204).",
+    "tags": ["visible_peristalsis"]
+  },
+  {
+    "id": 783,
+    "question": "Most common strangulated hernia in Ethiopian adults?",
+    "choices": [
+      "A. Inguinal",
+      "B. Umbilical",
+      "C. Femoral",
+      "D. Incisional"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Indirect inguinal hernia common and frequently presents late with strangulation (STG 2021, p.204).",
+    "tags": ["inguinal_hernia"]
+  },
+  {
+    "id": 784,
+    "question": "A patient with typhoid fever develops sudden severe abdominal pain and shock on day 10. Most likely complication?",
+    "choices": [
+      "A. Myocarditis",
+      "B. Intestinal perforation",
+      "C. Encephalopathy",
+      "D. Cholecystitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Ileal perforation common in 2nd–3rd week of typhoid (STG 2021, p.205).",
+    "tags": ["typhoid_perforation"]
+  },
+  {
+    "id": 785,
+    "question": "Best position for patient with suspected perforated peptic ulcer during transport?",
+    "choices": [
+      "A. Supine",
+      "B. Semi-sitting (reduce sub-diaphragmatic irritation)",
+      "C. Left lateral",
+      "D. Prone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Sitting position reduces pain from sub-diaphragmatic air (STG 2021, p.205).",
+    "tags": ["position_perforation"]
+  },
+  {
+    "id": 786,
+    "question": "A patient with acute abdominal pain has BP 80/50, pulse 130. First priority?",
+    "choices": [
+      "A. X-ray",
+      "B. IV access + aggressive fluid resuscitation + oxygen + urgent surgical review",
+      "C. Analgesia",
+      "D. Antibiotics"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "ABC approach – treat shock first (STG 2021, p.204).",
+    "tags": ["shock"]
+  },
+  {
+    "id": 787,
+    "question": "Most common cause of acute abdominal pain in pregnant women?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Same causes as non-pregnant + pregnancy-related (ectopic, miscarriage, abruption)",
+      "C. UTI",
+      "D. Round ligament pain"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Pregnancy does not protect against surgical emergencies (STG 2021, p.205).",
+    "tags": ["pregnancy_abdomen"]
+  },
+  {
+    "id": 788,
+    "question": "A patient with acute abdominal pain has ascites and tenderness. Most likely diagnosis?",
+    "choices": [
+      "A. Spontaneous bacterial peritonitis (SBP)",
+      "B. Perforation",
+      "C. Pancreatitis",
+      "D. TB peritonitis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Cirrhosis + fever + abdominal pain → suspect SBP (STG 2021, p.204).",
+    "tags": ["SBP"]
+  },
+  {
+    "id": 789,
+    "question": "Patient with acute abdominal pain has multiple air-fluid levels, no free air. Management?",
+    "choices": [
+      "A. Immediate surgery",
+      "B. NPO, NG tube, IV fluids, correct electrolytes, look for cause",
+      "C. Oral laxatives",
+      "D. Enema"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Conservative management of small bowel obstruction while preparing for surgery if no resolution (STG 2021, p.204).",
+    "tags": ["SBO_management"]
+  },
+  {
+    "id": 790,
+    "question": "A child swallowed a coin 3 days ago, now has abdominal pain and vomiting. Most likely complication?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Intestinal obstruction / perforation",
+      "C. Oesophagus perforation",
+      "D. Normal"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Foreign body beyond 72 h → risk of obstruction/perforation (STG 2021, p.205).",
+    "tags": ["foreign_body"]
+  },
+  {
+    "id": 791,
+    "question": "Most important question to ask in history of acute abdominal pain?",
+    "choices": [
+      "A. Family history",
+      "B. Previous similar episodes and previous surgery (adhesions)",
+      "C. Diet",
+      "D. Occupation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Previous surgery → adhesions → commonest cause of SBO in developed world, increasing in Ethiopia (STG 2021, p.204).",
+    "tags": ["history"]
+  },
+  {
+    "id": 792,
+    "question": "A patient with acute abdominal pain has ketone breath and high glucose. Diagnosis?",
+    "choices": [
+      "A. DKA with abdominal crisis",
+      "B. Acute pancreatitis precipitating DKA",
+      "C. Either – both common",
+      "D. Normal"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "DKA presents with severe abdominal pain; pancreatitis can precipitate DKA (STG 2021, p.204).",
+    "tags": ["DKA"]
+  },
+  {
+    "id": 793,
+    "question": "Patient with acute abdominal pain has spider naevi, ascites, jaundice. Most likely underlying disease?",
+    "choices": [
+      "A. Chronic liver disease",
+      "B. Malignancy",
+      "C. Heart failure",
+      "D. Nephrotic syndrome"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Chronic liver disease predisposes to SBP, variceal bleed, etc. (STG 2021, p.204).",
+    "tags": ["liver_disease"]
+  },
+  {
+    "id": 794,
+    "question": "A patient with acute abdominal pain has absent bowel sounds and tympanitic abdomen. Most likely?",
+    "choices": [
+      "A. Peritonitis",
+      "B. Paralytic ileus or obstruction",
+      "C. Normal",
+      "D. Constipation"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Absent sounds = ileus or late obstruction (STG 2021, p.204).",
+    "tags": ["bowel_sounds"]
+  },
+  {
+    "id": 795,
+    "question": "Most common cause of non-traumatic acute abdominal pain in young Ethiopian males?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Renal colic",
+      "C. NSAP (non-specific abdominal pain)",
+      "D. Gastritis"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Appendicitis peaks in 2nd–3rd decade (STG 2021, p.205).",
+    "tags": ["young_male"]
+  },
+  {
+    "id": 796,
+    "question": "A patient with acute abdominal pain has positive psoas sign. Most likely diagnosis?",
+    "choices": [
+      "A. Cholecystitis",
+      "B. Appendicitis (retrocaecal)",
+      "C. Diverticulitis",
+      "D. Pancreatitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Psoas sign positive in retrocaecal appendix (STG 2021, p.205).",
+    "tags": ["psoas_sign"]
+  },
+  {
+    "id": 797,
+    "question": "Patient with acute abdominal pain has shifting dullness. Most urgent concern?",
+    "choices": [
+      "A. Haemoperitoneum or perforated viscus with exudation",
+      "B. Chronic ascites",
+      "C. Normal",
+      "D. Ovarian cyst"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Acute ascites + pain → ruptured ectopic, splenic rupture, perforation (STG 2021, p.204).",
+    "tags": ["ascites_acute"]
+  },
+  {
+    "id": 798,
+    "question": "Best way to reduce mortality from acute abdomen in rural Ethiopia?",
+    "choices": [
+      "A. CT scan in every hospital",
+      "B. Early recognition, rapid referral, IV fluids and antibiotics en route",
+      "C. Traditional medicine",
+      "D. Wait and see"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Delay in presentation and transfer is the major killer (STG 2021, p.204).",
+    "tags": ["referral"]
+  },
+  {
+    "id": 799,
+    "question": "A patient with acute abdominal pain has Murphy’s sign positive. Diagnosis?",
+    "choices": [
+      "A. Appendicitis",
+      "B. Acute cholecystitis",
+      "C. Pancreatitis",
+      "D. Renal colic"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "Arrest of inspiration on palpation of RUQ = Murphy’s sign (STG 2021, p.205).",
+    "tags": ["Murphy_sign"]
+  },
+  {
+    "id": 800,
+    "question": "Final take-home message for acute abdominal pain in Ethiopian general hospitals?",
+    "choices": [
+      "A. All abdominal pain is gastritis",
+      "B. Acute abdomen is a surgical emergency until proven otherwise; resuscitate, give analgesia and antibiotics early, involve surgeon promptly, never delay referral",
+      "C. Give PPI and discharge",
+      "D. Wait 48 hours"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.7 Acute Abdominal Pain",
+    "explanation": "High index of suspicion + rapid intervention saves lives; common things are common (appendicitis, volvulus, perforation, ectopic) (Ethiopian STG 2021, p.204–205).",
+    "tags": ["key_message"]
+  },
+  {
+    "id": 801,
+    "question": "A 28-year-old man presents with jaundice, high-coloured urine, malaise for 2 weeks and tender hepatomegaly. ALT 1800 U/L, bilirubin 8 mg/dL. Most likely diagnosis in Ethiopia?",
+    "choices": [
+      "A. Alcoholic hepatitis",
+      "B. Acute viral hepatitis (HAV or HEV)",
+      "C. Drug-induced liver injury",
+      "D. Malaria"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Acute icteric hepatitis with very high transaminases in young adult in Ethiopia is almost always HAV or HEV (STG 2021, p.209).",
+    "tags": ["acute_viral_hepatitis", "HAV_HEV"]
+  },
+  {
+    "id": 802,
+    "question": "First-line management of uncomplicated acute viral hepatitis A or E?",
+    "choices": [
+      "A. Antiviral therapy",
+      "B. Supportive only: rest, hydration, nutrition, avoid alcohol; no specific treatment not required",
+      "C. Corticosteroids",
+      "D. Urgent referral"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "HAV and HEV are self-limiting in >99% of cases; only supportive care needed (STG 2021, p.209).",
+    "tags": ["supportive_care"]
+  },
+  {
+    "id": 803,
+    "question": "Most common cause of fulminant hepatic failure in Ethiopia?",
+    "choices": [
+      "A. Hepatitis B",
+      "B. Hepatitis E (especially in pregnant women)",
+      "C. Yellow fever",
+      "D. Paracetamol overdose"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "HEV genotype 1 causes severe disease and high mortality up to 25% in pregnant women (STG 2021, p.209).",
+    "tags": ["HEV_pregnancy"]
+  },
+  {
+    "id": 804,
+    "question": "A 30-year-old pregnant woman at 28 weeks gestation presents with acute jaundice, vomiting, ALT 2200. Immediate management?",
+    "choices": [
+      "A. Wait and watch",
+      "B. Urgent referral to hospital with ICU capability + deliver if coagulopathy or encephalopathy",
+      "C. Start tenofovir",
+      "D. Give silymarin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Suspected acute HEV in pregnancy is a medical emergency – high risk of fulminant failure (STG 2021, p.209).",
+    "tags": ["HEV_pregnancy_emergency"]
+  },
+  {
+    "id": 805,
+    "question": "Most common mode of transmission of hepatitis B in Ethiopia?",
+    "choices": [
+      "A. Sexual",
+      "B. Perinatal / horizontal in early childhood (high endemicity)",
+      "C. Blood transfusion",
+      "D. IV drug use"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "HBV prevalence 7–10%; majority infected perinatally or before age 5 years (STG 2021, p.210).",
+    "tags": ["HBV_transmission"]
+  },
+  {
+    "id": 806,
+    "question": "A 25-year-old woman HBsAg positive, HBV DNA 150,000 IU/mL, ALT 85 U/L (2× ULN), no cirrhosis. Treatment indicated?",
+    "choices": [
+      "A. No treatment – observe",
+      "B. Tenofovir 300 mg daily lifelong (or until HBeAg seroconversion)",
+      "C. Entecavir",
+      "D. Interferon"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "HBeAg-negative or positive chronic hepatitis B with HBV DNA >20,000 IU/mL and ALT >2× ULN → treat with tenofovir (STG 2021, p.210).",
+    "tags": ["HBV_treatment_criteria"]
+  },
+  {
+    "id": 807,
+    "question": "First-line drug for chronic hepatitis B in Ethiopia (2021)?",
+    "choices": [
+      "A. Lamivudine",
+      "B. Tenofovir disoproxil fumarate (TDF) 300 mg daily",
+      "C. Entecavir",
+      "D. Adefovir"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "TDF is the preferred agent – highly effective, low resistance, widely available (STG 2021, p.210).",
+    "tags": ["TDF_HBV"]
+  },
+  {
+    "id": 808,
+    "question": "A pregnant woman at 32 weeks is HBsAg positive, HBV DNA >200,000 IU/mL. Management?",
+    "choices": [
+      "A. No treatment",
+      "B. Start tenofovir 300 mg daily from 28–32 weeks until 12 weeks postpartum",
+      "C. Give HBIG only",
+      "D. Caesarean section"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "High viral load → tenofovir from third trimester reduces perinatal transmission to <2% when combined with vaccine/HBIG (STG 2021, p.210).",
+    "tags": ["PMTCT_HBV"]
+  },
+  {
+    "id": 809,
+    "question": "Best way to prevent hepatitis B in newborns in Ethiopia?",
+    "choices": [
+      "A. Birth dose hepatitis B vaccine within 24 hours + HBIG if mother HBsAg+",
+      "B. Vaccine at 6 weeks only",
+      "C. Breastfeeding prohibition",
+      "D. No vaccine needed"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Birth dose + 3-dose pentavalent series is national policy (STG 2021, p.210).",
+    "tags": ["HBV_birth_dose"]
+  },
+  {
+    "id": 810,
+    "question": "A 40-year-old man HBsAg positive for >6 months, HBV DNA undetectable, ALT normal, no cirrhosis. Management?",
+    "choices": [
+      "A. Start tenofovir",
+      "B. Inactive carrier – monitor ALT and HBV DNA every 6–12 months",
+      "C. Liver biopsy",
+      "D. Stop follow-up"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Inactive carrier state – low risk of progression, only surveillance needed (STG 2021, p.210).",
+    "tags": ["inactive_carrier"]
+  },
+  {
+    "id": 811,
+    "question": "Most common complication of chronic hepatitis B in Ethiopia?",
+    "choices": [
+      "A. Acute flare",
+      "B. Hepatocellular carcinoma (HCC)",
+      "C. Extrahepatic manifestations",
+      "D. Fulminant hepatitis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "HBV is the leading cause of HCC in Ethiopia (STG 2021, p.210).",
+    "tags": ["HCC_HBV"]
+  },
+  {
+    "id": 812,
+    "question": "A patient with chronic HBV on tenofovir develops raised creatinine. Next step?",
+    "choices": [
+      "A. Stop tenofovir",
+      "B. Switch to entecavir or TAF (if available); otherwise reduce dose or monitor closely",
+      "C. Add lamivudine",
+      "D. Continue same dose"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "TDF can cause Fanconi syndrome; monitor renal function every 3–6 months (STG 2021, p.210).",
+    "tags": ["TDF_nephrotoxicity"]
+  },
+  {
+    "id": 813,
+    "question": "Hepatitis C prevalence in Ethiopia is approximately?",
+    "choices": [
+      "A. <1%",
+      "B. 1–2%",
+      "C. 5–8%",
+      "D. >10%"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "HCV prevalence 1–2% in general population, higher in high-risk groups (STG 2021, p.211).",
+    "tags": ["HCV_prevalence"]
+  },
+  {
+    "id": 814,
+    "question": "First-line treatment for chronic hepatitis C in Ethiopia 2021?",
+    "choices": [
+      "A. Pegylated interferon + ribavirin",
+      "B. Sofosbuvir + daclatasvir ± ribavirin for 12–24 weeks",
+      "C. No treatment available",
+      "D. Silymarin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Pan-genotypic DAAs (sofosbuvir/daclatasvir) are now standard (STG 2021, p.211).",
+    "tags": ["HCV_DAA"]
+  },
+  {
+    "id": 815,
+    "question": "A patient with acute hepatitis has coagulopathy (INR 2.8), encephalopathy, jaundice. Diagnosis?",
+    "choices": [
+      "A. Chronic liver disease flare",
+      "B. Fulminant hepatic failure",
+      "C. Alcoholic hepatitis",
+      "D. Hepatoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Acute liver failure = coagulopathy + encephalopathy within 8 weeks of jaundice (STG 2021, p.209).",
+    "tags": ["fulminant_failure"]
+  },
+  {
+    "id": 816,
+    "question": "Most important prognostic factor in acute viral hepatitis?",
+    "choices": [
+      "A. ALT level",
+      "B. Prothrombin time / INR",
+      "C. Bilirubin level",
+      "D. AST/ALT ratio"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Prolongation of PT/INR indicates severe hepatocyte failure (STG 2021, p.209).",
+    "tags": ["INR_prognosis"]
+  },
+  {
+    "id": 817,
+    "question": "A 35-year-old man with chronic HBV presents with sudden jaundice, ascites, INR 2.5. Most likely diagnosis?",
+    "choices": [
+      "A. HCC",
+      "B. Acute-on-chronic liver failure (HBV reactivation or HDV superinfection)",
+      "C. Drug-induced",
+      "D. Alcoholic flare"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Acute decompensation in chronic HBV = reactivation (stopped drugs) or HDV (STG 2021, p.210).",
+    "tags": ["acute_on_chronic"]
+  },
+  {
+    "id": 818,
+    "question": "Drug of choice for HBV reactivation with severe hepatitis?",
+    "choices": [
+      "A. Lamivudine",
+      "B. Tenofovir or entecavir immediately",
+      "C. Interferon",
+      "D. Prednisolone"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Urgent high-potency antiviral (tenofovir/entecavir) can be life-saving (STG 2021, p.210).",
+    "tags": ["HBV_reactivation"]
+  },
+  {
+    "id": 819,
+    "question": "Best screening test for hepatocellular carcinoma in chronic HBV patient?",
+    "choices": [
+      "A. AFP alone",
+      "B. Ultrasound abdomen every 6 months ± AFP",
+      "C. CT scan yearly",
+      "D. No screening"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "6-monthly ultrasound ± AFP recommended for all cirrhotics and high-risk HBV (STG 2021, p.210).",
+    "tags": ["HCC_screening"]
+  },
+  {
+    "id": 820,
+    "question": "A patient with jaundice has ALT 120 U/L, ALP 450 U/L, direct bilirubin dominant. Most likely diagnosis?",
+    "choices": [
+      "A. Viral hepatitis",
+      "B. Obstructive jaundice (stones, cancer)",
+      "C. Alcoholic hepatitis",
+      "D. Gilbert syndrome"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Cholestatic pattern (high ALP) suggests biliary obstruction rather than hepatocellular injury (STG 2021, p.209).",
+    "tags": ["cholestatic_jaundice"]
+  },
+  {
+    "id": 821,
+    "question": "Final take-home message for viral hepatitis in Ethiopian hospitals?",
+    "choices": [
+        "A. All jaundice is malaria",
+        "B. Acute hepatitis usually HAV/HEV – supportive care only; chronic HBV is highly prevalent – screen and treat if active or cirrhotic; pregnant women with acute hepatitis = urgent referral for possible HEV",
+        "C. Give steroids for all",
+        "D. No vaccine needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.8 Hepatitis",
+    "explanation": "Early recognition of severity and appropriate referral saves lives (Ethiopian STG 2021, p.209–211).",
+    "tags": [
+        "key_message"
+    ]
+},
+  {
+    "id": 822,
+    "question": "A 48-year-old man from rural Ethiopia presents with massive ascites, jaundice, spider naevi and splenomegaly. Most likely diagnosis?",
+    "choices": [
+      "A. Chronic viral hepatitis with cirrhosis",
+      "B. Schistosomiasis (S. mansoni) with portal hypertension",
+      "C. Alcoholic cirrhosis",
+      "D. Cardiac failure"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Chronic HBV and HCV are the leading causes of cirrhosis in Ethiopia (STG 2021, p.220).",
+    "tags": ["cirrhosis_etiology"]
+  },
+  {
+    "id": 823,
+    "question": "Most common cause of portal hypertension in Ethiopia?",
+    "choices": [
+      "A. Alcoholic liver disease",
+      "B. Chronic viral hepatitis (HBV/HCV) → cirrhosis",
+      "C. Schistosomiasis",
+      "D. Non-cirrhotic portal fibrosis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "HBV-related cirrhosis is the commonest cause of portal hypertension nationwide (STG 2021, p.220).",
+    "tags": ["portal_hypertension"]
+  },
+  {
+    "id": 824,
+    "question": "First-line treatment of grade II oesophageal varices in cirrhosis?",
+    "choices": [
+      "A. Urgent banding",
+      "B. Non-selective beta-blocker (propranolol 20–160 mg/day)",
+      "C. Sclerotherapy",
+      "D. No treatment"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Primary prophylaxis with propranolol or carvedilol for medium/large varices (STG 2021, p.221).",
+    "tags": ["variceal_prophylaxis"]
+  },
+  {
+    "id": 825,
+    "question": "A cirrhotic patient presents with massive haematemesis. Immediate management in general hospital?",
+    "choices": [
+      "A. IV PPI only",
+      "B. IV fluids + blood transfusion + terlipressin 2 mg IV bolus then 1–2 mg 6-hourly + ceftriaxone 1 g IV + urgent endoscopy",
+      "C. Fresh frozen plasma",
+      "D. Oral propranolol"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Resuscitation + vasoactive drug (terlipressin) + antibiotic prophylaxis + endoscopy within 12 h (STG 2021, p.221).",
+    "tags": ["variceal_bleed"]
+  },
+  {
+    "id": 826,
+    "question": "Best antibiotic prophylaxis in acute variceal bleeding?",
+    "choices": [
+      "A. Amoxicillin",
+      "B. Ceftriaxone 1 g IV daily for 7 days",
+      "C. Ciprofloxacin oral",
+      "D. Metronidazole"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Ceftriaxone preferred due to high quinolone resistance (STG 2021, p.221).",
+    "tags": ["ceftriaxone_variceal"]
+  },
+  {
+    "id": 827,
+    "question": "A cirrhotic patient with tense ascites has abdominal pain and fever. Most likely complication?",
+    "choices": [
+      "A. Umbilical hernia",
+      "B. Spontaneous bacterial peritonitis (SBP)",
+      "C. Variceal bleed",
+      "D. Hepatoma"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "New-onset fever + abdominal pain in ascites = SBP until proven otherwise (STG 2021, p.222).",
+    "tags": ["SBP"]
+  },
+  {
+    "id": 828,
+    "question": "Diagnostic ascitic fluid PMN count for SBP?",
+    "choices": [
+      "A. >100/mm³",
+      "B. >250/mm³",
+      "C. >500/mm³",
+      "D. >1000/mm³"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "PMN ≥250 cells/mm³ in ascitic fluid confirms SBP (STG 2021, p.222).",
+    "tags": ["SBP_diagnosis"]
+  },
+  {
+    "id": 829,
+    "question": "First-line treatment of SBP?",
+    "choices": [
+      "A. Ciprofloxacin",
+      "B. Ceftriaxone 1–2 g IV daily for 5–7 days",
+      "C. Albumin + norfloxacin",
+      "D. Metronidazole"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Third-generation cephalosporin is drug of choice (STG 2021, p.222).",
+    "tags": ["SBP_treatment"]
+  },
+  {
+    "id": 830,
+    "question": "Best diuretic combination for cirrhotic ascites?",
+    "choices": [
+      "A. Furosemide alone",
+      "B. Spironolactone 100 mg + furosemide 40 mg daily (ratio 100:40)",
+      "C. Hydrochlorothiazide",
+      "D. Amiloride"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Spironolactone first-line, add furosemide if needed; maintain 100:40 ratio (STG 2021, p.222).",
+    "tags": ["ascites_diuretics"]
+  },
+  {
+    "id": 831,
+    "question": "Indication for large-volume paracentesis in tense ascites?",
+    "choices": [
+      "A. All ascites",
+      "B. Tense or refractory ascites + respiratory compromise",
+      "C. Mild ascites",
+      "D. Only if infected"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Therapeutic paracentesis + albumin (6–8 g/L tapped) if >5 L removed (STG 2021, p.222).",
+    "tags": ["LVP"]
+  },
+  {
+    "id": 832,
+    "question": "Most important measure to prevent hepatorenal syndrome after large paracentesis?",
+    "choices": [
+      "A. IV furosemide",
+      "B. IV albumin 6–8 g per litre ascites removed (if >5 L)",
+      "C. Salt restriction",
+      "D. No albumin needed"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Albumin infusion prevents post-paracentesis circulatory dysfunction (STG 2021, p.222).",
+    "tags": ["albumin_paracentesis"]
+  },
+  {
+    "id": 833,
+    "question": "A cirrhotic patient with ascites develops oliguria and rising creatinine despite fluids. Most likely diagnosis?",
+    "choices": [
+      "A. Acute kidney injury",
+      "B. Hepatorenal syndrome type 1",
+      "C. SBP",
+      "D. Prerenal azotemia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Rapidly progressive renal failure in cirrhosis without other cause = HRS-1 (STG 2021, p.223).",
+    "tags": ["HRS"]
+  },
+  {
+    "id": 834,
+    "question": "Best screening test for HCC in cirrhosis in Ethiopia?",
+    "choices": [
+      "A. AFP alone",
+      "B. Ultrasound abdomen every 6 months ± AFP",
+      "C. CT yearly",
+      "D. No screening"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "6-monthly ultrasound ± AFP for all cirrhotic patients (STG 2021, p.220).",
+    "tags": ["HCC_screening"]
+  },
+  {
+    "id": 835,
+    "question": "A patient with cirrhosis has new confusion, flapping tremor, and fetor hepaticus. Diagnosis?",
+    "choices": [
+      "A. Stroke",
+      "B. Hepatic encephalopathy grade II–III",
+      "C. Hypoglycaemia",
+      "D. Sepsis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Asterixis + altered mental state = hepatic encephalopathy (STG 2021, p.223).",
+    "tags": ["hepatic_encephalopathy"]
+  },
+  {
+    "id": 836,
+    "question": "First-line treatment of overt hepatic encephalopathy?",
+    "choices": [
+      "A. IV mannitol",
+      "B. Lactulose 15–30 mL 2–4 times/day to produce 2–3 soft stools",
+      "C. Rifaximin",
+      "D. Neomycin"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Lactulose remains first-line; titrate to bowel movements (STG 2021, p.223).",
+    "tags": ["lactulose_HE"]
+  },
+  {
+    "id": 837,
+    "question": "Most common precipitant of hepatic encephalopathy in Ethiopia?",
+    "choices": [
+      "A. Constipation",
+      "B. Infection (SBP, UTI)",
+      "C. GI bleeding",
+      "D. Dehydration"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Always look for and treat infection first (STG 2021, p.223).",
+    "tags": ["HE_precipitant"]
+  },
+  {
+    "id": 838,
+    "question": "Child-Pugh score ≥8 or MELD ≥15 indicates?",
+    "choices": [
+      "A. Good prognosis",
+      "B. Decompensated cirrhosis – consider liver transplant evaluation",
+      "C. No treatment needed",
+      "D. Only diuretics"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Advanced decompensation – poor 1-year survival (STG 2021, p.220).",
+    "tags": ["Child_Pugh"]
+  },
+  {
+    "id": 839,
+    "question": "A cirrhotic patient with ascites has serum-ascites albumin gradient (SAAG):",
+    "choices": [
+      "A. <1.1 g/dL → exudative",
+      "B. ≥1.1 g/dL → portal hypertension (transudative)",
+      "C. No value",
+      "D. Only protein matters"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "SAAG ≥1.1 confirms portal hypertension-related ascites (STG 2021, p.222).",
+    "tags": ["SAAG"]
+  },
+  {
+    "id": 840,
+    "question": "Secondary prophylaxis after variceal bleed?",
+    "choices": [
+      "A. Propranolol alone",
+      "B. Endoscopic variceal ligation (EVL) + non-selective beta-blocker",
+      "C. Shunt surgery",
+      "D. No prophylaxis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Combination EVL + beta-blocker reduces rebleeding to <15% (STG 2021, p.221).",
+    "tags": ["secondary_prophylaxis"]
+  },
+  {
+    "id": 841,
+    "question": "Most common cause of death in decompensated cirrhosis in Ethiopia?",
+    "choices": [
+      "A. HCC",
+      "B. Variceal haemorrhage",
+      "C. Sepsis / SBP",
+      "D. Hepatorenal syndrome"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Bleeding remains leading cause due to late presentation (STG 2021, p.221).",
+    "tags": ["mortality_cirrhosis"]
+  },
+  {
+    "id": 842,
+    "question": "A patient with cirrhosis and massive ascites is on maximum diuretics but still gains weight. Next step?",
+    "choices": [
+      "A. Continue diuretics",
+      "B. Repeated large-volume paracentesis + albumin",
+      "C. TIPS",
+      "D. Liver transplant"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Refractory ascites → therapeutic paracentesis is mainstay (STG 2021, p.222).",
+    "tags": ["refractory_ascites"]
+  },
+  {
+    "id": 843,
+    "question": "Dietary advice for compensated cirrhosis?",
+    "choices": [
+      "A. Low protein",
+      "B. High protein (1–1.5 g/kg/day) + late-night snack",
+      "C. Salt-free",
+      "D. No vegetables"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Malnutrition common – high calorie/protein diet improves survival (STG 2021, p.220).",
+    "tags": ["nutrition_cirrhosis"]
+  },
+  {
+    "id": 844,
+    "question": "A cirrhotic patient with ascites develops hyponatraemia (Na 128 mmol/L). Most likely cause?",
+    "choices": [
+      "A. Overdiuresis",
+      "B. Hypervolaemic hyponatraemia due to water retention",
+      "C. SIADH",
+      "D. Renal failure"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Dilutional hyponatraemia common in advanced cirrhosis (STG 2021, p.222).",
+    "tags": ["hyponatraemia"]
+  },
+  {
+    "id": 845,
+    "question": "Best management of symptomatic hyponatraemia (Na <125) in cirrhosis?",
+    "choices": [
+      "A. Normal saline",
+      "B. Fluid restriction 1–1.5 L/day ± tolvaptan (if available)",
+      "C. Hypertonic saline",
+      "D. No treatment"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Fluid restriction is cornerstone (STG 2021, p.222).",
+    "tags": ["hyponatraemia_treatment"]
+  },
+  {
+    "id": 846,
+    "question": "A patient with known schistosomal periportal fibrosis presents with haematemesis. First-line endoscopic therapy?",
+    "choices": [
+      "A. Band ligation not possible (left-sided varices)",
+      "B. Sclerotherapy with ethanolamine oleate",
+      "C. Propranolol",
+      "D. TIPS"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Schistosomiasis causes pre-sinusoidal portal hypertension – sclerotherapy preferred (STG 2021, p.221).",
+    "tags": ["schistosomiasis_varices"]
+  },
+  {
+    "id": 847,
+    "question": "Most common electrolyte disturbance requiring urgent correction in cirrhosis?",
+    "choices": [
+      "A. Hyperkalaemia",
+      "B. Hypokalaemia (due to diuretics)",
+      "C. Hypernatraemia",
+      "D. Hypocalcaemia"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Spironolactone + furosemide → potassium loss (STG 2021, p.222).",
+    "tags": ["hypokalaemia"]
+  },
+  {
+    "id": 848,
+    "question": "A cirrhotic patient on lactulose develops severe diarrhoea and dehydration. Next step?",
+    "choices": [
+      "A. Stop lactulose",
+      "B. Reduce dose + alternate with rifaximin if available",
+      "C. Continue same",
+      "D. Add loperamide"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Titrate lactulose to 2–3 soft stools, not diarrhoea (STG 2021, p.223).",
+    "tags": ["lactulose_overdose"]
+  },
+  {
+    "id": 849,
+    "question": "Vaccinations strongly recommended in all patients with cirrhosis?",
+    "choices": [
+      "A. Only HBV",
+      "B. Hepatitis A, hepatitis B, pneumococcal, influenza",
+      "C. Yellow fever",
+      "D. No vaccines"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Cirrhotic patients are immunocompromised – prevent infections (STG 2021, p.220).",
+    "tags": ["vaccination_cirrhosis"]
+  },
+  {
+    "id": 850,
+    "question": "A patient with decompensated cirrhosis has INR 2.2, albumin 26 g/L, bilirubin 4.5 mg/dL. Child-Pugh class?",
+    "choices": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. Cannot calculate"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Score 10–11 = Child-Pugh C (STG 2021, p.220).",
+    "tags": ["Child_Pugh_calculation"]
+  },
+  {
+    "id": 851,
+    "question": "Most important lifestyle advice for all patients with cirrhosis?",
+    "choices": [
+      "A. Complete alcohol abstinence",
+      "B. High salt diet",
+      "C. Bed rest",
+      "D. Stop all medications"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Even small amounts of alcohol accelerate progression (STG 2021, p.220).",
+    "tags": ["alcohol_abstinence"]
+  },
+  {
+    "id": 852,
+    "question": "A cirrhotic patient with ascites is on spironolactone 200 mg + furosemide 80 mg but still has oedema. Maximum safe doses?",
+    "choices": [
+      "A. Spironolactone 400 mg + furosemide 160 mg daily",
+      "B. Add albumin infusion",
+      "C. Stop diuretics",
+      "D. Add HCTZ"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Can go up to 400/160 mg maintaining 100:40 ratio (STG 2021, p.222).",
+    "tags": ["max_diuretics"]
+  },
+  {
+    "id": 853,
+    "question": "Most common organism causing SBP in Ethiopia?",
+    "choices": [
+      "A. Staphylococcus",
+      "B. E. coli and other Gram-negative enteric bacteria",
+      "C. Anaerobes",
+      "D. TB"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Gram-negative translocation from gut (STG 2021, p.222).",
+    "tags": ["SBP_pathogen"]
+  },
+  {
+    "id": 854,
+    "question": "A patient with cirrhosis develops painful umbilical hernia with redness. Management?",
+    "choices": [
+      "A. Conservative",
+      "B. Urgent surgical repair (high risk of rupture in ascites)",
+      "C. Truss",
+      "D. Wait"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Incarcerated/strangulated hernia in cirrhosis is emergency (STG 2021, p.222).",
+    "tags": ["umbilical_hernia"]
+  },
+  {
+    "id": 855,
+    "question": "Best prognostic indicator in decompensated cirrhosis?",
+    "choices": [
+      "A. Bilirubin",
+      "B. Serum albumin",
+      "C. MELD score",
+      "D. Ascites volume"
+    ],
+    "correctAnswer": 2,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "MELD score best predicts 3-month mortality (STG 2021, p.220).",
+    "tags": ["MELD"]
+  },
+  {
+    "id": 856,
+    "question": "A patient with cirrhosis has new right upper quadrant mass, weight loss, rising AFP. Most likely diagnosis?",
+    "choices": [
+      "A. Liver abscess",
+      "B. Hepatocellular carcinoma",
+      "C. Haemangioma",
+      "D. Metastasis"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "HCC is the most feared complication of cirrhosis (STG 2021, p.220).",
+    "tags": ["HCC"]
+  },
+  {
+    "id": 857,
+    "question": "Safe analgesia in advanced cirrhosis?",
+    "choices": [
+      "A. Diclofenac",
+      "B. Paracetamol ≤2 g/day",
+      "C. Tramadol",
+      "D. Morphine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Paracetamol is safest when used in reduced dose (STG 2021, p.220).",
+    "tags": ["analgesia_cirrhosis"]
+  },
+  {
+    "id": 858,
+    "question": "A cirrhotic patient on propranolol develops bradycardia (HR 48). Next step?",
+    "choices": [
+      "A. Stop propranolol",
+      "B. Reduce dose or switch to carvedilol",
+      "C. Add atropine",
+      "D. Continue"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Titrate to maximum tolerated dose or HR >50 (STG 2021, p.221).",
+    "tags": ["beta_blocker_side_effect"]
+  },
+  {
+    "id": 859,
+    "question": "Most common grade of encephalopathy requiring ICU admission?",
+    "choices": [
+      "A. Grade I",
+      "B. Grade III–IV",
+      "C. Subclinical",
+      "D. Minimal"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Coma or marked confusion needs airway protection (STG 2021, p.223).",
+    "tags": ["HE_grades"]
+  },
+  {
+    "id": 860,
+    "question": "A patient with cirrhosis and tense ascites is scheduled for paracentesis. Pre-procedure INR 2.1 – need FFP?",
+    "choices": [
+      "A. Yes",
+      "B. No – paracentesis is safe even with prolonged INR",
+      "C. Only platelets",
+      "D. Cancel procedure"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "No correction needed for paracentesis in cirrhosis (STG 2021, p.222).",
+    "tags": ["paracentesis_coagulopathy"]
+  },
+  {
+    "id": 861,
+    "question": "Most common extrahepatic manifestation of HBV-related cirrhosis?",
+    "choices": [
+      "A. Arthritis",
+      "B. Glomerulonephritis",
+      "C. Polyarteritis nodosa",
+      "D. All rare"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Membranous GN can occur but rare in adults (STG 2021, p.220).",
+    "tags": ["extrahepatic_HBV"]
+  },
+  {
+    "id": 862,
+    "question": "A cirrhotic patient with refractory ascites is on weekly 8–10 L paracentesis. Best long-term option?",
+    "choices": [
+      "A. Continue paracentesis",
+      "B. TIPS (if Child B or early C)",
+      "C. Peritoneovenous shunt",
+      "D. Transplant only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "TIPS effective for refractory ascites but increases HE risk (STG 2021, p.222).",
+    "tags": ["TIPS"]
+  },
+  {
+    "id": 863,
+    "question": "Most important blood test to monitor in cirrhotic patient on spironolactone?",
+    "choices": [
+      "A. Potassium",
+      "B. Sodium",
+      "C. Creatinine",
+      "D. All of the above"
+    ],
+    "correctAnswer": 3,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Risk of hyperkalaemia and renal impairment (STG 2021, p.222).",
+    "tags": ["monitoring_diuretics"]
+  },
+  {
+    "id": 864,
+    "question": "A patient with cirrhosis has sudden abdominal pain and drop in haemoglobin. Most likely?",
+    "choices": [
+      "A. Variceal bleed",
+      "B. Ruptured hepatocellular carcinoma",
+      "C. SBP",
+      "D. Peptic ulcer"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "HCC rupture is life-threatening emergency (STG 2021, p.220).",
+    "tags": ["HCC_rupture"]
+  },
+  {
+    "id": 865,
+    "question": "Final take-home message for decompensated cirrhosis in Ethiopian general hospitals?",
+    "choices": [
+      "A. Incurable – discharge",
+      "B. Treat precipitants aggressively, use diuretics carefully, control varices with beta-blockers + banding, recognise SBP and HRS early, give ceftriaxone + terlipressin + albumin when indicated – saves lives",
+      "C. Give steroids",
+      "D. Only traditional medicine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Appropriate, timely management dramatically improves short-term survival even without transplant (Ethiopian STG 2021, p.220–223).",
+    "tags": ["key_message"]
+  },
+  {
+    "id": 866,
+    "question": "A cirrhotic patient with ascites has respiratory distress. Most urgent action?",
+    "choices": [
+      "A. Chest X-ray",
+      "B. Urgent therapeutic paracentesis (remove 4–6 L) to relieve diaphragm",
+      "C. Diuretics",
+      "D. Oxygen only"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Tense ascites causes restrictive lung disease (STG 2021, p.222).",
+    "tags": ["respiratory_distress_ascites"]
+  },
+  {
+    "id": 867,
+    "question": "Safest proton pump inhibitor in cirrhosis with varices?",
+    "choices": [
+      "A. Omeprazole",
+      "B. All PPIs safe – no increased bleeding risk",
+      "C. Avoid all PPIs",
+      "D. Ranitidine"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "PPIs do not increase variceal bleeding risk (STG 2021, p.221).",
+    "tags": ["PPI_varices"]
+  },
+  {
+    "id": 868,
+    "question": "A patient with cirrhosis and grade III encephalopathy is not improving with lactulose. Next step?",
+    "choices": [
+      "A. Add rifaximin 550 mg BD (if available)",
+      "B. IV metronidazole",
+      "C. Flumazenil",
+      "D. Continue lactulose"
+    ],
+    "correctAnswer": 0,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Rifaximin is second-line for refractory HE (STG 2021, p.223).",
+    "tags": ["rifaximin"]
+  },
+  {
+    "id": 869,
+    "question": "Most common fungal infection in decompensated cirrhosis?",
+    "choices": [
+      "A. Cryptococcus",
+      "B. Candida (candidemia, peritonitis)",
+      "C. Aspergillosis",
+      "D. Mucor"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Prolonged antibiotics + malnutrition → candidiasis (STG 2021, p.222).",
+    "tags": ["fungal_cirrhosis"]
+  },
+  {
+    "id": 870,
+    "question": "A cirrhotic patient with ascites has pleural effusion on right side. Diagnosis?",
+    "choices": [
+      "A. TB",
+      "B. Hepatic hydrothorax",
+      "C. Pneumonia",
+      "D. Malignancy"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Transdiaphragmatic passage of ascites → right pleural effusion (STG 2021, p.222).",
+    "tags": ["hepatic_hydrothorax"]
+  },
+  {
+    "id": 871,
+    "question": "Final answer: The single most important intervention that reduces mortality in variceal bleeding in resource-limited settings?",
+    "choices": [
+      "A. Endoscopy",
+      "B. Early administration of terlipressin + ceftriaxone + aggressive resuscitation",
+      "C. Balloon tamponade",
+      "D. Surgery"
+    ],
+    "correctAnswer": 1,
+    "topic": "Chapter 6.9 Liver Cirrhosis and Portal Hypertension",
+    "explanation": "Pharmacotherapy + antibiotics improve survival even before endoscopy (Ethiopian STG 2021, p.221).",
+    "tags": ["variceal_bleeding_mortality"]
+  },
+    {
+        "id": 872,
+        "question": "A 45-year-old obese woman from Addis Ababa presents to the general hospital outpatient clinic with a history of recurrent, severe dull pain in her right upper quadrant that started approximately 6 months ago. The pain typically occurs about an hour after eating fatty meals, lasts for 2-3 hours, and resolves completely. An abdominal ultrasound performed recently shows gallstones without signs of gallbladder wall thickening or pericholecystic fluid. She asks if she needs urgent surgery. What is the most appropriate initial management?",
+        "choices": [
+            "A. Urgent cholecystectomy due to symptomatic cholelithiasis.",
+            "B. Referral for ERCP to remove the gallstones and prevent complications.",
+            "C. Lifestyle advice, pain management, and elective cholecystectomy referral.",
+            "D. Prescribe oral bile acids for stone dissolution."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The patient presents with uncomplicated gallstone disease (typical biliary colic and gallstones on imaging, but no complications). While cholecystectomy is the curative treatment, it is elective. The most appropriate initial step is offering lifestyle advice and pain management for the acute episodes, followed by an elective cholecystectomy referral. (p. 224, 226)",
+        "tags": "uncomplicated_gallstone_disease, management"
+    },
+    {
+        "id": 873,
+        "question": "A 50-year-old male presents to the emergency department with severe, steady pain in the epigastrium radiating to his right shoulder. The pain began suddenly 4 hours after consuming a heavy, fatty dinner. Ultrasound confirms gallstones. What is the preferred immediate pharmacologic intervention for acute pain relief in this patient?",
+        "choices": [
+            "A. Oral Ibuprofen 400 mg PRN.",
+            "B. Intravenous Morphine 5 mg bolus.",
+            "C. Intravenous Diclofenac 75 mg bolus.",
+            "D. Intravenous Pethidine 50 mg bolus."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For acute biliary colic, parenteral NSAIDS (like Diclofenac) are the preferred agents for pain management. Opioids (Morphine, Pethidine) are second-line and reserved for patients with contraindications to NSAIDs. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": 874,
+        "question": "Which of the following findings on an abdominal ultrasound would classify a patient with gallstones as having uncomplicated gallstone disease?",
+        "choices": [
+            "A. Gallbladder wall thickening >3 mm.",
+            "B. Pericholecystic fluid collection.",
+            "C. Typical biliary colic symptoms and gallstones present.",
+            "D. Presence of common bile duct dilation."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Uncomplicated gallstone disease is defined as being symptomatic with typical biliary colic and gallstones on imaging but no evidence of complications such as acute cholecystitis, cholangitis, or gallstone pancreatitis. (p. 224)",
+        "tags": "uncomplicated_gallstone_disease, diagnosis"
+    },
+    {
+        "id": 875,
+        "question": "A 65-year-old diabetic male is found to have gallstones incidentally during an abdominal ultrasound for non-specific abdominal discomfort. He denies any history of biliary colic. Which category of gallstone disease does this patient fall under?",
+        "choices": [
+            "A. Uncomplicated gallstone disease.",
+            "B. Symptomatic gallstone disease.",
+            "C. Incidental gallstones.",
+            "D. Chronic cholecystitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This patient is asymptomatic, and the gallstones were found incidentally on imaging. This is categorized as incidental gallstones. (p. 225)",
+        "tags": "gallstone_disease, classification"
+    },
+    {
+        "id": 876,
+        "question": "Which statement accurately reflects the recommended surgical management approach for a patient diagnosed with incidental gallstones?",
+        "choices": [
+            "A. Cholecystectomy is indicated immediately to prevent future complications.",
+            "B. Cholecystectomy is not indicated as there is no history of biliary colic.",
+            "C. Cholecystectomy is only indicated if the patient is diabetic or severely obese.",
+            "D. Oral dissolution therapy should be tried before considering cholecystectomy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones (asymptomatic finding), cholecystectomy is not indicated as surgery exposes them to unnecessary surgical risk. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 877,
+        "question": "A 40-year-old woman presents to the emergency room with classic biliary colic. Her ultrasound shows gallstones. Which of the following atypical symptoms is poorly associated with gallstones and should prompt a search for an alternative diagnosis?",
+        "choices": [
+            "A. Right upper quadrant or epigastric pain.",
+            "B. Pain radiating to the right shoulder.",
+            "C. Non-specific abdominal bloating and early satiety.",
+            "D. Nausea and vomiting during a painful attack."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Symptoms like non-specific abdominal pain, bloating, and early satiety have a poor association with gallstones and their presence (Category 3) should prompt the clinician to look for other causes of the symptoms. (p. 225)",
+        "tags": "atypical_symptoms, diagnosis"
+    },
+    {
+        "id": 878,
+        "question": "Which imaging modality is considered the gold standard for the diagnosis of cholelithiasis?",
+        "choices": [
+            "A. Magnetic Resonance Cholangiopancreatography (MRCP).",
+            "B. Endoscopic Retrograde Cholangiopancreatography (ERCP).",
+            "C. Abdominal ultrasound.",
+            "D. Computed Tomography (CT) scan."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Abdominal ultrasound is cited as the gold standard tool for the diagnosis of cholelithiasis in the guidelines. (p. 225)",
+        "tags": "cholelithiasis, diagnosis, ultrasound"
+    },
+    {
+        "id": 879,
+        "question": "A 55-year-old woman is diagnosed with cholelithiasis. She has recurrent, classic biliary colic. When considering surgical management (cholecystectomy), what is the expected outcome based on the guidelines?",
+        "choices": [
+            "A. Surgery is absolutely contraindicated as it is elective.",
+            "B. Surgery is curative for uncomplicated symptomatic gallstone disease.",
+            "C. Surgery is typically reserved until complications like acute cholecystitis develop.",
+            "D. Only oral dissolution therapy has curative potential for this patient."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is curative for uncomplicated symptomatic gallstone disease, and it is indicated in Category 2 (uncomplicated gallstone disease). (p. 225, 226)",
+        "tags": "cholelithiasis, management, cholecystectomy"
+    },
+    {
+        "id": 880,
+        "question": "In a resource-limited general hospital setting, which of the following is the most crucial factor in determining the initial management strategy for a patient presenting with gallstones?",
+        "choices": [
+            "A. The size of the largest gallstone.",
+            "B. The composition of the gallstones.",
+            "C. The presence or absence of symptoms and complications.",
+            "D. The patient's serum bilirubin level."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The guidelines categorize gallstone disease primarily into incidental (asymptomatic) and uncomplicated gallstone disease (symptomatic but no complications), and complicated disease. The decision for conservative vs. elective vs. urgent management is fundamentally determined by the presence or absence of symptoms and complications. (p. 225, 226)",
+        "tags": "cholelithiasis, management_strategy"
+    },
+    {
+        "id": 881,
+        "question": "Which clinical presentation is most characteristic of typical biliary colic?",
+        "choices": [
+            "A. Dull, left upper quadrant pain, lasting several days.",
+            "B. Severe, dull, right upper quadrant pain, constant, lasting 3 hours.",
+            "C. Sharp, colicky pain that fluctuates in severity, lasting <30 minutes.",
+            "D. Epigastric burning pain associated with lying down."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is described as a severe, dull, right upper quadrant or epigastric pain, which is usually constant (contrary to the name), and typically lasts at least 30 minutes but less than six hours. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 882,
+        "question": "Which class of gallstones makes up the majority of cases in clinical practice?",
+        "choices": [
+            "A. Pigment stones.",
+            "B. Mixed stones.",
+            "C. Cholesterol stones.",
+            "D. Calcium phosphate stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The majority of gallstones are cholesterol stones. (p. 224)",
+        "tags": "gallstone_composition"
+    },
+    {
+        "id": 883,
+        "question": "A young, healthy woman presents with typical biliary colic. She is categorized as Category 2 (uncomplicated gallstone disease). When should cholecystectomy be performed?",
+        "choices": [
+            "A. Urgently, within 48 hours.",
+            "B. Electively, after lifestyle modifications fail.",
+            "C. Only if signs of jaundice or cholangitis develop.",
+            "D. It is strictly contraindicated in young, healthy individuals."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For uncomplicated symptomatic gallstone disease, cholecystectomy is indicated and should be done electively. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, cholecystectomy"
+    },
+    {
+        "id": 884,
+        "question": "In a patient with confirmed cholelithiasis presenting with non-specific, intermittent abdominal pain (Category 3), what is the most prudent initial step in management?",
+        "choices": [
+            "A. Urgent cholecystectomy referral to prevent complications.",
+            "B. Oral dissolution therapy for a minimum of 6 months.",
+            "C. Perform a search for alternative causes of the abdominal pain.",
+            "D. Prescribe NSAIDs for chronic, daily use."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For atypical symptoms (Category 3), there is a poor association with gallstones, so the clinician should first look for other causes for the symptoms before making a surgical decision. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": 885,
+        "question": "A 30-year-old patient with cholelithiasis and recurrent biliary colic is given a pethidine injection for severe pain relief in the emergency room. Why is Pethidine not the preferred agent for this condition?",
+        "choices": [
+            "A. It prolongs the QT interval and increases arrhythmia risk.",
+            "B. It is associated with higher rates of nausea and vomiting.",
+            "C. It does not effectively treat smooth muscle spasm causing the colic.",
+            "D. NSAIDs are preferred, and opioids like Pethidine are reserved as second-line."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are the preferred agents for acute biliary colic pain management. Opioids (Morphine, Pethidine) are reserved as second-line for patients with contraindications to NSAIDs. (p. 225)",
+        "tags": "biliary_colic, pain_management, pethidine"
+    },
+    {
+        "id": 886,
+        "question": "A 48-year-old woman with symptomatic cholelithiasis is being treated with IV Diclofenac in the ER. Which concurrent medical condition would be a contraindication to using this drug?",
+        "choices": [
+            "A. Mild hyperlipidemia.",
+            "B. Controlled Type 2 Diabetes Mellitus.",
+            "C. Chronic kidney disease.",
+            "D. History of well-controlled hypertension."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDS (like Diclofenac) should be avoided in patients with impaired kidney function or hypersensitivity, as they are nephrotoxic and can precipitate adverse effects. (p. 225)",
+        "tags": "NSAIDs, contraindications"
+    },
+    {
+        "id": 887,
+        "question": "A patient presents with acute biliary colic. The pain began 3 hours ago and is constant and severe. Which characteristic of the pain is typical of biliary colic?",
+        "choices": [
+            "A. Starts abruptly, fluctuates (colicky), and resolves in <30 minutes.",
+            "B. Severe, dull, constant, and lasts >30 minutes but <6 hours.",
+            "C. Located mainly in the left upper quadrant, radiating to the back.",
+            "D. Burning sensation in the epigastrium, worse with lying down."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is typically a severe, dull, right upper quadrant or epigastric pain, and is usually constant, lasting >30 minutes but <6 hours. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 888,
+        "question": "A patient with gallstones and typical biliary colic asks why surgery is considered. The most accurate explanation based on the guidelines is that cholecystectomy is a definitive treatment because it is designed to:",
+        "choices": [
+            "A. Cure the underlying metabolic disorder causing the stones.",
+            "B. Prevent the recurrent painful attacks.",
+            "C. Dissolve the existing gallstones.",
+            "D. Treat associated non-specific abdominal bloating."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is the definitive treatment because it removes the source of the recurrent painful attacks. (p. 225, 226)",
+        "tags": "cholecystectomy, indication"
+    },
+    {
+        "id": 889,
+        "question": "A patient with known gallstones presents with symptoms that include non-specific upper GI symptoms like belching, bloating, and early satiety, but no typical biliary colic. This presentation falls under which category of gallstone disease?",
+        "choices": [
+            "A. Category 1: Incidental gallstones.",
+            "B. Category 2: Uncomplicated gallstone disease.",
+            "C. Category 3: Atypical symptoms.",
+            "D. Category 4: Typical symptoms but no gallstones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This patient's symptoms are considered atypical. Category 3 is for atypical symptoms and gallstones on imaging. (p. 225)",
+        "tags": "atypical_symptoms, classification"
+    },
+    {
+        "id": 890,
+        "question": "Which type of gallstone is more commonly seen in patients with chronic hemolytic anemia or liver cirrhosis?",
+        "choices": [
+            "A. Cholesterol stones.",
+            "B. Calcium phosphate stones.",
+            "C. Pigment stones.",
+            "D. Mixed stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Pigment stones are specifically mentioned as being common in patients with hemolytic anemia or cirrhosis. (p. 224)",
+        "tags": "gallstone_composition, risk_factors"
+    },
+    {
+        "id": 891,
+        "question": "A patient presents with classic biliary colic pain. She is stable, and ultrasound confirms gallstones. What is the most appropriate discharge plan regarding the need for surgery?",
+        "choices": [
+            "A. Schedule urgent cholecystectomy within 24 hours.",
+            "B. Refer for elective cholecystectomy as it is the curative treatment.",
+            "C. Advise immediate follow-up only if jaundice develops.",
+            "D. Initiate a 3-month trial of oral bile acid dissolution therapy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The guidelines classify this as uncomplicated gallstone disease (Category 2) for which elective cholecystectomy is indicated. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, management"
+    },
+    {
+        "id": 892,
+        "question": "What is the primary mechanism responsible for the formation of gallstones?",
+        "choices": [
+            "A. Excessive dietary fat intake.",
+            "B. Chronic biliary tract infection.",
+            "C. Supersaturation of bile with materials like cholesterol.",
+            "D. Inherited structural defects in the gallbladder."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Stone formation occurs when normally soluble materials like calcium, oxalate or uric acid supersaturate (accumulate above the solubility capacity) and form small crystals. Gallstones are primarily cholesterol stones. (p. 564, 224)",
+        "tags": "gallstone_formation, pathophysiology"
+    },
+    {
+        "id": 893,
+        "question": "A 52-year-old man has recurrent biliary colic. He is allergic to NSAIDs. Which pharmacologic option is most appropriate for acute pain relief in the emergency setting?",
+        "choices": [
+            "A. Intravenous Pethidine.",
+            "B. Oral Paracetamol 1000 mg.",
+            "C. Oral Diclofenac 75 mg.",
+            "D. Intravenous Acetaminophen."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are preferred, but if the patient has a contraindication to NSAIDs (like allergy), Opioids (Morphine or Pethidine) should be used as they are the second-line option. (p. 225)",
+        "tags": "biliary_colic, pain_management, opioids"
+    },
+    {
+        "id": 894,
+        "question": "In the management of uncomplicated biliary colic, which of the following non-pharmacological measures is the most effective preventative advice?",
+        "choices": [
+            "A. Avoiding all protein-rich foods.",
+            "B. Avoiding spicy foods and carbonated beverages.",
+            "C. Avoiding heavy, fatty meals.",
+            "D. Drinking large volumes of water immediately after a meal."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is commonly triggered by eating a fatty meal. Advising the patient to avoid heavy, fatty meals is a key non-pharmacologic intervention for prevention of attacks. (p. 225)",
+        "tags": "biliary_colic, prevention"
+    },
+    {
+        "id": 895,
+        "question": "Which of the following is considered one of the major complications of cholelithiasis?",
+        "choices": [
+            "A. Gastritis.",
+            "B. Gastroesophageal reflux disease (GERD).",
+            "C. Acute cholecystitis.",
+            "D. Peptic ulcer disease."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The major complications of gallstones are cholecystitis, choledocholithiasis, acute cholangitis, and pancreatitis. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": 896,
+        "question": "A patient reports experiencing severe, dull pain in the right upper quadrant (RUQ) that plateaus within an hour and then gradually subsides after 5 hours. This description is most consistent with which phase of symptomatic gallstone disease?",
+        "choices": [
+            "A. Acute cholecystitis.",
+            "B. Chronic cholecystitis.",
+            "C. Biliary colic.",
+            "D. Obstructive jaundice."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The pain of biliary colic is described as reaching a plateau within an hour, then subsiding. The entire attack usually lasts less than six hours. (p. 224)",
+        "tags": "biliary_colic, clinical_course"
+    },
+    {
+        "id": 897,
+        "question": "A 70-year-old man with multiple comorbidities is found to have gallstones incidentally. He is asymptomatic for biliary symptoms. What is the recommended management strategy regarding surgery?",
+        "choices": [
+            "A. Immediate cholecystectomy due to high risk of complications.",
+            "B. Elective cholecystectomy after optimizing his medical conditions.",
+            "C. Conservative management without surgical intervention.",
+            "D. Oral dissolution therapy should be initiated as a trial."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Asymptomatic gallstones (Category 1, Incidental Gallstones) in any patient are generally managed conservatively, without surgical intervention. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 898,
+        "question": "A 35-year-old woman is admitted with severe biliary colic. She has been vomiting profusely and is now unable to tolerate oral intake. Her vital signs are stable. In the initial management, she should be kept NPO (nil per os) and should receive:",
+        "choices": [
+            "A. IV fluids and parenteral NSAIDs only.",
+            "B. IV fluids, parenteral NSAIDs, and oral dissolution medication.",
+            "C. Oral liquids and parenteral NSAIDs.",
+            "D. Oral liquids and antiemetics."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The patient should be kept NPO and given supportive care with IV fluids due to vomiting/poor oral intake, and parenteral NSAIDs for the acute pain. (p. 225, 227)",
+        "tags": "biliary_colic, initial_management"
+    },
+    {
+        "id": 899,
+        "question": "A patient presents with a history of typical biliary colic, but subsequent abdominal imaging fails to visualize any gallstones. Which category of symptomatic gallstone disease does this presentation fit?",
+        "choices": [
+            "A. Category 1: Incidental gallstones.",
+            "B. Category 2: Uncomplicated gallstone disease.",
+            "C. Category 3: Atypical symptoms.",
+            "D. Category 4: Typical biliary symptoms but without gallstones."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This is categorized as Category 4: Typical biliary symptoms but without gallstones on ultrasound. (p. 225)",
+        "tags": "symptomatic_gallstone_disease, classification"
+    },
+    {
+        "id": 900,
+        "question": "The definitive management for a patient with uncomplicated symptomatic gallstone disease is:",
+        "choices": [
+            "A. Oral bile acid dissolution therapy for 1 year.",
+            "B. Surgical removal of the gallbladder (cholecystectomy).",
+            "C. Dietary restriction and pain control for acute flares.",
+            "D. Endoscopic removal of the gallstones."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is the definitive and curative management indicated for uncomplicated symptomatic gallstone disease. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, definitive_treatment"
+    },
+    {
+        "id": 901,
+        "question": "When does the pain of biliary colic typically reach its maximal intensity?",
+        "choices": [
+            "A. Immediately upon eating a fatty meal.",
+            "B. Minutes after the attack begins.",
+            "C. After 48 hours of constant pain.",
+            "D. It is constant and does not peak."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The pain of biliary colic reaches a maximal intensity (plateaus) within an hour of the attack beginning. (p. 224)",
+        "tags": "biliary_colic, pain_course"
+    },
+    {
+        "id": 902,
+        "question": "A 42-year-old woman with known cholelithiasis reports persistent, intense abdominal bloating, dyspepsia, and occasional mild RUQ discomfort. She asks if these symptoms mean she needs surgery. Based on the guidelines, these atypical symptoms are classified as:",
+        "choices": [
+            "A. Category 1, requiring no surgical intervention.",
+            "B. Category 2, requiring elective surgery.",
+            "C. Category 3, requiring investigation for alternative causes.",
+            "D. Category 4, requiring urgent surgical consult."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "These are atypical symptoms (Category 3), which are poorly associated with gallstones. Management should involve investigating other possible causes for the symptoms before deciding on cholecystectomy. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": 903,
+        "question": "For a patient with classic biliary colic, the most effective long-term strategy for recurrence prevention is to advise:",
+        "choices": [
+            "A. Frequent, small meals.",
+            "B. Avoiding all high-fiber foods.",
+            "C. Avoiding heavy, high-fat meals.",
+            "D. Chronic low-dose aspirin therapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Since biliary colic attacks are often triggered by fatty meals, eliminating heavy, high-fat meals is a key non-pharmacologic preventative strategy. (p. 225)",
+        "tags": "biliary_colic, prevention"
+    },
+    {
+        "id": 904,
+        "question": "Which laboratory or imaging finding is NOT necessary for the initial diagnosis of uncomplicated cholelithiasis with biliary colic?",
+        "choices": [
+            "A. Patient history and clinical presentation.",
+            "B. Abdominal ultrasound confirming gallstones.",
+            "C. Liver function tests and bilirubin levels.",
+            "D. Serum amylase and lipase."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For uncomplicated gallstone disease, while imaging and clinical history are necessary, basic lab tests (LFTS) and labs to rule out pancreatitis (amylase/lipase) are generally done to rule out complications. However, the direct diagnosis of uncomplicated cholelithiasis is based on clinical features and ultrasound. If the lab results are normal and the patient only has colic, no further investigation is needed. The question asks what is not necessary for the initial diagnosis of the uncomplicated state. Labs for amylase and lipase are not required unless pancreatitis is suspected. (p. 225, 233)",
+        "tags": "uncomplicated_gallstone_disease, diagnosis"
+    },
+    {
+        "id": 905,
+        "question": "A patient presents with acute biliary colic pain that is refractory to the initial dose of IV Diclofenac. She has no contraindications to opioids. What is the next appropriate analgesic step?",
+        "choices": [
+            "A. Administer a continuous infusion of IV Diclofenac.",
+            "B. Administer IV Morphine 2.5-5 mg.",
+            "C. Administer oral Codeine 60 mg.",
+            "D. Administer IV Hyoscine Butylbromide."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "If NSAIDs are insufficient or contraindicated, opioids (Morphine or Pethidine) are the appropriate second-line treatment for severe acute biliary colic pain. (p. 225)",
+        "tags": "biliary_colic, pain_management, opioids"
+    },
+    {
+        "id": 906,
+        "question": "Which of the following is considered a major complication arising from cholelithiasis, as noted in the guidelines?",
+        "choices": [
+            "A. Chronic constipation.",
+            "B. Cholelithiasis-induced duodenal ulcer.",
+            "C. Acute cholangitis.",
+            "D. Asymptomatic hyperbilirubinemia."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The major complications listed are acute cholecystitis, choledocholithiasis (stone in the common bile duct), with or without acute cholangitis, and acute pancreatitis. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": 907,
+        "question": "A 38-year-old woman with symptomatic cholelithiasis is scheduled for elective cholecystectomy. The procedure is considered curative primarily because it eliminates:",
+        "choices": [
+            "A. The chronic inflammation in the gallbladder wall.",
+            "B. The source of the recurrent biliary pain.",
+            "C. The risk of developing primary sclerosing cholangitis.",
+            "D. The accumulation of cholesterol in the bile."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is curative for uncomplicated symptomatic gallstone disease because it eliminates the source of the recurrent painful attacks. (p. 225, 226)",
+        "tags": "cholecystectomy, curative_mechanism"
+    },
+    {
+        "id": 908,
+        "question": "A patient with known gallstones reports dull, non-specific abdominal discomfort that has been present for 3 months, unrelated to meals. How should this symptom presentation be initially managed?",
+        "choices": [
+            "A. Urgent surgical consult.",
+            "B. Treat empirically for acute cholecystitis.",
+            "C. Investigate for alternative causes of abdominal discomfort.",
+            "D. Start long-term oral bile acid therapy."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "This is an atypical symptom (Category 3), and due to the poor correlation with gallstones, the initial management should focus on investigating alternative causes of the abdominal discomfort. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": 909,
+        "question": "The initial choice for pain management in acute biliary colic is a parenteral NSAID. This choice is not ideal for a patient with which co-morbidity?",
+        "choices": [
+            "A. Chronic stable angina.",
+            "B. Controlled type 1 diabetes.",
+            "C. History of peptic ulcer disease.",
+            "D. Severe primary hyperparathyroidism."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs are contraindicated or should be used with extreme caution in patients with an active peptic ulcer disease due to the high risk of hemorrhage. (p. 225)",
+        "tags": "pain_management, contraindications, NSAIDs"
+    },
+    {
+        "id": 910,
+        "question": "Which of the following is most likely to be a precipitating factor for an attack of biliary colic?",
+        "choices": [
+            "A. A meal rich in protein.",
+            "B. Emotional stress or anxiety.",
+            "C. Consumption of a heavy, fatty meal.",
+            "D. Periods of fasting or starvation."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Eating a fatty meal is listed as a common trigger for biliary colic. (p. 225)",
+        "tags": "biliary_colic, precipitating_factors"
+    },
+    {
+        "id": 911,
+        "question": "In cases of gallstones where no complications have occurred and there is no history of pain, what is the recommended course of action?",
+        "choices": [
+            "A. Elective cholecystectomy within 6 months.",
+            "B. Lifestyle advice and regular follow-up.",
+            "C. Aggressive pain management with NSAIDs.",
+            "D. Oral dissolution therapy for a minimum of 1 year."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones (asymptomatic), conservative management with regular follow-up is recommended; surgical intervention is not indicated. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 912,
+        "question": "The main distinction between uncomplicated gallstone disease (Category 2) and incidental gallstones (Category 1) is the:",
+        "choices": [
+            "A. Size of the gallstones.",
+            "B. Patient's age and co-morbidities.",
+            "C. Presence of typical biliary colic symptoms.",
+            "D. Gallstone composition (cholesterol vs. pigment)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The distinction between Category 1 (Incidental) and Category 2 (Uncomplicated) is the presence of symptoms, specifically typical biliary colic. (p. 225)",
+        "tags": "gallstone_classification"
+    },
+    {
+        "id": 913,
+        "question": "What is the least likely clinical presentation of typical biliary colic?",
+        "choices": [
+            "A. Pain that lasts less than 30 minutes.",
+            "B. Pain that radiates to the right shoulder.",
+            "C. Severe, dull pain in the epigastrium.",
+            "D. Pain that is constant, lasting 4 hours."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Typical biliary colic pain lasts at least 30 minutes and usually less than six hours. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 914,
+        "question": "Which of the following is considered a major complication of cholelithiasis, indicating a need for urgent management?",
+        "choices": [
+            "A. Non-specific epigastric burning.",
+            "B. Acute pancreatitis.",
+            "C. Non-painful, calcified gallbladder.",
+            "D. Chronic diarrhea."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Acute pancreatitis is listed as a major complication of gallstones, which may necessitate urgent management. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": 915,
+        "question": "A healthy 40-year-old patient has a documented gallstone on ultrasound but denies any history of pain or discomfort (Category 1). The patient should be managed with:",
+        "choices": [
+            "A. Referral for elective cholecystectomy.",
+            "B. Observation, lifestyle advice, and elective follow-up.",
+            "C. Immediate referral for oral dissolution therapy.",
+            "D. Immediate dietary restriction (no fat intake)."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones (Category 1), conservative management with observation, lifestyle advice, and follow-up is the recommended course. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 916,
+        "question": "A 58-year-old patient presents with classic biliary colic. He has a known allergy to NSAIDs and opioids. Which therapeutic option is least appropriate for immediate severe pain relief?",
+        "choices": [
+            "A. Intravenous Diclofenac.",
+            "B. Intramuscular Morphine.",
+            "C. Rectal Indomethacin.",
+            "D. Intravenous Acetaminophen."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Given the known allergy, an NSAID like Diclofenac is contraindicated. (p. 225)",
+        "tags": "pain_management, contraindications, NSAIDs"
+    },
+    {
+        "id": 917,
+        "question": "A patient with gallstones and typical biliary colic is prescribed oral Diclofenac for pain flares. What specific instruction should accompany this prescription?",
+        "choices": [
+            "A. Take immediately after consuming a fatty meal.",
+            "B. Use for severe pain only; stop if pain resolves.",
+            "C. Take daily for a minimum of 3 months to prevent recurrence.",
+            "D. Take continuously until scheduled for surgery."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs should be used for acute pain flares only (PRN) and discontinued once the pain subsides. Chronic pain therapy is only needed for symptoms lasting >6 hours. (p. 225)",
+        "tags": "biliary_colic, pharmacologic_management"
+    },
+    {
+        "id": 918,
+        "question": "What is a key non-pharmacological advice to prevent future attacks in a patient with uncomplicated symptomatic gallstone disease?",
+        "choices": [
+            "A. Drink 3 liters of water per day.",
+            "B. Maintain a regular, moderate exercise regimen.",
+            "C. Avoid milk and dairy products.",
+            "D. Strictly avoid eating after 6 PM."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "While dietary advice is important (avoiding fatty meals), regular exercise is a general lifestyle measure that contributes to prevention. (p. 225)",
+        "tags": "uncomplicated_gallstone_disease, prevention"
+    },
+    {
+        "id": 919,
+        "question": "A 45-year-old patient with atypical abdominal bloating and gallstones (Category 3) has had an extensive workup for other causes that was negative. Her symptoms are persistent and bothersome. What is the next appropriate step in management?",
+        "choices": [
+            "A. Referral for elective cholecystectomy.",
+            "B. Start long-term oral bile acid dissolution therapy.",
+            "C. Reassurance and symptomatic treatment only.",
+            "D. Urgent surgery due to persistence."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For Category 3 patients, if investigation for alternative causes is negative and symptoms are persistent and bothersome, an elective cholecystectomy referral may be individualized and considered. (p. 225, 226)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": 920,
+        "question": "A patient with confirmed gallstones has a sudden, severe RUQ pain 3 hours after a meal. Physical exam is benign. What is the expected typical duration for this pain episode (biliary colic)?",
+        "choices": [
+            "A. It will last exactly 6 hours.",
+            "B. It will last between 30 minutes and 6 hours.",
+            "C. It will resolve instantly with IV Diclofenac.",
+            "D. It is expected to last for more than 24 hours."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The typical duration of biliary colic is at least 30 minutes and usually less than six hours. (p. 224)",
+        "tags": "biliary_colic, duration"
+    },
+    {
+        "id": 921,
+        "question": "Which imaging modality would be the most appropriate initial study for a patient presenting with new-onset, classic biliary colic?",
+        "choices": [
+            "A. CT scan of the abdomen.",
+            "B. Magnetic Resonance Cholangiopancreatography (MRCP).",
+            "C. Abdominal ultrasound.",
+            "D. Plain X-ray of the abdomen."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Abdominal ultrasound is the gold standard tool and the most appropriate initial imaging for diagnosing cholelithiasis. (p. 225)",
+        "tags": "cholelithiasis, initial_investigation"
+    },
+    {
+        "id": 922,
+        "question": "For a patient with symptomatic gallstones (Category 2), the appropriate timing for definitive surgical intervention (cholecystectomy) is:",
+        "choices": [
+            "A. Urgent (within 24 hours).",
+            "B. Emergent (within 6 hours).",
+            "C. Elective.",
+            "D. Only if symptoms progress to jaundice."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For uncomplicated symptomatic gallstone disease, cholecystectomy is indicated and should be done electively. (p. 225, 226)",
+        "tags": "cholecystectomy, timing"
+    },
+    {
+        "id": 923,
+        "question": "Which of the following is considered a major complication of cholelithiasis?",
+        "choices": [
+            "A. Gastroesophageal reflux disease.",
+            "B. Acute cholangitis.",
+            "C. Chronic gastritis.",
+            "D. Irritable bowel syndrome."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Acute cholangitis is a listed major complication of gallstones (choledocholithiasis with or without cholangitis). (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": 924,
+        "question": "Which is the most common type of gallstone found in the population?",
+        "choices": [
+            "A. Pigment stones.",
+            "B. Calcium phosphate stones.",
+            "C. Cholesterol stones.",
+            "D. Mixed stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "The majority of gallstones are cholesterol stones. (p. 224)",
+        "tags": "gallstone_composition"
+    },
+    {
+        "id": 925,
+        "question": "A patient presents with acute pain relief needs for biliary colic. He has a known peptic ulcer. The most appropriate initial parenteral pain management is:",
+        "choices": [
+            "A. IV Diclofenac.",
+            "B. IM Pethidine.",
+            "C. IV Ketorolac.",
+            "D. Rectal Diclofenac."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs (Diclofenac, Ketorolac) are contraindicated in patients with a history of peptic ulcer disease. Opioids (Morphine or Pethidine) are the appropriate second-line choice. (p. 225)",
+        "tags": "pain_management, peptic_ulcer_disease, contraindications"
+    },
+    {
+        "id": 926,
+        "question": "A patient with gallstones and recurring biliary colic should be referred for elective surgery (cholecystectomy) because this intervention primarily:",
+        "choices": [
+            "A. Dissolves the gallstones over time.",
+            "B. Prevents the source of the recurrent painful attacks.",
+            "C. Cures the underlying metabolic cause.",
+            "D. Prevents acute pancreatitis."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is curative for uncomplicated symptomatic gallstone disease because it removes the source of the recurrent painful attacks. (p. 225, 226)",
+        "tags": "cholecystectomy, curative_mechanism"
+    },
+    {
+        "id": 927,
+        "question": "Which of the following is an atypical symptom that is poorly associated with gallstones, making a surgical decision complex?",
+        "choices": [
+            "A. Nausea during an attack.",
+            "B. Severe, constant RUQ pain.",
+            "C. Pain radiating to the back.",
+            "D. Chronic, non-specific epigastric burning."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Chronic, non-specific epigastric burning is listed as an atypical symptom (Category 3) with poor association to gallstones, necessitating a search for other causes. (p. 225)",
+        "tags": "atypical_symptoms, diagnosis"
+    },
+    {
+        "id": 928,
+        "question": "For a patient with incidentally discovered gallstones (asymptomatic), the management strategy involves:",
+        "choices": [
+            "A. Elective cholecystectomy due to high lifetime risk.",
+            "B. Long-term oral dissolution therapy.",
+            "C. Conservative management.",
+            "D. Annual ultrasound surveillance for complications."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Incidental gallstones (Category 1) are managed conservatively, as surgery is not indicated. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 929,
+        "question": "A 48-year-old woman presents with severe biliary colic. The most appropriate initial pharmacological treatment class to control the pain is:",
+        "choices": [
+            "A. Opioids.",
+            "B. Antispasmodics.",
+            "C. Parenteral NSAIDs.",
+            "D. Oral antacids."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDS are the preferred agents for acute biliary colic pain management. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": 930,
+        "question": "In the context of gallstone disease, what does Category 4 describe?",
+        "choices": [
+            "A. Asymptomatic gallstones.",
+            "B. Typical biliary symptoms but without gallstones on ultrasound.",
+            "C. Atypical symptoms with gallstones.",
+            "D. Uncomplicated symptomatic gallstone disease."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Category 4 is defined as Typical biliary symptoms but without gallstones on imaging. (p. 225)",
+        "tags": "gallstone_classification, diagnosis"
+    },
+    {
+        "id": 931,
+        "question": "The pathophysiology of gallstone formation begins with:",
+        "choices": [
+            "A. Inflammation of the gallbladder lining.",
+            "B. Infection of the biliary tree.",
+            "C. Accumulation of cholesterol or pigment materials.",
+            "D. Bile duct stricture formation."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Gallstone formation occurs from the supersaturation and accumulation of soluble materials like cholesterol. (p. 224, 564)",
+        "tags": "gallstone_formation, pathophysiology"
+    },
+    {
+        "id": 932,
+        "question": "What is the recommended approach for managing a patient in Category 4 (typical biliary symptoms but no gallstones)?",
+        "choices": [
+            "A. Treat empirically for cholelithiasis.",
+            "B. Perform elective cholecystectomy.",
+            "C. Close observation with no intervention.",
+            "D. Follow-up and individualize the surgical decision."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For Category 4 patients, the management is follow-up and individualization of the surgical decision. (p. 225, 226)",
+        "tags": "symptomatic_gallstone_disease, management"
+    },
+    {
+        "id": 933,
+        "question": "A 50-year-old woman with chronic liver disease has gallstones. Which type of gallstone is most likely in this patient?",
+        "choices": [
+            "A. Mixed stones.",
+            "B. Cholesterol stones.",
+            "C. Pigment stones.",
+            "D. Calcium carbonate stones."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Pigment stones are common in patients with liver cirrhosis or chronic hemolytic anemia. (p. 224)",
+        "tags": "gallstone_composition, liver_cirrhosis"
+    },
+    {
+        "id": 934,
+        "question": "Which drug class is contraindicated for pain relief in biliary colic for a patient with severe kidney impairment?",
+        "choices": [
+            "A. Opioids.",
+            "B. NSAIDs.",
+            "C. Paracetamol.",
+            "D. Antispasmodics."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "NSAIDs are contraindicated or should be used with extreme caution in patients with impaired kidney function. (p. 225)",
+        "tags": "pain_management, contraindications, NSAIDs"
+    },
+    {
+        "id": 935,
+        "question": "Biliary colic pain typically lasts for what duration?",
+        "choices": [
+            "A. Less than 30 minutes.",
+            "B. 6-12 hours.",
+            "C. 30 minutes to 6 hours.",
+            "D. More than 24 hours."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Typical biliary colic pain lasts at least 30 minutes and usually less than six hours. (p. 224)",
+        "tags": "biliary_colic, duration"
+    },
+    {
+        "id": 936,
+        "question": "Which of the following is not a major complication of cholelithiasis?",
+        "choices": [
+            "A. Acute cholecystitis.",
+            "B. Choledocholithiasis.",
+            "C. Acute pancreatitis.",
+            "D. Chronic dyspepsia."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Chronic dyspepsia is an atypical symptom or separate condition, not a major complication of gallstones. (p. 224, 225)",
+        "tags": "gallstones, complications"
+    },
+    {
+        "id": 937,
+        "question": "The definitive treatment for a patient in Category 2 (uncomplicated symptomatic gallstone disease) is:",
+        "choices": [
+            "A. Long-term dietary management.",
+            "B. Surgical removal of the gallbladder.",
+            "C. Oral bile acid dissolution therapy.",
+            "D. Endoscopic sphincterotomy."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Cholecystectomy is the curative and definitive treatment for uncomplicated symptomatic gallstone disease. (p. 225, 226)",
+        "tags": "uncomplicated_gallstone_disease, definitive_treatment"
+    },
+    {
+        "id": 938,
+        "question": "A patient presents with acute biliary colic. The pain is severe, constant, and located in the epigastrium. What is the most characteristic feature of this pain?",
+        "choices": [
+            "A. Sharp, fluctuating (colicky) nature.",
+            "B. Dull, steady, non-colicky nature.",
+            "C. Immediate onset after a meal.",
+            "D. Radiation to the left shoulder."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is described as a severe, dull pain that is usually constant (non-colicky). (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 939,
+        "question": "Which of the following is a key non-pharmacological advice for managing recurrent biliary colic flares?",
+        "choices": [
+            "A. Increase protein intake.",
+            "B. Decrease all fluid intake.",
+            "C. Avoidance of large, fatty meals.",
+            "D. Chronic use of heating pads."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is commonly triggered by fatty meals. Dietary modification to avoid large, high-fat meals is the essential non-pharmacologic intervention. (p. 225)",
+        "tags": "biliary_colic, non-pharmacologic"
+    },
+    {
+        "id": 940,
+        "question": "A patient presents with typical biliary colic. She is given IV Morphine for pain, but the pain recurs after 2 hours. What is the preferred analgesic class that should have been used initially?",
+        "choices": [
+            "A. Antispasmodics.",
+            "B. Parenteral NSAIDs.",
+            "C. Long-acting Opioids.",
+            "D. Oral Paracetamol."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are the preferred agents for acute pain management in biliary colic. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": 941,
+        "question": "The utility of oral dissolution therapy for gallstones is:",
+        "choices": [
+            "A. High, recommended for all gallstone disease.",
+            "B. Limited, due to poor efficacy and high recurrence.",
+            "C. Curative, for all pigment stone disease.",
+            "D. A mandatory first-line therapy before surgery."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Oral dissolution therapy is not mentioned as a standard or preferred treatment in the general guidelines for cholelithiasis, implying its limited role compared to surgery or pain management. (p. 225, 226)",
+        "tags": "cholelithiasis, treatment"
+    },
+    {
+        "id": 942,
+        "question": "A patient with no history of biliary symptoms is found to have gallstones on ultrasound (Category 1). The most appropriate long-term management is:",
+        "choices": [
+            "A. Oral dissolution therapy.",
+            "B. Urgent surgical consult.",
+            "C. Elective surgical planning.",
+            "D. Observation and lifestyle advice."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Incidental gallstones (Category 1) are managed with observation and lifestyle advice. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 943,
+        "question": "Which patient requires elective cholecystectomy referral?",
+        "choices": [
+            "A. 60-year-old with asymptomatic gallstones (Category 1).",
+            "B. 45-year-old with atypical symptoms and gallstones (Category 3).",
+            "C. 30-year-old with recurrent biliary colic (Category 2).",
+            "D. 50-year-old with typical symptoms but no stones (Category 4)."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Uncomplicated symptomatic gallstone disease (Category 2) is the primary indication for elective cholecystectomy. (p. 225, 226)",
+        "tags": "cholecystectomy, indication"
+    },
+    {
+        "id": 944,
+        "question": "A key element in the presentation of typical biliary colic pain is its:",
+        "choices": [
+            "A. Location in the lower abdomen.",
+            "B. Duration (short-lived, less than 30 min).",
+            "C. Non-colicky (constant) nature.",
+            "D. Association with fever and chills."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is typically a severe, dull, constant (non-colicky) pain. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 945,
+        "question": "A patient is found to have incidental gallstones (Category 1). The patient is anxious and insists on surgery to prevent future problems. The most appropriate advice is:",
+        "choices": [
+            "A. Proceed with elective cholecystectomy.",
+            "B. Counsel that surgery is not indicated and carries unnecessary risk.",
+            "C. Prescribe NSAIDs for potential future pain.",
+            "D. Monitor with serial ultrasound every 3 months."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "For incidental gallstones, the primary management is conservative, as there is no indication for surgery and it poses an unnecessary risk. (p. 225, 226)",
+        "tags": "incidental_gallstones, management"
+    },
+    {
+        "id": 946,
+        "question": "What are the preferred initial agents for pain control in acute biliary colic?",
+        "choices": [
+            "A. Oral Antacids.",
+            "B. Parenteral Opioids.",
+            "C. Parenteral NSAIDs.",
+            "D. Oral Acetaminophen."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Parenteral NSAIDs are the preferred first-line agents for acute pain management in biliary colic. (p. 225)",
+        "tags": "biliary_colic, pain_management, NSAIDs"
+    },
+    {
+        "id": 947,
+        "question": "A patient presents with persistent, chronic, non-specific abdominal discomfort and gallstones. This is categorized as Category 3. Which step is most necessary in the management plan?",
+        "choices": [
+            "A. Scheduling immediate cholecystectomy.",
+            "B. Initiating an exhaustive search for alternative causes of pain.",
+            "C. Starting a high-dose opioid regimen.",
+            "D. Prescribing chronic antibiotics to prevent infection."
+        ],
+        "correctAnswer": 1,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Category 3 (atypical symptoms) has a poor association with gallstones; therefore, a thorough search for alternative diagnoses is the most necessary step. (p. 225)",
+        "tags": "atypical_symptoms, management"
+    },
+    {
+        "id": 948,
+        "question": "In a patient with classic biliary colic, the expected pain pattern is:",
+        "choices": [
+            "A. Constant pain for 3 hours, then full resolution.",
+            "B. Colicky pain that moves frequently.",
+            "C. Pain that worsens only with deep inspiration.",
+            "D. Dull ache that lasts several days."
+        ],
+        "correctAnswer": 0,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Typical biliary colic is a severe, dull, constant pain lasting 30 minutes to 6 hours, and then resolves. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 949,
+        "question": "The presence of gallstones incidentally found on imaging in an asymptomatic patient is classified as:",
+        "choices": [
+            "A. Category 4.",
+            "B. Category 3.",
+            "C. Category 2.",
+            "D. Category 1."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Incidental gallstones are classified as Category 1. (p. 225)",
+        "tags": "gallstone_classification"
+    },
+    {
+        "id": 950,
+        "question": "Which of the following is not a typical characteristic of biliary colic pain?",
+        "choices": [
+            "A. Radiation to the back or right shoulder.",
+            "B. Associated with nausea and vomiting.",
+            "C. Worsened by eating a fatty meal.",
+            "D. Relieved immediately by simple oral antacids."
+        ],
+        "correctAnswer": 3,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Biliary colic is severe, constant pain that is not typically relieved by simple antacids. It typically lasts a significant duration. (p. 224)",
+        "tags": "biliary_colic, clinical_features"
+    },
+    {
+        "id": 951,
+        "question": "Which of the following is not a major complication of cholelithiasis, as defined by the guidelines?",
+        "choices": [
+            "A. Acute cholecystitis.",
+            "B. Choledocholithiasis.",
+            "C. Acute appendicitis.",
+            "D. Acute pancreatitis."
+        ],
+        "correctAnswer": 2,
+        "topic": "Cholelithiasis (Gall stones)",
+        "explanation": "Acute appendicitis is an unrelated condition, not a complication of cholelithiasis. (p. 224)",
+        "tags": "gallstones, complications"
+    },
+    
+  {
+    "id": 952,
+    "question": "A 50-year-old woman presents to the emergency room with **severe right upper quadrant pain** that began 24 hours ago, **fever (38.5°C)**, and **nausea**. Physical examination reveals **localized RUQ tenderness and a positive Murphy's sign**. According to the Tokyo Guidelines, what is the **severity grade** of her condition, assuming no organ dysfunction?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Incidental."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The patient meets the diagnostic criteria for acute cholecystitis (RUQ pain, fever, localized tenderness/Murphy's sign)[cite: 1009, 1010, 1011, 1012]. Grade II (Moderate) criteria include elevated WBC count (>18,000/mm³) and marked local inflammation. Though WBC count is not provided, the clinical picture with fever and positive Murphy's sign suggests inflammation beyond mild changes, and should be treated as moderate to prompt appropriate admission and management[cite: 1010]. Grade I (Mild) is for healthy patients with mild inflammatory changes[cite: 1010]. The case is clinically moderate (Grade II) to warrant prompt attention (p. 226, 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 953,
+    "question": "A 60-year-old male with Grade II acute calculous cholecystitis is admitted to the general hospital. **What is the recommended initial antibiotic regimen**?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Amoxicillin-Clavulanate 1.2g IV BID monotherapy.",
+      "C. Ceftriaxone 1gm IV BID PLUS Metronidazole 500mg IV TID.",
+      "D. Ceftriaxone 1gm IV BID monotherapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The **First line** antibiotic regimen for acute cholecystitis is a combination aimed at covering Gram-negative bacilli and anaerobes, specifically **Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID** [cite: 1007, 1000] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_treatment"
+    ]
+  },
+  {
+    "id": 954,
+    "question": "A key step in the **initial non-pharmacologic management** of acute cholecystitis upon hospital admission is:",
+    "choices": [
+      "A. Preparing for an immediate percutaneous drain placement.",
+      "B. Keeping the patient NPO (nil per os) or resting the bowel.",
+      "C. Administering a strong opioid for pain control.",
+      "D. Encouraging immediate ambulation and oral fluids."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Upon admission, a key initial step in the supportive management of acute cholecystitis is to **rest the bowel** by **keeping the patient NPO** (nil per os) [cite: 1018, 1007] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "initial_management"
+    ]
+  },
+  {
+    "id": 955,
+    "question": "A patient with acute cholecystitis is administered parenteral NSAIDs for pain. Which co-morbidity requires this therapy to be **reserved as second-line or avoided**?",
+    "choices": [
+      "A. History of chronic cholelithiasis.",
+      "B. Controlled hypertension.",
+      "C. Impaired kidney function (CKD).",
+      "D. Mild fever."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Parenteral NSAIDs are the preferred agents for pain, but **Opioids** should be **reserved** for patients with **contraindications to NSAIDs** [cite: 976, 963], such as **impaired kidney function** [cite: 886] (p. 225, 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 956,
+    "question": "In acute cholecystitis, what is the **most characteristic sign** elicited during physical examination?",
+    "choices": [
+      "A. Rebound tenderness in the right lower quadrant.",
+      "B. Severe, generalized abdominal rigidity.",
+      "C. Positive Murphy's sign.",
+      "D. Diffuse epigastric guarding."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Patients frequently have a **positive Murphy's sign**, which is worsening of the RUQ pain upon deep inspiration during palpation of the gallbladder fossa. This is a characteristic finding in acute cholecystitis [cite: 1009] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "clinical_features",
+      "Murphy's"
+    ]
+  },
+  {
+    "id": 957,
+    "question": "A 65-year-old diabetic male is found to have gallstones incidentally during an abdominal ultrasound for non-specific abdominal discomfort. He denies any history of biliary colic. Which **category of gallstone disease** does this patient fall under?",
+    "choices": [
+      "A. Uncomplicated gallstone disease.",
+      "B. Symptomatic gallstone disease.",
+      "C. Incidental gallstones.",
+      "D. Chronic cholecystitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.1 Cholelithiasis (Gall stones)",
+    "explanation": "This patient is asymptomatic, and the gallstones were found **incidentally** on imaging. This is categorized as **incidental gallstones** (Category 1) [cite: 875] (p. 225).",
+    "tags": [
+      "gallstone_disease",
+      "classification"
+    ]
+  },
+  {
+    "id": 958,
+    "question": "A patient with acute cholecystitis and **no organ dysfunction** has a **WBC count of 15,000/mm³**. According to the Tokyo Guidelines (TG18/TG13), what is the **severity grade**?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The criteria for **Grade II (Moderate)** include a WBC count **>18,000/mm³**. Since the patient's WBC count is below this threshold and there is no organ dysfunction (Grade III), the severity is **Grade I (Mild)**, defined as not meeting Grade II or III criteria [cite: 957, 1010] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 959,
+    "question": "Which condition is defined by **inflammation of the gallbladder** that most commonly develops as a complication of gallstones?",
+    "choices": [
+      "A. Biliary colic.",
+      "B. Choledocholithiasis.",
+      "C. Acute cholecystitis.",
+      "D. Acute cholangitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Acute cholecystitis** refers to inflammation of the gallbladder that commonly develops as a complication of gallstones (calculous cholecystitis) [cite: 958] (p. 226).",
+    "tags": [
+      "acute_cholecystitis",
+      "definition"
+    ]
+  },
+  {
+    "id": 960,
+    "question": "In a patient with acute cholecystitis, what is the **duration of the recommended antibiotic course**?",
+    "choices": [
+      "A. A single IV dose followed by reassessment.",
+      "B. 5-7 days of IV antibiotics only.",
+      "C. 7-10 days of combined IV antibiotic therapy.",
+      "D. Minimum 14 days of IV/oral antibiotics."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The antibiotic regimen (e.g., Ceftriaxone + Metronidazole) is recommended for **7–10 days** [cite: 959] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 961,
+    "question": "A 72-year-old woman with a **prolonged INR of 1.8** and acute cholecystitis should be categorized into which **severity grade** according to the Tokyo Guidelines?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Grade III (Severe)** acute cholecystitis is defined by **dysfunction of any one organ/system**, including **Hepatic dysfunction** (PT-INR >1.5) [cite: 961] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 962,
+    "question": "Which of the following is an **alternative initial antibiotic regimen** for acute cholecystitis, if the patient has no signs of severe infection?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Ampicillin/Sulbactam 1.5g IV QID monotherapy.",
+      "C. Ceftriaxone 1gm IV BID monotherapy.",
+      "D. Vancomycin 1gm IV BID PLUS Gentamicin 80mg IV TID."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The **Alternative** initial antibiotic regimen is **Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID** [cite: 975] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "alternative_antibiotics"
+    ]
+  },
+  {
+    "id": 963,
+    "question": "The appropriate **initial pain management** strategy for a patient with acute cholecystitis should utilize:",
+    "choices": [
+      "A. Parenteral NSAIDs (e.g., Diclofenac) as the preferred agent.",
+      "B. Opioids (e.g., Morphine) to prevent sphincter of Oddi spasm.",
+      "C. Oral antacids and H2 blockers.",
+      "D. No analgesia until a definitive diagnosis is confirmed."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Parenteral NSAIDs** (e.g., Diclofenac 50-75mg IV/IM every 12 hours) are the **preferred agents** for pain management in acute cholecystitis. Opioids are reserved as second line [cite: 976, 964] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "NSAIDs"
+    ]
+  },
+  {
+    "id": 964,
+    "question": "A patient with acute cholecystitis is administered parenteral NSAIDs for pain. Which co-morbidity requires this therapy to be **reserved as second-line or avoided**?",
+    "choices": [
+      "A. History of chronic cholelithiasis.",
+      "B. Controlled hypertension.",
+      "C. Impaired kidney function (CKD).",
+      "D. Mild fever."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Parenteral NSAIDs are the preferred agents for pain, but **Opioids** should be **reserved** for patients with **contraindications to NSAIDs** [cite: 976, 963], such as **impaired kidney function** [cite: 886] (p. 225, 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 965,
+    "question": "A patient with acute cholecystitis is admitted. In addition to securing IV access, keeping the patient NPO, and starting IV antibiotics, what is the **most appropriate initial analgesic plan**?",
+    "choices": [
+      "A. Oral Ibuprofen 400 mg every 8 hours.",
+      "B. Parenteral Pethidine 50 mg every 4-6 hours.",
+      "C. Parenteral Diclofenac 75 mg every 12 hours.",
+      "D. No analgesia is required in Grade II disease."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "For acute cholecystitis, parenteral **NSAIDs** like **Diclofenac 50-75mg IV/IM every 12 hours** are the preferred agents. Oral NSAIDs are typically inadequate for acute severe pain [cite: 964, 986] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management"
+    ]
+  },
+  {
+    "id": 966,
+    "question": "Which finding is considered a **Grade III (Severe) criterion** according to the Tokyo Guidelines for acute cholecystitis?",
+    "choices": [
+      "A. WBC count 16,000/mm³.",
+      "B. Duration of symptoms of 48 hours.",
+      "C. Palpable tender mass in the RUQ.",
+      "D. Platelet count of 90,000/mm³ (Hematological dysfunction)."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Platelet count <100,000/mm³** falls under **Hematological dysfunction**, which is a criterion for **Grade III (Severe)** acute cholecystitis [cite: 965] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 967,
+    "question": "A patient with acute cholecystitis is successfully managed with antibiotics and supportive care. **Cholecystectomy** is indicated and should be performed:",
+    "choices": [
+      "A. Urgently, within 24 hours of presentation.",
+      "B. Emergent, only if fever persists past 48 hours.",
+      "C. During the same hospitalization or electively later (interval cholecystectomy).",
+      "D. Only if the patient develops acute pancreatitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Cholecystectomy is indicated** once the patient is stable. The timing depends on clinical status: during the **same hospitalization** for low-risk patients, or **electively later (interval cholecystectomy)** for others [cite: 960] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "cholecystectomy",
+      "timing"
+    ]
+  },
+  {
+    "id": 968,
+    "question": "A 70-year-old woman with acute cholecystitis has **Creatinine of 2.5 mg/dl**. Which severity grade is most appropriate according to the Tokyo Guidelines?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Creatinine >2.0 mg/dl** indicates **Renal dysfunction**, which is a criterion for **Grade III (Severe)** acute cholecystitis [cite: 974] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 969,
+    "question": "Which of the following is an **alternative initial antibiotic regimen** for acute cholecystitis, if the patient has no contraindications?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Ampicillin/Sulbactam 1.5g IV QID monotherapy.",
+      "C. Ceftriaxone 1gm IV BID monotherapy.",
+      "D. Meropenem 1gm IV TID."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The **Alternative** regimen to Ceftriaxone + Metronidazole is **Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID** [cite: 975] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "alternative_antibiotics"
+    ]
+  },
+  {
+    "id": 970,
+    "question": "The appropriate initial pain management strategy for a patient with acute cholecystitis should utilize:",
+    "choices": [
+      "A. Parenteral NSAIDs (e.g., Diclofenac) as the preferred agent.",
+      "B. Opioids (e.g., Morphine) to prevent sphincter of Oddi spasm.",
+      "C. Oral antacids and H2 blockers.",
+      "D. No analgesia until a definitive diagnosis is confirmed."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Parenteral NSAIDs** (e.g., Diclofenac 50-75mg IV/IM every 12 hours) are the **preferred agents** for pain management in acute cholecystitis. Opioids are reserved as second line [cite: 976, 964] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "NSAIDs"
+    ]
+  },
+  {
+    "id": 971,
+    "question": "A patient is admitted with acute cholecystitis. Which finding is considered a **Grade III (Severe) criterion** according to the Tokyo Guidelines?",
+    "choices": [
+      "A. Neurological dysfunction (e.g., decreased level of consciousness).",
+      "B. Respiratory dysfunction (PaO₂/FiO₂ ratio <300).",
+      "C. Creatinine 2.5 mg/dl.",
+      "D. All of the above."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "All listed options—Neurological dysfunction, Respiratory dysfunction, and Creatinine >2.0 mg/dl (Renal dysfunction)—are criteria for **Grade III (Severe)** acute cholecystitis, indicating single organ/system failure [cite: 972, 974] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 972,
+    "question": "A patient with acute cholecystitis presents with **Platelet count 90,000/mm³** but no signs of organ dysfunction. Which severity grade is applicable?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Platelet count <100,000/mm³** indicates **Hematological dysfunction**, which is a criterion for **Grade III (Severe)** acute cholecystitis. (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 973,
+    "question": "The **most appropriate next step** for a patient with acute cholecystitis who is not improving after 48 hours of IV antibiotics and supportive care, and remains febrile, is:",
+    "choices": [
+      "A. Discharge home with oral antibiotics.",
+      "B. Step-down to oral Diclofenac.",
+      "C. Emergency surgery due to lack of response.",
+      "D. Repeat imaging and reassessment for complications or alternative diagnoses."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Lack of improvement after 48 hours of IV antibiotics suggests a worsening clinical condition or complication, which is an indication for **emergency surgery** (cholecystectomy) [cite: 973] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "management_failure"
+    ]
+  },
+  {
+    "id": 974,
+    "question": "A patient with acute cholecystitis is noted to have a **Creatinine of 2.5 mg/dl**. Which severity grade is most appropriate according to the Tokyo Guidelines?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Creatinine >2.0 mg/dl** indicates **Renal dysfunction**, which is a criterion for **Grade III (Severe)** acute cholecystitis [cite: 974] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 975,
+    "question": "What is the **alternative initial antibiotic regimen** for acute cholecystitis, if the patient has no contraindications?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Ampicillin/Sulbactam 1.5g IV QID monotherapy.",
+      "C. Ceftriaxone 1gm IV BID monotherapy.",
+      "D. Meropenem 1gm IV TID."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The **Alternative** regimen to Ceftriaxone + Metronidazole is **Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID** [cite: 975] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "alternative_antibiotics"
+    ]
+  },
+  {
+    "id": 976,
+    "question": "The most effective analgesic class for pain management in acute cholecystitis is:",
+    "choices": [
+      "A. Oral Opioids.",
+      "B. Parenteral NSAIDs.",
+      "C. Oral Antispasmodics.",
+      "D. Parenteral Acetaminophen."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Parenteral NSAIDs** (e.g., Diclofenac) are the **preferred agents** for pain management in acute cholecystitis [cite: 976, 964] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "NSAIDs"
+    ]
+  },
+  {
+    "id": 977,
+    "question": "A patient with acute cholecystitis is treated medically due to high surgical risk. What is the expected **duration of antibiotic therapy**?",
+    "choices": [
+      "A. 3 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The antibiotic course is recommended for **7–10 days** [cite: 959] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 978,
+    "question": "A patient with acute cholecystitis presents with a **WBC count of 14,000/mm³** but no other signs of severity or organ dysfunction. According to the Tokyo Guidelines, what is the **severity grade**?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Severe, due to leukocytosis."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The criterion for Grade II is WBC count >18,000/mm³; since the patient is below this threshold and has no Grade III criteria, the severity is **Grade I (Mild)**, defined as not meeting Grade II or III criteria [cite: 957, 1010] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 979,
+    "question": "What is the definitive management strategy for acute cholecystitis once the patient is clinically stable?",
+    "choices": [
+      "A. Long-term use of oral antibiotics.",
+      "B. Percutaneous cholecystostomy tube placement.",
+      "C. Cholecystectomy (during the same admission or electively).",
+      "D. Oral bile acid dissolution therapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Cholecystectomy** is the definitive management, with timing depending on surgical risk, typically done during the **same hospitalization or electively later** [cite: 960] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "definitive_management"
+    ]
+  },
+  {
+    "id": 980,
+    "question": "A 68-year-old patient with acute cholecystitis presents with **hypotension requiring Norepinephrine** to maintain MAP >65 mmHg. Which severity grade is applicable?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Hypotension requiring Norepinephrine** indicates **Cardiovascular dysfunction**, which is a criterion for **Grade III (Severe)** acute cholecystitis [cite: 980] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 981,
+    "question": "A patient with acute cholecystitis is started on IV antibiotics. What is the **duration of the recommended total antibiotic course** (IV and oral)?",
+    "choices": [
+      "A. 5 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The total antibiotic course (IV and oral combined) is recommended for **7–10 days** [cite: 959] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 982,
+    "question": "For patients with acute cholecystitis, **when** is **emergency surgery** (cholecystectomy) indicated?",
+    "choices": [
+      "A. For all patients within 24 hours of admission.",
+      "B. If the patient has a low surgical risk.",
+      "C. If the patient has worsening clinical condition or a complication.",
+      "D. Only for Grade I (Mild) cases."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Emergency surgery** is indicated for patients with a **worsening clinical condition** or a complication, such as perforation or severe sepsis [cite: 982] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "emergency_surgery"
+    ]
+  },
+  {
+    "id": 983,
+    "question": "A patient is admitted with acute cholecystitis. The initial IV fluid replacement should utilize which type of fluid?",
+    "choices": [
+      "A. D5W (5% Dextrose in Water).",
+      "B. Ringer's Lactate or Normal Saline.",
+      "C. Half-Normal Saline.",
+      "D. 3% Hypertonic Saline."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The initial management of acute cholecystitis requires supportive care, including IV fluids. **Ringer's Lactate (RL) or Normal Saline (NS)** are the standard crystalloid solutions [cite: 1010] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "fluid_management"
+    ]
+  },
+  {
+    "id": 984,
+    "question": "The presence of **Gallbladder wall thickening and/or edema** on ultrasound in a patient with RUQ pain and fever is most indicative of:",
+    "choices": [
+      "A. Biliary colic.",
+      "B. Chronic cholecystitis.",
+      "C. Acute cholecystitis.",
+      "D. Acute cholangitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Gallbladder wall thickening or edema** on ultrasound, along with RUQ pain and fever/tenderness, is diagnostic of **acute cholecystitis** [cite: 984] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 985,
+    "question": "In the management of acute cholecystitis, what is the **first-line non-pharmacologic intervention** upon admission?",
+    "choices": [
+      "A. Surgical consultation.",
+      "B. Intubation and mechanical ventilation.",
+      "C. Keeping the patient NPO.",
+      "D. Urgent referral for ERCP."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "A key initial non-pharmacologic step is to **rest the bowel** by **keeping the patient NPO** (nil per os) [cite: 1018, 1007] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "initial_management"
+    ]
+  },
+  {
+    "id": 986,
+    "question": "The preferred agent for pain management in acute cholecystitis is a parenteral NSAID. Which drug is the **preferred NSAID agent**?",
+    "choices": [
+      "A. Intravenous Indomethacin.",
+      "B. Intravenous Diclofenac.",
+      "C. Intravenous Ibuprofen.",
+      "D. Oral Naproxen."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Parenteral NSAIDs** are the preferred agents, with **Diclofenac 50-75mg IV/IM every 12 hours** listed as the example dosage [cite: 964, 986] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "NSAIDs"
+    ]
+  },
+  {
+    "id": 987,
+    "question": "A patient with acute cholecystitis presents with a **WBC count of 22,000/mm³** but no signs of organ dysfunction. Which **severity grade** applies?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**WBC count >18,000/mm³** is a criterion for **Grade II (Moderate)** acute cholecystitis [cite: 970] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 988,
+    "question": "What is the **first-line antibiotic regimen** for acute cholecystitis in a non-allergic, non-severe patient?",
+    "choices": [
+      "A. Ampicillin/Sulbactam monotherapy.",
+      "B. Ceftriaxone PLUS Metronidazole.",
+      "C. Ciprofloxacin PLUS Clindamycin.",
+      "D. Gentamicin monotherapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The **First line** antibiotic regimen is **Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID** [cite: 1007, 1000] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_treatment"
+    ]
+  },
+  {
+    "id": 989,
+    "question": "A patient with acute cholecystitis and **Creatinine 1.8 mg/dl** should be cautioned regarding which potential complication of NSAID use?",
+    "choices": [
+      "A. Hemorrhage.",
+      "B. Hepatic dysfunction.",
+      "C. Acute kidney injury.",
+      "D. Hypoglycemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "NSAIDs are contraindicated or used with caution in **impaired kidney function** due to the risk of precipitating **Acute Kidney Injury** [cite: 886] (p. 225, 227).",
+    "tags": [
+      "NSAIDs",
+      "contraindications",
+      "AKI"
+    ]
+  },
+  {
+    "id": 990,
+    "question": "Which of the following is a criterion for **Grade II (Moderate)** acute cholecystitis in the Tokyo Guidelines?",
+    "choices": [
+      "A. Hypotension requiring vasopressors.",
+      "B. Creatinine >2.0 mg/dl.",
+      "C. Duration of complaints >72 hours.",
+      "D. Platelet count <100,000/mm³."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Duration of complaints >72 hours** is a specific criterion for **Grade II (Moderate)** acute cholecystitis [cite: 990] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 991,
+    "question": "The definitive management for acute cholecystitis is surgical removal of the gallbladder. What is the name of this procedure?",
+    "choices": [
+      "A. Cholecystostomy.",
+      "B. Cholecystectomy.",
+      "C. Endoscopic Retrograde Cholangiopancreatography (ERCP).",
+      "D. Pyloromyotomy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The surgical procedure for definitive management is **Cholecystectomy** (surgical removal of the gallbladder) [cite: 991] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "procedure"
+    ]
+  },
+  {
+    "id": 992,
+    "question": "For a low-risk patient with acute cholecystitis who stabilizes quickly with medical management, the preferred timing for cholecystectomy is:",
+    "choices": [
+      "A. Emergent (within 6 hours).",
+      "B. Urgent (within 24 hours).",
+      "C. During the same hospitalization.",
+      "D. Elective (after 6 weeks)."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Early cholecystectomy** during the **same hospitalization** is favored for low-risk patients who stabilize quickly [cite: 992] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "cholecystectomy",
+      "timing"
+    ]
+  },
+  {
+    "id": 993,
+    "question": "A patient with acute cholecystitis is allergic to Cephalosporins and Penicillins (anaphylaxis). Which antibiotic is the **most appropriate initial choice**?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Vancomycin 1gm IV BID monotherapy.",
+      "C. Gentamicin 80mg IV TID monotherapy.",
+      "D. Ampicillin/Sulbactam 1.5g IV QID."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "If Ceftriaxone is contraindicated due to allergy, the **alternative** regimen is **Ciprofloxacin PLUS Metronidazole** [cite: 993] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_treatment"
+    ]
+  },
+  {
+    "id": 994,
+    "question": "Which initial intervention is mandatory in the management of acute cholecystitis upon admission?",
+    "choices": [
+      "A. Immediate administration of oral Diclofenac.",
+      "B. Insertion of a nasogastric tube.",
+      "C. Keeping the patient NPO.",
+      "D. Urgent referral for ERCP."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "A key initial non-pharmacologic step is to **rest the bowel** by **keeping the patient NPO** (nil per os) [cite: 985] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "initial_management"
+    ]
+  },
+  {
+    "id": 995,
+    "question": "A patient with acute cholecystitis is treated with IV Diclofenac for pain. What is the expected **duration of action** for a single dose of this NSAID?",
+    "choices": [
+      "A. <1 hour.",
+      "B. 1-2 hours.",
+      "C. 6-12 hours.",
+      "D. >24 hours."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Diclofenac 75mg IV/IM is dosed to provide pain relief every **12 hours** [cite: 964] (p. 227).",
+    "tags": [
+      "Diclofenac",
+      "duration_of_action"
+    ]
+  },
+  {
+    "id": 996,
+    "question": "What is the primary mechanism by which **acute calculous cholecystitis** develops?",
+    "choices": [
+      "A. Viral infection of the gallbladder.",
+      "B. Chemical irritation due to oral bile acids.",
+      "C. Obstruction of the cystic duct by a gallstone.",
+      "D. Ascending bacterial infection from the common bile duct."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Acute calculous cholecystitis is inflammation of the gallbladder that commonly develops as a complication of gallstones, often due to **obstruction of the cystic duct** by a stone [cite: 967] (p. 226).",
+    "tags": [
+      "acute_cholecystitis",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 997,
+    "question": "A 55-year-old male with acute cholecystitis presents with **Platelet count 90,000/mm³**. Which severity grade is most appropriate according to the Tokyo Guidelines?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Platelet count <100,000/mm³** indicates **Hematological dysfunction**, which is a criterion for **Grade III (Severe)** acute cholecystitis [cite: 965] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 998,
+    "question": "The preferred analgesic agent for acute cholecystitis in patients with **impaired renal function** is:",
+    "choices": [
+      "A. Parenteral NSAIDs.",
+      "B. Parenteral Opioids (e.g., Morphine).",
+      "C. Oral Diclofenac.",
+      "D. Oral Acetaminophen."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Opioids** are reserved as second-line for patients with **contraindications to NSAIDs**, such as **impaired kidney function** [cite: 998] (p. 225, 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "pain_management",
+      "opioids"
+    ]
+  },
+  {
+    "id": 999,
+    "question": "In the setting of acute cholecystitis, when should **antibiotic therapy** be initiated?",
+    "choices": [
+      "A. After a definitive culture result is available.",
+      "B. After cholecystectomy is performed.",
+      "C. As soon as the diagnosis is suspected.",
+      "D. Only for Grade III (Severe) cases."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "Antibiotic therapy should be administered **promptly (as soon as the diagnosis is suspected)** for better outcome [cite: 999] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_timing"
+    ]
+  },
+  {
+    "id": 1000,
+    "question": "The **first-line IV antibiotic regimen** for acute cholecystitis is aimed at covering which likely pathogens?",
+    "choices": [
+      "A. Pseudomonas aeruginosa and MRSA.",
+      "B. Gram-negative bacilli and anaerobes.",
+      "C. Atypical organisms (Mycoplasma, Chlamydia).",
+      "D. Clostridium difficile."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The first-line regimen (Ceftriaxone + Metronidazole) covers common aerobic **Gram-negative bacilli** (with Ceftriaxone) and **anaerobes** (with Metronidazole) [cite: 1000] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_coverage"
+    ]
+  },
+  {
+    "id": 1001,
+    "question": "A patient with acute cholecystitis presents with **severe respiratory dysfunction** (PaO₂/FiO₂ ratio <300). This indicates a **severity grade** of:",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Critical, but not severe."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Respiratory dysfunction** (PaO₂/FiO₂ ratio <300) is a criterion for **Grade III (Severe)** acute cholecystitis [cite: 972] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 1002,
+    "question": "A patient is admitted with acute cholecystitis. In the absence of organ dysfunction or severe signs, what is the **initial severity grade**?",
+    "choices": [
+      "A. Grade I (Mild).",
+      "B. Grade II (Moderate).",
+      "C. Grade III (Severe).",
+      "D. Indeterminate."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "If the patient **does not meet the criteria for Grade II or III**, the severity is **Grade I (Mild)**, which applies to healthy patients with mild inflammatory changes [cite: 957, 1010] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 1003,
+    "question": "Which of the following is a key complication of acute cholecystitis that would necessitate **emergency surgery**?",
+    "choices": [
+      "A. Perforation leading to peritonitis.",
+      "B. Chronic pain refractory to oral NSAIDs.",
+      "C. Persistent nausea and vomiting.",
+      "D. Incidental discovery of gallstones."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Perforation** leading to peritonitis is a severe complication that requires **emergency surgery** [cite: 1003] (p. 226, 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "complications",
+      "emergency_surgery"
+    ]
+  },
+  {
+    "id": 1004,
+    "question": "A patient with acute cholecystitis is kept NPO. What should be done for **fluid replacement**?",
+    "choices": [
+      "A. Administer only D5W to prevent sodium overload.",
+      "B. Administer IV fluids (RL or NS) to maintain hydration.",
+      "C. Administer no fluids until symptoms resolve.",
+      "D. Administer only oral rehydration solution (ORS)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The patient is kept **NPO** and should be managed with **intravenous fluids (RL or NS)** [cite: 983, 1004] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "fluid_management"
+    ]
+  },
+  {
+    "id": 1005,
+    "question": "Which of the following defines **Grade I (Mild)** acute cholecystitis according to the Tokyo Guidelines?",
+    "choices": [
+      "A. Patient meets all criteria for Grade II.",
+      "B. Patient does not meet criteria for Grade II or III.",
+      "C. Patient requires vasopressors.",
+      "D. Patient has a palpable tender mass."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Grade I (Mild)** is the default category for patients who **do not meet the criteria of Grade II or III** [cite: 1005] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 1006,
+    "question": "The surgical procedure for definitive management of acute cholecystitis is:",
+    "choices": [
+      "A. Percutaneous drainage.",
+      "B. Cholecystectomy.",
+      "C. Endoscopic Retrograde Cholangiopancreatography (ERCP).",
+      "D. Pyloromyotomy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Cholecystectomy** (surgical removal of the gallbladder) is the definitive management [cite: 991] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "procedure"
+    ]
+  },
+  {
+    "id": 1007,
+    "question": "A patient with acute cholecystitis should be given antibiotics targeting which organisms?",
+    "choices": [
+      "A. Atypical organisms and viruses.",
+      "B. Gram-negative bacilli and anaerobes.",
+      "C. Pseudomonas and MRSA.",
+      "D. Fungi (Candida)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The antibiotic regimen (Ceftriaxone + Metronidazole) targets common **Gram-negative bacilli** and **anaerobes** [cite: 1007, 1000] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_coverage"
+    ]
+  },
+  {
+    "id": 1008,
+    "question": "Which of the following is a criterion for **Grade III (Severe)** acute cholecystitis?",
+    "choices": [
+      "A. WBC count 17,000/mm³.",
+      "B. PT-INR 1.2.",
+      "C. PaO₂/FiO₂ ratio 250.",
+      "D. Palpable tender mass in RUQ."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**PaO₂/FiO₂ ratio <300** (Respiratory dysfunction) is a criterion for **Grade III (Severe)**. The other options are either normal or Grade II criteria [cite: 972, 970] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 1009,
+    "question": "A patient presents with acute RUQ pain and a positive **Murphy's sign**. What does this physical finding specifically indicate?",
+    "choices": [
+      "A. Generalized peritonitis.",
+      "B. Liver cirrhosis.",
+      "C. Localized inflammation around the gallbladder.",
+      "D. Acute pancreatitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "A **positive Murphy's sign** indicates **localized inflammation** around the gallbladder area (RUQ tenderness during deep inspiration) and is characteristic of acute cholecystitis [cite: 956] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "diagnosis",
+      "Murphy's"
+    ]
+  },
+  {
+    "id": 1010,
+    "question": "In the initial management of acute cholecystitis, what should be the immediate approach to the patient's diet and hydration status?",
+    "choices": [
+      "A. Oral fluids and low-fat diet immediately.",
+      "B. Keep NPO and administer IV fluids (RL or NS).",
+      "C. Only administer IV antibiotics; fluids are secondary.",
+      "D. Encourage soft solids to maintain nutrition."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The initial management includes **resting the bowel** by **keeping the patient NPO** and administering **intravenous fluids (RL or NS)** [cite: 985, 983] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "initial_management"
+    ]
+  },
+  {
+    "id": 1011,
+    "question": "Which of the following is a criterion for **Grade II (Moderate)** acute cholecystitis in the Tokyo Guidelines?",
+    "choices": [
+      "A. Creatinine >2.0 mg/dl.",
+      "B. WBC count 19,000/mm³.",
+      "C. Hypotension requiring Norepinephrine.",
+      "D. Platelet count 95,000/mm³."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**WBC count >18,000/mm³** is a criterion for **Grade II (Moderate)** acute cholecystitis. The other options are Grade III criteria [cite: 987, 970] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 1012,
+    "question": "What is the primary management goal for a patient with acute cholecystitis who has no organ dysfunction (Grade I or II)?",
+    "choices": [
+      "A. Emergency cholecystectomy.",
+      "B. Symptomatic relief and infection control.",
+      "C. Long-term use of oral bile acids.",
+      "D. Palliative care and family support."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The management goals are primarily **symptomatic relief** (pain) and **infection control** (antibiotics/definitive surgery) [cite: 959] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "management_goals"
+    ]
+  },
+  {
+    "id": 1013,
+    "question": "What is the appropriate duration for the **total antibiotic course** (IV and oral) in acute cholecystitis?",
+    "choices": [
+      "A. 5 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "The total antibiotic course (IV and oral combined) is recommended for **7–10 days** [cite: 959] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1014,
+    "question": "Which of the following is a criterion for **Grade III (Severe)** acute cholecystitis in the Tokyo Guidelines?",
+    "choices": [
+      "A. Hypotension requiring vasopressors.",
+      "B. Duration of complaints >72 hours.",
+      "C. WBC count 16,000/mm³.",
+      "D. Palpable tender mass in RUQ."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Hypotension requiring vasopressors** indicates **Cardiovascular dysfunction**, a criterion for **Grade III (Severe)**. The other options are Grade II or not severe [cite: 980] (p. 227).",
+    "tags": [
+      "acute_cholecystitis",
+      "severity_grading"
+    ]
+  },
+  {
+    "id": 1015,
+    "question": "The definitive management for a patient with acute cholecystitis is:",
+    "choices": [
+      "A. IV antibiotic therapy for 10 days.",
+      "B. Surgical removal of the gallbladder (cholecystectomy).",
+      "C. Oral fluid resuscitation and symptomatic relief.",
+      "D. Oral bile acid dissolution therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.10.1.2 Acute cholecystitis",
+    "explanation": "**Cholecystectomy** is the definitive management once the patient is stable [cite: 991] (p. 228).",
+    "tags": [
+      "acute_cholecystitis",
+      "definitive_management"
+    ]
+  },
+  {
+    "id": 1016,
+    "question": "A 45-year-old male diabetic patient presents with a one-week history of spiking fever, chills, and severe pain in the right upper quadrant (RUQ). An abdominal ultrasound confirms a single, well-defined liver abscess measuring 4 cm. What is the **most appropriate definitive management** strategy for this abscess in the general hospital setting?",
+    "choices": [
+      "A. Start empiric IV antibiotics and monitor for resolution.",
+      "B. Perform urgent surgical drainage (laparotomy).",
+      "C. Start empiric IV antibiotics and perform ultrasound-guided needle aspiration or catheter drainage.",
+      "D. Start empiric metronidazole alone and schedule for follow-up in one month.",
+      "E. No treatment, as small pyogenic abscesses resolve spontaneously."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscesses require both antibiotics and drainage. For a single abscess with a diameter of 5 cm or less, **ultrasound-guided percutaneous catheter drainage or needle aspiration** is an acceptable form of drainage, along with empiric IV antibiotics. Surgical drainage is generally reserved for multiple or large abscesses, or failure of percutaneous methods[cite: 1075, 1076]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management",
+      "drainage"
+    ]
+  },
+  {
+    "id": 1017,
+    "question": "A 55-year-old male with a history of recurrent cholangitis (biliary disease) is admitted with fever and RUQ pain. Pyogenic liver abscess is suspected. **What is the recommended initial empiric antibiotic regimen** for this patient?",
+    "choices": [
+      "A. Ceftriaxone 1g IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Metronidazole 750mg IV TID monotherapy.",
+      "C. Ciprofloxacin 400mg IV BID monotherapy.",
+      "D. Ampicillin 2g IV QID monotherapy.",
+      "E. Vancomycin 1g IV BID PLUS Gentamicin 5mg/kg IV QD."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscesses are commonly **polymicrobial**, involving anaerobes and Gram-negatives. The **First line** empiric IV antibiotic regimen is **Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_treatment",
+      "empiric"
+    ]
+  },
+  {
+    "id": 1018,
+    "question": "A patient is admitted with a newly diagnosed liver abscess of unclear etiology. You initiate the standard empiric IV antibiotic regimen. **What is the expected total duration** of antibiotic therapy (IV plus oral) for a pyogenic liver abscess?",
+    "choices": [
+      "A. 7 days.",
+      "B. 14 days.",
+      "C. 4-6 weeks.",
+      "D. 3 months.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The typical **duration of antibiotic therapy** for a pyogenic liver abscess is **4–6 weeks**[cite: 1075]. The initial IV course is often followed by a switch to oral antibiotics (e.g., Amoxicillin-clavulanate or Ciprofloxacin + Metronidazole) after 2-4 weeks of clinical improvement (p. 231).",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1019,
+    "question": "A 30-year-old male presents with a **subacute** onset of fever and RUQ pain over the last three weeks. Ultrasound shows a **single liver abscess measuring 8 cm** in the right lobe. Pyogenic abscess is suspected. What is the **preferred drainage method**?",
+    "choices": [
+      "A. Needle aspiration only.",
+      "B. Ultrasound-guided percutaneous catheter drainage.",
+      "C. Surgical drainage (laparotomy).",
+      "D. IV antibiotics alone, due to the large size.",
+      "E. Oral antibiotics and conservative management."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "For a **single abscess with a diameter >5 cm**, **ultrasound-guided percutaneous catheter drainage** is preferred over needle aspiration alone (catheter drainage should be kept until drainage is minimal). Surgical drainage is reserved for multiple abscesses, multi-loculated abscesses, or failed catheter drainage[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_method",
+      "large_abscess"
+    ]
+  },
+  {
+    "id": 1020,
+    "question": "A 25-year-old male is diagnosed with a **large, multi-loculated pyogenic liver abscess** that failed needle aspiration. What is the **indicated management** at this stage?",
+    "choices": [
+      "A. Switch antibiotics to Meropenem.",
+      "B. Surgical drainage (laparotomy).",
+      "C. Continuous infusion of Ceftriaxone for 6 weeks.",
+      "D. Switch to oral antibiotics and manage as outpatient.",
+      "E. Observation with no further intervention."
+    ]
+  },
+  {
+    "id": 1021,
+    "question": "Which microorganism is **least likely** to be a primary cause of pyogenic liver abscess in an immunocompetent patient?",
+    "choices": [
+      "A. Intestinal anaerobes.",
+      "B. Candida albicans.",
+      "C. Klebsiella species.",
+      "D. Escherichia coli.",
+      "E. Streptococcus species."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Most pyogenic liver abscesses are **polymicrobial**, with **intestinal anaerobes** and **Gram-negatives** (like *E. coli* and *Klebsiella spp.*) predominating. *Candida albicans* causes fungal abscesses, which are less common than pyogenic abscesses[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1022,
+    "question": "A patient with a pyogenic liver abscess showing clinical improvement and minimal drainage is ready to be switched to oral antibiotics. What is the recommended **oral regimen**?",
+    "choices": [
+      "A. Amoxicillin monotherapy.",
+      "B. Ciprofloxacin monotherapy.",
+      "C. Amoxicillin-clavulanate monotherapy.",
+      "D. Vancomycin oral capsules.",
+      "E. Oral Metronidazole monotherapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "After 2–4 weeks of IV therapy and clinical improvement, the antibiotic can be changed to an oral regimen. The empiric oral options include **Amoxicillin-clavulanate** or Ciprofloxacin + Metronidazole[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "oral_antibiotics"
+    ]
+  },
+  {
+    "id": 1023,
+    "question": "Which underlying condition is a **major risk factor** for developing a pyogenic liver abscess?",
+    "choices": [
+      "A. History of viral hepatitis A infection.",
+      "B. Type 2 Diabetes Mellitus.",
+      "C. Uncomplicated gallstone disease.",
+      "D. History of mild peptic ulcer disease.",
+      "E. Irritable bowel syndrome."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Diabetes** is listed as a major risk factor for the development of pyogenic liver abscesses. Underlying hepatobiliary disease and gastrointestinal malignancy are also major risks[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "risk_factors"
+    ]
+  },
 
+  {
+    "id": 1024,
+    "question": "A 45-year-old male diabetic patient presents with a one-week history of spiking fever, chills, and severe pain in the right upper quadrant (RUQ). An abdominal ultrasound confirms a single, well-defined liver abscess measuring 4 cm. What is the **most appropriate definitive management** strategy for this abscess in the general hospital setting?",
+    "choices": [
+      "A. Start empiric IV antibiotics and monitor for resolution.",
+      "B. Perform urgent surgical drainage (laparotomy).",
+      "C. Start empiric IV antibiotics and perform ultrasound-guided needle aspiration or catheter drainage.",
+      "D. Start empiric metronidazole alone and schedule for follow-up in one month.",
+      "E. No treatment, as small pyogenic abscesses resolve spontaneously."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscesses require both antibiotics and drainage. For a single abscess with a diameter of 5 cm or less, **ultrasound-guided percutaneous catheter drainage or needle aspiration** is an acceptable form of drainage, along with empiric IV antibiotics. Surgical drainage is generally reserved for multiple or large abscesses, or failure of percutaneous methods[cite: 1075, 1076]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management",
+      "drainage"
+    ]
+  },
+  {
+    "id": 1025,
+    "question": "A 55-year-old male with a history of recurrent cholangitis (biliary disease) is admitted with fever and RUQ pain. Pyogenic liver abscess is suspected. **What is the recommended initial empiric antibiotic regimen** for this patient?",
+    "choices": [
+      "A. Ceftriaxone 1g IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Metronidazole 750mg IV TID monotherapy.",
+      "C. Ciprofloxacin 400mg IV BID monotherapy.",
+      "D. Ampicillin 2g IV QID monotherapy.",
+      "E. Vancomycin 1g IV BID PLUS Gentamicin 5mg/kg IV QD."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscesses are commonly **polymicrobial**, involving anaerobes and Gram-negatives. The **First line** empiric IV antibiotic regimen is **Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_treatment",
+      "empiric"
+    ]
+  },
+  {
+    "id": 1026,
+    "question": "A patient is admitted with a newly diagnosed liver abscess of unclear etiology. You initiate the standard empiric IV antibiotic regimen. **What is the expected total duration** of antibiotic therapy (IV plus oral) for a pyogenic liver abscess?",
+    "choices": [
+      "A. 7 days.",
+      "B. 14 days.",
+      "C. 4-6 weeks.",
+      "D. 3 months.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The typical **duration of antibiotic therapy** for a pyogenic liver abscess is **4–6 weeks**[cite: 1075]. The initial IV course is often followed by a switch to oral antibiotics (e.g., Amoxicillin-clavulanate or Ciprofloxacin + Metronidazole) after 2-4 weeks of clinical improvement (p. 231).",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1027,
+    "question": "A 30-year-old male presents with a **subacute** onset of fever and RUQ pain over the last three weeks. Ultrasound shows a **single liver abscess measuring 8 cm** in the right lobe. Pyogenic abscess is suspected. What is the **preferred drainage method**?",
+    "choices": [
+      "A. Needle aspiration only.",
+      "B. Ultrasound-guided percutaneous catheter drainage.",
+      "C. Surgical drainage (laparotomy).",
+      "D. IV antibiotics alone, due to the large size.",
+      "E. Oral antibiotics and conservative management."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "For a **single abscess with a diameter >5 cm**, **ultrasound-guided percutaneous catheter drainage** is preferred over needle aspiration alone (catheter drainage should be kept until drainage is minimal). Surgical drainage is reserved for multiple abscesses, multi-loculated abscesses, or failed catheter drainage[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_method",
+      "large_abscess"
+    ]
+  },
+  {
+    "id": 1028,
+    "question": "A 25-year-old male is diagnosed with a **large, multi-loculated pyogenic liver abscess** that failed needle aspiration. What is the **indicated management** at this stage?",
+    "choices": [
+      "A. Switch antibiotics to Meropenem.",
+      "B. Surgical drainage (laparotomy).",
+      "C. Continuous infusion of Ceftriaxone for 6 weeks.",
+      "D. Switch to oral antibiotics and manage as outpatient.",
+      "E. Observation with no further intervention."
+    ]
+  },
+  {
+    "id": 1029,
+    "question": "Which microorganism is **least likely** to be a primary cause of pyogenic liver abscess in an immunocompetent patient?",
+    "choices": [
+      "A. Intestinal anaerobes.",
+      "B. Candida albicans.",
+      "C. Klebsiella species.",
+      "D. Escherichia coli.",
+      "E. Streptococcus species."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Most pyogenic liver abscesses are **polymicrobial**, with **intestinal anaerobes** and **Gram-negatives** (like *E. coli* and *Klebsiella spp.*) predominating. *Candida albicans* causes fungal abscesses, which are less common than pyogenic abscesses[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1030,
+    "question": "A patient with a pyogenic liver abscess is on a 6-week antibiotic course. Which factor would typically indicate that the antibiotic course should be **discontinued**?",
+    "choices": [
+      "A. Clinical improvement after 2 weeks of IV therapy.",
+      "B. Completion of the full 6-week course.",
+      "C. Aspiration culture remains positive after 4 weeks.",
+      "D. Conversion from IV to oral route after 3 weeks.",
+      "E. WBC count drops to 12,000/mm³."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The standard duration of antibiotic therapy is **4–6 weeks**. Once the total course is completed and the patient is clinically stable, the antibiotics can be discontinued. Follow-up imaging is often done to confirm abscess resolution (p. 231).",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1031,
+    "question": "Which statement regarding **Amebic Liver Abscess (ALA)** is true?",
+    "choices": [
+      "A. The abscess fluid is typically purulent and foul-smelling.",
+      "B. Amebic liver abscess is usually multiple and located in the left lobe.",
+      "C. Drainage is not routinely recommended and is reserved for specific indications.",
+      "D. The diagnosis is confirmed by positive stool microscopy for trophozoites in over 90% of cases.",
+      "E. The primary initial treatment is drainage followed by oral antibiotics."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Drainage of an amebic liver abscess is **not routinely recommended** and is reserved for specific indications like impending rupture or failed medical therapy[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1032,
+    "question": "A 35-year-old man from an endemic area presents with fever and RUQ tenderness. Amebic liver abscess is suspected. **What is the recommended first-line treatment**?",
+    "choices": [
+      "A. Surgical drainage and Ceftriaxone IV for 14 days.",
+      "B. Metronidazole 750 mg IV/PO every 8 hours for 7-10 days, followed by a luminal agent.",
+      "C. Paromomycin 30 mg/kg/day PO for 7 days, followed by Metronidazole.",
+      "D. Needle aspiration and Ciprofloxacin IV.",
+      "E. Metronidazole monotherapy for 6 weeks."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The primary treatment for ALA is antimicrobial therapy. The **First line** is **Metronidazole 500-750 mg IV/PO every 8 hours for 7-10 days**, followed by a **luminal agent** (*e.g.*, Diloxanide furoate or Paromomycin) to eradicate intraluminal cysts[cite: 1077, 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "metronidazole"
+    ]
+  },
+  {
+    "id": 1033,
+    "question": "A patient has completed a 10-day course of Metronidazole for an amebic liver abscess and shows clinical improvement. What is the **necessary next step** in management to prevent recurrence and transmission?",
+    "choices": [
+      "A. Perform follow-up abdominal CT scan.",
+      "B. Start a luminal amebicide (e.g., Diloxanide furoate).",
+      "C. Repeat Metronidazole for another 7 days.",
+      "D. Discharge with no further treatment.",
+      "E. Counsel on avoiding meat products."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (*e.g.*, Metronidazole) must be followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to eliminate intraluminal cysts and prevent relapse and transmission[cite: 1077, 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent",
+      "prevention"
+    ]
+  },
+  {
+    "id": 1034,
+    "question": "What is the **classic clinical presentation** of an amebic liver abscess?",
+    "choices": [
+      "A. Acute onset of severe right upper quadrant pain and high spiking fever.",
+      "B. Subacute or long-standing RUQ pain and fever.",
+      "C. Painless jaundice and ascites.",
+      "D. Acute onset of diarrhea preceding fever by 24 hours.",
+      "E. Painless, bilateral, multiple small abscesses."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Amebic liver abscess typically presents with **subacute or long-standing RUQ pain and fever**. High spiking fever is more common in pyogenic abscess, and diarrhea is present in less than one-third of ALA cases[cite: 1077]. (p. 231-232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1035,
+    "question": "A patient with suspected amebic liver abscess has profuse bloody diarrhea. What is the expected prevalence of concurrent diarrhea in patients presenting with Amebic Liver Abscess?",
+    "choices": [
+      "A. Nearly 90% of cases.",
+      "B. Approximately 50% of cases.",
+      "C. Less than one-third of cases.",
+      "D. Diarrhea never occurs concurrently with ALA.",
+      "E. Only occurs in immunocompromised hosts."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Diarrhea is **not common** in patients presenting with amebic liver abscess, occurring in **less than one-third** of cases[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "diarrhea"
+    ]
+  },
+  {
+    "id": 1036,
+    "question": "What is the **most common complication** of an amebic liver abscess?",
+    "choices": [
+      "A. Rupture of the abscess.",
+      "B. Abscess transformation to hepatocellular carcinoma.",
+      "C. Biliary obstruction leading to cholangitis.",
+      "D. Sepsis and septic shock.",
+      "E. Hepatic encephalopathy."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The **most common complication** of amebic liver abscess is **rupture** into the peritoneum, pleural space, pericardial space, or sub-phrenic space[cite: 1077]. (p. 231)",
+    "tags": [
+      "amebic_liver_abscess",
+      "complications"
+    ]
+  },
+  {
+    "id": 1037,
+    "question": "A 40-year-old male with a large, solitary liver abscess (>10 cm) is started on Metronidazole but shows no clinical improvement after 5 days. What is the **most appropriate next step**?",
+    "choices": [
+      "A. Increase Metronidazole dose and add a second antibiotic (e.g., Ceftriaxone).",
+      "B. Perform percutaneous ultrasound-guided drainage of the abscess.",
+      "C. Switch to a luminal agent (e.g., Diloxanide furoate).",
+      "D. Discontinue all treatment and observe.",
+      "E. Perform open surgical drainage immediately."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Percutaneous ultrasound-guided drainage may be considered in patients with **large amebic liver abscesses (>10 cm)**, impending rupture, or in those with **failed medical therapy**[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management_failure",
+      "drainage"
+    ]
+  },
+  {
+    "id": 1038,
+    "question": "Which antibiotic must be administered **after** the tissue agent (Metronidazole) in the treatment of amebic liver abscess (ALA)?",
+    "choices": [
+      "A. Ciprofloxacin.",
+      "B. Diloxanide furoate.",
+      "C. Ceftriaxone.",
+      "D. Tinidazole.",
+      "E. Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (Metronidazole) must be followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to eliminate intraluminal cysts[cite: 1077, 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1039,
+    "question": "Which of the following findings is **more characteristic** of a **pyogenic liver abscess** than an amebic liver abscess?",
+    "choices": [
+      "A. Abscess located in the right lobe.",
+      "B. Presentation with long-standing fever and pain.",
+      "C. Abscess is often multiple.",
+      "D. Drainage fluid is typically 'anchovy paste' in appearance.",
+      "E. Concurrent finding of jaundice."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic abscesses may be **single or multiple**, while amebic liver abscesses are **usually single**[cite: 1074, 1077]. (p. 229, 232)",
+    "tags": [
+      "liver_abscess",
+      "comparison"
+    ]
+  },
+  {
+    "id": 1040,
+    "question": "A patient suspected of having an amebic liver abscess (ALA) has Profuse RUQ pain and fever. Which immediate intervention is **not routinely recommended** in the initial management of ALA?",
+    "choices": [
+      "A. Starting Metronidazole IV/PO.",
+      "B. Assessing for liver failure.",
+      "C. Immediate percutaneous drainage.",
+      "D. Assessing for signs of rupture.",
+      "E. Administering analgesics and antipyretics."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Immediate **percutaneous drainage is not routinely recommended** for amebic liver abscess and is reserved for specific indications like large size, imminent rupture, or failed medical therapy[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1041,
+    "question": "A patient with a confirmed 5 cm pyogenic liver abscess is treated with IV antibiotics and successful percutaneous needle aspiration. After 3 weeks of IV antibiotics, the patient is clinically well. What is the **most appropriate step** in antibiotic management?",
+    "choices": [
+      "A. Discontinue antibiotics completely.",
+      "B. Switch to oral antibiotics to complete a 4-6 week total course.",
+      "C. Continue IV antibiotics for the full 6 weeks.",
+      "D. Switch to oral Tinidazole monotherapy.",
+      "E. Change to oral Vancomycin."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Patients can be switched to oral antibiotics (e.g., Amoxicillin-clavulanate or Ciprofloxacin + Metronidazole) after **2–4 weeks** of IV therapy and clinical improvement, to **complete a total course of 4–6 weeks**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration",
+      "IV_to_oral_switch"
+    ]
+  },
+  {
+    "id": 1042,
+    "question": "What is the defining characteristic of a pyogenic liver abscess compared to other infectious liver lesions?",
+    "choices": [
+      "A. The abscess is single and located in the right lobe.",
+      "B. The infection is primarily Gram-negative in origin.",
+      "C. The infection is a localized suppurative infection of the liver.",
+      "D. The abscess typically presents with a clear history of preceding dysentery.",
+      "E. Concurrent jaundice is mandatory for diagnosis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscess is defined as a **localized suppurative infection of the liver**[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "definition"
+    ]
+  },
+  {
+    "id": 1043,
+    "question": "A patient with a pyogenic liver abscess is started on Ceftriaxone and Metronidazole. The abscess culture returns positive for a *Klebsiella pneumoniae* strain that is sensitive to Ciprofloxacin and Ceftriaxone, but resistant to Metronidazole. What is the **most appropriate adjustment** to the antibiotic regimen?",
+    "choices": [
+      "A. Add Ciprofloxacin to cover the *Klebsiella*.",
+      "B. Stop Ceftriaxone and switch to Ciprofloxacin/Metronidazole.",
+      "C. Stop Metronidazole and continue Ceftriaxone monotherapy.",
+      "D. Continue the initial regimen due to the polymicrobial nature.",
+      "E. Stop all antibiotics and perform immediate drainage."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Since the culture identified *Klebsiella pneumoniae* which is sensitive to **Ceftriaxone**, and the initial regimen (Ceftriaxone + Metronidazole) was empiric, the Metronidazole can be discontinued. The Pyogenic liver abscess is often polymicrobial, but culture-directed therapy should guide the final antibiotic choice. Since anaerobes are difficult to culture, Metronidazole is often maintained even if the aerobic culture is positive. However, *Klebsiella* is covered by Ceftriaxone (a single antibiotic) which is sensitive. **Monotherapy with Ceftriaxone** is sufficient to treat the identified pathogen and continue the total course[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "culture_directed_therapy"
+    ]
+  },
+  {
+    "id": 1044,
+    "question": "What is a **key difference** between **Pyogenic Liver Abscess (PLA)** and **Amebic Liver Abscess (ALA)** regarding the primary treatment approach?",
+    "choices": [
+      "A. PLA is treated with Metronidazole; ALA is treated with Ceftriaxone.",
+      "B. PLA requires mandatory drainage; ALA is primarily treated with medical therapy.",
+      "C. PLA typically requires a luminal agent; ALA does not.",
+      "D. PLA drainage fluid is typically 'anchovy paste'; ALA fluid is purulent.",
+      "E. ALA requires longer antibiotic duration (6 weeks) than PLA (2 weeks)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "A key difference is the role of drainage: PLA requires **drainage and antibiotics**, while ALA is primarily treated with **antimicrobial therapy** (*e.g.*, Metronidazole), and drainage is usually reserved only for complications or failure of medical therapy[cite: 1075, 1078]. (p. 230, 232)",
+    "tags": [
+      "liver_abscess",
+      "comparison",
+      "treatment"
+    ]
+  },
+  {
+    "id": 1045,
+    "question": "A patient with Amebic Liver Abscess is treated with Metronidazole. The main purpose of adding **Diloxanide furoate** after Metronidazole is to:",
+    "choices": [
+      "A. Enhance the activity of the tissue agent (Metronidazole).",
+      "B. Prevent the abscess from rupturing.",
+      "C. Treat the parasite in the intestinal lumen to prevent relapse and transmission.",
+      "D. Cover potential secondary bacterial infection of the abscess.",
+      "E. Treat concurrent cholangitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Diloxanide furoate is a **luminal agent** used to eradicate intraluminal cysts of *Entamoeba histolytica* in the colon, which is **necessary after the tissue agent** to prevent relapse and transmission[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent",
+      "purpose"
+    ]
+  },
+  {
+    "id": 1046,
+    "question": "A 40-year-old male presents with fever and RUQ pain. He denies any history of dysentery. An ultrasound shows a single 7 cm abscess in the right lobe of the liver. Which clinical sign is **least likely** to be present in this patient if the cause is Amebic Liver Abscess?",
+    "choices": [
+      "A. Fever.<br>B. Jaundice.<br>C. Right upper quadrant tenderness.<br>D. Hepatomegaly.",
+      "E. Anorexia."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "**Jaundice** is **rarely seen** in amebic liver abscess, occurring in less than 10% of cases. Fever, pain, and hepatomegaly are common[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1047,
+    "question": "Which microorganism is the **causative agent** of Amebic Liver Abscess?",
+    "choices": [
+      "A. Entamoeba dispar.",
+      "B. Entamoeba coli.",
+      "C. Entamoeba hartmanni.",
+      "D. Entamoeba histolytica.",
+      "E. Giardia lamblia."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Amebic liver abscess is a complication of infection by the protozoa **Entamoeba histolytica**. *E. dispar* is generally considered nonpathogenic[cite: 1077]. (p. 231)",
+    "tags": [
+      "amebic_liver_abscess",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1048,
+    "question": "A patient is admitted with a liver abscess of unknown etiology. Given the high prevalence of both amebic and pyogenic causes, the **first-line empiric treatment** should include:",
+    "choices": [
+      "A. Metronidazole alone (as it covers both potential causes).",
+      "B. Ciprofloxacin and Metronidazole.",
+      "C. Ceftriaxone and Metronidazole.",
+      "D. Drainage of the abscess, then culture-directed therapy.",
+      "E. Vancomycin and Ceftriaxone."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "Empiric treatment for pyogenic abscess (the most dangerous entity) is **Ceftriaxone and Metronidazole**[cite: 1075]. Metronidazole also serves as the definitive treatment for the amebic cause[cite: 1077]. Therefore, a combination covering both aerobic bacteria and *Entamoeba* (Metronidazole) is the safest empiric option. (p. 231, 232)",
+    "tags": [
+      "liver_abscess",
+      "empiric_treatment"
+    ]
+  },
+  {
+    "id": 1049,
+    "question": "What is a major risk factor for developing a **pyogenic liver abscess**?",
+    "choices": [
+      "A. Previous history of malaria infection.",
+      "B. Gastrointestinal malignancy.",
+      "C. Exposure to poor sanitation.",
+      "D. Chronic use of NSAIDs.",
+      "E. Living in a rural area."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Gastrointestinal malignancy** and underlying hepatobiliary disease are major risk factors for pyogenic liver abscesses[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "risk_factors"
+    ]
+  },
+  {
+    "id": 1050,
+    "question": "A 28-year-old patient from an endemic area presents with a single 6 cm liver abscess in the right lobe. He denies prior bloody diarrhea. What is the **most likely fluid appearance** if the abscess were aspirated for diagnostic purposes and confirmed to be amebic?",
+    "choices": [
+      "A. Thick, foul-smelling pus.",
+      "B. Clear, straw-colored fluid.",
+      "C. Yellow-green purulent fluid.",
+      "D. Brown, thick fluid.",
+      "E. White, curd-like substance."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "If an amebic liver abscess is aspirated, the fluid typically appears as a **brown, thick fluid** (often described as 'anchovy paste'). Purulent fluid (yellow/green) is characteristic of pyogenic abscess[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "abscess_fluid"
+    ]
+  },
+  {
+    "id": 1051,
+    "question": "Which clinical feature is **more suggestive** of a **pyogenic liver abscess** than an amebic liver abscess?",
+    "choices": [
+      "A. Jaundice and ascites.",
+      "B. Subacute presentation over weeks.",
+      "C. History of preceding dysentery.",
+      "D. High spiking fevers and chills.",
+      "E. Solitary abscess in the right lobe."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**High spiking fevers and chills** are more commonly associated with the acute suppurative nature of a **pyogenic abscess**. Amebic abscesses are typically subacute and may not be associated with a high fever[cite: 1074]. (p. 229, 232)",
+    "tags": [
+      "liver_abscess",
+      "comparison"
+    ]
+  },
+  {
+    "id": 1052,
+    "question": "A patient who has completed treatment for an Amebic Liver Abscess is now receiving Diloxanide furoate. Diloxanide furoate is classified as a:",
+    "choices": [
+      "A. Tissue amebicide.",
+      "B. Luminal amebicide.",
+      "C. Fungal agent.",
+      "D. Broad-spectrum antibiotic.",
+      "E. Anti-inflammatory agent."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "**Diloxanide furoate** is a **luminal agent** used to eliminate intraluminal cysts and prevent relapse/transmission[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "drug_class"
+    ]
+  },
+  {
+    "id": 1053,
+    "question": "What is the recommended treatment for a pyogenic liver abscess caused by a *Staphylococcus aureus* strain that is found to be sensitive to Cloxacillin and Gentamicin?",
+    "choices": [
+      "A. Continue Ceftriaxone + Metronidazole empiric regimen.",
+      "B. Switch to Cloxacillin + Gentamicin.",
+      "C. Switch to Metronidazole monotherapy.",
+      "D. Discontinue all antibiotics and rely on drainage.",
+      "E. Switch to Vancomycin + Gentamicin."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Once culture and sensitivity results are available, the antibiotic therapy should be tailored. Switching to a specific, effective, and narrow-spectrum regimen like **Cloxacillin + Gentamicin** is the appropriate next step[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "culture_directed_therapy"
+    ]
+  },
+  {
+    "id": 1054,
+    "question": "A patient presents with fever, RUQ pain, and a liver abscess. The initial treatment includes Metronidazole 750mg IV TID. This choice of drug primarily covers the possibility of:",
+    "choices": [
+      "A. Gram-negative enteric bacteria.",
+      "B. *Entamoeba histolytica* and anaerobes.",
+      "C. *Klebsiella pneumoniae*.",
+      "D. *Staphylococcus aureus*.",
+      "E. Fungal infection."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "**Metronidazole** is the definitive treatment for *Entamoeba histolytica* (amebic abscess) and provides excellent coverage for **anaerobes** (part of the pyogenic flora)[cite: 1075, 1077]. (p. 231, 232)",
+    "tags": [
+      "liver_abscess",
+      "metronidazole",
+      "coverage"
+    ]
+  },
+  {
+    "id": 1055,
+    "question": "A 50-year-old diabetic male has a single 6 cm pyogenic liver abscess drained successfully via percutaneous catheter. He is clinically improving. **When** should the IV antibiotics be converted to an oral regimen?",
+    "choices": [
+      "A. Immediately after successful drainage.",
+      "B. After 2–4 weeks of IV antibiotics and clinical improvement.",
+      "C. After 6 weeks of continuous IV antibiotics.",
+      "D. Only once the abscess is confirmed to be completely resolved on imaging.",
+      "E. Once the patient is ready for discharge home."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Patients can be switched to oral antibiotics (e.g., Amoxicillin-clavulanate or Ciprofloxacin + Metronidazole) after **2–4 weeks of IV therapy and clinical improvement**, to complete the 4–6 week total course[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration",
+      "IV_to_oral_switch"
+    ]
+  },
+  {
+    "id": 1056,
+    "question": "What is the recommended **total duration** of antimicrobial therapy for a patient successfully treated for an amebic liver abscess (tissue agent followed by luminal agent)?",
+    "choices": [
+      "A. 10 days.",
+      "B. 17 days.",
+      "C. 4-6 weeks.",
+      "D. 7-10 days for tissue agent + 10 days for luminal agent.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (Metronidazole/Tinidazole) is given for **7–10 days** (or 3-5 days for Tinidazole), and the luminal agent (*e.g.*, Diloxanide furoate or Paromomycin) is given for **7–10 days**. The total course is approximately 2–3 weeks of continuous therapy[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1057,
+    "question": "A patient with a confirmed 12 cm amebic liver abscess is managed medically. What is the **most likely complication** necessitating urgent drainage?",
+    "choices": [
+      "A. Chronic constipation.",
+      "B. Jaundice and pale stool.",
+      "C. Abscess rupture into the peritoneum.",
+      "D. Elevated serum alkaline phosphatase.",
+      "E. Failure to gain weight."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Urgent drainage of an ALA is considered for **large abscesses** (>10 cm) or if there is **imminent rupture** or failure of medical therapy. Rupture is the most common complication[cite: 1077, 1078]. (p. 231, 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "complications",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1058,
+    "question": "Which treatment component is **mandatory** for all patients with a pyogenic liver abscess?",
+    "choices": [
+      "A. Amoxicillin monotherapy.",
+      "B. Surgical drainage.",
+      "C. Antibiotic therapy.",
+      "D. Luminal amebicide therapy.",
+      "E. Long-term follow-up with serial imaging."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The two main components of pyogenic liver abscess management are **drainage and antibiotic therapy**. Antibiotic therapy is mandatory for all cases[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1059,
+    "question": "A 35-year-old male is treated for ALA with Metronidazole. What should be added to the regimen to prevent the relapse of infection from the gastrointestinal tract reservoir?",
+    "choices": [
+      "A. Ciprofloxacin for 7 days.",
+      "B. Diloxanide furoate for 10 days.",
+      "C. IV Ceftriaxone for 7 days.",
+      "D. Amoxicillin for 5 days.",
+      "E. Oral Doxycycline for 14 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "A tissue agent (Metronidazole) must be followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to eliminate intraluminal cysts and prevent relapse/transmission[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1060,
+    "question": "What is the key initial diagnostic imaging step for a patient presenting with fever and right upper quadrant pain to confirm a liver abscess?",
+    "choices": [
+      "A. CT scan of the abdomen.",
+      "B. Plain X-ray of the abdomen.",
+      "C. Abdominal ultrasound.",
+      "D. Liver biopsy.",
+      "E. Endoscopic ultrasound."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "Confirmation of a liver abscess requires imaging studies, with **abdominal ultrasound** commonly used due to its availability[cite: 1075, 1077]. (p. 230, 232)",
+    "tags": [
+      "liver_abscess",
+      "diagnosis",
+      "imaging"
+    ]
+  },
+  {
+    "id": 1061,
+    "question": "Which clinical scenario **most strongly suggests** a **pyogenic liver abscess** over an amebic liver abscess?",
+    "choices": [
+      "A. A patient with HIV and multiple abscesses.",
+      "B. A patient with long-standing, low-grade fever.",
+      "C. A patient with a single 4 cm abscess in the right lobe.",
+      "D. A patient with a history of recurrent amebic dysentery.",
+      "E. A patient with severe RUQ pain and concurrent jaundice."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "While amebic abscesses are usually single, **pyogenic abscesses can be single or multiple**. The combination of **immunocompromised status** (HIV) and **multiple abscesses** is highly suspicious for a pyogenic process[cite: 1074, 1077]. (p. 229, 232)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "comparison"
+    ]
+  },
+  {
+    "id": 1062,
+    "question": "A patient with suspected pyogenic liver abscess is started on empiric antibiotics. The abscess is 4 cm and readily accessible. What is the definitive management choice if the patient remains febrile and unwell after 7 days of appropriate IV antibiotics?",
+    "choices": [
+      "A. Prolong IV antibiotics to 6 weeks.",
+      "B. Perform needle aspiration of the abscess.",
+      "C. Perform percutaneous catheter drainage or open surgical drainage.",
+      "D. Switch to oral Metronidazole monotherapy.",
+      "E. Add Vancomycin to the current regimen."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Surgical drainage (or catheter drainage) is indicated for **failed catheter drainage** or failure to improve with medical therapy (often defined after 7 days of treatment). Since needle aspiration alone is less effective for large or complex abscesses, a switch to more aggressive drainage is warranted[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management_failure"
+    ]
+  },
+  {
+    "id": 1063,
+    "question": "What is the typical **total duration** of antibiotic therapy for a Pyogenic Liver Abscess?",
+    "choices": [
+      "A. 7 days.",
+      "B. 14 days.",
+      "C. 4–6 weeks.",
+      "D. 8–12 weeks.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The total duration of antibiotic therapy (IV plus oral) for a pyogenic liver abscess is typically **4–6 weeks**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1064,
+    "question": "A patient is treated for Amebic Liver Abscess (ALA). After a 10-day course of Metronidazole, the patient is clinically stable. Which agent is recommended as the **luminal amebicide**?",
+    "choices": [
+      "A. Ciprofloxacin.",
+      "B. Tinidazole.",
+      "C. Diloxanide furoate.",
+      "D. Ceftriaxone.",
+      "E. Fluconazole."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "After the tissue agent (*e.g.*, Metronidazole), a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) is necessary[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1065,
+    "question": "A key indication for performing **percutaneous drainage** of an amebic liver abscess is:",
+    "choices": [
+      "A. Concurrent finding of Gram-negative rods on blood culture.",
+      "B. Abscess diameter less than 5 cm.",
+      "C. Failure of medical therapy after 5 days of Metronidazole.",
+      "D. Concurrent finding of bloody diarrhea.",
+      "E. Abscess located in the left lobe."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Drainage is not routine for ALA but is considered in cases of **failed medical therapy** (lack of clinical improvement after 3–5 days) or abscesses larger than 10 cm[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1066,
+    "question": "A patient with a pyogenic liver abscess is on a 6-week course of antibiotics. What is the recommended oral regimen for the continuation phase if Amoxicillin-clavulanate is not available?",
+    "choices": [
+      "A. Ciprofloxacin monotherapy.",
+      "B. Metronidazole monotherapy.",
+      "C. Ciprofloxacin PLUS Metronidazole.",
+      "D. Oral Vancomycin.",
+      "E. Diloxanide furoate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The oral options for the continuation phase are Amoxicillin-clavulanate **OR** **Ciprofloxacin PLUS Metronidazole**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "oral_antibiotics"
+    ]
+  },
+  {
+    "id": 1067,
+    "question": "The combination of **Ceftriaxone 1g IV BID PLUS Metronidazole 500mg IV TID** is recommended as the empiric regimen for pyogenic liver abscess to cover:",
+    "choices": [
+      "A. *Staphylococcus aureus* and *C. difficile*.",
+      "B. Gram-negatives and anaerobes.",
+      "C. *Entamoeba histolytica* and *Giardia lamblia*.",
+      "D. Atypical bacteria and fungi.",
+      "E. *Mycobacterium tuberculosis* and *Actinomyces*."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The regimen covers the typical polymicrobial infection, with Ceftriaxone covering Gram-negatives and Metronidazole covering **anaerobes** (and *Entamoeba histolytica*)[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_coverage"
+    ]
+  },
+  {
+    "id": 1068,
+    "question": "Which finding is **not** consistent with the clinical picture of a pyogenic liver abscess?",
+    "choices": [
+      "A. Right upper quadrant tenderness.",
+      "B. High spiking fevers and chills.",
+      "C. Insidious onset of symptoms over several weeks.",
+      "D. Elevated liver enzymes.",
+      "E. Concurrent diagnosis of Type 2 Diabetes Mellitus."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The clinical presentation of pyogenic liver abscess is characterized by fever, malaise, RUQ tenderness[cite: 1074]. However, the onset is generally acute to subacute, but not typically **insidious over several weeks** (more common in ALA or chronic infection)[cite: 1077]. (p. 229, 232)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1069,
+    "question": "A patient is admitted with fever and RUQ pain. Ultrasound shows a single liver abscess. Which investigation is crucial for determining the need for a luminal amebicide?",
+    "choices": [
+      "A. Full Blood Count.",
+      "B. Liver function tests.",
+      "C. Culture of abscess aspirate.",
+      "D. Histologic examination of the liver tissue.",
+      "E. HIV screening."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "A luminal amebicide is only required if the abscess is confirmed to be **amebic** (or if the initial empiric treatment was only a tissue agent). Culture of the abscess aspirate (or serology/PCR, if available) helps distinguish the cause, although for ALA, drainage is not routine. Empiric therapy should be started while waiting for results[cite: 1075, 1077]. (p. 230, 232)",
+    "tags": [
+      "liver_abscess",
+      "diagnosis",
+      "luminal_amebicide"
+    ]
+  },
+  {
+    "id": 1070,
+    "question": "What is the recommended treatment for a patient diagnosed with an amebic liver abscess that is complicated by impending rupture?",
+    "choices": [
+      "A. Surgical drainage alone.",
+      "B. Oral Metronidazole monotherapy.",
+      "C. Metronidazole IV/PO PLUS percutaneous drainage.",
+      "D. Luminal amebicide alone.",
+      "E. Ciprofloxacin IV and observation."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The cornerstone of ALA treatment is the tissue agent (*e.g.*, Metronidazole). However, in cases of **impending rupture** (a major complication), **percutaneous drainage** must be added to the medical regimen[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management",
+      "complication"
+    ]
+  },
+  {
+    "id": 1071,
+    "question": "Which finding is characteristic of the **fluid** obtained from an **amebic liver abscess**?",
+    "choices": [
+      "A. Clear, serous fluid.",
+      "B. Yellow-green purulent fluid.",
+      "C. Brown, thick fluid.",
+      "D. Foul-smelling pus.",
+      "E. White, sticky exudate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Amebic liver abscess fluid is classically described as **brown, thick fluid** (anchovy paste)[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "abscess_fluid"
+    ]
+  },
+  {
+    "id": 1072,
+    "question": "A patient with a confirmed pyogenic liver abscess is treated with IV antibiotics. The culture of the aspirate is negative. **What is the most appropriate step** in antibiotic management after 72 hours of therapy?",
+    "choices": [
+      "A. Stop all antibiotics, as the cause is likely viral.",
+      "B. Continue the initial empiric regimen (Ceftriaxone + Metronidazole).",
+      "C. Switch to Vancomycin to cover MRSA.",
+      "D. Perform immediate surgical drainage.",
+      "E. Switch to Amoxicillin monotherapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Culture-negative pyogenic liver abscesses are common, as anaerobic organisms are difficult to culture. The **initial empiric regimen** (Ceftriaxone + Metronidazole) should **be continued** if the patient is clinically stable, as it provides adequate coverage for the likely polymicrobial flora[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management",
+      "culture_negative"
+    ]
+  },
+  {
+    "id": 1073,
+    "question": "A 40-year-old male is admitted with a single 4 cm pyogenic liver abscess. He has no organ dysfunction. Which treatment approach is **most appropriate**?",
+    "choices": [
+      "A. Metronidazole monotherapy for 6 weeks.",
+      "B. IV Ceftriaxone + Metronidazole and ultrasound-guided needle aspiration.",
+      "C. IV Ceftriaxone monotherapy and surgical drainage.",
+      "D. Oral Ciprofloxacin and Metronidazole for 2 weeks.",
+      "E. Observation and symptomatic relief."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "For a single abscess $\\leq 5 cm$, treatment is **IV antibiotics** (Ceftriaxone + Metronidazole) and **needle aspiration/catheter drainage**[cite: 1075]. (p. 230, 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1074,
+    "question": "What is the recommended treatment duration for the **tissue agent** (Metronidazole) in Amebic Liver Abscess (ALA)?",
+    "choices": [
+      "A. A single 2g dose.",
+      "B. 3-5 days.",
+      "C. 7-10 days.",
+      "D. 14 days.",
+      "E. 6 weeks."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent **Metronidazole** is given for **7–10 days**. Tinidazole is an alternative given for 3–5 days[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "duration"
+    ]
+  },
+  {
+    "id": 1075,
+    "question": "Which imaging finding is characteristic of a pyogenic liver abscess but **not** typically seen in an amebic liver abscess?",
+    "choices": [
+      "A. Solitary lesion in the right lobe.",
+      "B. Hypoechoic mass on ultrasound.",
+      "C. Concurrent finding of splenomegaly.",
+      "D. Multi-loculated appearance.",
+      "E. Abscess size greater than 10 cm."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "While amebic abscesses are usually single and non-loculated, pyogenic abscesses can be **multi-loculated** and may require specific drainage based on this feature[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "imaging"
+    ]
+  },
+  {
+    "id": 1076,
+    "question": "A patient is admitted with suspected pyogenic liver abscess. **What is the alternative empiric IV antibiotic regimen** if the first-line (Ceftriaxone + Metronidazole) is contraindicated?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Ampicillin/Sulbactam 1.5g IV QID.",
+      "C. Metronidazole monotherapy.",
+      "D. Vancomycin 1g IV BID PLUS Gentamicin 80mg IV TID.",
+      "E. Amoxicillin 1g IV TID."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The **Alternative** empiric IV regimen is **Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "alternative_antibiotics"
+    ]
+  },
+  {
+    "id": 1077,
+    "question": "A patient with suspected Amebic Liver Abscess has profuse bloody diarrhea. What is the expected prevalence of concurrent diarrhea in patients presenting with Amebic Liver Abscess?",
+    "choices": [
+      "A. Nearly 90% of cases.",
+      "B. Approximately 50% of cases.",
+      "C. Less than one-third of cases.",
+      "D. Diarrhea never occurs concurrently with ALA.",
+      "E. Only occurs in immunocompromised hosts."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Diarrhea is **not common** in patients presenting with amebic liver abscess, occurring in **less than one-third** of cases[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "diarrhea"
+    ]
+  },
+  {
+    "id": 1078,
+    "question": "What is the recommended treatment for a patient diagnosed with an amebic liver abscess that is complicated by impending rupture?",
+    "choices": [
+      "A. Surgical drainage alone.",
+      "B. Oral Metronidazole monotherapy.",
+      "C. Metronidazole IV/PO PLUS percutaneous drainage.",
+      "D. Luminal amebicide alone.",
+      "E. Ciprofloxacin IV and observation."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The cornerstone of ALA treatment is the tissue agent (*e.g.*, Metronidazole). However, in cases of **impending rupture** (a major complication), **percutaneous drainage** must be added to the medical regimen[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management",
+      "complication"
+    ]
+  },
+  {
+    "id": 1079,
+    "question": "Which antibiotic must be administered **after** the tissue agent (Metronidazole) in the treatment of amebic liver abscess (ALA)?",
+    "choices": [
+      "A. Ciprofloxacin.",
+      "B. Diloxanide furoate.",
+      "C. Ceftriaxone.",
+      "D. Tinidazole.",
+      "E. Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (Metronidazole) must be followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to eliminate intraluminal cysts and prevent relapse and transmission[cite: 1077, 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1080,
+    "question": "A patient presents with subacute fever and RUQ pain. Ultrasound shows a single 7 cm liver abscess. Jaundice is absent. What is the **most appropriate initial therapeutic agent**?",
+    "choices": [
+      "A. Ciprofloxacin monotherapy.",
+      "B. Metronidazole 750 mg IV/PO every 8 hours.",
+      "C. Ceftriaxone monotherapy.",
+      "D. Surgical drainage immediately.",
+      "E. Oral Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Given the subacute presentation, a single abscess, and a single agent option, the presumptive diagnosis is **amebic liver abscess**. The **First line** is **Metronidazole 500-750 mg IV/PO every 8 hours** for 7-10 days[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment"
+    ]
+  },
+  {
+    "id": 1081,
+    "question": "Which characteristic of a pyogenic liver abscess would be an **indication for surgical drainage** over percutaneous catheter drainage?",
+    "choices": [
+      "A. Abscess diameter of 4 cm.",
+      "B. Abscess located in the right lobe.",
+      "C. Abscess that is multi-loculated.",
+      "D. Abscess caused by *Klebsiella pneumoniae*.",
+      "E. Abscess that is culture negative."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Surgical drainage** is usually preferred in cases of **multiple abscesses** or **multi-loculated abscesses** that are difficult to drain percutaneously[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1082,
+    "question": "A patient is admitted with fever and RUQ pain. Pyogenic liver abscess is suspected. **What is the duration** of the recommended empiric IV antibiotic course before considering oral switch?",
+    "choices": [
+      "A. 7 days.",
+      "B. 2–4 weeks.",
+      "C. 6 weeks.",
+      "D. 1 day.",
+      "E. 10 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The switch from IV to oral antibiotics is considered after **2–4 weeks** of IV therapy and clinical improvement, to complete the 4–6 week total course[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "IV_to_oral_switch"
+    ]
+  },
+  {
+    "id": 1083,
+    "question": "Which investigation is **required** for the diagnosis of a Pyogenic Liver Abscess?",
+    "choices": [
+      "A. Blood culture and sensitivity.",
+      "B. Stool microscopy.",
+      "C. Abdominal ultrasound.",
+      "D. Liver function tests.",
+      "E. Abdominal ultrasound and abscess aspirate gram stain/culture."
+    ],
+    "correctAnswer": 4,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Diagnosis requires **imaging** (Ultrasound/CT scan) and **image-guided aspiration** for Gram stain and culture for definitive microbial diagnosis[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1084,
+    "question": "A patient with a confirmed amebic liver abscess is treated with Metronidazole. What is the name of the **luminal agent** that must be added to the regimen?",
+    "choices": [
+      "A. Ciprofloxacin.",
+      "B. Diloxanide furoate.",
+      "C. Ceftriaxone.",
+      "D. Tinidazole.",
+      "E. Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The treatment of ALA must include a tissue agent (Metronidazole) followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to prevent relapse[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1085,
+    "question": "A patient with Amebic Liver Abscess shows clinical improvement after 5 days of Metronidazole. What is the correct next step in therapy?",
+    "choices": [
+      "A. Discontinue Metronidazole and start Diloxanide furoate.",
+      "B. Continue Metronidazole to complete 7-10 days, then add a luminal agent.",
+      "C. Perform percutaneous drainage to hasten resolution.",
+      "D. Switch to oral Ciprofloxacin and Metronidazole.",
+      "E. Add a second tissue agent (e.g., Tinidazole)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (Metronidazole) should be continued to complete the **7–10 day course**, and then the **luminal agent** is added[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment_sequence"
+    ]
+  },
+  {
+    "id": 1086,
+    "question": "What is the recommended treatment duration for the **luminal agent** (Diloxanide furoate) in Amebic Liver Abscess (ALA)?",
+    "choices": [
+      "A. A single 2g dose.",
+      "B. 3-5 days.",
+      "C. 7-10 days.",
+      "D. 14 days.",
+      "E. 6 weeks."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The luminal agent, **Diloxanide furoate** or Paromomycin, is given for **10 days** and **7 days**, respectively[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "duration"
+    ]
+  },
+  {
+    "id": 1087,
+    "question": "A patient with a pyogenic liver abscess is treated with Ciprofloxacin + Metronidazole. The abscess is 6 cm. Which drainage option is **preferred**?",
+    "choices": [
+      "A. Needle aspiration only.",
+      "B. Percutaneous catheter drainage.",
+      "C. Surgical drainage.",
+      "D. No drainage is necessary.",
+      "E. Continuous IV infusion of Ciprofloxacin."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "For a single abscess with a diameter **>5 cm**, **ultrasound-guided percutaneous catheter drainage** is preferred over needle aspiration alone[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_method"
+    ]
+  },
+  {
+    "id": 1088,
+    "question": "A 45-year-old male presents with **acute onset** of high fever, chills, and RUQ pain. He has a known history of chronic cholecystitis. Which type of liver abscess is **most likely**?",
+    "choices": [
+      "A. Amebic liver abscess.",
+      "B. Fungal liver abscess.",
+      "C. Pyogenic liver abscess.",
+      "D. Tuberculous liver abscess.",
+      "E. Hydatid cyst."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscesses are characterized by **high spiking fevers and chills** and a subacute presentation. The biliary pathology (*e.g.*, recurrent cholangitis from cholecystitis) is a major risk factor for PLA[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "clinical_features",
+      "risk_factors"
+    ]
+  },
+  {
+    "id": 1089,
+    "question": "Which of the following is a criterion for considering **percutaneous drainage** of an Amebic Liver Abscess?",
+    "choices": [
+      "A. Abscess diameter less than 5 cm.",
+      "B. Jaundice and fever.",
+      "C. Failure of medical therapy after 5 days.",
+      "D. Previous history of dysentery.",
+      "E. Abscess located in the right lobe."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Drainage is considered for ALA if there is **failure of medical therapy** (lack of clinical improvement after 3–5 days) or abscesses larger than 10 cm[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1090,
+    "question": "The definitive treatment for Amebic Liver Abscess is primarily based on:",
+    "choices": [
+      "A. Percutaneous drainage and long-term observation.",
+      "B. Surgical excision of the abscess.",
+      "C. Antimicrobial therapy (tissue and luminal agents).",
+      "D. High-dose oral corticosteroids.",
+      "E. Antibiotics targeting enteric Gram-negatives."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The management of ALA is primarily **antimicrobial therapy** using a tissue agent (*e.g.*, Metronidazole) followed by a luminal agent (*e.g.*, Diloxanide furoate)[cite: 1077, 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1091,
+    "question": "A 30-year-old male is admitted with a single 4 cm pyogenic liver abscess. He has no organ dysfunction. Which treatment approach is **most appropriate**?",
+    "choices": [
+      "A. Metronidazole monotherapy for 6 weeks.",
+      "B. IV Ceftriaxone + Metronidazole and ultrasound-guided needle aspiration.",
+      "C. IV Ceftriaxone monotherapy and surgical drainage.",
+      "D. Oral Ciprofloxacin and Metronidazole for 2 weeks.",
+      "E. Observation and symptomatic relief."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "For a single abscess $\\leq 5 cm$, treatment is **IV antibiotics** (Ceftriaxone + Metronidazole) and **needle aspiration/catheter drainage**[cite: 1075]. (p. 230, 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1092,
+    "question": "What is the primary role of the **luminal amebicide** in the treatment of Amebic Liver Abscess?",
+    "choices": [
+      "A. Treat the abscess wall inflammation.",
+      "B. Kill *E. histolytica* cysts in the colon.",
+      "C. Prevent bacterial superinfection of the abscess.",
+      "D. Decrease the size of the abscess rapidly.",
+      "E. Enhance the absorption of Metronidazole."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The luminal agent (*e.g.*, Diloxanide furoate) is given to **eliminate intraluminal cysts** of *Entamoeba histolytica* in the colon to prevent relapse and transmission[cite: 1078]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent",
+      "role"
+    ]
+  },
+  {
+    "id": 1093,
+    "question": "A patient is admitted with a liver abscess of unknown etiology. The immediate **empiric IV antibiotic regimen** should be:",
+    "choices": [
+      "A. Metronidazole alone.",
+      "B. Ceftriaxone alone.",
+      "C. Ceftriaxone PLUS Metronidazole.",
+      "D. Ciprofloxacin alone.",
+      "E. Vancomycin alone."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "The empiric regimen for pyogenic abscess (which also covers amebic abscess) is **Ceftriaxone 1gm IV, BID PLUS Metronidazole 500mg IV TID**[cite: 1075]. (p. 231)",
+    "tags": [
+      "liver_abscess",
+      "empiric_treatment"
+    ]
+  },
+  {
+    "id": 1094,
+    "question": "Which of the following conditions is a **major risk factor** for developing a pyogenic liver abscess?",
+    "choices": [
+      "A. History of exposure to toxins.",
+      "B. Diabetes.",
+      "C. Chronic hepatitis B virus infection.",
+      "D. Previous history of schistosomiasis.",
+      "E. Recurrent respiratory tract infections."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Diabetes** is listed as a major risk factor for the development of pyogenic liver abscesses[cite: 1074]. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "risk_factors"
+    ]
+  },
+  {
+    "id": 1095,
+    "question": "What is the standard **oral antibiotic regimen** for the continuation phase of a successfully treated pyogenic liver abscess?",
+    "choices": [
+      "A. Amoxicillin monotherapy.",
+      "B. Ciprofloxacin monotherapy.",
+      "C. Amoxicillin-clavulanate or Ciprofloxacin PLUS Metronidazole.",
+      "D. Oral Vancomycin monotherapy.",
+      "E. Tinidazole monotherapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The recommended oral regimens include **Amoxicillin-clavulanate** or **Ciprofloxacin PLUS Metronidazole**[cite: 1075]. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "oral_antibiotics"
+    ]
+  },
+  {
+    "id": 1096,
+    "question": "A patient with suspected Pyogenic Liver Abscess is on Ceftriaxone and Metronidazole. The abscess is 6 cm. After 7 days, the patient remains febrile. What is the **most appropriate drainage management** step?",
+    "choices": [
+      "A. Continue antibiotics and observe for another week.",
+      "B. Switch to oral antibiotics and discharge home.",
+      "C. Perform percutaneous catheter drainage.",
+      "D. Perform surgical drainage.",
+      "E. Add Tinidazole to the current regimen."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Failure to improve after a period of appropriate IV antibiotics warrants reassessment and, typically, **drainage**. For an abscess $>5 cm$, **percutaneous catheter drainage** is the preferred drainage method[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management_failure",
+      "drainage"
+    ]
+  },
+  {
+    "id": 1097,
+    "question": "A key indication for initiating Metronidazole treatment for an Amebic Liver Abscess is:",
+    "choices": [
+      "A. Abscess size less than 5 cm.",
+      "B. Preceding symptoms of bloody diarrhea.",
+      "C. Clinical suspicion of ALA.",
+      "D. Negative serology for *Entamoeba histolytica*.",
+      "E. Concurrent finding of jaundice."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Metronidazole treatment for ALA is initiated based on **clinical suspicion** (fever, RUQ pain, single abscess in endemic area) supported by imaging, as serology is often used later for confirmation[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "timing"
+    ]
+  },
+  {
+    "id": 1098,
+    "question": "What is the recommended treatment for a patient with a confirmed amebic liver abscess that has ruptured into the pleural space?",
+    "choices": [
+      "A. Metronidazole IV/PO monotherapy.",
+      "B. Surgical repair and Metronidazole IV/PO.",
+      "C. Percutaneous drainage and Tinidazole PO.",
+      "D. Ciprofloxacin and Metronidazole IV/PO.",
+      "E. Drainage of the abscess alone."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Rupture of an abscess requires drainage of the fluid/pus (e.g., chest tube for pleural rupture) plus the tissue agent, **Metronidazole IV/PO**[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "complication_management"
+    ]
+  },
+  {
+    "id": 1099,
+    "question": "Which microorganism is the **causative agent** of Amebic Liver Abscess?",
+    "choices": [
+      "A. *Entamoeba dispar*.",
+      "B. *Entamoeba coli*.",
+      "C. *Entamoeba histolytica*.",
+      "D. *Giardia lamblia*.",
+      "E. *Schistosoma mansoni*."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Amebic liver abscess is a complication of infection by the protozoa **Entamoeba histolytica**[cite: 1077]. (p. 231)",
+    "tags": [
+      "amebic_liver_abscess",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1100,
+    "question": "What is the recommended duration for the tissue agent **Metronidazole** in the treatment of Amebic Liver Abscess (ALA)?",
+    "choices": [
+      "A. 3 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days.",
+      "E. 6 weeks."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent **Metronidazole** is given for **7–10 days**[cite: 1077]. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "duration"
+    ]
+  },
+  {
+    "id": 1101,
+    "question": "A patient has a liver abscess of unknown etiology. Which initial imaging study is used to confirm the presence of the mass?",
+    "choices": [
+      "A. Plain X-ray of the abdomen.",
+      "B. Abdominal ultrasound.",
+      "C. MRI of the abdomen.",
+      "D. Endoscopic Retrograde Cholangiopancreatography (ERCP).",
+      "E. Endoscopic ultrasound."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "Confirmation of a liver abscess requires imaging studies, with **abdominal ultrasound** commonly used due to its availability[cite: 1075, 1077]. (p. 230, 232)",
+    "tags": [
+      "liver_abscess",
+      "diagnosis",
+      "imaging"
+    ]
+  },
+  {
+    "id": 1102,
+    "question": "Which of the following is a key indication for performing **percutaneous drainage** of a Pyogenic Liver Abscess?",
+    "choices": [
+      "A. Abscess diameter less than 5 cm.",
+      "B. Multiple abscesses.",
+      "C. Abscess located in the left lobe.",
+      "D. Patient is immunocompromised.",
+      "E. High spiking fever."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Multiple abscesses** is an indication for **surgical drainage** rather than percutaneous catheter drainage[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_indication"
+    ]
+  }, {
+    "id": 1103,
+    "question": "Which of the following is a key indication for performing **percutaneous drainage** of a Pyogenic Liver Abscess?",
+    "choices": [
+      "A. Abscess diameter less than 5 cm.",
+      "B. Multiple abscesses.",
+      "C. Abscess located in the left lobe.",
+      "D. Patient is immunocompromised.",
+      "E. High spiking fever."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Multiple abscesses** is an indication for **surgical drainage** rather than percutaneous catheter drainage[cite: 1075]. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1104,
+    "question": "A 35-year-old male is treated for Amebic Liver Abscess (ALA) with Metronidazole. After a 10-day course, the patient is clinically stable. What is the **necessary next step** in management to prevent recurrence and transmission?",
+    "choices": [
+      "A. Perform follow-up abdominal CT scan.",
+      "B. Start a luminal amebicide (e.g., Diloxanide furoate or Paromomycin).",
+      "C. Repeat Metronidazole for another 7 days.",
+      "D. Discharge with no further treatment.",
+      "E. Counsel on avoiding meat products."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (Metronidazole) must be followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to eliminate intraluminal cysts and prevent relapse and transmission. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1105,
+    "question": "A patient has completed a 10-day course of Metronidazole for an amebic liver abscess. The patient asks why another medicine (a luminal agent) is needed. What is the **primary purpose** of the luminal agent?",
+    "choices": [
+      "A. To enhance the abscess drainage rate.",
+      "B. To treat *Entamoeba histolytica* cysts in the intestinal lumen.",
+      "C. To accelerate the healing of the liver abscess.",
+      "D. To cover potential secondary bacterial infection.",
+      "E. To prevent the amebic organism from spreading to the brain."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent kills the motile trophozoites, but a **luminal agent** (like Diloxanide furoate or Paromomycin) is necessary to **eradicate intraluminal cysts** of *Entamoeba histolytica* in the colon, thereby preventing recurrence and transmission. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent",
+      "purpose"
+    ]
+  },
+  {
+    "id": 1106,
+    "question": "Which microorganism is the **causative agent** of Amebic Liver Abscess?",
+    "choices": [
+      "A. *Entamoeba dispar*.",
+      "B. *Entamoeba coli*.",
+      "C. *Entamoeba histolytica*.",
+      "D. *Giardia lamblia*.",
+      "E. *Schistosoma mansoni*."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Amebic liver abscess is a complication of infection by the protozoa **Entamoeba histolytica**. (p. 231)",
+    "tags": [
+      "amebic_liver_abscess",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1107,
+    "question": "A 40-year-old male is admitted with a single 7 cm abscess in the right lobe of the liver. He denies prior bloody diarrhea. What is the **most likely fluid appearance** if the abscess were aspirated for diagnostic purposes and confirmed to be amebic?",
+    "choices": [
+      "A. Thick, foul-smelling pus.",
+      "B. Clear, straw-colored fluid.",
+      "C. Yellow-green purulent fluid.",
+      "D. Brown, thick fluid.",
+      "E. White, curd-like substance."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "If an amebic liver abscess is aspirated, the fluid typically appears as a **brown, thick fluid** (often described as 'anchovy paste'). (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "abscess_fluid"
+    ]
+  },
+  {
+    "id": 1108,
+    "question": "A patient presents with fever and RUQ tenderness. Amebic liver abscess is suspected. **What is the recommended duration** for the tissue agent, Metronidazole?",
+    "choices": [
+      "A. 3 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days.",
+      "E. 6 weeks."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent **Metronidazole** is given for **7–10 days**. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "duration"
+    ]
+  },
+  {
+    "id": 1109,
+    "question": "Which clinical feature is **least common** in patients presenting with Amebic Liver Abscess (ALA)?",
+    "choices": [
+      "A. Fever.",
+      "B. Right upper quadrant tenderness.",
+      "C. Jaundice.",
+      "D. Subacute presentation over weeks.",
+      "E. Hepatomegaly."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "**Jaundice** is **rarely seen** in amebic liver abscess, occurring in less than 10% of cases. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1110,
+    "question": "A patient with confirmed ALA is treated with Metronidazole. What is the recommended **alternative luminal amebicide** if Diloxanide furoate is unavailable?",
+    "choices": [
+      "A. Ciprofloxacin.",
+      "B. Tinidazole.",
+      "C. Paromomycin.",
+      "D. Ceftriaxone.",
+      "E. Oral Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The alternative options for the luminal agent are **Diloxanide furoate** or **Paromomycin**. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1111,
+    "question": "A 55-year-old male with a large, solitary liver abscess (>10 cm) is started on Metronidazole but shows no clinical improvement after 5 days. What is the **most appropriate next step** in management?",
+    "choices": [
+      "A. Increase Metronidazole dose and add a second antibiotic (e.g., Ceftriaxone).",
+      "B. Perform percutaneous ultrasound-guided drainage of the abscess.",
+      "C. Switch to a luminal agent (e.g., Diloxanide furoate).",
+      "D. Discontinue all treatment and observe.",
+      "E. Perform open surgical drainage immediately."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Percutaneous ultrasound-guided drainage may be considered in patients with **large amebic liver abscesses (>10 cm)**, impending rupture, or in those with **failed medical therapy** (lack of improvement after 3-5 days). (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management_failure",
+      "drainage"
+    ]
+  },
+  {
+    "id": 1112,
+    "question": "What is the **most common complication** of an amebic liver abscess?",
+    "choices": [
+      "A. Abscess transformation to hepatocellular carcinoma.",
+      "B. Rupture of the abscess.",
+      "C. Biliary obstruction leading to cholangitis.",
+      "D. Sepsis and septic shock.",
+      "E. Hepatic encephalopathy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The **most common complication** of amebic liver abscess is **rupture** into the peritoneum, pleural space, pericardial space, or sub-phrenic space. (p. 231)",
+    "tags": [
+      "amebic_liver_abscess",
+      "complications"
+    ]
+  },
+  {
+    "id": 1113,
+    "question": "A patient with suspected Amebic Liver Abscess has profuse bloody diarrhea. What is the expected prevalence of concurrent diarrhea in patients presenting with Amebic Liver Abscess?",
+    "choices": [
+      "A. Nearly 90% of cases.",
+      "B. Approximately 50% of cases.",
+      "C. Less than one-third of cases.",
+      "D. Diarrhea never occurs concurrently with ALA.",
+      "E. Only occurs in immunocompromised hosts."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Diarrhea is **not common** in patients presenting with amebic liver abscess, occurring in **less than one-third** of cases. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "diarrhea"
+    ]
+  },
+  {
+    "id": 1114,
+    "question": "A patient is admitted with a liver abscess of unknown etiology. Given the high prevalence of both amebic and pyogenic causes, the **first-line empiric treatment** should include:",
+    "choices": [
+      "A. Metronidazole alone.",
+      "B. Ceftriaxone alone.",
+      "C. Ceftriaxone PLUS Metronidazole.",
+      "D. Drainage of the abscess, then culture-directed therapy.",
+      "E. Vancomycin and Ceftriaxone."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "Empiric treatment for pyogenic abscess (which also covers amebic abscess) is **Ceftriaxone and Metronidazole**. Metronidazole also serves as the definitive treatment for the amebic cause. Therefore, a combination covering both aerobic bacteria and *Entamoeba* (Metronidazole) is the safest empiric option. (p. 231, 232)",
+    "tags": [
+      "liver_abscess",
+      "empiric_treatment"
+    ]
+  },
+  {
+    "id": 1115,
+    "question": "What is the defining characteristic of a pyogenic liver abscess compared to an amebic liver abscess?",
+    "choices": [
+      "A. The infection is primarily Gram-negative in origin.",
+      "B. The abscess is typically single and located in the right lobe.",
+      "C. The infection is a localized suppurative infection of the liver.",
+      "D. The abscess typically presents with a clear history of preceding dysentery.",
+      "E. The drainage fluid is brown and thick."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscess is defined as a **localized suppurative infection of the liver**. Amebic abscesses are also localized but are not primarily 'suppurative' in the sense of typical pus, and the fluid is different. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "definition"
+    ]
+  },
+  {
+    "id": 1116,
+    "question": "Which characteristic of a pyogenic liver abscess would be an **indication for surgical drainage** over percutaneous catheter drainage?",
+    "choices": [
+      "A. Abscess diameter less than 5 cm.",
+      "B. Abscess located in the right lobe.",
+      "C. Abscess that is multi-loculated.",
+      "D. Abscess caused by *Klebsiella pneumoniae*.",
+      "E. Abscess that is culture negative."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "**Surgical drainage** is usually preferred in cases of **multiple abscesses** or **multi-loculated abscesses** that are difficult to drain percutaneously (p. 230).",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1117,
+    "question": "A patient with a confirmed pyogenic liver abscess is treated with IV antibiotics. The culture of the aspirate is negative. **What is the most appropriate step** in antibiotic management after 72 hours of therapy?",
+    "choices": [
+      "A. Stop all antibiotics, as the cause is likely viral.",
+      "B. Continue the initial empiric regimen (Ceftriaxone + Metronidazole).",
+      "C. Switch to Vancomycin to cover MRSA.",
+      "D. Perform immediate surgical drainage.",
+      "E. Switch to Amoxicillin monotherapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Culture-negative pyogenic liver abscesses are common, as anaerobic organisms are difficult to culture. The **initial empiric regimen** (Ceftriaxone + Metronidazole) should **be continued** if the patient is clinically stable, as it provides adequate coverage for the likely polymicrobial flora (p. 231).",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management",
+      "culture_negative"
+    ]
+  },
+  {
+    "id": 1118,
+    "question": "A patient with a pyogenic liver abscess is started on Ceftriaxone and Metronidazole. The abscess culture returns positive for a *Klebsiella pneumoniae* strain that is sensitive to Ciprofloxacin and Ceftriaxone, but resistant to Metronidazole. What is the **most appropriate adjustment** to the antibiotic regimen?",
+    "choices": [
+      "A. Add Ciprofloxacin to cover the *Klebsiella*.",
+      "B. Stop Ceftriaxone and switch to Ciprofloxacin/Metronidazole.",
+      "C. Stop Metronidazole and continue Ceftriaxone monotherapy.",
+      "D. Continue the initial regimen due to the polymicrobial nature.",
+      "E. Stop all antibiotics and perform immediate drainage."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Since the culture identified *Klebsiella pneumoniae* which is sensitive to **Ceftriaxone**, the Metronidazole can be discontinued, and the single agent Ceftriaxone continued. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "culture_directed_therapy"
+    ]
+  },
+  {
+    "id": 1119,
+    "question": "What is the recommended treatment for a patient with a confirmed amebic liver abscess that has ruptured into the pleural space?",
+    "choices": [
+      "A. Metronidazole IV/PO monotherapy.",
+      "B. Surgical repair and Metronidazole IV/PO.",
+      "C. Percutaneous drainage and Tinidazole PO.",
+      "D. Ciprofloxacin and Metronidazole IV/PO.",
+      "E. Drainage of the abscess alone."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Rupture of an abscess (a major complication) requires drainage of the fluid/pus (e.g., chest tube for pleural rupture) plus the tissue agent, **Metronidazole IV/PO**. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "complication_management"
+    ]
+  },
+  {
+    "id": 1120,
+    "question": "A 30-year-old male is admitted with a single 7 cm abscess in the right lobe of the liver. He denies prior bloody diarrhea. What is the **most appropriate initial therapeutic agent**?",
+    "choices": [
+      "A. Ciprofloxacin monotherapy.",
+      "B. Metronidazole 750 mg IV/PO every 8 hours.",
+      "C. Ceftriaxone monotherapy.",
+      "D. Surgical drainage immediately.",
+      "E. Oral Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Given the subacute presentation, a single abscess, and a single agent option, the presumptive diagnosis is **amebic liver abscess**. The **First line** is **Metronidazole 500-750 mg IV/PO every 8 hours** for 7-10 days. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment"
+    ]
+  },
+  {
+    "id": 1121,
+    "question": "What is the recommended treatment duration for the **tissue agent** (Metronidazole) in Amebic Liver Abscess (ALA)?",
+    "choices": [
+      "A. 3 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days.",
+      "E. 6 weeks."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent **Metronidazole** is given for **7–10 days**. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "duration"
+    ]
+  },
+  {
+    "id": 1122,
+    "question": "A patient with a pyogenic liver abscess is on a 6-week antibiotic course. Which factor would typically indicate that the antibiotic course should be **discontinued**?",
+    "choices": [
+      "A. Clinical improvement after 2 weeks of IV therapy.",
+      "B. Completion of the full 6-week course.",
+      "C. Aspiration culture remains positive after 4 weeks.",
+      "D. Conversion from IV to oral route after 3 weeks.",
+      "E. WBC count drops to 12,000/mm³."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The standard duration of antibiotic therapy is **4–6 weeks**. Once the total course is completed and the patient is clinically stable, the antibiotics can be discontinued. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration"
+    ]
+  },
+  {
+    "id": 1123,
+    "question": "A patient presents with fever, RUQ pain, and a liver abscess. The initial treatment includes Metronidazole 750mg IV TID. This choice of drug primarily covers the possibility of:",
+    "choices": [
+      "A. Gram-negative enteric bacteria.",
+      "B. *Entamoeba histolytica* and anaerobes.",
+      "C. *Klebsiella pneumoniae*.",
+      "D. *Staphylococcus aureus*.",
+      "E. Fungal infection."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "**Metronidazole** is the definitive treatment for *Entamoeba histolytica* (amebic abscess) and provides excellent coverage for **anaerobes** (part of the pyogenic flora). (p. 231, 232)",
+    "tags": [
+      "liver_abscess",
+      "metronidazole",
+      "coverage"
+    ]
+  },
+  {
+    "id": 1124,
+    "question": "A patient with a confirmed 5 cm pyogenic liver abscess is treated with IV antibiotics and successful percutaneous needle aspiration. After 3 weeks of IV antibiotics, the patient is clinically well. What is the **most appropriate step** in antibiotic management?",
+    "choices": [
+      "A. Discontinue antibiotics completely.",
+      "B. Switch to oral antibiotics to complete a 4-6 week total course.",
+      "C. Continue IV antibiotics for the full 6 weeks.",
+      "D. Switch to oral Tinidazole monotherapy.",
+      "E. Change to oral Vancomycin."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Patients can be switched to oral antibiotics (e.g., Amoxicillin-clavulanate or Ciprofloxacin + Metronidazole) after **2–4 weeks** of IV therapy and clinical improvement, to **complete a total course of 4–6 weeks**. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_duration",
+      "IV_to_oral_switch"
+    ]
+  },
+  {
+    "id": 1125,
+    "question": "What is the defining characteristic of a pyogenic liver abscess compared to other infectious liver lesions?",
+    "choices": [
+      "A. The abscess is single and located in the right lobe.",
+      "B. The infection is primarily Gram-negative in origin.",
+      "C. The infection is a localized suppurative infection of the liver.",
+      "D. The abscess typically presents with a clear history of preceding dysentery.",
+      "E. Concurrent jaundice is mandatory for diagnosis."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscess is defined as a **localized suppurative infection of the liver**. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "definition"
+    ]
+  },
+  {
+    "id": 1126,
+    "question": "Which type of liver abscess is **more likely** to be **multiple** and necessitate surgical drainage?",
+    "choices": [
+      "A. Amebic liver abscess (ALA).",
+      "B. Pyogenic liver abscess (PLA).",
+      "C. Hydatid cyst.",
+      "D. Fungal abscess.",
+      "E. Tuberculous abscess."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscesses are often **multiple** and, if multi-loculated, often require **surgical drainage**. Amebic abscesses are usually solitary. (p. 229, 230, 232)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "comparison"
+    ]
+  },
+  {
+    "id": 1127,
+    "question": "Which investigation is crucial for determining the need for a luminal amebicide in a patient with a liver abscess?",
+    "choices": [
+      "A. Full Blood Count.",
+      "B. Liver function tests.",
+      "C. Culture of abscess aspirate.",
+      "D. Stool microscopy for trophozoites.",
+      "E. HIV screening."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess; 6.11.2 Amebic liver abscesses",
+    "explanation": "A luminal amebicide is added if the abscess is **amebic**. The cause is best determined by **culture of the abscess aspirate** (for pyogenic) or serology (for amebic). If the diagnosis is pyogenic, no luminal agent is needed. If it is amebic, the luminal agent is mandatory. (p. 230, 232)",
+    "tags": [
+      "liver_abscess",
+      "diagnosis",
+      "luminal_amebicide"
+    ]
+  },
+  {
+    "id": 1128,
+    "question": "What is the recommended duration for the tissue agent **Metronidazole** in the treatment of Amebic Liver Abscess (ALA)?",
+    "choices": [
+      "A. 3 days.",
+      "B. 7-10 days.",
+      "C. 14 days.",
+      "D. 21 days.",
+      "E. 6 weeks."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent **Metronidazole** is given for **7–10 days**. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment",
+      "duration"
+    ]
+  },
+  {
+    "id": 1129,
+    "question": "A patient with suspected Pyogenic Liver Abscess is on Ceftriaxone and Metronidazole. The abscess is 6 cm. After 7 days, the patient remains febrile. What is the **most appropriate drainage management** step?",
+    "choices": [
+      "A. Continue antibiotics and observe for another week.",
+      "B. Switch to oral antibiotics and discharge home.",
+      "C. Perform percutaneous catheter drainage.",
+      "D. Perform surgical drainage.",
+      "E. Add Tinidazole to the current regimen."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Failure to improve after a period of appropriate IV antibiotics warrants drainage. For an abscess $>5 cm$, **percutaneous catheter drainage** is the preferred drainage method. (p. 230)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management_failure",
+      "drainage"
+    ]
+  },
+  {
+    "id": 1130,
+    "question": "A patient with Amebic Liver Abscess is treated with Metronidazole. The main purpose of adding **Diloxanide furoate** after Metronidazole is to:",
+    "choices": [
+      "A. Enhance the activity of the tissue agent (Metronidazole).",
+      "B. Treat *Entamoeba histolytica* cysts in the intestinal lumen.",
+      "C. Accelerate the healing of the liver abscess.",
+      "D. Cover potential secondary bacterial infection of the abscess.",
+      "E. Treat concurrent cholangitis."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Diloxanide furoate is a **luminal agent** used to eradicate intraluminal cysts of *Entamoeba histolytica* in the colon, which is **necessary after the tissue agent** to prevent relapse and transmission. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent",
+      "purpose"
+    ]
+  },
+  {
+    "id": 1131,
+    "question": "What is the defining characteristic of a pyogenic liver abscess?",
+    "choices": [
+      "A. The abscess is typically single and located in the right lobe.",
+      "B. The infection is a localized suppurative infection of the liver.",
+      "C. The infection is primarily Gram-negative in origin.",
+      "D. The drainage fluid is brown and thick.",
+      "E. The patient has a clear history of preceding dysentery."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Pyogenic liver abscess is defined as a **localized suppurative infection of the liver**. (p. 229)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "definition"
+    ]
+  },
+  {
+    "id": 1132,
+    "question": "A patient presents with subacute fever and RUQ pain. Ultrasound shows a single 7 cm liver abscess. Jaundice is absent. What is the **most appropriate initial therapeutic agent**?",
+    "choices": [
+      "A. Ciprofloxacin monotherapy.",
+      "B. Metronidazole 750 mg IV/PO every 8 hours.",
+      "C. Ceftriaxone monotherapy.",
+      "D. Surgical drainage immediately.",
+      "E. Oral Amoxicillin-clavulanate."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Given the subacute presentation, a single abscess, and a single agent option, the presumptive diagnosis is **amebic liver abscess**. The **First line** is **Metronidazole 500-750 mg IV/PO every 8 hours** for 7-10 days. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "treatment"
+    ]
+  },
+  {
+    "id": 1133,
+    "question": "Which microorganism is the **causative agent** of Amebic Liver Abscess?",
+    "choices": [
+      "A. *Entamoeba dispar*.",
+      "B. *Entamoeba coli*.",
+      "C. *Entamoeba histolytica*.",
+      "D. *Giardia lamblia*.",
+      "E. *Schistosoma mansoni*."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Amebic liver abscess is a complication of infection by the protozoa **Entamoeba histolytica**. (p. 231)",
+    "tags": [
+      "amebic_liver_abscess",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1134,
+    "question": "A patient with confirmed pyogenic liver abscess is treated with IV antibiotics. The culture of the aspirate is negative. **What is the most appropriate step** in antibiotic management after 72 hours of therapy?",
+    "choices": [
+      "A. Stop all antibiotics, as the cause is likely viral.",
+      "B. Continue the initial empiric regimen (Ceftriaxone + Metronidazole).",
+      "C. Switch to Vancomycin to cover MRSA.",
+      "D. Perform immediate surgical drainage.",
+      "E. Switch to Amoxicillin monotherapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "Culture-negative pyogenic liver abscesses are common, as anaerobic organisms are difficult to culture. The **initial empiric regimen** (Ceftriaxone + Metronidazole) should **be continued** if the patient is clinically stable, as it provides adequate coverage for the likely polymicrobial flora (p. 231).",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management",
+      "culture_negative"
+    ]
+  },
+  {
+    "id": 1135,
+    "question": "What is the primary role of the **luminal amebicide** in the treatment of Amebic Liver Abscess?",
+    "choices": [
+      "A. Treat the abscess wall inflammation.",
+      "B. Kill *E. histolytica* cysts in the colon.",
+      "C. Prevent bacterial superinfection of the abscess.",
+      "D. Decrease the size of the abscess rapidly.",
+      "E. Enhance the absorption of Metronidazole."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The luminal agent (*e.g.*, Diloxanide furoate) is given to **eliminate intraluminal cysts** of *Entamoeba histolytica* in the colon to prevent relapse and transmission. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "luminal_agent",
+      "role"
+    ]
+  },
+  {
+    "id": 1136,
+    "question": "A patient is admitted with suspected pyogenic liver abscess. **What is the alternative empiric IV antibiotic regimen** if the first-line (Ceftriaxone + Metronidazole) is contraindicated?",
+    "choices": [
+      "A. Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID.",
+      "B. Ampicillin/Sulbactam 1.5g IV QID.",
+      "C. Metronidazole monotherapy.",
+      "D. Vancomycin 1g IV BID PLUS Gentamicin 80mg IV TID.",
+      "E. Amoxicillin 1g IV TID."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The **Alternative** empiric IV regimen is **Ciprofloxacin 400mg IV BID PLUS Metronidazole 500mg IV TID**. (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "alternative_antibiotics"
+    ]
+  },
+  {
+    "id": 1137,
+    "question": "Which of the following is a criterion for considering **percutaneous drainage** of an Amebic Liver Abscess?",
+    "choices": [
+      "A. Abscess diameter less than 5 cm.",
+      "B. Jaundice and fever.",
+      "C. Failure of medical therapy after 5 days.",
+      "D. Previous history of dysentery.",
+      "E. Abscess located in the right lobe."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Drainage is considered for ALA if there is **failure of medical therapy** (lack of clinical improvement after 3–5 days) or abscesses larger than 10 cm. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "drainage_indication"
+    ]
+  },
+  {
+    "id": 1138,
+    "question": "The combination of **Ceftriaxone 1g IV BID PLUS Metronidazole 500mg IV TID** is recommended as the empiric regimen for pyogenic liver abscess to cover:",
+    "choices": [
+      "A. *Staphylococcus aureus* and *C. difficile*.",
+      "B. Gram-negatives and anaerobes.",
+      "C. *Entamoeba histolytica* and *Giardia lamblia*.",
+      "D. Atypical bacteria and fungi.",
+      "E. *Mycobacterium tuberculosis* and *Actinomyces*."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "The regimen covers the typical polymicrobial infection, with Ceftriaxone covering Gram-negatives and Metronidazole covering **anaerobes** (and *Entamoeba histolytica*). (p. 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "antibiotic_coverage"
+    ]
+  },
+  {
+    "id": 1139,
+    "question": "A patient is admitted with a single 4 cm pyogenic liver abscess. He has no organ dysfunction. Which treatment approach is **most appropriate**?",
+    "choices": [
+      "A. Metronidazole monotherapy for 6 weeks.",
+      "B. IV Ceftriaxone + Metronidazole and ultrasound-guided needle aspiration.",
+      "C. IV Ceftriaxone monotherapy and surgical drainage.",
+      "D. Oral Ciprofloxacin and Metronidazole for 2 weeks.",
+      "E. Observation and symptomatic relief."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.1 Pyogenic liver abscess",
+    "explanation": "For a single abscess $\\leq 5 cm$, treatment is **IV antibiotics** (Ceftriaxone + Metronidazole) and **needle aspiration/catheter drainage**. (p. 230, 231)",
+    "tags": [
+      "pyogenic_liver_abscess",
+      "management"
+    ]
+  },
+  {
+    "id": 1140,
+    "question": "What is the recommended treatment for a patient with a confirmed amebic liver abscess that has ruptured into the pleural space?",
+    "choices": [
+      "A. Metronidazole IV/PO monotherapy.",
+      "B. Surgical repair and Metronidazole IV/PO.",
+      "C. Percutaneous drainage and Tinidazole PO.",
+      "D. Ciprofloxacin and Metronidazole IV/PO.",
+      "E. Drainage of the abscess alone."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "Rupture of an abscess (a major complication) requires drainage of the fluid/pus (e.g., chest tube for pleural rupture) plus the tissue agent, **Metronidazole IV/PO**. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "complication_management"
+    ]
+  },
+  {
+    "id": 1141,
+    "question": "A patient with confirmed ALA is treated with Metronidazole. What is the necessary next step in management to prevent recurrence and transmission?",
+    "choices": [
+      "A. Perform follow-up abdominal CT scan.",
+      "B. Start a luminal amebicide (e.g., Diloxanide furoate or Paromomycin).",
+      "C. Repeat Metronidazole for another 7 days.",
+      "D. Discharge with no further treatment.",
+      "E. Counsel on avoiding meat products."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.11.2 Amebic liver abscesses",
+    "explanation": "The tissue agent (Metronidazole) must be followed by a **luminal agent** (*e.g.*, **Diloxanide furoate** or Paromomycin) to eliminate intraluminal cysts and prevent relapse and transmission. (p. 232)",
+    "tags": [
+      "amebic_liver_abscess",
+      "management",
+      "luminal_agent"
+    ]
+  },
+  {
+    "id": 1142,
+    "question": "A 40-year-old male is admitted to the general hospital with acute, severe, persistent **epigastric pain that radiates to the back**. He reports heavy alcohol consumption. Serum lipase is over three times the upper limit of normal. What is the **most likely diagnosis** and the **primary goal of immediate treatment**?",
+    "choices": [
+      "A. Acute cholecystitis; Immediate surgery.",
+      "B. Acute pancreatitis; Aggressive fluid resuscitation and pain control.",
+      "C. Peptic ulcer disease; Urgent endoscopy and proton pump inhibitor therapy.",
+      "D. Biliary colic; Pain control with oral NSAIDs and discharge.",
+      "E. Acute coronary syndrome; Cardiac workup and antiplatelet therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The clinical presentation (severe epigastric pain radiating to the back) and laboratory findings (serum lipase > 3x normal) are diagnostic of **Acute Pancreatitis**[cite: 708]. The primary goals of management are **pain control, and fluid, electrolyte, and nutritional abnormality prevention and correction**[cite: 708]. (p. 233-234)",
+    "tags": [
+      "acute_pancreatitis",
+      "diagnosis",
+      "management"
+    ]
+  },
+  {
+    "id": 1143,
+    "question": "A patient with acute pancreatitis is being assessed for fluid needs. Which fluid type is explicitly mentioned in the guidelines as preferred for the initial phase of fluid resuscitation?",
+    "choices": [
+      "A. 5% Dextrose in Water (D5W).",
+      "B. Normal Saline (NS).",
+      "C. Ringer's Lactate (RL).",
+      "D. Half-Normal Saline.",
+      "E. Hydroxyethyl starch solution."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The guidelines state that for fluid and electrolyte correction, **Ringer's Lactate (RL) or Normal Saline (NS)** should be used, with an emphasis on avoiding volume depletion[cite: 707, 708]. RL is often favored in pancreatitis to prevent acidosis. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "fluid_resuscitation"
+    ]
+  },
+  {
+    "id": 1144,
+    "question": "A 60-year-old female with acute pancreatitis is in severe pain. What is the **preferred initial drug class** for managing the acute, severe pain?",
+    "choices": [
+      "A. NSAIDs (e.g., Diclofenac).",
+      "B. Oral non-opioid analgesics (e.g., Paracetamol).",
+      "C. Opioids (e.g., Morphine or Pethidine).",
+      "D. Antispasmodics (e.g., Hyoscine).",
+      "E. Corticosteroids (e.g., Dexamethasone)."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "For pain control in acute pancreatitis, **Opioids** (Morphine or Pethidine) are the mainstay. The guidelines explicitly advise to **Avoid NSAIDs** such as Diclofenac[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "opioids"
+    ]
+  },
+  {
+    "id": 1145,
+    "question": "A patient with severe acute pancreatitis has been kept NPO for 48 hours due to paralytic ileus. Given that their condition is stabilizing, what is the **recommended time frame** for reintroducing enteral nutrition (feeding)?",
+    "choices": [
+      "A. Wait until serum amylase and lipase normalize.",
+      "B. Wait until abdominal pain completely resolves.",
+      "C. Start early (within 24 hours) if tolerated, or as soon as possible thereafter.",
+      "D. Start parenteral nutrition immediately.",
+      "E. Wait for 7 days (one week) for bowel rest."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Management guidelines recommend to **Start early (within 24 hours) oral re-feeding**. If not tolerated (due to pain/ileus), feeding should be delayed, but the patient should try to restart as soon as possible[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "nutrition",
+      "enteral_feeding"
+    ]
+  },
+  {
+    "id": 1146,
+    "question": "A patient is admitted with a severe attack of acute pancreatitis. Which finding is **least likely** to be observed during the physical examination?",
+    "choices": [
+      "A. Epigastric tenderness.",
+      "B. High-grade fever.",
+      "C. Tachycardia.",
+      "D. Signs of fluid overload (rales, edema).",
+      "E. Gaseous abdominal distension."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Acute pancreatitis typically causes **fluid sequestration/loss** (third spacing), which often leads to hypovolemia or shock, not fluid overload. Signs like fever, tachycardia, and epigastric tenderness are common[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "clinical_features",
+      "fluid_status"
+    ]
+  },
+  {
+    "id": 1147,
+    "question": "Which of the following laboratory findings is **most specific** for the diagnosis of acute pancreatitis?",
+    "choices": [
+      "A. Elevated serum amylase.",
+      "B. Elevated serum lipase.",
+      "C. Leukocytosis.",
+      "D. Elevated C-reactive protein (CRP).",
+      "E. Hyperglycemia."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The diagnosis is based on clinical presentation and elevated serum enzymes. **Serum lipase** is generally considered **more specific** for the diagnosis of acute pancreatitis than serum amylase[cite: 707, 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "diagnosis",
+      "laboratory"
+    ]
+  },
+  {
+    "id": 1148,
+    "question": "A patient with acute pancreatitis has persistent vomiting and developing signs of paralytic ileus. What is the appropriate **management step** for this complication?",
+    "choices": [
+      "A. Surgical exploration for intestinal obstruction.",
+      "B. Aggressive antiemetic therapy with metoclopramide and ondansetron.",
+      "C. Nasogastric (NG) tube placement for suction.",
+      "D. Immediate initiation of total parenteral nutrition (TPN).",
+      "E. Withholding all fluid resuscitation."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "In cases of **persistent vomiting** or evidence of **paralytic ileus**, **NG tube placement for suction** is indicated[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "complications",
+      "management"
+    ]
+  },
+  {
+    "id": 1149,
+    "question": "Acute pancreatitis is diagnosed if a patient presents with acute, severe epigastric pain and at least one other criterion. What are the **two key diagnostic criteria** for acute pancreatitis, besides the clinical pain syndrome?",
+    "choices": [
+      "A. Elevated WBC count and fever.",
+      "B. Elevated serum amylase/lipase (>3x ULN) or characteristic imaging findings.",
+      "C. Elevated serum bilirubin and liver enzymes.",
+      "D. Presence of gallstones on ultrasound or history of alcohol abuse.",
+      "E. Hypotension and tachycardia."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Diagnosis requires the presence of two of the following three: acute onset of typical pain, **elevation in serum lipase or amylase (at least three times the upper limit of normal)**, or **characteristic imaging findings** (CT scan or abdominal ultrasound)[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "diagnosis",
+      "triad"
+    ]
+  },
+  {
+    "id": 1150,
+    "question": "Which imaging study is considered the **choice for the diagnosis** of acute pancreatitis?",
+    "choices": [
+      "A. Plain abdominal X-ray.",
+      "B. Abdominal ultrasound.",
+      "C. Computed Tomography (CT) scan of the abdomen.",
+      "D. Magnetic Resonance Imaging (MRI).",
+      "E. Endoscopic Retrograde Cholangiopancreatography (ERCP)."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Although ultrasound is useful, the **Abdominal CT scan** is cited as the **imaging choice for the diagnosis** of acute pancreatitis[cite: 707, 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "investigation",
+      "imaging"
+    ]
+  },
+  {
+    "id": 1151,
+    "question": "A patient with acute pancreatitis develops signs of clinical deterioration and persistent fevers after 7 days of hospitalization. What should be the **primary concern** and appropriate management action?",
+    "choices": [
+      "A. Pancreatic pseudocyst formation; Observe only.",
+      "B. Infected pancreatic necrosis; Initiate broad-spectrum antibiotics.",
+      "C. Hemorrhage; Transfuse blood and perform urgent angiography.",
+      "D. Recurrent gallstone passage; Immediate ERCP.",
+      "E. Drug-induced pancreatitis; Stop all non-essential medication."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Infected pancreatic necrosis** is indicated by clinical deterioration, increasing WBC count, fevers, or failure to improve after 7-10 days. **Initiating antibiotics** is the appropriate step to treat this complication[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "complications",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1152,
+    "question": "In the management of acute pancreatitis, the role of **prophylactic antibiotics** is:",
+    "choices": [
+      "A. Recommended for all patients with severe disease.",
+      "B. Recommended only for patients undergoing fine-needle aspiration.",
+      "C. Not indicated, unless there is evidence of infected necrosis.",
+      "D. Mandated if the etiology is gallstones.",
+      "E. Given for a minimum of 7 days to prevent infection."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Management guidelines explicitly state that **Prophylactic antibiotics are not indicated** and should only be initiated if there is **evidence of infected pancreatic necrosis**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "antibiotics",
+      "prophylaxis"
+    ]
+  },
+  {
+    "id": 1153,
+    "question": "A patient with acute pancreatitis is in severe pain. You decide to administer parenteral Pethidine. What is the recommended **initial IV dose**?",
+    "choices": [
+      "A. 10 mg/kg bolus.",
+      "B. 50-100 mg bolus.",
+      "C. 1-3 mg bolus.",
+      "D. 200 mg bolus.",
+      "E. 10 mg every 12 hours."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "For pain control, the initial dose for **Pethidine** is $25-100 \text{ mg}$ (IV/SC/IM) or **Morphine** $1-3 \text{ mg}$ (IV)[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "opioids"
+    ]
+  },
+  {
+    "id": 1154,
+    "question": "A 50-year-old male is admitted with acute pancreatitis secondary to heavy alcohol consumption. What is the recommended strategy for **analgesia**?",
+    "choices": [
+      "A. Oral NSAIDs (Diclofenac) PRN.",
+      "B. Morphine or Pethidine IV bolus or infusion.",
+      "C. Acetaminophen (Paracetamol) monotherapy.",
+      "D. Tramadol IV/PO monotherapy.",
+      "E. Continuous epidural block only."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Opioids** (Morphine IV, 1-3 mg every 4 hour OR Pethidine 25-100 mg SC or IM) are the agents used for pain control. The guidelines explicitly state to **Avoid NSAIDs** such as Diclofenac[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "opioids"
+    ]
+  },
+  {
+    "id": 1155,
+    "question": "A patient with acute pancreatitis is admitted. What is the recommended approach to **fluid and electrolyte correction** in the initial phase?",
+    "choices": [
+      "A. Restrict fluids to prevent pulmonary edema.",
+      "B. Administer fluids slowly (50 mL/hour) over 24 hours.",
+      "C. Aggressively correct volume depletion with IV crystalloids (RL or NS).",
+      "D. Administer only D5W to prevent hypoglycemia.",
+      "E. Give only oral rehydration solutions."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The initial management should focus on correcting volume depletion aggressively with **IV crystalloids (RL or NS)** to avoid worsening the condition[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "fluid_resuscitation"
+    ]
+  },
+  {
+    "id": 1156,
+    "question": "Which of the following is considered a **leading cause** of acute pancreatitis?",
+    "choices": [
+      "A. Type 2 Diabetes Mellitus.",
+      "B. Viral infection (e.g., mumps).",
+      "C. Gallstones.",
+      "D. Peptic ulcer disease.",
+      "E. Hypertriglyceridemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Gallstones** and **chronic alcohol abuse** are cited as the **leading causes** of acute pancreatitis[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1157,
+    "question": "A patient with acute pancreatitis is being assessed for severity. Which classification uses transient or persistent organ failure as a key differentiating factor?",
+    "choices": [
+      "A. Ranson's Criteria.",
+      "B. Glasgow Criteria.",
+      "C. Modified Marshall Score.",
+      "D. Atlanta Classification (Mild, Moderately Severe, Severe).",
+      "E. APACHE II Score."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Acute pancreatitis is divided into **Mild, Moderately severe, and Severe** severity classes based on the presence of **organ dysfunction** (transient or persistent) and local complications[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "severity_classification"
+    ]
+  },
+  {
+    "id": 1158,
+    "question": "A patient presents with classic symptoms and lab findings for acute pancreatitis. What is the recommended approach to **enteral feeding**?",
+    "choices": [
+      "A. Total parenteral nutrition (TPN) for 7 days.",
+      "B. NPO for 7 days, then slow reintroduction of liquids.",
+      "C. Start early (within 24 hours) oral re-feeding if tolerated.",
+      "D. Start high-fat enteral tube feeding within 48 hours.",
+      "E. Delay feeding until CRP normalizes."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The guidelines recommend to **Start early (within 24 hours) oral re-feeding** if tolerated, or as soon as possible thereafter, as part of supportive care[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "nutrition"
+    ]
+  },
+  {
+    "id": 1159,
+    "question": "What is the key difference between **Severe acute pancreatitis** and **Moderately severe acute pancreatitis** in the classification system?",
+    "choices": [
+      "A. Severe has no organ failure; Moderately Severe has organ failure.",
+      "B. Severe has transient organ failure; Moderately Severe has no organ failure.",
+      "C. Severe has persistent organ failure; Moderately Severe has transient organ failure.",
+      "D. Severe has local complications only; Moderately Severe has systemic complications.",
+      "E. Severity is solely based on serum lipase levels."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Severe acute pancreatitis** involves **persistent organ failure**. **Moderately severe acute pancreatitis** involves **transient organ failure** (resolves within 48 hours) or complications without persistent organ failure[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "severity_classification"
+    ]
+  },
+  {
+    "id": 1160,
+    "question": "A 45-year-old female with acute pancreatitis is admitted. She is allergic to all opioids. Which agent is explicitly advised to be **Avoided** for pain management in this condition?",
+    "choices": [
+      "A. Oral Paracetamol (Acetaminophen).",
+      "B. Parenteral Morphine.",
+      "C. Diclofenac.",
+      "D. Pethidine.",
+      "E. Codeine."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The guidelines explicitly advise to **Avoid NSAIDs** such as **Diclofenac** in the pain management of acute pancreatitis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 1161,
+    "question": "Which complication of acute pancreatitis is an indication for initiating **broad-spectrum antibiotics**?",
+    "choices": [
+      "A. Formation of a pancreatic pseudocyst.",
+      "B. Development of paralytic ileus.",
+      "C. Evidence of infected pancreatic necrosis.",
+      "D. Persistent vomiting after 24 hours.",
+      "E. Serum lipase level exceeding 10x the upper limit of normal."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Antibiotics are indicated in patients with evidence of infected pancreatic necrosis**; otherwise, they are not used prophylactically[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "antibiotics",
+      "indication"
+    ]
+  },
+  {
+    "id": 1162,
+    "question": "A patient with acute pancreatitis has persistent vomiting. Which supportive measure is indicated to prevent the complications of vomiting?",
+    "choices": [
+      "A. Immediate surgical drainage.",
+      "B. Insertion of a Nasogastric (NG) tube for suction.",
+      "C. Prophylactic antibiotic administration.",
+      "D. High-dose oral NSAIDs.",
+      "E. Administering oral refeeding within 24 hours."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "For **persistent vomiting**, placement of an **NG tube for suction** is indicated[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "complications",
+      "management"
+    ]
+  },
+  {
+    "id": 1163,
+    "question": "What are the two most common causes of acute pancreatitis?",
+    "choices": [
+      "A. Alcohol and viral infection.",
+      "B. Trauma and hypercalcemia.",
+      "C. Gallstones and chronic alcohol abuse.",
+      "D. Hypertriglyceridemia and peptic ulcer disease.",
+      "E. Drugs and diabetes mellitus."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Gallstones** and **chronic alcohol abuse** are cited as the **leading causes** of acute pancreatitis[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1164,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1165,
+    "question": "A patient is admitted with a mild case of acute pancreatitis. They should be placed in which environment for the best outcome?",
+    "choices": [
+      "A. General Medical Ward.",
+      "B. Surgical Ward.",
+      "C. Intensive Care Unit (ICU).",
+      "D. Day Care Clinic.",
+      "E. Isolation Unit."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Mild acute pancreatitis** does not require intensive care, but **Moderately severe and Severe** cases need to be managed in an **ICU setting**[cite: 708]. (p. 234, 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "setting_of_care"
+    ]
+  },
+  {
+    "id": 1166,
+    "question": "A patient with acute pancreatitis is hypotensive and tachycardic. What is the recommended approach to immediate fluid resuscitation?",
+    "choices": [
+      "A. Restrict fluids to 500 mL over 8 hours.",
+      "B. Administer IV fluid bolus rapidly and aggressively (RL or NS).",
+      "C. Give only oral fluids until symptoms improve.",
+      "D. Start only D5W at a slow rate.",
+      "E. Administer only colloid solutions (Albumin)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "In the initial phase, the management should **aggressively correct volume depletion** (which causes hypotension/tachycardia) with **IV crystalloids (RL or NS)**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "fluid_resuscitation"
+    ]
+  },
+  {
+    "id": 1167,
+    "question": "Which analgesic drug is specifically advised to be **Avoided** in the pain management of acute pancreatitis?",
+    "choices": [
+      "A. Pethidine.",
+      "B. Morphine.",
+      "C. Diclofenac.",
+      "D. Paracetamol.",
+      "E. Tramadol."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The guidelines explicitly advise to **Avoid NSAIDs** such as **Diclofenac**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 1168,
+    "question": "The primary cause of the severe abdominal pain characteristic of acute pancreatitis is:",
+    "choices": [
+      "A. Inflammation and autodigestion of the pancreas.",
+      "B. Perforation of the duodenum.",
+      "C. Ischemia of the pancreatic tail.",
+      "D. Secondary gastritis from vomiting.",
+      "E. Biliary colic from gallstones."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The pain is caused by the acute **inflammation** of the pancreas and the secondary effects of enzyme release. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1169,
+    "question": "A 55-year-old female presents with acute severe epigastric pain. Blood tests reveal serum lipase is four times the upper limit of normal. This finding, combined with the pain, fulfills the diagnostic criteria for:",
+    "choices": [
+      "A. Severe acute pancreatitis.",
+      "B. Moderately severe acute pancreatitis.",
+      "C. Acute pancreatitis.",
+      "D. Chronic pancreatitis.",
+      "E. Hyperlipasemia of unknown significance."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Diagnosis requires the acute typical pain and **elevation in serum lipase or amylase (at least three times the upper limit of normal)**, or characteristic imaging findings[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "diagnosis",
+      "laboratory"
+    ]
+  },
+  {
+    "id": 1170,
+    "question": "A patient with acute pancreatitis develops severe hypotension that is refractory to initial fluid boluses. This patient should be referred for management in the:",
+    "choices": [
+      "A. General Medical Ward.",
+      "B. Gastroenterology Clinic.",
+      "C. Intensive Care Unit (ICU).",
+      "D. Surgical Ward.",
+      "E. Oncology Unit."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Patients with **Severe** and **Moderately severe** pancreatitis (which includes shock/refractory hypotension) need to be managed in an **ICU setting**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "setting_of_care",
+      "severity"
+    ]
+  },
+  {
+    "id": 1171,
+    "question": "What is the recommended initial IV dose of Morphine for a patient with severe pain from acute pancreatitis?",
+    "choices": [
+      "A. 1-3 mg.",
+      "B. 5-10 mg.",
+      "C. 20 mg.",
+      "D. 1 mg/kg.",
+      "E. 10 mg every 4 hours."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The recommended dose for **Morphine** is **$1-3 \text{ mg}$ IV every 4 hour**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "opioids"
+    ]
+  },
+  {
+    "id": 1172,
+    "question": "A patient with acute pancreatitis has persistent vomiting and developing signs of paralytic ileus. What is the appropriate management step for this complication?",
+    "choices": [
+      "A. Surgical exploration for intestinal obstruction.",
+      "B. Aggressive antiemetic therapy with metoclopramide and ondansetron.",
+      "C. Nasogastric (NG) tube placement for suction.",
+      "D. Immediate initiation of total parenteral nutrition (TPN).",
+      "E. Withholding all fluid resuscitation."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "In cases of **persistent vomiting** or evidence of **paralytic ileus**, **NG tube placement for suction** is indicated[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "complications",
+      "management"
+    ]
+  },
+  {
+    "id": 1173,
+    "question": "The definitive diagnosis of acute pancreatitis requires the presence of acute, severe pain and:",
+    "choices": [
+      "A. Normal serum amylase and lipase.",
+      "B. Elevation of serum lipase or amylase (>3x ULN) or characteristic imaging.",
+      "C. Only characteristic imaging findings (CT scan).",
+      "D. Only elevation of serum amylase (lipase is non-specific).",
+      "E. Hyperglycemia (RBS > 200 mg/dl)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "Diagnosis requires the acute typical pain and **elevation in serum lipase or amylase (at least three times the upper limit of normal)**, or **characteristic imaging findings**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "diagnosis",
+      "laboratory"
+    ]
+  },
+  {
+    "id": 1174,
+    "question": "A patient with acute pancreatitis is stable after 72 hours of admission. When should **antibiotics** be initiated?",
+    "choices": [
+      "A. Immediately on admission.",
+      "B. After 7 days of hospitalization.",
+      "C. Only if evidence of infected necrosis develops.",
+      "D. Only if the etiology is gallstones.",
+      "E. Prophylactically for 5 days.",
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Antibiotics are not indicated prophylactically**. They should only be initiated if there is **evidence of infected pancreatic necrosis**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "antibiotics",
+      "indication"
+    ]
+  },
+  {
+    "id": 1175,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1176,
+    "question": "Which classification uses transient or persistent organ failure as a key differentiating factor for severity?",
+    "choices": [
+      "A. Ranson's Criteria.",
+      "B. Glasgow Criteria.",
+      "C. Modified Marshall Score.",
+      "D. Atlanta Classification (Mild, Moderately Severe, Severe).",
+      "E. APACHE II Score."
+    ],
+    "correctAnswer": 3,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Acute pancreatitis** is divided into **Mild, Moderately severe, and Severe** severity classes based on the presence of **organ dysfunction** (transient or persistent) and local complications[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "severity_classification"
+    ]
+  },
+  {
+    "id": 1177,
+    "question": "A patient with acute pancreatitis develops signs of clinical deterioration and persistent fevers after 7 days of hospitalization. What should be the **primary concern** and appropriate management action?",
+    "choices": [
+      "A. Pancreatic pseudocyst formation; Observe only.",
+      "B. Infected pancreatic necrosis; Initiate broad-spectrum antibiotics.",
+      "C. Hemorrhage; Transfuse blood and perform urgent angiography.",
+      "D. Recurrent gallstone passage; Immediate ERCP.",
+      "E. Drug-induced pancreatitis; Stop all non-essential medication."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Infected pancreatic necrosis** is indicated by clinical deterioration, increasing WBC count, fevers, or failure to improve after 7-10 days. **Initiating antibiotics** is the appropriate step to treat this complication[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "complications",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1178,
+    "question": "What is the recommended initial IV dose of Morphine for a patient with severe pain from acute pancreatitis?",
+    "choices": [
+      "A. 1-3 mg.",
+      "B. 5-10 mg.",
+      "C. 20 mg.",
+      "D. 1 mg/kg.",
+      "E. 10 mg every 4 hours."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The recommended dose for **Morphine** is **$1-3 \text{ mg}$ IV every 4 hour**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "opioids"
+    ]
+  },
+  {
+    "id": 1179,
+    "question": "Which analgesic drug is specifically advised to be **Avoided** in the pain management of acute pancreatitis?",
+    "choices": [
+      "A. Pethidine.",
+      "B. Morphine.",
+      "C. Diclofenac.",
+      "D. Paracetamol.",
+      "E. Codeine."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The guidelines explicitly advise to **Avoid NSAIDs** such as **Diclofenac** in the pain management of acute pancreatitis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "pain_management",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 1180,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1181,
+    "question": "A patient with acute pancreatitis is hypotensive and tachycardic. What is the recommended approach to immediate fluid resuscitation?",
+    "choices": [
+      "A. Restrict fluids to 500 mL over 8 hours.",
+      "B. Administer IV fluid bolus rapidly and aggressively (RL or NS).",
+      "C. Give only oral fluids until symptoms improve.",
+      "D. Start only D5W at a slow rate.",
+      "E. Administer only colloid solutions (Albumin)."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "The initial management should focus on correcting volume depletion aggressively with **IV crystalloids (RL or NS)**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "fluid_resuscitation"
+    ]
+  },
+  {
+    "id": 1182,
+    "question": "What are the two most common causes of acute pancreatitis?",
+    "choices": [
+      "A. Alcohol and viral infection.",
+      "B. Trauma and hypercalcemia.",
+      "C. Gallstones and chronic alcohol abuse.",
+      "D. Hypertriglyceridemia and peptic ulcer disease.",
+      "E. Drugs and diabetes mellitus."
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Gallstones** and **chronic alcohol abuse** are cited as the **leading causes** of acute pancreatitis[cite: 707]. (p. 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1183,
+    "question": "A patient is admitted with a mild case of acute pancreatitis. They should be placed in which environment for the best outcome?",
+    "choices": [
+      "A. General Medical Ward.",
+      "B. Surgical Ward.",
+      "C. Intensive Care Unit (ICU).",
+      "D. Day Care Clinic.",
+      "E. Isolation Unit."
+    ],
+    "correctAnswer": 0,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Mild acute pancreatitis** does not require intensive care, but **Moderately severe and Severe** cases need to be managed in an **ICU setting**[cite: 708]. (p. 234, 233)",
+    "tags": [
+      "acute_pancreatitis",
+      "setting_of_care"
+    ]
+  },
+  {
+    "id": 1184,
+    "question": "A patient with acute pancreatitis is stable after 72 hours of admission. When should **antibiotics** be initiated?",
+    "choices": [
+      "A. Immediately on admission.",
+      "B. After 7 days of hospitalization.",
+      "C. Only if evidence of infected necrosis develops.",
+      "D. Only if the etiology is gallstones.",
+      "E. Prophylactically for 5 days.",
+    ],
+    "correctAnswer": 2,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Antibiotics are not indicated prophylactically**. They should only be initiated if there is **evidence of infected necrosis**[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "antibiotics",
+      "indication"
+    ]
+  },
+  {
+    "id": 1185,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1186,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1187,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1188,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1189,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1190,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1191,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": 1192,
+    "question": "The primary goal of managing acute pancreatitis is to provide supportive care. This includes **all** of the following EXCEPT:",
+    "choices": [
+      "A. Pain control.",
+      "B. Prompt initiation of prophylactic antibiotics.",
+      "C. Fluid, electrolyte, and nutritional support.",
+      "D. Early oral re-feeding when tolerated.",
+      "E. Close monitoring for complications."
+    ],
+    "correctAnswer": 1,
+    "topic": "6.12 Acute Pancreatitis",
+    "explanation": "**Prophylactic antibiotics are not indicated** in the management of acute pancreatitis unless there is evidence of infected necrosis[cite: 708]. (p. 234)",
+    "tags": [
+      "acute_pancreatitis",
+      "management",
+      "antibiotics"
+    ]
+  }
+
+
+
+
+
+
+]}})();
