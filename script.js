@@ -161,12 +161,12 @@ class COCExamSimulator {
         // Build a grouping: chapter -> [subtopics]
         const groups = {};
         topicsRaw.forEach(t => {
-            if (typeof t === 'string' && t.includes('/')) {
-                const parts = t.split('/');
-                const chapter = parts[0].trim();
-                const sub = parts.slice(1).join('/').trim();
+            const match = t.match(/^Chapter (\d+)\./);
+            if (match) {
+                const chapterNum = match[1];
+                const chapter = `Chapter ${chapterNum}`;
                 if (!groups[chapter]) groups[chapter] = new Set();
-                groups[chapter].add(sub);
+                groups[chapter].add(t);
             } else {
                 if (!groups[t]) groups[t] = new Set();
             }
@@ -183,7 +183,7 @@ class COCExamSimulator {
                     <summary class="topic-group-title">${chapter}</summary>
                     <div class="topics-grid">
                         ${subs.length > 0 ? subs.map(sub => {
-                            const full = `${chapter} / ${sub}`;
+                            const full = sub;
                             return `
                             <div class="topic-checkbox checked">
                                 <input type="checkbox" id="topic-${full}" value="${full}" checked>
