@@ -19126,10 +19126,9625 @@
       "management",
       "antibiotics"
     ]
-  }
+  },
+  {
+    "id": 1193,
+    "question": "A 45-year-old male with chronic kidney disease (CKD) presents with fatigue and dyspnea. His hemoglobin (Hb) is $9.0 \text{ g/dl}$. Iron studies show a Transferrin Saturation (TSAT) of $15\%$ (low). Which treatment is **most appropriate** for his anemia, based on his renal and iron status?",
+    "choices": [
+      "A. Start oral ferrous sulfate monotherapy.",
+      "B. Start Epoetin (ESA) therapy immediately.",
+      "C. Start IV iron (Iron Sucrose).",
+      "D. Transfuse packed RBCs immediately.",
+      "E. High-dose Folic Acid therapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "The patient has anemia of CKD with concurrent iron deficiency (TSAT $<20\%$). **IV iron** (Iron Sucrose) is the **preferred treatment** option in CKD patients, regardless of dialysis status, to correct iron deficiency, which is often refractory to oral iron and is necessary before initiating ESA therapy. (p. 519)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "CKD",
+      "IV_iron"
+    ]
+  },
+  {
+    "id": 1194,
+    "question": "A 28-year-old pregnant woman in her **third trimester** is diagnosed with **severe iron deficiency anemia** ($Hb 6.5 \text{ g/dl}$). She is unable to tolerate oral iron due to severe nausea. What is the **most appropriate** and timely intervention to correct her iron deficit?",
+    "choices": [
+      "A. Transfuse 2 units of packed RBCs.",
+      "B. Initiate a high dose of oral ferrous gluconate.",
+      "C. Initiate IV iron therapy (e.g., Iron Sucrose).",
+      "D. Prescribe a prokinetic agent (e.g., Metoclopramide) to improve oral tolerance.",
+      "E. Weekly oral iron with weekly vitamin C administration."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**IV iron therapy** is indicated in pregnant women with **severe anemia during late second or third trimester** and for those with **intolerance to oral iron therapy** to rapidly correct the iron deficit before delivery. (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "pregnancy",
+      "IV_iron"
+    ]
+  },
+  {
+    "id": 1195,
+    "question": "A 60-year-old male presents with fatigue. Lab results show $\text{Hb } 8.5 \text{ g/dl}$, $\text{MCV } 72 \text{ fl}$ (Microcytic), $\text{MCH } 24 \text{ pg}$. Initial workup reveals a positive stool occult blood test. What is the **immediate priority** following the diagnosis of iron deficiency anemia in this setting?",
+    "choices": [
+      "A. Initiate oral Ferrous Sulfate $325 \text{ mg}$ TID.",
+      "B. Perform a bone marrow aspiration to confirm diagnosis.",
+      "C. Investigate the cause of chronic blood loss (GI workup).",
+      "D. Start high-dose Vitamin $\text{B}_{12}$ and Folic Acid empirically.",
+      "E. Transfuse packed RBCs immediately to raise Hb."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "In adults, iron deficiency anemia should be assumed to be due to **chronic blood loss (usually GI)** until proven otherwise. The immediate priority, after confirming the microcytic anemia, is to **investigate the underlying cause of bleeding** (GI workup) rather than just treating the deficiency. (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "diagnosis",
+      "etiology"
+    ]
+  },
+  {
+    "id": 1196,
+    "question": "A 35-year-old female is started on oral Ferrous Sulfate $325 \text{ mg}$ TID for iron deficiency anemia. She reports severe abdominal discomfort and constipation. What is the **most appropriate initial modification** to improve drug tolerance?",
+    "choices": [
+      "A. Switch to intravenous iron (Iron Sucrose).",
+      "B. Advise taking the tablet with meals or reducing the dose.",
+      "C. Change to an oral opioid analgesic for the pain.",
+      "D. Increase the dose of the iron supplement to speed up recovery.",
+      "E. Switch to high-dose oral Vitamin $\text{C}$ to enhance absorption."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "The major side effects of oral iron are **gastrointestinal intolerance** (e.g., pain, constipation). The patient should be advised to **take the medication with meals** to reduce GI distress, or to try a **smaller dose**, which are appropriate first steps before switching to IV iron. (p. 239, 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "treatment",
+      "side_effects"
+    ]
+  },
+  {
+    "id": 1197,
+    "question": "An 8-year-old child from a rural area presents with microcytic anemia and Pica (craving for soil). Stool microscopy confirms **hookworm infestation**. What is the **definitive initial management** for this anemia?",
+    "choices": [
+      "A. Iron therapy alone for 6 months.",
+      "B. Treatment with an anti-helminthic agent (e.g., Albendazole) alone.",
+      "C. Iron therapy and an anti-helminthic agent.",
+      "D. Blood transfusion immediately.",
+      "E. High-dose Vitamin $\text{B}_{12}$ therapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "The anemia is caused by chronic blood loss from the hookworm. The definitive management requires **treating the underlying cause** (Albendazole) **and replacing the iron deficit** with oral iron therapy. (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "hookworm",
+      "management"
+    ]
+  },
+  {
+    "id": 1198,
+    "question": "A 55-year-old male is started on oral iron for anemia. When should the oral iron therapy typically be **discontinued**?",
+    "choices": [
+      "A. After 7 days of treatment.",
+      "B. After 4 weeks, if the Hb has increased by $2 \text{ g/dl}$.",
+      "C. After 3 months following the correction of anemia.",
+      "D. After normalization of serum iron, regardless of Hb level.",
+      "E. When the patient reports resolution of fatigue."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "Oral iron therapy should be continued for at least **3 months following the correction of anemia** to adequately replenish the body's iron stores. (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "treatment_duration"
+    ]
+  },
+  {
+    "id": 1199,
+    "question": "Which finding in a patient with microcytic anemia is **most indicative** of chronic inflammation (Anemia of Chronic Disease) rather than Iron Deficiency Anemia?",
+    "choices": [
+      "A. High Transferrin Saturation (TSAT).",
+      "B. High Total Iron Binding Capacity (TIBC).",
+      "C. Low Serum Ferritin.",
+      "D. High Serum Ferritin.",
+      "E. High Reticulocyte Count."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "In **Iron Deficiency Anemia**, **Serum Ferritin is usually low**. In **Anemia of Chronic Disease** (ACD), ferritin is typically **high** because it is an acute phase reactant, even if there is functional iron deficiency. (p. 238)",
+    "tags": [
+      "anemia_of_chronic_disease",
+      "iron_studies",
+      "ferritin"
+    ]
+  },
+  {
+    "id": 1200,
+    "question": "A patient with iron deficiency anemia is started on Ferrous Sulfate. What advice should be given to **enhance** the absorption of the iron supplement?",
+    "choices": [
+      "A. Take the tablet with milk or tea.",
+      "B. Take the tablet 2 hours before or 4 hours after meals.",
+      "C. Take the tablet with a meal high in saturated fat.",
+      "D. Take a double dose every morning.",
+      "E. Take the tablet just before bedtime."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "Iron is best absorbed when the stomach is empty; thus, it should preferably be taken **2 hours before or 4 hours after a meal**. (p. 239, 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "absorption"
+    ]
+  },
+  {
+    "id": 1201,
+    "question": "Which of the following is a key **indication** for switching an iron-deficient patient from **oral iron therapy to IV iron** (e.g., Iron Sucrose)?",
+    "choices": [
+      "A. Patient reports mild constipation.",
+      "B. Patient is anemic and pregnant in the first trimester.",
+      "C. No improvement in hemoglobin after 4 weeks of compliant oral iron therapy.",
+      "D. Concomitant history of controlled hypertension.",
+      "E. Patient is on maintenance hemodialysis."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "Key indications for IV iron include **Intolerance to oral iron**, **No improvement in hemoglobin after 4 weeks** of oral iron, **CKD on EPO/dialysis**, and **Severe anemia** in late pregnancy. (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "IV_iron",
+      "indication"
+    ]
+  },
+  {
+    "id": 1202,
+    "question": "A 70-year-old man presents with fatigue. $\text{Hb } 9.5 \text{ g/dl}$, $\text{MCV } 75 \text{ fl}$. He reports no melena, hematochezia, or iron loss. Given the microcytic anemia, what is the **mandatory next diagnostic step**?",
+    "choices": [
+      "A. Colonoscopy and EGD.",
+      "B. Serum iron studies (Ferritin, TIBC).",
+      "C. Bone marrow biopsy.",
+      "D. Trial of oral iron for 4 weeks.",
+      "E. Genetic testing for thalassemia."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "In microcytic anemia, iron studies (Ferritin, TIBC, TSAT) are necessary to confirm iron deficiency before proceeding with the likely **GI investigation** (which is mandatory if iron deficiency is confirmed). (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "diagnosis",
+      "investigation"
+    ]
+  },
+  {
+    "id": 1203,
+    "question": "Which symptom in a child with microcytic anemia is a **specific clinical feature** of severe iron deficiency?",
+    "choices": [
+      "A. Fatigue and pallor.",
+      "B. Koilonychia (spoon-shaped nails).",
+      "C. Dyspnea on exertion.",
+      "D. Glossitis.",
+      "E. Pica."
+    ],
+    "correctAnswer": 4,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**Pica** (craving to eat unusual substances like soil or ice), Koilonychia, and Glossitis/Angular stomatitis are **unique clinical features** of severe iron deficiency anemia. (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1204,
+    "question": "What is the key difference in the definition of anemia for a child aged 8 years versus an adult male aged 45 years, according to WHO criteria?",
+    "choices": [
+      "A. The cut-off is Hb $<10.0 \text{ g/dl}$ for both.",
+      "B. Child: Hb $<11.5 \text{ g/dl}$; Adult: Hb $<13 \text{ g/dl}$.",
+      "C. Child: Hb $<12 \text{ g/dl}$; Adult: Hb $<14 \text{ g/dl}$.",
+      "D. The cut-off is the same for all age groups.",
+      "E. Only the MCV defines anemia in children."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "WHO criteria for diagnosing anemia are $\text{Hb } <13 \text{ g/dl}$ in adult men and **Hb $<11.5 \text{ g/dl}$ in children** (5-12 years). (p. 236, 817)",
+    "tags": [
+      "anemia",
+      "WHO_criteria",
+      "pediatrics"
+    ]
+  },
+  {
+    "id": 1205,
+    "question": "A 60-year-old male with microcytic anemia ($\text{Hb } 9.0 \text{ g/dl}$, $\text{MCV } 70 \text{ fl}$) has serum ferritin $\text{5 ng/ml}$ (low) and positive stool occult blood. What is the **most crucial next step** for management?",
+    "choices": [
+      "A. Start high-dose oral iron with a vitamin $\text{C}$ supplement.",
+      "B. Refer urgently for colonoscopy and upper GI endoscopy.",
+      "C. Transfuse 2 units of packed RBCs.",
+      "D. Start empiric Metronidazole and Albendazole.",
+      "E. Administer IV Iron Sucrose."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "Confirmed iron deficiency anemia in an adult with occult GI bleeding requires immediate investigation of the **underlying cause (GI malignancy/polyp)** with **colonoscopy and EGD** (Upper GI endoscopy). (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "GI_workup"
+    ]
+  },
+  {
+    "id": 1206,
+    "question": "A patient is on intravenous Iron Sucrose for refractory iron deficiency anemia. How should the dose be administered for a non-dialysis dependent patient?",
+    "choices": [
+      "A. $1000 \text{ mg}$ IV push over 1 minute.",
+      "B. $200 \text{ mg}$ IV over 30 minutes, repeated every 3 days for a total of 5 doses.",
+      "C. $500 \text{ mg}$ IV once weekly for 4 weeks.",
+      "D. $100 \text{ mg}$ IV during the first hour of dialysis.",
+      "E. $20 \text{ mg}$ IV slowly, once daily for 7 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "For non-dialysis patients, the typical regimen is $200 \text{ mg}$ IV (diluted in $100 \text{ ml}$ NS) administered over **30 minutes**, repeated every **3 days for a total of 5 doses** ($1000 \text{ mg}$ total). (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "IV_iron",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1207,
+    "question": "A patient with iron deficiency anemia reports severe constipation and abdominal pain with oral iron. You switch him to IV iron. What is the **duration of antibiotic therapy** for this patient?",
+    "choices": [
+      "A. The question is flawed; IV iron is not an antibiotic.",
+      "B. 7 days.",
+      "C. 14 days.",
+      "D. 4 weeks.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**IV iron** (Iron Sucrose) is a mineral replacement, **not an antibiotic**. The duration of therapy depends on the total deficit needed to be replaced. (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "IV_iron",
+      "pharmacology"
+    ]
+  },
+  {
+    "id": 1208,
+    "question": "A 25-year-old female is diagnosed with microcytic anemia due to excessive menstrual bleeding. She is started on oral iron. Which adverse effect should she be **counseled about as being common**?",
+    "choices": [
+      "A. Diarrhea and constipation.",
+      "B. Headache and dizziness.",
+      "C. Skin rash and allergy.",
+      "D. Numbness in her feet.",
+      "E. Darkening of the urine."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**GI side effects** are very common with oral iron, including **epigastric pain, nausea, vomiting, constipation, or diarrhea**. (p. 239)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "side_effects"
+    ]
+  },
+  {
+    "id": 1209,
+    "question": "A patient presents with extreme fatigue. $\text{Hb } 6.0 \text{ g/dl}$, $\text{MCV } 78 \text{ fl}$. She is hemodynamically stable. What is the appropriate management decision regarding **blood transfusion**?",
+    "choices": [
+      "A. Transfuse immediately due to $\text{Hb } <7.0 \text{ g/dl}$.",
+      "B. Transfuse only if she develops hemodynamic instability or cardiac symptoms.",
+      "C. Transfuse only if IV iron fails after 4 weeks.",
+      "D. Transfuse only if $\text{Hb } <5.0 \text{ g/dl}$.",
+      "E. Transfuse only after the cause of anemia is found."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "For **hospitalized medical patients**, transfusion is generally indicated at $\text{Hb } <7.0 \text{ g/dl}$. However, for **ambulatory patients with chronic anemia**, transfusion may not be needed even at $\text{Hb } <7 \text{ g/dl}$ **unless they have severe symptoms** (e.g., heart failure, chest pain). Since she is stable, transfusion is based on symptoms. (p. 237)",
+    "tags": [
+      "anemia",
+      "transfusion_indication"
+    ]
+  },
+  {
+    "id": 1210,
+    "question": "In the general workup of anemia, what is the **primary purpose** of obtaining the Mean Corpuscular Volume (MCV)?",
+    "choices": [
+      "A. To calculate the Reticulocyte Index.",
+      "B. To distinguish between Iron Deficiency Anemia and Anemia of Chronic Disease.",
+      "C. To classify anemia based on **RBC morphology (size)**.",
+      "D. To confirm the diagnosis of anemia ($\text{Hb } <13 \text{ g/dl}$).",
+      "E. To determine the need for blood transfusion."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "Anemia is classified based on **RBC morphology (size)**, as measured by **MCV**. This classification (Microcytic, Normocytic, Macrocytic) is useful for considering possible causes. (p. 236)",
+    "tags": [
+      "anemia",
+      "MCV",
+      "classification"
+    ]
+  },
+  {
+    "id": 1211,
+    "question": "A 40-year-old male with microcytic anemia ($\text{MCV } 75 \text{ fl}$) has normal serum ferritin. Which other category of anemia should be considered in the differential diagnosis?",
+    "choices": [
+      "A. Hemolytic anemia.",
+      "B. Megaloblastic anemia.",
+      "C. Anemia of Chronic Disease (ACD) or Thalassemia.",
+      "D. Aplastic anemia.",
+      "E. Polycythemia Vera."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "Microcytic anemia ($\text{MCV } <80 \text{ fl}$) is typically caused by **Iron Deficiency Anemia** or **Anemia of Chronic Disease (ACD)**. Since ferritin is a positive acute phase reactant, it can be normal or high in ACD despite functional iron deficiency. **Thalassemia** is also a cause of microcytic anemia with normal or high ferritin. (p. 236, 238)",
+    "tags": [
+      "anemia",
+      "MCV",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "id": 1212,
+    "question": "Which of the following conditions is generally **not** a cause of **Macrocytic Anemia** ($\text{MCV } >100 \text{ fl}$)?",
+    "choices": [
+      "A. Folic acid deficiency.",
+      "B. Alcohol abuse.",
+      "C. Chronic liver disease.",
+      "D. Vitamin $\text{B}_{12}$ deficiency.",
+      "E. Chronic blood loss from GI malignancy."
+    ],
+    "correctAnswer": 4,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "Macrocytic anemia is commonly caused by **Vitamin $\text{B}_{12}$ or folate deficiency**, **alcohol abuse**, or **chronic liver disease**. Chronic blood loss from GI malignancy typically causes **microcytic** (iron deficiency) anemia. (p. 236)",
+    "tags": [
+      "anemia",
+      "MCV",
+      "macrocytic"
+    ]
+  },
+  {
+    "id": 1213,
+    "question": "A patient is on maintenance hemodialysis for End Stage Renal Disease. His $\text{Hb}$ is $9.5 \text{ g/dl}$. Iron studies show TSAT $18\%$. What is the **preferred first-line treatment** to correct the iron deficiency in this patient?",
+    "choices": [
+      "A. Oral Ferrous Sulfate $325 \text{ mg}$ daily.",
+      "B. IV Iron Sucrose $100 \text{ mg}$ during the first hour of dialysis.",
+      "C. Epoetin (ESA) therapy alone.",
+      "D. Blood transfusion.",
+      "E. Oral iron with Vitamin $\text{C}$ supplements."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**IV iron** (Iron Sucrose) is indicated for CKD patients on hemodialysis with iron deficiency (TSAT $<20\%$). The typical dose is **$100 \text{ mg}$ IV during the first hour of dialysis** until the deficiency is corrected. (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "CKD",
+      "IV_iron",
+      "hemodialysis"
+    ]
+  },
+  {
+    "id": 1214,
+    "question": "A patient with iron deficiency anemia reports that taking her oral iron supplement with her morning tea minimizes her abdominal upset. What is the drawback of taking oral iron with tea?",
+    "choices": [
+      "A. Tea causes secondary constipation.",
+      "B. Tea increases iron toxicity.",
+      "C. Tea significantly **interferes with iron absorption**.",
+      "D. Tea has no effect on iron absorption or side effects.",
+      "E. Tea causes gastric irritation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "Foods that significantly interfere with iron absorption, such as **tea, coffee, milk, and eggs**, should be avoided when oral iron is administered. (p. 239, 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "absorption",
+      "dietary_interaction"
+    ]
+  },
+  {
+    "id": 1215,
+    "question": "Which of the following clinical findings is a **specific feature** of **Vitamin $\text{B}_{12}$ deficiency** (Megaloblastic Anemia) but **not** of Iron Deficiency Anemia?",
+    "choices": [
+      "A. Pallor and fatigue.",
+      "B. Peripheral neuropathy (paresthesias).",
+      "C. Glossitis (sore tongue).",
+      "D. Pica.",
+      "E. Dyspnea on exertion."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "**Neurologic or neuropsychiatric manifestations** (peripheral neuropathy, gait disturbance, dementia) are **specific to Vitamin $\text{B}_{12}$ deficiency** and do not occur in folate or iron deficiency anemia. (p. 241)",
+    "tags": [
+      "megaloblastic_anemia",
+      "clinical_features",
+      "B12_deficiency"
+    ]
+  },
+  {
+    "id": 1216,
+    "question": "A 75-year-old male presents with fatigue and weight loss. $\text{Hb } 8.0 \text{ g/dl}$, $\text{MCV } 105 \text{ fl}$. What is the most appropriate **initial diagnostic step** for this type of anemia?",
+    "choices": [
+      "A. Stool occult blood test.",
+      "B. Serum $\text{B}_{12}$ and Folate levels.",
+      "C. Serum iron studies.",
+      "D. Blood transfusion.",
+      "E. Colonoscopy and EGD."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The patient has **Macrocytic Anemia** ($\text{MCV } >100 \text{ fl}$). The initial workup should focus on the cause of megaloblastic anemia by checking **Serum $\text{B}_{12}$ and Folate levels**. (p. 241)",
+    "tags": [
+      "megaloblastic_anemia",
+      "diagnosis",
+      "investigation"
+    ]
+  },
+  {
+    "id": 1217,
+    "question": "In a patient with confirmed folate deficiency, why is it **crucial to ensure that Vitamin $\text{B}_{12}$ deficiency is excluded** before starting Folic Acid therapy alone?",
+    "choices": [
+      "A. Folic acid increases the risk of hemorrhage.",
+      "B. Folic acid worsens the anemia of $\text{B}_{12}$ deficiency.",
+      "C. Folic acid worsens the **neurologic manifestations** of $\text{B}_{12}$ deficiency.",
+      "D. Folic acid interacts with concurrent medications.",
+      "E. Folic acid is ineffective unless $\text{B}_{12}$ is supplemented."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Treatment of $\text{B}_{12}$ deficiency with **Folic Acid alone** can correct the hematologic abnormalities but **may worsen the neurologic manifestations** of $\text{B}_{12}$ deficiency. Therefore, $\text{B}_{12}$ must be excluded or supplemented concomitantly. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "safety"
+    ]
+  },
+  {
+    "id": 1218,
+    "question": "A patient is admitted with a new diagnosis of **severe Vitamin $\text{B}_{12}$ deficiency** causing neurologic symptoms. What is the recommended **initial schedule** for Cyanocobalamin ($\text{B}_{12}$) administration?",
+    "choices": [
+      "A. $1000 \text{ mcg}$ IM once weekly for 4 weeks.",
+      "B. $1000 \text{ mcg}$ IM once monthly for life.",
+      "C. $1000 \text{ mcg}$ IM **every day for one week**.",
+      "D. $100 \text{ mcg}$ IM every day for one week.",
+      "E. $1000 \text{ mcg}$ PO daily for 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The recommended schedule for Cyanocobalamin is **$1000 \text{ mcg}$ IM every day for one week**, followed by weekly injections for 4 weeks, and then monthly injections if the cause persists. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1219,
+    "question": "Which peripheral blood smear finding is characteristic of **Megaloblastic Anemia**?",
+    "choices": [
+      "A. Target cells.",
+      "B. Spherocytes.",
+      "C. Schistocytes.",
+      "D. **Hypersegmentation of Neutrophils**.",
+      "E. Basophilic stippling."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The characteristic finding is **hypersegmentation of neutrophils** ($\ge 5$ lobes), in addition to macro-ovalocytes. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "clinical_features",
+      "blood_smear"
+    ]
+  },
+  {
+    "id": 1220,
+    "question": "A patient with anemia ($\text{Hb } 9.0 \text{ g/dl}$) of unknown etiology presents to the clinic. She reports paresthesias and difficulty walking. What is the **most likely deficiency**?",
+    "choices": [
+      "A. Folic acid.",
+      "B. Vitamin $\text{B}_{12}$.",
+      "C. Iron.",
+      "D. Vitamin $\text{C}$.",
+      "E. Vitamin $\text{D}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "**Neurologic symptoms** (paresthesias, gait disturbance, difficulty walking) are classic manifestations of **Vitamin $\text{B}_{12}$ deficiency** as it affects the nervous system. (p. 241)",
+    "tags": [
+      "megaloblastic_anemia",
+      "clinical_features",
+      "B12_deficiency"
+    ]
+  },
+  {
+    "id": 1221,
+    "question": "A patient is found to have anemia with an $\text{MCV}$ of $110 \text{ fl}$ and low serum folate but normal $\text{B}_{12}$ levels. What is the recommended treatment regimen?",
+    "choices": [
+      "A. Cyanocobalamin $1000 \text{ mcg}$ IM monthly.",
+      "B. Folic Acid $1 \text{ mg}$ PO daily for $1-4$ months.",
+      "C. Folic Acid $5 \text{ mg}$ PO daily PLUS Cyanocobalamin $1000 \text{ mcg}$ IM daily.",
+      "D. Only dietary changes.",
+      "E. Blood transfusion and observation."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Confirmed folate deficiency (with $\text{B}_{12}$ excluded) is treated with **Folic Acid $1$ to $5 \text{ mg}$ PO daily for $1-4$ months**, or until complete hematologic recovery. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "folate_deficiency"
+    ]
+  },
+  {
+    "id": 1222,
+    "question": "In the workup for megaloblastic anemia, what is the significance of obtaining an $\text{RBC}$ folate level rather than just the serum folate level?",
+    "choices": [
+      "A. Serum folate is more accurate in deficiency states.",
+      "B. $\text{RBC}$ folate reflects long-term body stores, less affected by acute intake.",
+      "C. $\text{RBC}$ folate is easier and cheaper to measure.",
+      "D. Serum folate can never be used for diagnosis.",
+      "E. Only serum $\text{B}_{12}$ and $\text{RBC}$ folate are needed."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The **$\text{RBC}$ folate level** is obtained if serum folate is normal or indeterminate, as it **reflects long-term body stores** and is less affected by acute dietary intake. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "investigation",
+      "folate_level"
+    ]
+  },
+  {
+    "id": 1223,
+    "question": "A patient with known megaloblastic anemia is brought to the $\text{ER}$ with signs of heart failure. Her $\text{Hb}$ is $5.5 \text{ g/dl}$. What is the immediate priority for management?",
+    "choices": [
+      "A. High-dose oral folic acid and vitamin $\text{B}_{12}$.",
+      "B. Transfusion of packed $\text{RBCs}$ with slow rate and IV diuretics.",
+      "C. Immediate administration of IV iron.",
+      "D. Immediate LP to rule out neurosyphilis.",
+      "E. $100 \text{ mcg}$ Vitamin $\text{B}_{12}$ IM and $5 \text{ mg}$ Folic Acid PO."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "Severe anemia complicated by **heart failure** is an indication for **blood transfusion**. The transfusion must be done cautiously with a **slow rate and concomitant use of IV diuretics** to prevent fluid overload and worsening cardiac function. (p. 237)",
+    "tags": [
+      "anemia",
+      "transfusion_indication",
+      "heart_failure"
+    ]
+  },
+  {
+    "id": 1224,
+    "question": "What is the **oral maintenance dose** of Folic Acid recommended for the treatment of folate deficiency?",
+    "choices": [
+      "A. $10 \text{ mg}$ PO daily.",
+      "B. $1$ to $5 \text{ mg}$ PO daily.",
+      "C. $1 \text{ mg}$ PO weekly.",
+      "D. $50 \text{ mcg}$ PO daily.",
+      "E. $1000 \text{ mcg}$ PO daily."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Folic Acid is administered at $1$ to $5 \text{ mg}$ PO daily until recovery. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1225,
+    "question": "A patient with severe Vitamin $\text{B}_{12}$ deficiency and neurologic symptoms is started on $1000 \text{ mcg}$ IM daily. After one week, what is the **appropriate continuation of the schedule**?",
+    "choices": [
+      "A. Stop injections and start $1000 \text{ mcg}$ PO daily for life.",
+      "B. $1000 \text{ mcg}$ IM once weekly for four weeks.",
+      "C. $1000 \text{ mcg}$ IM every month for life.",
+      "D. $100 \text{ mcg}$ IM every day for one more week.",
+      "E. $1000 \text{ mcg}$ IM once weekly for one month and then monthly for life."
+    ],
+    "correctAnswer": 4,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The initial schedule is daily for one week, followed by $1000 \text{ mcg}$ IM **every week for four weeks**. The monthly maintenance dose begins after this period. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1226,
+    "question": "What is the hematologic definition of **Anemia** for an **adult male**?",
+    "choices": [
+      "A. $\text{Hb } <11.0 \text{ g/dl}$ or $\text{Hct } <33\%$",
+      "B. $\text{Hb } <12 \text{ g/dl}$ or $\text{Hct } <36\%$",
+      "C. $\text{Hb } <13 \text{ g/dl}$ or $\text{Hct } <39\%$",
+      "D. $\text{Hb } <14 \text{ g/dl}$ or $\text{Hct } <42\%$",
+      "E. $\text{Hb } <10.0 \text{ g/dl}$ regardless of $\text{Hct}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "WHO criteria define anemia in adult males as **$\text{Hb } <13 \text{ g/dl}$** or $\text{Hct } <39\%$. (p. 236)",
+    "tags": [
+      "anemia",
+      "WHO_criteria",
+      "hematology"
+    ]
+  },
+  {
+    "id": 1227,
+    "question": "A 55-year-old female presents with fatigue. $\text{Hb } 11.5 \text{ g/dl}$, $\text{MCV } 108 \text{ fl}$. Peripheral smear shows **hypersegmented neutrophils**. What is the most likely cause of her macrocytic anemia?",
+    "choices": [
+      "A. Iron deficiency.",
+      "B. Thalassemia.",
+      "C. Megaloblastic anemia ($\text{B}_{12}$ or Folate deficiency).",
+      "D. Anemia of Chronic Disease.",
+      "E. Hemolytic anemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The finding of **hypersegmented neutrophils** on a peripheral smear is a characteristic feature of **Megaloblastic Anemia** ($\text{B}_{12}$ or Folate deficiency). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "clinical_features",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1228,
+    "question": "A patient with microcytic anemia ($\text{MCV } 72 \text{ fl}$) has serum ferritin $20 \text{ ng/ml}$. After 4 weeks of compliant oral iron therapy, her $\text{Hb}$ remains unchanged. Which intervention is indicated?",
+    "choices": [
+      "A. Continue oral iron for 3 more months.",
+      "B. Switch to IV Iron Sucrose.",
+      "C. Start Folic Acid $5 \text{ mg}$ daily.",
+      "D. Transfuse packed $\text{RBCs}$.",
+      "E. Increase oral iron dose by $50\%$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**No improvement in hemoglobin after 4 weeks** of compliant oral iron therapy is a key **indication for switching to IV iron** therapy. (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "treatment_failure",
+      "IV_iron"
+    ]
+  },
+  {
+    "id": 1229,
+    "question": "In the management of a patient with **Megaloblastic Anemia** due to confirmed Vitamin $\text{B}_{12}$ deficiency, how long should the initial loading schedule (daily injections) be continued?",
+    "choices": [
+      "A. 48 hours.",
+      "B. 5 days.",
+      "C. 7 days.",
+      "D. 4 weeks.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The initial schedule for Cyanocobalamin is IM **every day for one week** (7 days). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1230,
+    "question": "A 35-year-old male presents with fatigue. $\text{Hb } 12.5 \text{ g/dl}$, $\text{MCV } 78 \text{ fl}$. He has a family history of microcytic anemia. Serum ferritin is high. What is the most likely diagnosis among the common causes of microcytic anemia?",
+    "choices": [
+      "A. Iron Deficiency Anemia (IDA).",
+      "B. Anemia of Chronic Disease (ACD).",
+      "C. Thalassemia Trait.",
+      "D. Lead Poisoning.",
+      "E. Sideroblastic Anemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "Microcytic anemia ($\text{MCV } <80 \text{ fl}$) with **high/normal serum ferritin** suggests ACD or **Thalassemia**. Given the family history and the presence of microcytosis without severe anemia, **Thalassemia Trait** is a strong differential. (p. 236, 238)",
+    "tags": [
+      "anemia",
+      "MCV",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "id": 1231,
+    "question": "Which condition is a recognized cause of macrocytic anemia ($\text{MCV } >100 \text{ fl}$)?",
+    "choices": [
+      "A. $\text{H. pylori}$ infection.",
+      "B. Chronic alcohol abuse.",
+      "C. Chronic parasitic infection.",
+      "D. Rheumatoid arthritis.",
+      "E. Chronic menorrhagia."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "**Chronic alcohol abuse** is explicitly listed as a cause of macrocytic anemia. (p. 236)",
+    "tags": [
+      "anemia",
+      "MCV",
+      "macrocytic"
+    ]
+  },
+  {
+    "id": 1232,
+    "question": "A patient with megaloblastic anemia due to Folic Acid deficiency is started on Folic Acid $5 \text{ mg}$ PO daily. What is the minimum duration of therapy required to ensure adequate treatment?",
+    "choices": [
+      "A. 7 days.",
+      "B. 10 days.",
+      "C. $1-4$ months.",
+      "D. 6 months.",
+      "E. $12$ months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Folic Acid is administered for **$1$ to $4$ months**, or until complete hematologic recovery occurs. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment_duration",
+      "folate_deficiency"
+    ]
+  },
+  {
+    "id": 1233,
+    "question": "A 28-year-old female is diagnosed with microcytic anemia ($\text{MCV } 75 \text{ fl}$) due to heavy menstrual bleeding. She is started on oral iron. Which adverse effect should she be **counseled about as being common**?",
+    "choices": [
+      "A. Headache.",
+      "B. Constipation.",
+      "C. Peripheral neuropathy.",
+      "D. Hyperglycemia.",
+      "E. Fever."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**Constipation** is a common **GI side effect** of oral iron therapy. (p. 239)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "side_effects"
+    ]
+  },
+  {
+    "id": 1234,
+    "question": "In the management of chronic stable anemia in an ambulatory patient with $\text{Hb } 6.5 \text{ g/dl}$, what is the **primary determinant** for the decision to transfuse packed $\text{RBCs}$?",
+    "choices": [
+      "A. $\text{Hb}$ value alone.",
+      "B. Underlying etiology of anemia.",
+      "C. Patient's age.",
+      "D. Presence of severe symptoms (e.g., cardiac symptoms).",
+      "E. MCV value."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "For **ambulatory patients with chronic anemia**, transfusion is usually determined by the **presence of severe symptoms** (e.g., cardiac symptoms, severe dyspnea) and not just the $\text{Hb}$ level. (p. 237)",
+    "tags": [
+      "anemia",
+      "transfusion_indication",
+      "symptom_status"
+    ]
+  },
+  {
+    "id": 1235,
+    "question": "What is the required $\text{Hb}$ level for an **adult female** to be considered non-anemic, according to WHO criteria?",
+    "choices": [
+      "A. $\text{Hb } \ge 11.0 \text{ g/dl}$.",
+      "B. $\text{Hb } \ge 12 \text{ g/dl}$.",
+      "C. $\text{Hb } \ge 12.5 \text{ g/dl}$.",
+      "D. $\text{Hb } \ge 13 \text{ g/dl}$.",
+      "E. $\text{Hb } \ge 14 \text{ g/dl}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "WHO criteria define anemia in adult women as $\text{Hb } <12 \text{ g/dl}$. Therefore, $\text{Hb } \ge 12 \text{ g/dl}$ is considered non-anemic. (p. 236)",
+    "tags": [
+      "anemia",
+      "WHO_criteria"
+    ]
+  },
+  {
+    "id": 1236,
+    "question": "A patient presents with anemia. His peripheral smear shows **Macrocytosis** and **Hypersegmented Neutrophils**. Which condition is the **most likely cause**?",
+    "choices": [
+      "A. Chronic kidney disease.",
+      "B. Iron deficiency anemia.",
+      "C. Vitamin $\text{B}_{12}$ or Folate deficiency.",
+      "D. Acute hemorrhage.",
+      "E. Sickle cell disease."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Macrocytosis with **Hypersegmented Neutrophils** is the classic description of **Megaloblastic Anemia** ($\text{B}_{12}$ or Folate deficiency). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "clinical_features",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1237,
+    "question": "What is the duration of the IM phase of the initial treatment schedule for Cyanocobalamin in severe Vitamin $\text{B}_{12}$ deficiency?",
+    "choices": [
+      "A. 1 day.",
+      "B. 3 days.",
+      "C. 7 days.",
+      "D. 14 days.",
+      "E. 30 days."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The initial treatment schedule is $\text{B}_{12}$ IM **every day for one week** (7 days). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1238,
+    "question": "A patient with confirmed iron deficiency anemia is advised to take her tablets **2 hours before meals**. Why is this timing preferred?",
+    "choices": [
+      "A. To prevent GI side effects.",
+      "B. To avoid interaction with antacids.",
+      "C. To enhance absorption on an empty stomach.",
+      "D. To coordinate with her dialysis schedule.",
+      "E. To ensure she remembers the dose."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "Iron is best absorbed when the stomach is empty; thus, taking the supplement **2 hours before or 4 hours after meals** is preferred to **enhance absorption**. (p. 239, 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "absorption",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1239,
+    "question": "Which clinical manifestation is highly suggestive of **Vitamin $\text{B}_{12}$ deficiency** and requires urgent treatment with $\text{B}_{12}$?",
+    "choices": [
+      "A. Pica.",
+      "B. Koilonychia.",
+      "C. Peripheral neuropathy.",
+      "D. Glossitis.",
+      "E. Anorexia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The most concerning and urgent manifestation of $\text{B}_{12}$ deficiency is **peripheral neuropathy** due to the risk of irreversible neurologic damage. (p. 241)",
+    "tags": [
+      "megaloblastic_anemia",
+      "clinical_features",
+      "B12_deficiency"
+    ]
+  },
+  {
+    "id": 1240,
+    "question": "A 30-year-old female presents with $\text{Hb } 11.5 \text{ g/dl}$, $\text{MCV } 75 \text{ fl}$. She is diagnosed with mild iron deficiency anemia. She has a history of severe gastritis. What is the **most appropriate initial therapeutic choice**?",
+    "choices": [
+      "A. Oral Ferrous Sulfate $325 \text{ mg}$ TID.",
+      "B. IV Iron Sucrose.",
+      "C. Folic Acid $5 \text{ mg}$ PO daily.",
+      "D. Blood transfusion.",
+      "E. Oral iron with antacid therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "While oral iron is generally first line, **IV iron therapy** is indicated for patients with conditions that **interfere with absorption** from the GI tract (e.g., severe gastritis, gastrectomy). (p. 240)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "IV_iron",
+      "gastritis"
+    ]
+  },
+  {
+    "id": 1241,
+    "question": "What is the recommended treatment for a patient with confirmed **Folic Acid deficiency** and normal $\text{B}_{12}$ levels?",
+    "choices": [
+      "A. Cyanocobalamin $1000 \text{ mcg}$ IM weekly.",
+      "B. Folic Acid $1 \text{ mg}$ PO daily for $1-4$ months.",
+      "C. Folic Acid $5 \text{ mg}$ PO daily PLUS $1000 \text{ mcg}$ IM $\text{B}_{12}$ daily.",
+      "D. Oral Ferrous Sulfate $325 \text{ mg}$ TID.",
+      "E. $10 \text{ mg}$ Folic Acid PO daily for life."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Folate deficiency (with $\text{B}_{12}$ excluded) is treated with **Folic Acid $1$ to $5 \text{ mg}$ PO daily for $1-4$ months**, or until complete hematologic recovery. (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "folate_deficiency"
+    ]
+  },
+  {
+    "id": 1242,
+    "question": "The most common etiology of anemia in the general population of developing countries is:",
+    "choices": [
+      "A. Hemolytic anemia.",
+      "B. Megaloblastic anemia.",
+      "C. Iron deficiency anemia.",
+      "D. Anemia of chronic disease.",
+      "E. Aplastic anemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**Iron deficiency anemia** is explicitly stated as a **common cause of anemia worldwide** and is the most prevalent nutritional anemia. (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "epidemiology"
+    ]
+  },
+  {
+    "id": 1243,
+    "question": "A patient presents with fatigue. $\text{Hb } 9.0 \text{ g/dl}$, $\text{MCV } 115 \text{ fl}$. Peripheral smear shows large $\text{RBCs}$ and $\text{WBCs}$. What is the most likely cause of his macrocytic anemia?",
+    "choices": [
+      "A. Hemolysis.",
+      "B. Iron deficiency.",
+      "C. Vitamin $\text{B}_{12}$ or Folate deficiency.",
+      "D. Acute blood loss.",
+      "E. Thalassemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Macrocytic anemia with abnormal $\text{WBC}$ precursors (Megaloblasts) is characteristic of **Megaloblastic Anemia** ($\text{B}_{12}$ or Folate deficiency). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1244,
+    "question": "What is the recommended total dose of **Ferrous Sulfate** ($325 \text{ mg}$) to be taken daily for an adult being treated for iron deficiency anemia?",
+    "choices": [
+      "A. One tablet daily.",
+      "B. One tablet BID.",
+      "C. One tablet TID.",
+      "D. Two tablets BID.",
+      "E. Four tablets daily."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "The recommended dose for Ferrous Sulfate is $325 \text{ mg}$ PO **TID** (three times daily). (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1245,
+    "question": "In the workup for anemia, the finding of an $\text{MCV}$ of $112 \text{ fl}$ is generally considered indicative of:",
+    "choices": [
+      "A. Microcytic anemia.",
+      "B. Normocytic anemia.",
+      "C. Macrocytic anemia.",
+      "D. Hemolytic anemia.",
+      "E. Sideroblastic anemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "An $\text{MCV}$ **$>100 \text{ fl}$** indicates **Macrocytic Anemia**. (p. 236)",
+    "tags": [
+      "anemia",
+      "MCV",
+      "classification"
+    ]
+  },
+  {
+    "id": 1246,
+    "question": "A patient presents with severe anemia ($\text{Hb } 6.8 \text{ g/dl}$) and a history of gastric bypass surgery. He is hemodynamically stable. What type of anemia is **most likely** in this setting, and what is the key cause?",
+    "choices": [
+      "A. Hemolytic anemia; Autoimmune destruction.",
+      "B. Iron deficiency anemia; Chronic blood loss.",
+      "C. Megaloblastic anemia; $\text{B}_{12}$ malabsorption.",
+      "D. Normocytic anemia; Acute hemorrhage.",
+      "E. Anemia of Chronic Disease; Inflammation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "**Gastric surgery** (bypass/gastrectomy) can lead to impaired production of intrinsic factor, causing **Vitamin $\text{B}_{12}$ malabsorption**, which results in **Megaloblastic Anemia**. (p. 241)",
+    "tags": [
+      "megaloblastic_anemia",
+      "etiology",
+      "gastric_surgery"
+    ]
+  },
+  {
+    "id": 1247,
+    "question": "A 40-year-old vegetarian presents with megaloblastic anemia. What is the key therapeutic difference in his initial treatment compared to a patient with Pernicious Anemia?",
+    "choices": [
+      "A. He requires only $\text{B}_{12}$ supplementation.",
+      "B. He requires only Folic Acid supplementation.",
+      "C. He requires $\text{B}_{12}$ supplementation and dietary counseling, but not lifelong therapy.",
+      "D. He requires a bone marrow biopsy before starting treatment.",
+      "E. He needs weekly IV iron supplementation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "A strict vegetarian's $\text{B}_{12}$ deficiency is dietary, meaning they need $\text{B}_{12}$ replacement and dietary changes. **Pernicious Anemia** (gastric cause) requires **lifelong** $\text{B}_{12}$ therapy, whereas a strict vegetarian only needs $\text{B}_{12}$ as long as they maintain the dietary restriction. (p. 241, 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "B12_deficiency"
+    ]
+  },
+  {
+    "id": 1248,
+    "question": "What is the hematologic definition of Anemia for an **adult female**?",
+    "choices": [
+      "A. $\text{Hb } <11.0 \text{ g/dl}$ or $\text{Hct } <33\%$",
+      "B. $\text{Hb } <12 \text{ g/dl}$ or $\text{Hct } <36\%$",
+      "C. $\text{Hb } <13 \text{ g/dl}$ or $\text{Hct } <39\%$",
+      "D. $\text{Hb } <14 \text{ g/dl}$ or $\text{Hct } <42\%$",
+      "E. $\text{Hb } <10.0 \text{ g/dl}$ regardless of $\text{Hct}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "WHO criteria define anemia in adult females as **$\text{Hb } <12 \text{ g/dl}$** or $\text{Hct } <36\%$. (p. 236)",
+    "tags": [
+      "anemia",
+      "WHO_criteria",
+      "hematology"
+    ]
+  },
+
+  {
+    "id": 1249,
+    "question": "A 55-year-old hospitalized patient develops a new onset of thrombocytopenia (platelet count $40,000/\mu l$). The primary approach to management should be to:",
+    "choices": [
+      "A. Start prophylactic platelet transfusion immediately.",
+      "B. Administer high-dose IV corticosteroids.",
+      "C. Search for and treat the underlying cause of thrombocytopenia.",
+      "D. Initiate immediate IV Immunoglobulin (IVIg).",
+      "E. Start empiric broad-spectrum antibiotics."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "In acutely ill hospitalized patients, **treatment of the underlying cause** (e.g., sepsis, drugs, DIC, HIT, malaria) is the **mainstay of management** for thrombocytopenia. (p. 248)",
+    "tags": [
+      "thrombocytopenia",
+      "hospitalized_patients",
+      "management"
+    ]
+  },
+  {
+    "id": 1250,
+    "question": "A patient with thrombocytopenia (platelet count $25,000/\mu l$) is being prepared for a non-emergent dental procedure. What is the **recommended threshold** for prophylactic platelet transfusion prior to the procedure?",
+    "choices": [
+      "A. $<10,000/\mu l$.",
+      "B. $<20,000/\mu l$.",
+      "C. $<50,000/\mu l$.",
+      "D. $<100,000/\mu l$.",
+      "E. Transfusion is unnecessary as long as there is no active bleeding."
+    ]
+  },
+  {
+    "id": 1251,
+    "question": "A 65-year-old patient who started Heparin therapy 7 days ago develops thrombocytopenia (platelet count dropped by $60\%$ from baseline). He has no active bleeding but shows signs of DVT. Which condition should be ruled out, and what is the **immediate intervention**?",
+    "choices": [
+      "A. Disseminated Intravascular Coagulation (DIC); Start Fresh Frozen Plasma (FFP).",
+      "B. Immune Thrombocytopenia (ITP); Start IVIg.",
+      "C. Heparin-Induced Thrombocytopenia (HIT); **Stop Heparin immediately.**",
+      "D. Sepsis; Start broad-spectrum antibiotics.",
+      "E. Drug-induced thrombocytopenia; Continue Heparin and monitor."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "This clinical picture (thrombocytopenia after 5-10 days of Heparin, associated with thrombosis) is highly suggestive of **HIT**. The immediate intervention is to **Stop Heparin immediately**. (p. 247, 258)",
+    "tags": [
+      "thrombocytopenia",
+      "HIT",
+      "management"
+    ]
+  },
+  {
+    "id": 1252,
+    "question": "A 3-year-old child presents to the $\text{ER}$ with sudden onset of petechiae and ecchymoses following a viral illness two weeks ago. Platelet count is $15,000/\mu l$. Diagnosis of Immune Thrombocytopenia (ITP) is suspected. Which treatment is **indicated**?",
+    "choices": [
+      "A. Prophylactic platelet transfusion.",
+      "B. High-dose IV corticosteroids.",
+      "C. No treatment, as platelet count is $>10,000/\mu l$ and bleeding is minor.",
+      "D. Splenectomy immediately.",
+      "E. Warfarin anticoagulation."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "In ITP, treatment is indicated if the platelet count is **$<30,000/\mu l$**. **High-dose corticosteroids** (Dexamethasone/Prednisolone) are the **first-line** treatment. (p. 250, 251)",
+    "tags": [
+      "ITP",
+      "pediatrics",
+      "treatment"
+    ]
+  },
+  {
+    "id": 1253,
+    "question": "What is the primary management goal for initiating treatment in a patient newly diagnosed with Immune Thrombocytopenia (ITP)?",
+    "choices": [
+      "A. Achieve a normal platelet count ($>150,000/\mu l$).",
+      "B. Achieve a platelet count high enough to **prevent major bleeding** ($>30,000/\mu l$).",
+      "C. Cure the underlying autoimmune disorder.",
+      "D. Initiate maintenance steroid therapy for life.",
+      "E. Prepare for splenectomy within 6 weeks."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "The objective of ITP treatment is **not to bring the platelet count to normal levels**, but to **increase the platelet count to a safe level** to **prevent major bleeding** ($>30,000/\mu l$). (p. 250)",
+    "tags": [
+      "ITP",
+      "treatment_goals"
+    ]
+  },
+  {
+    "id": 1254,
+    "question": "A 40-year-old patient with ITP presents with a nosebleed and a platelet count of $18,000/\mu l$. The most appropriate **first-line drug** therapy is:",
+    "choices": [
+      "A. High-dose Dexamethasone (40 mg PO daily for 4 days).",
+      "B. Warfarin to prevent thrombosis.",
+      "C. Platelet transfusion immediately.",
+      "D. IV Immunoglobulin (IVIg) monotherapy.",
+      "E. Oral Dapsone."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "Treatment is indicated for platelet count $<30,000/\mu l$. **High-dose corticosteroids** (Dexamethasone $40 \text{ mg}$ PO daily for 4 consecutive days) are the **first-line** regimen. (p. 250, 251)",
+    "tags": [
+      "ITP",
+      "treatment",
+      "corticosteroids"
+    ]
+  },
+  {
+    "id": 1255,
+    "question": "What is the platelet count threshold below which **prophylactic platelet transfusion** is generally recommended for an admitted patient **without active bleeding**?",
+    "choices": [
+      "A. $<50,000/\mu l$.",
+      "B. $<30,000/\mu l$.",
+      "C. $<20,000/\mu l$.",
+      "D. $<10,000/\mu l$.",
+      "E. $<5,000/\mu l$."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "In patients **without active bleeding**, prophylactic platelet transfusion should generally be **avoided** unless the platelet count is **$<10,000/\mu l$**. (p. 248)",
+    "tags": [
+      "thrombocytopenia",
+      "transfusion_indication",
+      "prophylactic"
+    ]
+  },
+  {
+    "id": 1256,
+    "question": "A patient with acute, life-threatening hemorrhage and thrombocytopenia (platelet count $10,000/\mu l$) is admitted to the $\text{ER}$. What is the **immediate intervention** regarding platelet replacement?",
+    "choices": [
+      "A. Defer transfusion until the cause is found.",
+      "B. Give prophylactic platelet transfusion.",
+      "C. Give platelet transfusion immediately, as active bleeding is present.",
+      "D. Start high-dose oral prednisone.",
+      "E. Give FFP and Vitamin $\text{K}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "**Platelet transfusion** is indicated if there is **active bleeding** and the platelet count is **$<50,000/\mu l$**. In this case, active, life-threatening bleeding requires immediate transfusion. (p. 248)",
+    "tags": [
+      "thrombocytopenia",
+      "transfusion_indication",
+      "active_bleeding"
+    ]
+  },
+  {
+    "id": 1257,
+    "question": "A patient is admitted with severe sepsis and develops thrombocytopenia ($50,000/\mu l$). What is the primary management strategy for this thrombocytopenia?",
+    "choices": [
+      "A. Immediate platelet transfusion.",
+      "B. High-dose IVIg therapy.",
+      "C. Treatment of the underlying cause (sepsis) with antibiotics.",
+      "D. Urgent splenectomy.",
+      "E. Empiric high-dose steroids."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "In acutely ill hospitalized patients, the primary management of thrombocytopenia is always directed at **treating the underlying cause**, in this case, **sepsis**. (p. 248)",
+    "tags": [
+      "thrombocytopenia",
+      "sepsis",
+      "management"
+    ]
+  },
+  {
+    "id": 1258,
+    "question": "A patient with newly diagnosed ITP (platelet count $25,000/\mu l$) is being initiated on corticosteroids. What is the recommended **initial regimen** for high-dose Dexamethasone?",
+    "choices": [
+      "A. $40 \text{ mg}$ PO daily for 7 days, then taper.",
+      "B. $40 \text{ mg}$ PO daily for **4 consecutive days**, with no tapering.",
+      "C. $1 \text{ mg/kg}$ PO daily for 14 days, then taper.",
+      "D. $20 \text{ mg}$ IM weekly for 4 weeks.",
+      "E. $10 \text{ mg}$ IV daily for 10 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "The high-dose Dexamethasone regimen is $40 \text{ mg}$ PO daily for **4 consecutive days**, followed by repeating the 4-day cycles every $2-4$ weeks for $4-6$ cycles. **No tapering** is required for the 4-day course. (p. 250, 251)",
+    "tags": [
+      "ITP",
+      "treatment",
+      "corticosteroids",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1259,
+    "question": "A patient with chronic ITP has a persistent platelet count of $45,000/\mu l$ and no active bleeding. Which ongoing therapy or intervention is **not indicated**?",
+    "choices": [
+      "A. Active monitoring of platelet count.",
+      "B. Prophylactic platelet transfusion.",
+      "C. Patient education on bleeding risk.",
+      "D. Avoidance of high-risk trauma sports.",
+      "E. Use of corticosteroids for a major bleed."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "The primary goal is to keep the platelet count $>30,000/\mu l$ and prevent major bleeding. With a count of $45,000/\mu l$ and no bleeding, **Prophylactic platelet transfusion** is **not indicated** as per the threshold ($<10,000/\mu l$). (p. 248, 250)",
+    "tags": [
+      "ITP",
+      "management",
+      "transfusion_indication"
+    ]
+  },
+  {
+    "id": 1260,
+    "question": "A patient has a platelet count of $15,000/\mu l$ due to ITP. He develops a severe headache and confusion. What is the **immediate intervention**?",
+    "choices": [
+      "A. Initiate prophylactic platelet transfusion.",
+      "B. Start high-dose oral prednisone only.",
+      "C. Give platelet transfusion immediately, as intracranial hemorrhage is a concern.",
+      "D. Wait for definitive imaging (CT scan) before transfusing.",
+      "E. Start an oral antiplatelet agent."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "Severe headache and confusion in a patient with severe thrombocytopenia ($<30,000/\mu l$) suggests a possible **intracranial hemorrhage**, which is a life-threatening bleed. **Platelet transfusion is indicated immediately** in this scenario. (p. 250)",
+    "tags": [
+      "ITP",
+      "management",
+      "life_threatening_bleeding"
+    ]
+  },
+  {
+    "id": 1261,
+    "question": "A patient with known ITP is managed with a tapering dose of Prednisolone. She develops a new petechial rash and her platelet count drops from $80,000/\mu l$ to $20,000/\mu l$. The ITP is now classified as:",
+    "choices": [
+      "A. Newly diagnosed ITP.",
+      "B. Persistent ITP.",
+      "C. Chronic ITP.",
+      "D. Splenectomy candidate.",
+      "E. Steroid-dependent ITP."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "**Persistent ITP** is defined as ITP lasting between **$3-12$ months**. If the ITP lasts more than 12 months, it is classified as Chronic ITP. (p. 250)",
+    "tags": [
+      "ITP",
+      "classification"
+    ]
+  },
+  {
+    "id": 1262,
+    "question": "A patient is admitted with a severe head injury and develops thrombocytopenia ($30,000/\mu l$). What is the platelet threshold below which major neurosurgery typically has a high risk of bleeding?",
+    "choices": [
+      "A. $<30,000/\mu l$.",
+      "B. $<50,000/\mu l$.",
+      "C. $<75,000/\mu l$.",
+      "D. $<100,000/\mu l$.",
+      "E. $<150,000/\mu l$."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "The surgical bleeding risk is high when platelet counts are **$<50,000/\mu l$** generally, but for major surgery (like neurosurgery), the risk is high when platelets are **$<100,000/\mu l$**. (p. 246)",
+    "tags": [
+      "thrombocytopenia",
+      "transfusion_indication",
+      "surgery"
+    ]
+  },
+  {
+    "id": 1263,
+    "question": "What is the platelet count threshold used to define **Severe Thrombocytopenia**?",
+    "choices": [
+      "A. $<150,000/\mu l$.",
+      "B. $<100,000/\mu l$.",
+      "C. $<50,000/\mu l$.",
+      "D. $<20,000/\mu l$.",
+      "E. $<10,000/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "Thrombocytopenia is defined as platelets $<150,000/\mu l$. Severe thrombocytopenia is defined as **$<50,000/\mu l$**. (p. 246)",
+    "tags": [
+      "thrombocytopenia",
+      "definition"
+    ]
+  },
+  {
+    "id": 1264,
+    "question": "A patient with thrombocytopenia (platelet count $45,000/\mu l$) is on Warfarin for atrial fibrillation. She has no active bleeding. What is the **appropriate step** regarding her anticoagulation therapy?",
+    "choices": [
+      "A. Continue Warfarin and monitor platelet count daily.",
+      "B. Increase Warfarin dose to maintain high INR.",
+      "C. **Hold Warfarin** and re-evaluate the need for anticoagulation.",
+      "D. Transfuse platelets to raise the count to $100,000/\mu l$.",
+      "E. Switch Warfarin to Aspirin."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "When the platelet count is **$<30,000/\mu l$**, antiplatelet agents and anticoagulants should be **held**. At $45,000/\mu l$, the risk is still high and holding the Warfarin is appropriate until the cause is found and platelets stabilize. (p. 248)",
+    "tags": [
+      "thrombocytopenia",
+      "anticoagulation_management"
+    ]
+  },
+  {
+    "id": 1265,
+    "question": "A patient with newly diagnosed ITP is started on the high-dose Dexamethasone regimen. How long should she continue treatment in the first cycle?",
+    "choices": [
+      "A. 21 days with slow tapering.",
+      "B. 14 days with medium tapering.",
+      "C. **4 consecutive days with no tapering.**",
+      "D. 7 days with rapid tapering.",
+      "E. Until platelet count is $>100,000/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "The high-dose Dexamethasone regimen is $40 \text{ mg}$ PO daily for **4 consecutive days, with no tapering** needed for that cycle. (p. 250, 251)",
+    "tags": [
+      "ITP",
+      "treatment",
+      "corticosteroids",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1266,
+    "question": "A patient with ITP has a severe life-threatening hemorrhage. What is the **emergency intervention** regarding platelet replacement?",
+    "choices": [
+      "A. Only high-dose IV corticosteroids.",
+      "B. Only IV Immunoglobulin (IVIg).",
+      "C. **Platelet transfusion immediately.**",
+      "D. Urgent FFP infusion.",
+      "E. Ristocetin cofactor assay."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "Although platelet transfusion is usually avoided in ITP, the indication for transfusion is **life-threatening bleeding only**. (p. 250)",
+    "tags": [
+      "ITP",
+      "transfusion_indication",
+      "emergency"
+    ]
+  },
+  {
+    "id": 1267,
+    "question": "Which of the following is a key component of the initial workup for **Thrombocytopenia in hospitalized patients**?",
+    "choices": [
+      "A. Immediate platelet transfusion.",
+      "B. Discontinuation of all medications.",
+      "C. Detailed drug history and clinical assessment for HIT/DIC/sepsis.",
+      "D. Empiric IVIg administration.",
+      "E. Urgent splenectomy consultation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "The clinical evaluation requires a **detailed clinical history** (especially **drug history** for HIT or drug-induced causes) and assessment for life-threatening causes like DIC/sepsis. (p. 247)",
+    "tags": [
+      "thrombocytopenia",
+      "workup"
+    ]
+  },
+  {
+    "id": 1268,
+    "question": "A patient with thrombocytopenia (platelet count $10,000/\mu l$) is being managed as an outpatient for chronic ITP. She has no active bleeding. What is the appropriate management decision?",
+    "choices": [
+      "A. Initiate prophylactic platelet transfusion.",
+      "B. Initiate a course of high-dose corticosteroids.",
+      "C. Transfuse immediately, as the threshold is met.",
+      "D. Hold all therapy and monitor daily.",
+      "E. Splenectomy immediately."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "In ITP, treatment is indicated if the platelet count is **$<30,000/\mu l$**. Corticosteroids are the first-line treatment. (p. 250)",
+    "tags": [
+      "ITP",
+      "treatment"
+    ]
+  },
+  {
+    "id": 1269,
+    "question": "Which of the following conditions is **not** required to be excluded before making a definitive diagnosis of **Immune Thrombocytopenia (ITP)**?",
+    "choices": [
+      "A. HIV infection.",
+      "B. HCV infection.",
+      "C. Hypothyroidism.",
+      "D. Chronic Lymphocytic Leukemia (CLL).",
+      "E. Systemic Lupus Erythematosus (SLE)."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "ITP is a diagnosis of exclusion. Conditions like HIV, HCV, SLE, and CLL must be excluded as causes of secondary immune thrombocytopenia. While autoimmune thyroid diseases are common in ITP, **hypothyroidism** is not explicitly listed as a primary condition that must be excluded before the diagnosis of ITP is made. (p. 249, 250)",
+    "tags": [
+      "ITP",
+      "diagnosis_of_exclusion"
+    ]
+  },
+  {
+    "id": 1270,
+    "question": "What is the primary factor used to define the category of **Severe Thrombocytopenia**?",
+    "choices": [
+      "A. Presence of petechiae.",
+      "B. Platelet count **$<50,000/\mu l$**.",
+      "C. Platelet count $<100,000/\mu l$ with thrombosis.",
+      "D. Drop in platelet count by $50\%$ from baseline.",
+      "E. Presence of a splenectomy scar."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.1 Thrombocytopenia in hospitalized patients",
+    "explanation": "Severe thrombocytopenia is defined quantitatively by a platelet count of **$<50,000/\mu l$**. (p. 246)",
+    "tags": [
+      "thrombocytopenia",
+      "definition"
+    ]
+  },
+  {
+    "id": 1271,
+    "question": "A patient with ITP has a platelet count of $35,000/\mu l$ and is asymptomatic. What is the recommended management?",
+    "choices": [
+      "A. Initiate a course of high-dose corticosteroids.",
+      "B. Active monitoring with no immediate treatment.",
+      "C. Platelet transfusion immediately.",
+      "D. Urgent splenectomy consultation.",
+      "E. Warfarin anticoagulation."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "For patients with ITP, if the platelet count is **$>30,000/\mu l$ and there is no active bleeding**, they generally do **not need treatment** and should be followed with **active monitoring**. (p. 250)",
+    "tags": [
+      "ITP",
+      "management"
+    ]
+  },
+  {
+    "id": 1272,
+    "question": "A patient with newly diagnosed ITP (platelet count $20,000/\mu l$) is started on oral Prednisolone $1 \text{ mg/kg}$ daily. If responsive, how long should the initial high dose typically be continued before beginning to taper?",
+    "choices": [
+      "A. 4 days.",
+      "B. 1-2 weeks.",
+      "C. 4 weeks.",
+      "D. 3 months.",
+      "E. 6 months."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "For Prednisolone, the initial high dose ($1 \text{ mg/kg}$) is typically given for **1-2 weeks** before tapering begins. (p. 251)",
+    "tags": [
+      "ITP",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1273,
+    "question": "A patient with thrombocytopenia (platelet count $15,000/\mu l$) is being evaluated for ITP. Which finding would make the diagnosis of ITP **unlikely** and prompt a search for a secondary cause?",
+    "choices": [
+      "A. Absence of active bleeding.",
+      "B. Normal white blood cell and hemoglobin counts.",
+      "C. Concomitant low hemoglobin and low WBC count.",
+      "D. History of recent viral illness.",
+      "E. Isolated platelet decrease."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "ITP is characterized by **isolated thrombocytopenia** (normal WBC and Hb). The presence of **concomitant cytopenia** (low Hb and WBC) would make ITP **unlikely** and suggests an alternative diagnosis like malignancy or systemic failure. (p. 249)",
+    "tags": [
+      "ITP",
+      "diagnosis",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "id": 1274,
+    "question": "A patient with ITP is treated with Dexamethasone and achieves a platelet count $>50,000/\mu l$. The ITP condition is now classified as:",
+    "choices": [
+      "A. Treatment failure.",
+      "B. Response.",
+      "C. Relapse.",
+      "D. Chronic.",
+      "E. Steroid resistance."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.2.2 Immune Thrombocytopenia (ITP)",
+    "explanation": "Response is defined as achieving a platelet count **$>30,000/\mu l$ and at least doubling from the baseline**. Achieving $>50,000/\mu l$ meets the 'response' criteria. (p. 251)",
+    "tags": [
+      "ITP",
+      "response_criteria"
+    ]
+  },
+  {
+    "id": 1275,
+    "question": "What is the duration of the IM phase of the initial treatment schedule for Cyanocobalamin in severe Vitamin $\text{B}_{12}$ deficiency?",
+    "choices": [
+      "A. 1 day.",
+      "B. 3 days.",
+      "C. 7 days.",
+      "D. 14 days.",
+      "E. 30 days."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "The initial treatment schedule is $\text{B}_{12}$ IM **every day for one week** (7 days). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "treatment",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1276,
+    "question": "The most common etiology of anemia in the general population of developing countries is:",
+    "choices": [
+      "A. Hemolytic anemia.",
+      "B. Megaloblastic anemia.",
+      "C. Iron deficiency anemia.",
+      "D. Anemia of chronic disease.",
+      "E. Aplastic anemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "**Iron deficiency anemia** is explicitly stated as a **common cause of anemia worldwide** and is the most prevalent nutritional anemia. (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "epidemiology"
+    ]
+  },
+  {
+    "id": 1277,
+    "question": "A patient presents with severe anemia ($\text{Hb } 6.8 \text{ g/dl}$) and a history of gastric bypass surgery. He is hemodynamically stable. What type of anemia is **most likely** in this setting, and what is the key cause?",
+    "choices": [
+      "A. Hemolytic anemia; Autoimmune destruction.",
+      "B. Iron deficiency anemia; Chronic blood loss.",
+      "C. Megaloblastic anemia; $\text{B}_{12}$ malabsorption.",
+      "D. Normocytic anemia; Acute hemorrhage.",
+      "E. Anemia of Chronic Disease; Inflammation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "**Gastric surgery** (bypass/gastrectomy) can lead to impaired production of intrinsic factor, causing **Vitamin $\text{B}_{12}$ malabsorption**, which results in **Megaloblastic Anemia**. (p. 241)",
+    "tags": [
+      "megaloblastic_anemia",
+      "etiology",
+      "gastric_surgery"
+    ]
+  },
+  {
+    "id": 1278,
+    "question": "What is the hematologic definition of Anemia for an **adult female**?",
+    "choices": [
+      "A. $\text{Hb } <11.0 \text{ g/dl}$ or $\text{Hct } <33\%$",
+      "B. $\text{Hb } <12 \text{ g/dl}$ or $\text{Hct } <36\%$",
+      "C. $\text{Hb } <13 \text{ g/dl}$ or $\text{Hct } <39\%$",
+      "D. $\text{Hb } <14 \text{ g/dl}$ or $\text{Hct } <42\%$",
+      "E. $\text{Hb } <10.0 \text{ g/dl}$ regardless of $\text{Hct}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.1.1 Approach to adults with anemia",
+    "explanation": "WHO criteria define anemia in adult females as **$\text{Hb } <12 \text{ g/dl}$** or $\text{Hct } <36\%$. (p. 236)",
+    "tags": [
+      "anemia",
+      "WHO_criteria",
+      "hematology"
+    ]
+  },
+  {
+    "id": 1279,
+    "question": "A patient with $\text{Hb } 9.0 \text{ g/dl}$, $\text{MCV } 115 \text{ fl}$. Peripheral smear shows large $\text{RBCs}$ and $\text{WBCs}$. What is the most likely cause of his macrocytic anemia?",
+    "choices": [
+      "A. Hemolysis.",
+      "B. Iron deficiency.",
+      "C. Vitamin $\text{B}_{12}$ or Folate deficiency.",
+      "D. Acute blood loss.",
+      "E. Thalassemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.3 Megaloblastic anemia",
+    "explanation": "Macrocytic anemia with abnormal $\text{WBC}$ precursors (Megaloblasts) is characteristic of **Megaloblastic Anemia** ($\text{B}_{12}$ or Folate deficiency). (p. 242)",
+    "tags": [
+      "megaloblastic_anemia",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1280,
+    "question": "What is the recommended total dose of **Ferrous Sulfate** ($325 \text{ mg}$) to be taken daily for an adult being treated for iron deficiency anemia?",
+    "choices": [
+      "A. One tablet daily.",
+      "B. One tablet BID.",
+      "C. One tablet TID.",
+      "D. Two tablets BID.",
+      "E. Four tablets daily."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.1.2 Iron deficiency anemia",
+    "explanation": "The recommended dose for Ferrous Sulfate is $325 \text{ mg}$ PO **TID** (three times daily). (p. 238)",
+    "tags": [
+      "iron_deficiency_anemia",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1281,
+    "question": "A 55-year-old hospitalized medical patient is being considered for Packed Red Blood Cell (PRBC) transfusion due to fatigue. He has no cardiac symptoms or active bleeding. His current Hemoglobin (Hb) is $7.5 \text{ g/dl}$. Based on general guidelines, what is the appropriate transfusion decision?",
+    "choices": [
+      "A. Transfuse immediately because Hb is below the threshold of $8.0 \text{ g/dl}$ for medical patients.",
+      "B. Transfuse only if Hb drops below $6.0 \text{ g/dl}$ to conserve blood products.",
+      "C. Transfuse immediately because $\text{Hb}$ is below the threshold of $7.0 \text{ g/dl}$ for medical patients.",
+      "D. Transfuse only if he develops hemodynamic instability or symptoms of tissue hypoxia.",
+      "E. Transfuse only if undergoing major surgery soon."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Transfusion is generally indicated at $\text{Hb} <7.0 \text{ g/dl}$ for most hospitalized medical patients. The appropriate threshold for transfusion in this stable patient is $\text{Hb} <7 \text{ g/dl}$ or if they become symptomatic for anemia (e.g., severe dyspnea, heart failure). (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1282,
+    "question": "A 68-year-old male with a history of Chronic Coronary Syndrome (CCS) is admitted for non-cardiac surgery. His pre-operative Hb is $8.2 \text{ g/dl}$. What is the recommended transfusion threshold for this patient?",
+    "choices": [
+      "A. Transfuse if $\text{Hb}$ drops below $10.0 \text{ g/dl}$.",
+      "B. Transfuse if $\text{Hb}$ drops below $9.0 \text{ g/dl}$.",
+      "C. Transfuse if $\text{Hb}$ drops below $8.0 \text{ g/dl}$.",
+      "D. Transfuse if $\text{Hb}$ drops below $7.0 \text{ g/dl}$.",
+      "E. Transfuse only if active bleeding occurs during surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Transfusion is indicated for patients with pre-existing **chronic cardiac disease** or those undergoing orthopedic or cardiac surgery if the **$\text{Hb}$ is below $8.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold",
+      "cardiac_disease"
+    ]
+  },
+  {
+    "id": 1283,
+    "question": "A 25-year-old trauma patient is rushed to the $\text{ER}$ with active, uncontrolled bleeding following a motor vehicle accident. His initial $\text{Hb}$ is $12.0 \text{ g/dl}$. What is the primary guiding factor for the immediate blood product administration?",
+    "choices": [
+      "A. Wait for the $\text{Hb}$ to drop below $8.0 \text{ g/dl}$.",
+      "B. Wait for the $\text{Hb}$ to drop below $7.0 \text{ g/dl}$.",
+      "C. Transfuse based on the **hemodynamic status and ongoing nature of bleeding**.",
+      "D. Transfuse only fresh frozen plasma (FFP).",
+      "E. Give crystalloids and withhold blood products until $\text{Hb}$ drops."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "In **acutely bleeding patients**, $\text{Hb}$ or $\text{Hct}$ values can be falsely elevated. Transfusion decisions should be based on the **hemodynamic status and ongoing nature of bleeding**, not just the initial $\text{Hb}$ value. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "acute_bleeding",
+      "hemodynamic_status"
+    ]
+  },
+  {
+    "id": 1284,
+    "question": "During a blood transfusion, a patient suddenly develops **fever, chills, and flank pain**. You suspect an Acute Intravascular Hemolytic Reaction. What is the **first and most critical step** in management?",
+    "choices": [
+      "A. Administer IV Hydrocortisone $100 \text{ mg}$.",
+      "B. Administer IV Epinephrine.",
+      "C. **Stop the transfusion immediately.**",
+      "D. Slow the infusion rate and monitor.",
+      "E. Administer IV Furosemide."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "In an acute reaction, the **first and most critical step** is to **Stop the transfusion and remove the giving set**. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "hemolytic_reaction",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1285,
+    "question": "A patient undergoing an $\text{RBC}$ transfusion develops urticaria and itching without respiratory distress or hemodynamic changes. Which type of reaction is most likely, and what is the appropriate intervention?",
+    "choices": [
+      "A. Anaphylactic reaction; IV Epinephrine.",
+      "B. Febrile Non-Hemolytic Transfusion Reaction; Antipyretics.",
+      "C. Transfusion-Associated Circulatory Overload (TACO); Furosemide.",
+      "D. **Mild Allergic Reaction; Antihistamines.**",
+      "E. Acute Hemolytic Reaction; Stop transfusion."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Urticaria and itching alone suggest a **mild allergic reaction**. In mild reactions, the response is to give **antihistamines**. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "allergic_reaction"
+    ]
+  },
+  {
+    "id": 1286,
+    "question": "A physician orders blood transfusion for a patient with severe chronic anemia and a $\text{Hb}$ of $6.0 \text{ g/dl}$. The patient has known Congestive Heart Failure ($\text{CHF}$). What is the critical modification needed for this transfusion?",
+    "choices": [
+      "A. Transfuse Whole Blood instead of $\text{PRBC}$s.",
+      "B. Transfuse at a **slow rate** (e.g., $10 \text{ ml/kg}$ over $4 \text{ hours}$) and administer concurrent **diuretics**.",
+      "C. Transfuse $\text{PRBCs}$ rapidly to quickly correct the anemia.",
+      "D. Transfuse only after the $\text{CHF}$ symptoms are fully resolved.",
+      "E. Administer high-dose IV corticosteroids before transfusion."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Patients with **Heart Failure** are at high risk of **Transfusion-Associated Circulatory Overload (TACO)**. The transfusion must be given at a **slow rate** ($\sim 10 \text{ ml/kg}$ over $4 \text{ hours}$ for children with $\text{CHF}$) and often with concurrent **diuretics** to prevent fluid overload. (p. 237, 828)",
+    "tags": [
+      "PRBC_transfusion",
+      "CHF",
+      "TACO"
+    ]
+  },
+  {
+    "id": 1287,
+    "question": "A patient with anemia and thrombocytopenia is actively bleeding and requires transfusion. Which blood product provides both $\text{RBCs}$ and functioning coagulation factors (Factor V and VIII) as well as plasma proteins?",
+    "choices": [
+      "A. Fresh Frozen Plasma (FFP).",
+      "B. Packed Red Blood Cells (PRBCs).",
+      "C. Cryoprecipitate.",
+      "D. **Fresh Whole Blood**.",
+      "E. Washed Red Blood Cells."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "**Whole Blood** contains $\text{RBCs}$, plasma, and stable coagulation factors, making it preferable in **acute or ongoing hemorrhage**. $\text{PRBCs}$ lack plasma and coagulation factors. (p. 252, 252)",
+    "tags": [
+      "blood_products",
+      "whole_blood",
+      "hemorrhage"
+    ]
+  },
+  {
+    "id": 1288,
+    "question": "A patient develops sudden severe difficulty breathing, angioedema, and hypotension immediately after a transfusion begins. What is the diagnosis, and what is the most appropriate next step after stopping the transfusion?",
+    "choices": [
+      "A. Febrile Non-Hemolytic Reaction; Administer Antipyretics.",
+      "B. Acute Hemolytic Reaction; Administer IV fluids.",
+      "C. **Anaphylactic Reaction; Administer IV Epinephrine.**",
+      "D. TACO; Administer IV Furosemide.",
+      "E. Sepsis; Start IV broad-spectrum antibiotics."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Severe systemic symptoms like difficulty breathing, angioedema, and hypotension immediately suggest **Anaphylactic Reaction**. The management, after stopping the transfusion, includes supportive care and immediate administration of **IV Epinephrine**. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "anaphylaxis",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1289,
+    "question": "A physician plans to transfuse a patient with severe chronic anemia who is otherwise stable and asymptomatic. The $\text{Hb}$ is $6.5 \text{ g/dl}$. What principle guides this decision?",
+    "choices": [
+      "A. Transfusion is mandatory for $\text{Hb} <7.0 \text{ g/dl}$ in all patients.",
+      "B. Transfusion is reserved for patients with $\text{Hb} <5.0 \text{ g/dl}$.",
+      "C. **Individualized assessment** is needed; stable $\text{Hb} <7.0 \text{ g/dl}$ in chronic anemia may not require transfusion.",
+      "D. Chronic anemia patients require the same threshold as surgical patients ($8.0 \text{ g/dl}$).",
+      "E. Transfusion is only needed if the anemia is microcytic."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Transfusion decisions should be made based on clinical findings and **individual patient needs**. For **ambulatory patients with chronic anemia**, transfusion may not be needed even at $\text{Hb} <7 \text{ g/dl}$ **unless they have severe symptoms**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "chronic_anemia",
+      "individualized_care"
+    ]
+  },
+  {
+    "id": 1290,
+    "question": "A patient receiving a blood transfusion develops a fever $\text{(38.5}^\circ C)$ and chills 30 minutes into the transfusion, with no other symptoms. The blood bag appears intact. What is the most likely reaction type, and what is the next step after stopping the transfusion?",
+    "choices": [
+      "A. Anaphylactic reaction; IV Epinephrine.",
+      "B. **Febrile Non-Hemolytic Transfusion Reaction (FNHTR); Administer Antipyretics.**",
+      "C. Acute Hemolytic Reaction; Administer IV fluids and Furosemide.",
+      "D. Sepsis (due to contaminated blood); Start broad-spectrum antibiotics.",
+      "E. TACO; Slow infusion rate."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Fever and chills, without signs of hemolysis, allergy, or fluid overload, suggest **FNHTR**. After stopping the transfusion, administering **antipyretics** is the appropriate management. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "FNHTR"
+    ]
+  },
+  {
+    "id": 1291,
+    "question": "What is the recommended $\text{Hb}$ threshold for $\text{RBC}$ transfusion for **most hospitalized medical or surgical patients** who are not actively bleeding and do not have chronic cardiac disease?",
+    "choices": [
+      "A. $\text{Hb} <10.0 \text{ g/dl}$.",
+      "B. $\text{Hb} <9.0 \text{ g/dl}$.",
+      "C. $\text{Hb} <8.0 \text{ g/dl}$.",
+      "D. $\text{Hb} <7.0 \text{ g/dl}$.",
+      "E. $\text{Hb} <6.0 \text{ g/dl}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For **most hospitalized medical or surgical patients** who are not actively bleeding, transfusion is generally indicated if **$\text{Hb} <7.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1292,
+    "question": "A patient receiving a blood transfusion develops hives, shortness of breath, and hypotension within 5 minutes. After stopping the transfusion, what critical action is required immediately?",
+    "choices": [
+      "A. Contact the blood bank only.",
+      "B. Start IV fluids and observe.",
+      "C. Administer IV Hydrocortisone $100 \text{ mg}$ only.",
+      "D. **Administer IV Epinephrine** and manage airway/circulation.",
+      "E. Start broad-spectrum antibiotics."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "This is an **Anaphylactic Reaction**. After stopping the transfusion, immediate management includes securing the airway/circulation and administering **IV Epinephrine**. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "anaphylaxis",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1293,
+    "question": "What is the key difference between **Packed Red Blood Cells (PRBCs)** and **Whole Blood** in terms of composition?",
+    "choices": [
+      "A. $\text{PRBCs}$ contain no $\text{RBCs}$; Whole Blood contains plasma.",
+      "B. $\text{PRBCs}$ contain plasma and coagulation factors; Whole Blood does not.",
+      "C. $\text{PRBCs}$ contain few coagulation factors or plasma; Whole Blood contains both.",
+      "D. Whole Blood contains no $\text{RBCs}$; $\text{PRBCs}$ contain only $\text{RBCs}$.",
+      "E. Both contain equal amounts of plasma and $\text{RBCs}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "**PRBCs** contain $\text{RBCs}$ with **little to no plasma or coagulation factors**. **Whole Blood** contains $\text{RBCs}$, plasma, and stable coagulation factors. (p. 252, 252)",
+    "tags": [
+      "blood_products",
+      "composition"
+    ]
+  },
+  {
+    "id": 1294,
+    "question": "What is the recommended $\text{Hb}$ threshold for $\text{RBC}$ transfusion for a patient with pre-existing **Chronic Coronary Syndrome (CCS)** or those undergoing cardiac surgery?",
+    "choices": [
+      "A. $\text{Hb} <10.0 \text{ g/dl}$.",
+      "B. $\text{Hb} <9.0 \text{ g/dl}$.",
+      "C. $\text{Hb} <8.0 \text{ g/dl}$.",
+      "D. $\text{Hb} <7.0 \text{ g/dl}$.",
+      "E. Transfusion is contraindicated in $\text{CCS}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For patients with pre-existing **chronic cardiac disease** (or undergoing major cardiac/orthopedic surgery), the threshold is **$\text{Hb} <8.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold",
+      "cardiac_disease"
+    ]
+  },
+  {
+    "id": 1295,
+    "question": "A stable patient with chronic anemia ($\text{Hb } 6.5 \text{ g/dl}$) is refused blood transfusion by the physician. What is the most likely reasoning for this decision?",
+    "choices": [
+      "A. The $\text{Hb}$ is too high; target $\text{Hb}$ for transfusion is $<5.0 \text{ g/dl}$.",
+      "B. The patient requires $\text{FFP}$ first, not $\text{PRBCs}$.",
+      "C. $\text{PRBCs}$ should only be used in acute bleeding.",
+      "D. **Transfusion is not needed** if the patient is **stable and asymptomatic**.",
+      "E. The patient is at high risk for Anaphylaxis."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "In **ambulatory patients with chronic anemia**, transfusion may not be needed even at $\text{Hb} <7 \text{ g/dl}$ **unless they have severe symptoms** (e.g., severe dyspnea, heart failure). (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "chronic_anemia",
+      "transfusion_indication"
+    ]
+  },
+  {
+    "id": 1296,
+    "question": "What is the recommended maximum time to complete a single unit of Packed $\text{RBC}$ transfusion after removal from the blood bank refrigerator?",
+    "choices": [
+      "A. 1 hour.",
+      "B. 2 hours.",
+      "C. 3 hours.",
+      "D. **4 hours**.",
+      "E. 6 hours."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Both Whole Blood and Packed $\text{RBC}$s must be started within $30$ minutes of removal from the refrigerator and completed within **$4$ hours** to maintain product quality and minimize bacterial growth. (p. 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "safety",
+      "timing"
+    ]
+  },
+  {
+    "id": 1297,
+    "question": "A trauma patient is actively bleeding. Which blood product is considered potentially superior to $\text{PRBCs}$ for this scenario?",
+    "choices": [
+      "A. $\text{FFP}$ only.",
+      "B. Platelets only.",
+      "C. **Whole Blood**.",
+      "D. Washed $\text{RBCs}$.",
+      "E. Crystalloids."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "**Whole Blood** is often **preferred** in cases of **acute hemorrhage** because it contains both $\text{RBCs}$ and plasma/coagulation factors, aiding simultaneous volume and oxygen-carrying replacement. (p. 237, 252)",
+    "tags": [
+      "blood_products",
+      "acute_bleeding",
+      "whole_blood"
+    ]
+  },
+  {
+    "id": 1298,
+    "question": "A patient with no active bleeding and stable vital signs has a $\text{Hb}$ of $9.5 \text{ g/dl}$. The physician chooses not to transfuse. What is the most accurate supporting principle for this decision?",
+    "choices": [
+      "A. The target $\text{Hb}$ for all stable patients is $>10 \text{ g/dl}$.",
+      "B. Transfusion is a non-beneficial intervention.",
+      "C. $\text{RBC}$ transfusions are often associated with high mortality.",
+      "D. Transfusion should only be used when necessary, considering its **benefits versus risks**.",
+      "E. $\text{Hb} <8.0 \text{ g/dl}$ is the strict threshold for all non-cardiac patients."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Blood products should only be used when they are appropriately indicated, as **transfusion is associated with many adverse effects** and should be used only when the **benefit outweighs the risk**. (p. 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "risk_benefit",
+      "necessity"
+    ]
+  },
+  {
+    "id": 1299,
+    "question": "In the event of an acute, severe **Anaphylactic** transfusion reaction, what is the single most important pharmacologic intervention after stopping the transfusion?",
+    "choices": [
+      "A. IV Furosemide.",
+      "B. IV Diphenhydramine.",
+      "C. IV Hydrocortisone.",
+      "D. **IV Epinephrine**.",
+      "E. IV Ampicillin."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For anaphylaxis, the immediate priority (after stopping the transfusion) is supportive care and administration of **IV Epinephrine**. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "anaphylaxis",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1300,
+    "question": "A patient receiving a $\text{PRBC}$ transfusion develops a fever, chills, and severe back pain. After stopping the transfusion, what critical laboratory action must be performed?",
+    "choices": [
+      "A. Wait 24 hours to repeat $\text{Hb}$ and $\text{Hct}$.",
+      "B. Immediately send the remaining blood product and patient samples for cross-match and **re-grouping/testing**.",
+      "C. Only administer antipyretics and observe.",
+      "D. Start IVIg immediately.",
+      "E. Discard the blood bag and document the reaction."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Suspected Acute Hemolytic Reaction requires stopping the transfusion, contacting the blood bank, and sending samples for re-grouping and re-testing. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "hemolytic_reaction",
+      "procedure"
+    ]
+  },
+  {
+    "id": 1301,
+    "question": "What is the minimum recommended time to observe a patient after initiating a new blood transfusion?",
+    "choices": [
+      "A. 1 minute.",
+      "B. 5 minutes.",
+      "C. **10 minutes**.",
+      "D. 30 minutes.",
+      "E. 60 minutes."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "The patient should be observed for the **first $10$ minutes** after a new transfusion is started, and vital signs recorded, as this is when the most severe acute reactions occur. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "safety",
+      "timing"
+    ]
+  },
+  {
+    "id": 1302,
+    "question": "What is the recommended $\text{RBC}$ transfusion threshold for a patient with pre-existing **Chronic Heart Failure** who is stable?",
+    "choices": [
+      "A. $\text{Hb} <10.0 \text{ g/dl}$.",
+      "B. $\text{Hb} <9.0 \text{ g/dl}$.",
+      "C. **$\text{Hb} <8.0 \text{ g/dl}$**.",
+      "D. $\text{Hb} <7.0 \text{ g/dl}$.",
+      "E. Transfusion is contraindicated in $\text{CHF}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For patients with pre-existing **chronic cardiac disease** (such as $\text{CHF}$), the threshold for transfusion is **$\text{Hb} <8.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold",
+      "CHF"
+    ]
+  },
+  {
+    "id": 1303,
+    "question": "A patient is admitted with a severe $\text{GI}$ bleed. His initial $\text{Hb}$ is $11.0 \text{ g/dl}$. Which factor should guide the decision to transfuse?",
+    "choices": [
+      "A. Wait for $\text{Hb}$ to drop to $7.0 \text{ g/dl}$.",
+      "B. **Hemodynamic instability and ongoing bleeding**.",
+      "C. Wait for coagulation profile normalization.",
+      "D. Only $\text{FFP}$ should be administered.",
+      "E. Patient's age."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "In **acutely bleeding patients** (like severe $\text{GI}$ bleed), transfusion decisions must be based on **hemodynamic status and ongoing nature of bleeding**, as $\text{Hb}$ is often falsely normal. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "acute_bleeding",
+      "hemodynamic_status"
+    ]
+  },
+  {
+    "id": 1304,
+    "question": "A patient with severe chronic anemia is denied transfusion. What is the key risk that the patient must be monitored for?",
+    "choices": [
+      "A. Sepsis.",
+      "B. Anaphylaxis.",
+      "C. **Symptoms of tissue hypoxia (e.g., cardiac symptoms)**.",
+      "D. Thrombosis.",
+      "E. Drug overdose."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Since the anemia is chronic and stable, the main reason to transfuse is to address **severe symptoms** or **tissue hypoxia** (e.g., heart failure). The patient must be monitored for the onset of these symptoms. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "chronic_anemia",
+      "monitoring"
+    ]
+  },
+  {
+    "id": 1305,
+    "question": "A patient is receiving a blood transfusion. What is the appropriate initial action if the patient develops **uncontrolled rigors** and a high fever?",
+    "choices": [
+      "A. Slow the infusion rate.",
+      "B. Administer IV Epinephrine.",
+      "C. **Stop the transfusion immediately.**",
+      "D. Administer IV Hydrocortisone.",
+      "E. Continue the transfusion but warm the blood."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Fever, chills, and rigors are signs of an acute reaction (e.g., FNHTR, hemolytic reaction). The **first and most critical step** is to **Stop the transfusion immediately**. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1306,
+    "question": "Which of the following is **not** a recommended **contraindication** or caution for initiating a blood transfusion?",
+    "choices": [
+      "A. Concern for Transfusion-Associated Circulatory Overload (TACO).",
+      "B. Patient refusing the transfusion.",
+      "C. **Patient having an $\text{Hb}$ of $11.0 \text{ g/dl}$ and is asymptomatic.**",
+      "D. Risk of Acute Hemolytic Reaction.",
+      "E. Anaphylaxis to blood product."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Transfusion should be used when appropriately indicated. An $\text{Hb}$ of $11.0 \text{ g/dl}$ in an asymptomatic patient is above the recommended threshold for most cases, meaning transfusion is **not indicated**, but this value is **not a contraindication** to transfuse if another indication were present. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 1307,
+    "question": "A patient in the $\text{ER}$ is diagnosed with severe shock from active hemorrhage. What type of blood product is preferred in this emergency situation?",
+    "choices": [
+      "A. Fresh Frozen Plasma (FFP).",
+      "B. Platelets.",
+      "C. **Whole Blood**.",
+      "D. PRBCs.",
+      "E. Cryoprecipitate."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "**Whole Blood** is often **preferred** in cases of **acute hemorrhage** because it provides simultaneous volume replacement and oxygen-carrying capacity. (p. 237, 252)",
+    "tags": [
+      "blood_products",
+      "acute_bleeding",
+      "whole_blood"
+    ]
+  },
+  {
+    "id": 1308,
+    "question": "A patient with no active bleeding is scheduled for minor surgery. His $\text{Hb}$ is $7.8 \text{ g/dl}$. What is the recommended transfusion decision?",
+    "choices": [
+      "A. Transfuse immediately, $\text{Hb} <8.0 \text{ g/dl}$ is the threshold for all surgical patients.",
+      "B. **Transfusion is not needed** if the patient is stable and has no cardiac disease.",
+      "C. Transfuse if the surgery is major.",
+      "D. Transfuse if $\text{Hb} <7.0 \text{ g/dl}$.",
+      "E. Transfuse $\text{FFP}$ only."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For **most hospitalized medical or surgical patients**, the threshold is **$\text{Hb} <7.0 \text{ g/dl}$**. Since this is **minor surgery** and $\text{Hb}$ is $7.8 \text{ g/dl}$, transfusion is likely **not needed**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1309,
+    "question": "A 45-year-old patient with chronic $\text{CHF}$ presents with $\text{Hb } 7.5 \text{ g/dl}$ and is symptomatic (dyspnea at rest). What is the recommended management for his anemia?",
+    "choices": [
+      "A. **Transfuse $\text{PRBCs}$ at a slow rate and administer concurrent diuretics.**",
+      "B. Start oral iron monotherapy.",
+      "C. Wait until $\text{Hb} <7.0 \text{ g/dl}$ before transfusing.",
+      "D. Administer IV fluids rapidly to manage dyspnea.",
+      "E. Transfuse Whole Blood."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "$\text{Hb} <8.0 \text{ g/dl}$ in a patient with $\text{CHF}$ is an indication for transfusion. Due to the high risk of $\text{TACO}$, the transfusion must be given **slowly with concurrent diuretics**. (p. 237, 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "CHF",
+      "TACO"
+    ]
+  },
+  {
+    "id": 1310,
+    "question": "What is a major risk of discontinuing the continuous monitoring of the patient immediately after a blood transfusion is complete?",
+    "choices": [
+      "A. Acute Hemolytic Reaction.",
+      "B. Anaphylactic Reaction.",
+      "C. **Delayed Transfusion Reaction (e.g., Delayed Hemolytic, TACO)**.",
+      "D. Transfusion-Related Acute Lung Injury (TRALI).",
+      "E. FNHTR."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "While immediate reactions are critical, delayed reactions (e.g., delayed hemolytic, TACO) can occur after the infusion is complete. Monitoring should continue for some time after transfusion. (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "delayed_reaction"
+    ]
+  },
+  {
+    "id": 1311,
+    "question": "In the event of an acute, severe transfusion reaction (e.g., hemolytic or anaphylactic), what must be done with the remaining blood product and patient samples?",
+    "choices": [
+      "A. Discard the blood product immediately.",
+      "B. **Send the remaining blood product and patient samples for re-grouping/testing.**",
+      "C. Re-refrigerate the remaining blood for later use.",
+      "D. Document the reaction and start antibiotics empirically.",
+      "E. Continue the infusion in another patient."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "After stopping the transfusion, the remaining blood product and patient samples must be sent back to the blood bank for investigation (re-grouping/testing). (p. 252)",
+    "tags": [
+      "transfusion_reaction",
+      "procedure"
+    ]
+  },
+  {
+    "id": 1312,
+    "question": "A patient has active bleeding and is requiring massive transfusion. The appropriate goal for $\text{Hb}$ during this active resuscitation phase is:",
+    "choices": [
+      "A. $\text{Hb} <7.0 \text{ g/dl}$.",
+      "B. $\text{Hb} <8.0 \text{ g/dl}$.",
+      "C. **Transfusion decisions based on ongoing blood loss and hemodynamic status, not $\text{Hb}$ alone.**",
+      "D. $\text{Hb}$ of $10.0 \text{ g/dl}$ is required.",
+      "E. $\text{Hb}$ of $12.0 \text{ g/dl}$ is required."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "In **acutely bleeding patients**, transfusion decisions must be based on **hemodynamic status and ongoing blood loss**, as $\text{Hb}$ can be falsely normal. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "acute_bleeding",
+      "hemodynamic_status"
+    ]
+  },
+  {
+    "id": 1313,
+    "question": "What is an important factor to check before administering a blood transfusion to a patient?",
+    "choices": [
+      "A. Patient's insurance status.",
+      "B. Patient's religious affiliation.",
+      "C. **Patient's identity and blood product label compatibility.**",
+      "D. Patient's $\text{BMI}$.",
+      "E. Patient's marital status."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "A critical step during a transfusion reaction (and as a safety measure before any transfusion) is to **Check the blood bag labels and patient's identity**. (p. 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "safety",
+      "identification"
+    ]
+  },
+  {
+    "id": 1314,
+    "question": "A stable, hospitalized medical patient has an $\text{Hb}$ of $6.8 \text{ g/dl}$. What is the recommended transfusion management?",
+    "choices": [
+      "A. Transfuse only if $\text{Hb} <6.0 \text{ g/dl}$.",
+      "B. Transfuse only if symptomatic.",
+      "C. **Transfuse $\text{PRBCs}$ to target a higher $\text{Hb}$**.",
+      "D. Transfuse $\text{FFP}$ only.",
+      "E. Transfuse $\text{PRBCs}$ only after $48$ hours of observation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For **most hospitalized medical patients**, transfusion is generally indicated if **$\text{Hb} <7.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1315,
+    "question": "A 40-year-old patient with no cardiac history is admitted with $\text{Hb } 6.5 \text{ g/dl}$. What is the $\text{RBC}$ transfusion decision?",
+    "choices": [
+      "A. Transfuse only if $\text{Hb} <6.0 \text{ g/dl}$.",
+      "B. Transfuse only if symptomatic.",
+      "C. **Transfusion is indicated for $\text{Hb} <7.0 \text{ g/dl}$**.",
+      "D. Transfuse only if $\text{MCV}$ is low.",
+      "E. Transfuse only $\text{FFP}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For **most hospitalized medical or surgical patients**, the threshold is **$\text{Hb} <7.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1316,
+    "question": "A patient with Chronic Kidney Disease ($\text{CKD}$) and $\text{Hb } 7.8 \text{ g/dl}$ requires blood transfusion. The rate of transfusion should be monitored closely to prevent:",
+    "choices": [
+      "A. Hypokalemia.",
+      "B. **Transfusion-Associated Circulatory Overload (TACO)**.",
+      "C. Febrile Non-Hemolytic Reaction (FNHTR).",
+      "D. Acute Kidney Injury (AKI).",
+      "E. Delayed Hemolytic Reaction."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Patients with **CKD** are at high risk for **TACO** due to their inability to excrete volume efficiently. (p. 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "CKD",
+      "TACO"
+    ]
+  },
+  {
+    "id": 1317,
+    "question": "A patient with $\text{Hb } 8.5 \text{ g/dl}$ and $\text{CCS}$ is being considered for transfusion before minor surgery. What is the transfusion decision?",
+    "choices": [
+      "A. Transfuse immediately, $\text{Hb} <8.0 \text{ g/dl}$ is the threshold for all surgical patients.",
+      "B. **Transfusion is not needed** if the patient is stable.",
+      "C. Transfuse if the surgery is major.",
+      "D. Transfuse if $\text{Hb} <7.0 \text{ g/dl}$.",
+      "E. Transfuse $\text{FFP}$ only."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "The $\text{Hb} <8.0 \text{ g/dl}$ threshold applies to patients with $\text{CCS}$ or major surgery. Since $\text{Hb}$ is $8.5 \text{ g/dl}$ and the surgery is **minor**, transfusion is likely **not needed** if stable. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold",
+      "CCS"
+    ]
+  },
+  {
+    "id": 1318,
+    "question": "A patient is receiving a blood transfusion. What is the mandatory time to complete the single unit infusion?",
+    "choices": [
+      "A. Within $1$ hour.",
+      "B. Within $2$ hours.",
+      "C. Within $3$ hours.",
+      "D. **Within $4$ hours**.",
+      "E. Within $6$ hours."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "The infusion must be completed within **$4$ hours** of removal from the blood bank refrigerator. (p. 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "safety",
+      "timing"
+    ]
+  },
+  {
+    "id": 1319,
+    "question": "What is the recommended $\text{RBC}$ transfusion threshold for a stable, asymptomatic patient on a general medical ward?",
+    "choices": [
+      "A. $\text{Hb} <10.0 \text{ g/dl}$.",
+      "B. $\text{Hb} <9.0 \text{ g/dl}$.",
+      "C. $\text{Hb} <8.0 \text{ g/dl}$.",
+      "D. **$\text{Hb} <7.0 \text{ g/dl}$**.",
+      "E. $\text{Hb} <6.0 \text{ g/dl}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "For **most hospitalized medical or surgical patients**, the threshold is **$\text{Hb} <7.0 \text{ g/dl}$**. (p. 237)",
+    "tags": [
+      "PRBC_transfusion",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1320,
+    "question": "A patient with severe chronic anemia ($\text{Hb } 6.5 \text{ g/dl}$) and no symptoms is denied transfusion. What principle supports this refusal?",
+    "choices": [
+      "A. Blood is ineffective in chronic anemia.",
+      "B. $\text{FFP}$ is required first.",
+      "C. **Avoidance of unnecessary adverse events** associated with transfusion.",
+      "D. The $\text{Hb}$ is too low to transfuse.",
+      "E. The patient is likely infected."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.3 Blood Transfusion and Transfusion Reactions",
+    "explanation": "Transfusion is associated with many adverse effects. It should only be used when necessary to avoid **unnecessary adverse events** (e.g., FNHTR, allergic reactions, $\text{TACO}$). (p. 252)",
+    "tags": [
+      "PRBC_transfusion",
+      "safety",
+      "adverse_events"
+    ]
+  },
+
+  {
+    "id": 1321,
+    "question": "A 70-year-old hospitalized medical patient is assessed using the **IMPROVE-VTE Risk Assessment Model**. He has active cancer, an $\text{ICU}$ stay, and is over 60 years old. What is his total risk score, and is VTE prophylaxis indicated?",
+    "choices": [
+      "A. Score $3$; Prophylaxis is not indicated.",
+      "B. Score $3$; **Prophylaxis is indicated.**",
+      "C. Score $5$; Prophylaxis is not indicated.",
+      "D. Score $5$; **Prophylaxis is indicated.**",
+      "E. Score $2$; Prophylaxis is indicated."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "IMPROVE-VTE Risk Score: Active Cancer ($1$ point) + $\text{ICU}$ stay ($1$ point) + Age $>60 \text{ years}$ ($1$ point) = $3$ points. However, the IMPROVE criteria also give: Known Thrombophilia ($3$ points), Previous $\text{VTE}$ ($3$ points), **Malignancy (Active or treated in the last $6$ months)** ($2$ points), Current lower limb paralysis ($2$ points), Immobility $>7$ days ($1$ point), Age $>60 \text{ years}$ ($1$ point), and $\text{ICU}$ stay ($1$ point). Using the updated scoring for Malignancy/Age/ICU: Malignancy ($2$ points) + Age $>60 \text{ years}$ ($1$ point) + $\text{ICU}$ stay ($1$ point) $= 4$ points. The cutoff for **Moderate Risk is $2-3$** and **High Risk is $\ge 4$**. The most recent simplified criteria use $2$ or more points as an indication for prophylaxis. If using the points in the table provided: Malignancy ($1$ point) + Age $>60 \text{ years}$ ($1$ point) + $\text{ICU}$ stay ($1$ point) $= 3$ points. If score is $\ge 2$, prophylaxis is indicated. **Score $3$ points, Prophylaxis is indicated.** (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "IMPROVE_VTE_score"
+    ]
+  },
+  {
+    "id": 1322,
+    "question": "A 50-year-old medical patient is hospitalized and immobilized for 10 days due to pneumonia. He has no other risk factors for $\text{VTE}$. What is the recommended management for $\text{VTE}$ prophylaxis?",
+    "choices": [
+      "A. **Start Enoxaparin $40 \text{ mg}$ $\text{SC}$ daily.**",
+      "B. Start Warfarin $5 \text{ mg}$ PO daily.",
+      "C. No pharmacologic prophylaxis is needed, encourage ambulation.",
+      "D. Start aspirin $81 \text{ mg}$ PO daily.",
+      "E. Start $\text{VTE}$ prophylaxis only if $\text{DVT}$ symptoms occur."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "Immobilization $\ge 7 \text{ days}$ is a $\text{VTE}$ risk factor ($\ge 2$ points required for prophylaxis, and prolonged immobilization alone meets this in some protocols or contributes to a high score). Enoxaparin or Unfractionated Heparin ($\text{UFH}$) is the recommended pharmacologic prophylaxis for hospitalized medical patients. (p. 254)",
+    "tags": [
+      "VTE_prophylaxis",
+      "medical_patients",
+      "immobilization"
+    ]
+  },
+  {
+    "id": 1323,
+    "question": "A 45-year-old patient is admitted with a new diagnosis of **Deep Vein Thrombosis (DVT)** of the left leg. What is the standard initial pharmacologic therapy?",
+    "choices": [
+      "A. Start Warfarin $5 \text{ mg}$ PO daily monotherapy.",
+      "B. **Start Enoxaparin $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$ PLUS Warfarin $5 \text{ mg}$ PO daily.**",
+      "C. Start Aspirin $325 \text{ mg}$ PO daily monotherapy.",
+      "D. Start $\text{UFH}$ infusion monotherapy.",
+      "E. Insert Inferior Vena Cava (IVC) filter immediately."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Acute treatment of $\text{DVT}$ requires a dual approach: immediate anticoagulation with a fast-acting agent like **Enoxaparin (LMWH) or $\text{UFH}$**, started simultaneously with **Warfarin**. LMWH is dosed at $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$. The LMWH/UFH is continued until the $\text{INR}$ is therapeutic ($2.0-3.0$). (p. 257, 258)",
+    "tags": [
+      "DVT_treatment",
+      "anticoagulation",
+      "initial_therapy"
+    ]
+  },
+  {
+    "id": 1324,
+    "question": "A 35-year-old woman is diagnosed with a **Pulmonary Embolism (PE)** secondary to a reversible risk factor (long-distance air travel). What is the recommended **total duration** of anticoagulation therapy?",
+    "choices": [
+      "A. 6 weeks.",
+      "B. **3-6 months.**",
+      "C. 12 months.",
+      "D. Indefinite (lifelong).",
+      "E. 7 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with $\text{VTE}$ due to a **reversible/time-limited risk factor** (e.g., surgery, transient cause) should receive anticoagulation for **$3-6$ months**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "reversible_cause"
+    ]
+  },
+  {
+    "id": 1325,
+    "question": "A patient is admitted for a major orthopedic surgery (Total Knee Replacement). What is the recommended duration of $\text{VTE}$ prophylaxis with Enoxaparin?",
+    "choices": [
+      "A. 7 days.",
+      "B. 10 days.",
+      "C. **2-4 weeks.**",
+      "D. 3 months.",
+      "E. Prophylaxis is not needed."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For **major orthopedic surgery**, the recommended duration of prophylaxis is typically **$2-4$ weeks**, started $12$ hours after surgery. (p. 254)",
+    "tags": [
+      "VTE_prophylaxis",
+      "orthopedic_surgery",
+      "duration"
+    ]
+  },
+  {
+    "id": 1326,
+    "question": "A patient with a new diagnosis of **Pulmonary Embolism (PE)** is started on **Warfarin**. What is the target therapeutic range for the International Normalized Ratio ($\text{INR}$)?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "PE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1327,
+    "question": "A patient is hospitalized for severe sepsis and is immobilized. His $\text{VTE}$ risk score is $4$. He has active bleeding from a minor $\text{GI}$ ulcer. What is the appropriate $\text{VTE}$ prophylaxis management?",
+    "choices": [
+      "A. Start Enoxaparin $40 \text{ mg}$ $\text{SC}$ daily.",
+      "B. Start $\text{UFH}$ $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "C. **Pharmacologic prophylaxis is contraindicated; manage bleeding first.**",
+      "D. Start Aspirin $81 \text{ mg}$ PO daily.",
+      "E. Apply only pneumatic compression devices."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to **pharmacologic prophylaxis** is **active bleeding** (e.g., from a $\text{GI}$ ulcer). The bleeding risk must be managed first. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "active_bleeding"
+    ]
+  },
+  {
+    "id": 1328,
+    "question": "A patient diagnosed with unprovoked (idiopathic) $\text{VTE}$ is treated with Warfarin. What is the recommended **total duration** of anticoagulation therapy?",
+    "choices": [
+      "A. 6 weeks.",
+      "B. **3-6 months (initial episode)**.",
+      "C. 12 months.",
+      "D. Indefinite (lifelong) if recurrent.",
+      "E. 7 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months** (and indefinite if recurrent). (p. 259)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1329,
+    "question": "A patient with a mechanical heart valve develops $\text{VTE}$. What is the **only available oral anticoagulant** recommended for this patient?",
+    "choices": [
+      "A. Rivaroxaban.",
+      "B. Dabigatran.",
+      "C. Apixaban.",
+      "D. **Warfarin**.",
+      "E. Aspirin."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For patients with **mechanical valves**, mitral valvular disease, or ventricular assist devices, **Warfarin** is the **only oral anticoagulant available** (DOACs are contraindicated). (p. 92)",
+    "tags": [
+      "anticoagulation",
+      "mechanical_valve",
+      "warfarin"
+    ]
+  },
+  {
+    "id": 1330,
+    "question": "A patient with newly diagnosed $\text{PE}$ is started on Enoxaparin and Warfarin. The Enoxaparin should be continued until which $\text{INR}$ goal is met?",
+    "choices": [
+      "A. $\text{INR}$ reaches $1.5$ for one day.",
+      "B. **$\text{INR}$ is therapeutic ($\text{2.0-3.0}$) for two consecutive days.**",
+      "C. $\text{INR}$ reaches $4.0$ for one day.",
+      "D. $\text{INR}$ is $1.8$ for one day.",
+      "E. For a minimum of 5 days, regardless of $\text{INR}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "LMWH (Enoxaparin) or $\text{UFH}$ should be continued until the $\text{INR}$ is **therapeutic ($\text{2.0-3.0}$) for two consecutive days**. (p. 258)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation",
+      "overlap"
+    ]
+  },
+  {
+    "id": 1331,
+    "question": "A 55-year-old medical patient with **severe renal failure ($\text{GFR } <30 \text{ ml/min}$)** and an $\text{IMPROVE}$ score of $4$ requires $\text{VTE}$ prophylaxis. What is a key consideration before starting Enoxaparin?",
+    "choices": [
+      "A. Enoxaparin dose must be doubled.",
+      "B. Enoxaparin is contraindicated; $\text{UFH}$ should be used.",
+      "C. Bleeding risk is high; pharmacologic prophylaxis is contraindicated.",
+      "D. **Dose adjustment (reduction) is required** due to the high bleeding risk with renal failure.",
+      "E. Start Warfarin instead of Enoxaparin."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "**Severe renal failure** is a component of the IMPROVE-VTE **Bleeding Risk Assessment** and increases the risk of bleeding. The use of Enoxaparin often requires **dose adjustment (reduction)** in $\text{GFR} <30 \text{ ml/min}$. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "renal_failure",
+      "safety"
+    ]
+  },
+  {
+    "id": 1332,
+    "question": "A patient is admitted for a **Major General Surgery**. What is the recommended duration for **$\text{VTE}$ prophylaxis**?",
+    "choices": [
+      "A. 7 days.",
+      "B. 10 days.",
+      "C. **2-4 weeks.**",
+      "D. 3 months.",
+      "E. Prophylaxis is not needed."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For **Major General Surgery**, the recommended duration of prophylaxis is typically **$2-4$ weeks**. (p. 254)",
+    "tags": [
+      "VTE_prophylaxis",
+      "general_surgery",
+      "duration"
+    ]
+  },
+  {
+    "id": 1333,
+    "question": "A patient with active cancer is diagnosed with a first $\text{DVT}$. What is the recommended **duration** of anticoagulation therapy?",
+    "choices": [
+      "A. 6 weeks.",
+      "B. 3 months.",
+      "C. 6 months.",
+      "D. **Indefinite (or until the cancer resolves).**",
+      "E. 1 year."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves** due to the high risk of recurrence. (p. 259)",
+    "tags": [
+      "DVT_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1334,
+    "question": "A patient with $\text{VTE}$ is started on Warfarin. Which dietary factor is known to **interfere** with Warfarin's action?",
+    "choices": [
+      "A. High fiber intake.",
+      "B. High protein intake.",
+      "C. **Foods rich in Vitamin $\text{K}$ (e.g., green leafy vegetables).**",
+      "D. High fat intake.",
+      "E. High sugar intake."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Warfarin works by inhibiting $\text{Vitamin} \text{ K}$ dependent clotting factors. **Foods rich in Vitamin $\text{K}$** can interfere with its therapeutic effect. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dietary_interaction",
+      "vitamin_k"
+    ]
+  },
+  {
+    "id": 1335,
+    "question": "A patient requires $\text{VTE}$ prophylaxis post-trauma. What is the recommended dosage of **Enoxaparin**?",
+    "choices": [
+      "A. $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$.",
+      "B. $40 \text{ mg}$ $\text{SC}$ $\text{BID}$.",
+      "C. **$40 \text{ mg}$ $\text{SC}$ daily.**",
+      "D. $20 \text{ mg}$ $\text{SC}$ daily.",
+      "E. $1 \text{ mg/kg}$ $\text{SC}$ daily."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "The standard prophylactic dose of Enoxaparin is **$40 \text{ mg}$ $\text{SC}$ daily**. The $\text{mg/kg}$ dosing is typically used for *treatment* of established $\text{VTE}$. (p. 254)",
+    "tags": [
+      "VTE_prophylaxis",
+      "enoxaparin",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1336,
+    "question": "A patient presents with symptoms suggestive of a $\text{DVT}$. What is the definitive initial imaging method for diagnosis?",
+    "choices": [
+      "A. Plain X-ray of the leg.",
+      "B. **Doppler ultrasound of leg and pelvic veins.**",
+      "C. $\text{CT}$ angiography.",
+      "D. Venography.",
+      "E. $\text{MRI}$ of the leg."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The definitive initial imaging for $\text{DVT}$ is **Doppler ultrasound of leg and pelvic veins**. (p. 257, 258)",
+    "tags": [
+      "DVT_diagnosis",
+      "imaging"
+    ]
+  },
+  {
+    "id": 1337,
+    "question": "A patient with $\text{PE}$ and no identified reversible cause (idiopathic) is being managed long-term. What is the recommended duration of anticoagulation for the **first** such episode?",
+    "choices": [
+      "A. 6 weeks.",
+      "B. **3-6 months.**",
+      "C. 12 months.",
+      "D. Indefinite (lifelong).",
+      "E. 7 days."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months**. Recurrent episodes warrant indefinite therapy. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1338,
+    "question": "A patient is admitted for a Major Orthopedic Surgery. When should **pharmacologic VTE prophylaxis** typically be initiated?",
+    "choices": [
+      "A. $24$ hours post-surgery.",
+      "B. **$12$ hours after surgery.**",
+      "C. $1$ hour pre-surgery.",
+      "D. $48$ hours pre-surgery.",
+      "E. Upon $\text{DVT}$ diagnosis."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For major orthopedic surgery, prophylaxis is typically started **$12$ hours after surgery** for $2-4$ weeks. (p. 254)",
+    "tags": [
+      "VTE_prophylaxis",
+      "timing",
+      "orthopedic_surgery"
+    ]
+  },
+  {
+    "id": 1339,
+    "question": "A patient with $\text{PE}$ and active cancer is being treated. What is the recommended **duration** of anticoagulation?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (or until the cancer resolves).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1340,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is subtherapeutic at $1.8$, what is the appropriate dose adjustment based on the dosing guide?",
+    "choices": [
+      "A. Hold dose and monitor.",
+      "B. Decrease dose by $10\%$.",
+      "C. **Increase dose by $10\%$**.",
+      "D. Increase dose by $20\%$.",
+      "E. Give $\text{Vitamin} \text{ K}$ orally."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$1.6-1.9$**, the dose should be **increased by $10\%$**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1341,
+    "question": "A patient is admitted for pneumonia and is immobilized. His $\text{VTE}$ risk score is $4$. He has no active bleeding or contraindications. What is the appropriate management?",
+    "choices": [
+      "A. **Start Enoxaparin $40 \text{ mg}$ $\text{SC}$ daily.**",
+      "B. No pharmacologic prophylaxis is needed.",
+      "C. Start Warfarin $5 \text{ mg}$ PO daily.",
+      "D. Start Aspirin $81 \text{ mg}$ PO daily.",
+      "E. Start $\text{UFH}$ infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A high $\text{VTE}$ risk score ($\ge 2$ points) and no contraindications mandate **pharmacologic prophylaxis** with $\text{LMWH}$ (Enoxaparin) or $\text{UFH}$. (p. 254, 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "medical_patients"
+    ]
+  },
+  {
+    "id": 1342,
+    "question": "A patient is diagnosed with **recurrent idiopathic $\text{DVT}$**. What is the recommended duration of anticoagulation therapy?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (lifelong).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **recurrent idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation **indefinitely**. (p. 259)",
+    "tags": [
+      "DVT_treatment",
+      "anticoagulation_duration",
+      "recurrent_VTE"
+    ]
+  },
+  {
+    "id": 1343,
+    "question": "A patient with $\text{PE}$ and a mechanical heart valve must be anticoagulated long-term. Which agent is contraindicated?",
+    "choices": [
+      "A. **Rivaroxaban**.",
+      "B. Warfarin.",
+      "C. Unfractionated Heparin ($\text{UFH}$).",
+      "D. Enoxaparin.",
+      "E. Aspirin."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "**Direct Oral Anticoagulants (DOACs)**, such as **Rivaroxaban**, are **contraindicated** in patients with mechanical heart valves. (p. 92)",
+    "tags": [
+      "anticoagulation",
+      "mechanical_valve",
+      "contraindications"
+    ]
+  },
+  {
+    "id": 1344,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $3.5$, with no bleeding, what is the appropriate dose adjustment?",
+    "choices": [
+      "A. **Decrease dose by $20\%$ and hold one dose.**",
+      "B. Increase dose by $10\%$.",
+      "C. Hold dose until $\text{INR} <2.0$.",
+      "D. Give $\text{Vitamin} \text{ K}$ orally.",
+      "E. No adjustment needed."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$3.5-3.9$**, the dose should be **decreased by $20\%$ and one dose should be held**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1345,
+    "question": "A patient develops a new $\text{DVT}$ during hospitalization. The initial therapeutic dosing of **Enoxaparin** is:",
+    "choices": [
+      "A. $40 \text{ mg}$ $\text{SC}$ daily.",
+      "B. **$1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$**.",
+      "C. $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "D. $1 \text{ mg/kg}$ $\text{SC}$ daily.",
+      "E. $80 \text{ mg}$ $\text{SC}$ $\text{BID}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The initial **therapeutic** dosing for $\text{DVT}$ with Enoxaparin is **$1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$**. (p. 258)",
+    "tags": [
+      "DVT_treatment",
+      "enoxaparin",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1346,
+    "question": "What is the recommended anticoagulation goal range for $\text{INR}$ when treating $\text{VTE}$ with Warfarin?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "VTE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1347,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $4.5$ with no bleeding, what is the initial dose adjustment?",
+    "choices": [
+      "A. **Hold dose and decrease by $20-30\%$ when $\text{INR}$ returns to range.**",
+      "B. Increase dose by $10\%$.",
+      "C. Decrease dose by $10\%$.",
+      "D. Start $\text{Vitamin} \text{ K}$ orally.",
+      "E. Continue the same dose."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For an $\text{INR}$ of **$4.0-4.9$**, the initial step is to **Hold the dose until the $\text{INR}$ returns to range, then decrease by $20-30\%$**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1348,
+    "question": "A patient develops a serious, life-threatening bleed while on Warfarin ($\text{INR } >9.0$). What is the **immediate intervention** to reverse the anticoagulation?",
+    "choices": [
+      "A. **Stop Warfarin and replace with Prothrombin Complex Concentrate ($\text{PCC}$) and $\text{Vitamin} \text{ K}$ $\text{IV}$.**",
+      "B. Transfuse $\text{PRBCs}$ only.",
+      "C. Stop Warfarin and give FFP orally.",
+      "D. Decrease Warfarin dose by $50\%$ and observe.",
+      "E. Start Heparin infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For **life-threatening bleeding**, immediate reversal is required. The protocol is to **Stop Warfarin** and give **$\text{PCC}$ and $\text{Vitamin} \text{ K}$ $10 \text{ mg}$ $\text{IV}$**. $\text{FFP}$ is an alternative if $\text{PCC}$ is unavailable. (p. 94)",
+    "tags": [
+      "warfarin",
+      "anticoagulation_reversal",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1349,
+    "question": "A patient is admitted for a Major Orthopedic Surgery (High $\text{VTE}$ risk). Which factor would be a **major contraindication** to starting pharmacologic prophylaxis?",
+    "choices": [
+      "A. Age $>70$ years.",
+      "B. History of mild $\text{DVT}$ 5 years ago.",
+      "C. **Intracranial Hemorrhage (ICH) 3 days ago.**",
+      "D. $\text{Hb}$ of $9.0 \text{ g/dl}$.",
+      "E. Post-operative nausea and vomiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to pharmacologic prophylaxis is **Intracranial Hemorrhage ($\text{ICH}$ of any cause)** or **active bleeding**. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 1350,
+    "question": "A patient is diagnosed with a **Pulmonary Embolism (PE)**. Initial management involves immediate anticoagulation with $\text{LMWH}$ and Warfarin overlap. Which condition is the most appropriate indication for **indefinite** anticoagulation?",
+    "choices": [
+      "A. PE secondary to transient immobilization.",
+      "B. First episode of $\text{PE}$ with no identifiable cause (idiopathic).",
+      "C. **PE associated with active malignancy.**",
+      "D. PE secondary to oral contraceptive use.",
+      "E. PE in a patient with mild hypertension."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** are at high risk of recurrence and require anticoagulation **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1351,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. What is the goal of overlapping Warfarin with $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. To achieve the $\text{INR}$ goal immediately.",
+      "B. **To provide immediate anticoagulation protection until Warfarin is therapeutic.**",
+      "C. To prevent the recurrence of $\text{PE}$ after Warfarin starts.",
+      "D. To dissolve the existing thrombus faster.",
+      "E. To decrease the risk of bleeding."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Warfarin takes several days to become fully therapeutic; therefore, a fast-acting parenteral anticoagulant ($\text{LMWH}$/$\text{UFH}$) must be used concurrently to **provide immediate anticoagulation protection** during the lag phase. (p. 258)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation",
+      "overlap"
+    ]
+  },
+  {
+    "id": 1352,
+    "question": "A patient with acute $\text{DVT}$ is started on **$\text{UFH}$ ($\text{Unfractionated Heparin}$)**. What is the recommended **initial therapeutic dosing**?",
+    "choices": [
+      "A. $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "B. $10,000 \text{ IU}$ $\text{SC}$ daily.",
+      "C. $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$.",
+      "D. **$5000 \text{ IU}$ $\text{IV}$ bolus, then $17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ (for average adult)**.",
+      "E. $40 \text{ mg}$ $\text{SC}$ daily."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The initial therapeutic dosing involves an $\text{IV}$ bolus and then maintenance dosing, which can be $\text{SC}$ (e.g., **$17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ for average adult**) or $\text{IV}$ infusion, until Warfarin is therapeutic. (p. 258)",
+    "tags": [
+      "DVT_treatment",
+      "UFH",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1353,
+    "question": "A patient with $\text{PE}$ and no known risk factors (idiopathic) is being managed long-term. If this is their **first episode**, what is the minimum duration of anticoagulation therapy?",
+    "choices": [
+      "A. 1 month.",
+      "B. **3 months.**",
+      "C. 6 months.",
+      "D. 12 months.",
+      "E. Indefinite."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1354,
+    "question": "Which complication of $\text{VTE}$ is the most life-threatening in the acute setting?",
+    "choices": [
+      "A. Post-thrombotic syndrome.",
+      "B. Chronic venous insufficiency.",
+      "C. **Pulmonary Thrombo-Embolism (PTE)**.",
+      "D. Superficial thrombophlebitis.",
+      "E. Venous ulceration."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "**PTE** (or $\text{PE}$) can be **fatal** and is the most life-threatening manifestation of $\text{VTE}$. (p. 257, 258)",
+    "tags": [
+      "VTE",
+      "complications",
+      "mortality"
+    ]
+  },
+  {
+    "id": 1355,
+    "question": "A 60-year-old medical patient with severe $\text{CKD}$ ($\text{GFR } 25 \text{ ml/min}$) and an $\text{IMPROVE}$ risk score of $4$ requires $\text{VTE}$ prophylaxis. What is the primary concern when prescribing $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. **Increased risk of bleeding due to reduced clearance.**",
+      "B. Ineffective prophylaxis.",
+      "C. Renal damage.",
+      "D. Heparin-Induced Thrombocytopenia (HIT).",
+      "E. Cost."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For patients with **severe renal failure**, the major concern with $\text{LMWH}$ is the **increased risk of bleeding** due to reduced drug clearance. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "renal_failure",
+      "safety"
+    ]
+  },
+  {
+    "id": 1356,
+    "question": "What is the recommended anticoagulation goal range for $\text{INR}$ when treating $\text{VTE}$ with Warfarin?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "VTE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1357,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $3.5$ with no bleeding, what is the appropriate dose adjustment?",
+    "choices": [
+      "A. **Decrease dose by $20\%$ and hold one dose.**",
+      "B. Increase dose by $10\%$.",
+      "C. Hold dose until $\text{INR} <2.0$.",
+      "D. Give $\text{Vitamin} \text{ K}$ orally.",
+      "E. No adjustment needed."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$3.5-3.9$**, the dose should be **decreased by $20\%$ and one dose should be held**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1358,
+    "question": "A patient develops a serious, life-threatening bleed while on Warfarin ($\text{INR } >9.0$). What is the **immediate intervention** to reverse the anticoagulation?",
+    "choices": [
+      "A. **Stop Warfarin and replace with Prothrombin Complex Concentrate ($\text{PCC}$) and $\text{Vitamin} \text{ K}$ $\text{IV}$.**",
+      "B. Transfuse $\text{PRBCs}$ only.",
+      "C. Stop Warfarin and give FFP orally.",
+      "D. Decrease Warfarin dose by $50\%$ and observe.",
+      "E. Start Heparin infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For **life-threatening bleeding**, immediate reversal is required. The protocol is to **Stop Warfarin** and give **$\text{PCC}$ and $\text{Vitamin} \text{ K}$ $10 \text{ mg}$ $\text{IV}$**. $\text{FFP}$ is an alternative if $\text{PCC}$ is unavailable. (p. 94)",
+    "tags": [
+      "warfarin",
+      "anticoagulation_reversal",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1359,
+    "question": "A patient is admitted for a Major Orthopedic Surgery (High $\text{VTE}$ risk). Which factor would be a **major contraindication** to starting pharmacologic prophylaxis?",
+    "choices": [
+      "A. Age $>70$ years.",
+      "B. History of mild $\text{DVT}$ 5 years ago.",
+      "C. **Intracranial Hemorrhage (ICH) 3 days ago.**",
+      "D. $\text{Hb}$ of $9.0 \text{ g/dl}$.",
+      "E. Post-operative nausea and vomiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to pharmacologic prophylaxis is **Intracranial Hemorrhage ($\text{ICH}$ of any cause)** or **active bleeding**. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 1360,
+    "question": "A patient with $\text{PE}$ and active cancer is being treated. What is the recommended **duration** of anticoagulation?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (or until the cancer resolves).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1361,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. What is the goal of overlapping Warfarin with $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. To achieve the $\text{INR}$ goal immediately.",
+      "B. **To provide immediate anticoagulation protection until Warfarin is therapeutic.**",
+      "C. To prevent the recurrence of $\text{PE}$ after Warfarin starts.",
+      "D. To dissolve the existing thrombus faster.",
+      "E. To decrease the risk of bleeding."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Warfarin takes several days to become fully therapeutic; therefore, a fast-acting parenteral anticoagulant ($\text{LMWH}$/$\text{UFH}$) must be used concurrently to **provide immediate anticoagulation protection** during the lag phase. (p. 258)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation",
+      "overlap"
+    ]
+  },
+  {
+    "id": 1362,
+    "question": "A patient with acute $\text{DVT}$ is started on **$\text{UFH}$ ($\text{Unfractionated Heparin}$)**. What is the recommended **initial therapeutic dosing**?",
+    "choices": [
+      "A. $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "B. $10,000 \text{ IU}$ $\text{SC}$ daily.",
+      "C. $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$.",
+      "D. **$5000 \text{ IU}$ $\text{IV}$ bolus, then $17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ (for average adult)**.",
+      "E. $40 \text{ mg}$ $\text{SC}$ daily."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The initial therapeutic dosing involves an $\text{IV}$ bolus and then maintenance dosing, which can be $\text{SC}$ (e.g., **$17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ for average adult**) or $\text{IV}$ infusion, until Warfarin is therapeutic. (p. 258)",
+    "tags": [
+      "DVT_treatment",
+      "UFH",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1363,
+    "question": "A patient with $\text{PE}$ and no known risk factors (idiopathic) is being managed long-term. If this is their **first episode**, what is the minimum duration of anticoagulation therapy?",
+    "choices": [
+      "A. 1 month.",
+      "B. **3 months.**",
+      "C. 6 months.",
+      "D. 12 months.",
+      "E. Indefinite."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1364,
+    "question": "Which complication of $\text{VTE}$ is the most life-threatening in the acute setting?",
+    "choices": [
+      "A. Post-thrombotic syndrome.",
+      "B. Chronic venous insufficiency.",
+      "C. **Pulmonary Thrombo-Embolism (PTE)**.",
+      "D. Superficial thrombophlebitis.",
+      "E. Venous ulceration."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "**PTE** (or $\text{PE}$) can be **fatal** and is the most life-threatening manifestation of $\text{VTE}$. (p. 257, 258)",
+    "tags": [
+      "VTE",
+      "complications",
+      "mortality"
+    ]
+  },
+  {
+    "id": 1365,
+    "question": "A 60-year-old medical patient with severe $\text{CKD}$ ($\text{GFR } 25 \text{ ml/min}$) and an $\text{IMPROVE}$ risk score of $4$ requires $\text{VTE}$ prophylaxis. What is the primary concern when prescribing $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. **Increased risk of bleeding due to reduced clearance.**",
+      "B. Ineffective prophylaxis.",
+      "C. Renal damage.",
+      "D. Heparin-Induced Thrombocytopenia (HIT).",
+      "E. Cost."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For patients with **severe renal failure**, the major concern with $\text{LMWH}$ is the **increased risk of bleeding** due to reduced drug clearance. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "renal_failure",
+      "safety"
+    ]
+  },
+  {
+    "id": 1366,
+    "question": "What is the recommended anticoagulation goal range for $\text{INR}$ when treating $\text{VTE}$ with Warfarin?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "VTE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1367,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $3.5$, with no bleeding, what is the appropriate dose adjustment?",
+    "choices": [
+      "A. **Decrease dose by $20\%$ and hold one dose.**",
+      "B. Increase dose by $10\%$.",
+      "C. Hold dose until $\text{INR} <2.0$.",
+      "D. Give $\text{Vitamin} \text{ K}$ orally.",
+      "E. No adjustment needed."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$3.5-3.9$**, the dose should be **decreased by $20\%$ and one dose should be held**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1368,
+    "question": "A patient develops a serious, life-threatening bleed while on Warfarin ($\text{INR } >9.0$). What is the **immediate intervention** to reverse the anticoagulation?",
+    "choices": [
+      "A. **Stop Warfarin and replace with Prothrombin Complex Concentrate ($\text{PCC}$) and $\text{Vitamin} \text{ K}$ $\text{IV}$.**",
+      "B. Transfuse $\text{PRBCs}$ only.",
+      "C. Stop Warfarin and give FFP orally.",
+      "D. Decrease Warfarin dose by $50\%$ and observe.",
+      "E. Start Heparin infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For **life-threatening bleeding**, immediate reversal is required. The protocol is to **Stop Warfarin** and give **$\text{PCC}$ and $\text{Vitamin} \text{ K}$ $10 \text{ mg}$ $\text{IV}$**. $\text{FFP}$ is an alternative if $\text{PCC}$ is unavailable. (p. 94)",
+    "tags": [
+      "warfarin",
+      "anticoagulation_reversal",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1369,
+    "question": "A patient is admitted for a Major Orthopedic Surgery (High $\text{VTE}$ risk). Which factor would be a **major contraindication** to starting pharmacologic prophylaxis?",
+    "choices": [
+      "A. Age $>70$ years.",
+      "B. History of mild $\text{DVT}$ 5 years ago.",
+      "C. **Intracranial Hemorrhage (ICH) 3 days ago.**",
+      "D. $\text{Hb}$ of $9.0 \text{ g/dl}$.",
+      "E. Post-operative nausea and vomiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to pharmacologic prophylaxis is **Intracranial Hemorrhage ($\text{ICH}$ of any cause)** or **active bleeding**. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 1370,
+    "question": "A patient with $\text{PE}$ and active cancer is being treated. What is the recommended **duration** of anticoagulation?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (or until the cancer resolves).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1371,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. What is the goal of overlapping Warfarin with $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. To achieve the $\text{INR}$ goal immediately.",
+      "B. **To provide immediate anticoagulation protection until Warfarin is therapeutic.**",
+      "C. To prevent the recurrence of $\text{PE}$ after Warfarin starts.",
+      "D. To dissolve the existing thrombus faster.",
+      "E. To decrease the risk of bleeding."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Warfarin takes several days to become fully therapeutic; therefore, a fast-acting parenteral anticoagulant ($\text{LMWH}$/$\text{UFH}$) must be used concurrently to **provide immediate anticoagulation protection** during the lag phase. (p. 258)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation",
+      "overlap"
+    ]
+  },
+  {
+    "id": 1372,
+    "question": "A patient with acute $\text{DVT}$ is started on **$\text{UFH}$ ($\text{Unfractionated Heparin}$)**. What is the recommended **initial therapeutic dosing**?",
+    "choices": [
+      "A. $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "B. $10,000 \text{ IU}$ $\text{SC}$ daily.",
+      "C. $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$.",
+      "D. **$5000 \text{ IU}$ $\text{IV}$ bolus, then $17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ (for average adult)**.",
+      "E. $40 \text{ mg}$ $\text{SC}$ daily."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The initial therapeutic dosing involves an $\text{IV}$ bolus and then maintenance dosing, which can be $\text{SC}$ (e.g., **$17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ for average adult**) or $\text{IV}$ infusion, until Warfarin is therapeutic. (p. 258)",
+    "tags": [
+      "DVT_treatment",
+      "UFH",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1373,
+    "question": "A patient with $\text{PE}$ and no known risk factors (idiopathic) is being managed long-term. If this is their **first episode**, what is the minimum duration of anticoagulation therapy?",
+    "choices": [
+      "A. 1 month.",
+      "B. **3 months.**",
+      "C. 6 months.",
+      "D. 12 months.",
+      "E. Indefinite."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1374,
+    "question": "Which complication of $\text{VTE}$ is the most life-threatening in the acute setting?",
+    "choices": [
+      "A. Post-thrombotic syndrome.",
+      "B. Chronic venous insufficiency.",
+      "C. **Pulmonary Thrombo-Embolism (PTE)**.",
+      "D. Superficial thrombophlebitis.",
+      "E. Venous ulceration."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "**PTE** (or $\text{PE}$) can be **fatal** and is the most life-threatening manifestation of $\text{VTE}$. (p. 257, 258)",
+    "tags": [
+      "VTE",
+      "complications",
+      "mortality"
+    ]
+  },
+  {
+    "id": 1375,
+    "question": "A 60-year-old medical patient with severe $\text{CKD}$ ($\text{GFR } 25 \text{ ml/min}$) and an $\text{IMPROVE}$ risk score of $4$ requires $\text{VTE}$ prophylaxis. What is the primary concern when prescribing $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. **Increased risk of bleeding due to reduced clearance.**",
+      "B. Ineffective prophylaxis.",
+      "C. Renal damage.",
+      "D. Heparin-Induced Thrombocytopenia (HIT).",
+      "E. Cost."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For patients with **severe renal failure**, the major concern with $\text{LMWH}$ is the **increased risk of bleeding** due to reduced drug clearance. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "renal_failure",
+      "safety"
+    ]
+  },
+  {
+    "id": 1376,
+    "question": "What is the recommended anticoagulation goal range for $\text{INR}$ when treating $\text{VTE}$ with Warfarin?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "VTE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1377,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $3.5$, with no bleeding, what is the appropriate dose adjustment?",
+    "choices": [
+      "A. **Decrease dose by $20\%$ and hold one dose.**",
+      "B. Increase dose by $10\%$.",
+      "C. Hold dose until $\text{INR} <2.0$.",
+      "D. Give $\text{Vitamin} \text{ K}$ orally.",
+      "E. No adjustment needed."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$3.5-3.9$**, the dose should be **decreased by $20\%$ and one dose should be held**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1378,
+    "question": "A patient develops a serious, life-threatening bleed while on Warfarin ($\text{INR } >9.0$). What is the **immediate intervention** to reverse the anticoagulation?",
+    "choices": [
+      "A. **Stop Warfarin and replace with Prothrombin Complex Concentrate ($\text{PCC}$) and $\text{Vitamin} \text{ K}$ $\text{IV}$.**",
+      "B. Transfuse $\text{PRBCs}$ only.",
+      "C. Stop Warfarin and give FFP orally.",
+      "D. Decrease Warfarin dose by $50\%$ and observe.",
+      "E. Start Heparin infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For **life-threatening bleeding**, immediate reversal is required. The protocol is to **Stop Warfarin** and give **$\text{PCC}$ and $\text{Vitamin} \text{ K}$ $10 \text{ mg}$ $\text{IV}$**. $\text{FFP}$ is an alternative if $\text{PCC}$ is unavailable. (p. 94)",
+    "tags": [
+      "warfarin",
+      "anticoagulation_reversal",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1379,
+    "question": "A patient is admitted for a Major Orthopedic Surgery (High $\text{VTE}$ risk). Which factor would be a **major contraindication** to starting pharmacologic prophylaxis?",
+    "choices": [
+      "A. Age $>70$ years.",
+      "B. History of mild $\text{DVT}$ 5 years ago.",
+      "C. **Intracranial Hemorrhage (ICH) 3 days ago.**",
+      "D. $\text{Hb}$ of $9.0 \text{ g/dl}$.",
+      "E. Post-operative nausea and vomiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to pharmacologic prophylaxis is **Intracranial Hemorrhage ($\text{ICH}$ of any cause)** or **active bleeding**. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 1380,
+    "question": "A patient with $\text{PE}$ and active cancer is being treated. What is the recommended **duration** of anticoagulation?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (or until the cancer resolves).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1381,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. What is the goal of overlapping Warfarin with $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. To achieve the $\text{INR}$ goal immediately.",
+      "B. **To provide immediate anticoagulation protection until Warfarin is therapeutic.**",
+      "C. To prevent the recurrence of $\text{PE}$ after Warfarin starts.",
+      "D. To dissolve the existing thrombus faster.",
+      "E. To decrease the risk of bleeding."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Warfarin takes several days to become fully therapeutic; therefore, a fast-acting parenteral anticoagulant ($\text{LMWH}$/$\text{UFH}$) must be used concurrently to **provide immediate anticoagulation protection** during the lag phase. (p. 258)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation",
+      "overlap"
+    ]
+  },
+  {
+    "id": 1382,
+    "question": "A patient with acute $\text{DVT}$ is started on **$\text{UFH}$ ($\text{Unfractionated Heparin}$)**. What is the recommended **initial therapeutic dosing**?",
+    "choices": [
+      "A. $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "B. $10,000 \text{ IU}$ $\text{SC}$ daily.",
+      "C. $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$.",
+      "D. **$5000 \text{ IU}$ $\text{IV}$ bolus, then $17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ (for average adult)**.",
+      "E. $40 \text{ mg}$ $\text{SC}$ daily."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The initial therapeutic dosing involves an $\text{IV}$ bolus and then maintenance dosing, which can be $\text{SC}$ (e.g., **$17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ for average adult**) or $\text{IV}$ infusion, until Warfarin is therapeutic. (p. 258)",
+    "tags": [
+      "DVT_treatment",
+      "UFH",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1383,
+    "question": "A patient with $\text{PE}$ and no known risk factors (idiopathic) is being managed long-term. If this is their **first episode**, what is the minimum duration of anticoagulation therapy?",
+    "choices": [
+      "A. 1 month.",
+      "B. **3 months.**",
+      "C. 6 months.",
+      "D. 12 months.",
+      "E. Indefinite."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1384,
+    "question": "Which complication of $\text{VTE}$ is the most life-threatening in the acute setting?",
+    "choices": [
+      "A. Post-thrombotic syndrome.",
+      "B. Chronic venous insufficiency.",
+      "C. **Pulmonary Thrombo-Embolism (PTE)**.",
+      "D. Superficial thrombophlebitis.",
+      "E. Venous ulceration."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "**PTE** (or $\text{PE}$) can be **fatal** and is the most life-threatening manifestation of $\text{VTE}$. (p. 257, 258)",
+    "tags": [
+      "VTE",
+      "complications",
+      "mortality"
+    ]
+  },
+  {
+    "id": 1385,
+    "question": "A 60-year-old medical patient with severe $\text{CKD}$ ($\text{GFR } 25 \text{ ml/min}$) and an $\text{IMPROVE}$ risk score of $4$ requires $\text{VTE}$ prophylaxis. What is the primary concern when prescribing $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. **Increased risk of bleeding due to reduced clearance.**",
+      "B. Ineffective prophylaxis.",
+      "C. Renal damage.",
+      "D. Heparin-Induced Thrombocytopenia (HIT).",
+      "E. Cost."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For patients with **severe renal failure**, the major concern with $\text{LMWH}$ is the **increased risk of bleeding** due to reduced drug clearance. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "renal_failure",
+      "safety"
+    ]
+  },
+  {
+    "id": 1386,
+    "question": "What is the recommended anticoagulation goal range for $\text{INR}$ when treating $\text{VTE}$ with Warfarin?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "VTE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1387,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $3.5$, with no bleeding, what is the appropriate dose adjustment?",
+    "choices": [
+      "A. **Decrease dose by $20\%$ and hold one dose.**",
+      "B. Increase dose by $10\%$.",
+      "C. Hold dose until $\text{INR} <2.0$.",
+      "D. Give $\text{Vitamin} \text{ K}$ orally.",
+      "E. No adjustment needed."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$3.5-3.9$**, the dose should be **decreased by $20\%$ and one dose should be held**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1388,
+    "question": "A patient develops a serious, life-threatening bleed while on Warfarin ($\text{INR } >9.0$). What is the **immediate intervention** to reverse the anticoagulation?",
+    "choices": [
+      "A. **Stop Warfarin and replace with Prothrombin Complex Concentrate ($\text{PCC}$) and $\text{Vitamin} \text{ K}$ $\text{IV}$.**",
+      "B. Transfuse $\text{PRBCs}$ only.",
+      "C. Stop Warfarin and give FFP orally.",
+      "D. Decrease Warfarin dose by $50\%$ and observe.",
+      "E. Start Heparin infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For **life-threatening bleeding**, immediate reversal is required. The protocol is to **Stop Warfarin** and give **$\text{PCC}$ and $\text{Vitamin} \text{ K}$ $10 \text{ mg}$ $\text{IV}$**. $\text{FFP}$ is an alternative if $\text{PCC}$ is unavailable. (p. 94)",
+    "tags": [
+      "warfarin",
+      "anticoagulation_reversal",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1389,
+    "question": "A patient is admitted for a Major Orthopedic Surgery (High $\text{VTE}$ risk). Which factor would be a **major contraindication** to starting pharmacologic prophylaxis?",
+    "choices": [
+      "A. Age $>70$ years.",
+      "B. History of mild $\text{DVT}$ 5 years ago.",
+      "C. **Intracranial Hemorrhage (ICH) 3 days ago.**",
+      "D. $\text{Hb}$ of $9.0 \text{ g/dl}$.",
+      "E. Post-operative nausea and vomiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to pharmacologic prophylaxis is **Intracranial Hemorrhage ($\text{ICH}$ of any cause)** or **active bleeding**. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 1390,
+    "question": "A patient with $\text{PE}$ and active cancer is being treated. What is the recommended **duration** of anticoagulation?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (or until the cancer resolves).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+  {
+    "id": 1391,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. What is the goal of overlapping Warfarin with $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. To achieve the $\text{INR}$ goal immediately.",
+      "B. **To provide immediate anticoagulation protection until Warfarin is therapeutic.**",
+      "C. To prevent the recurrence of $\text{PE}$ after Warfarin starts.",
+      "D. To dissolve the existing thrombus faster.",
+      "E. To decrease the risk of bleeding."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Warfarin takes several days to become fully therapeutic; therefore, a fast-acting parenteral anticoagulant ($\text{LMWH}$/$\text{UFH}$) must be used concurrently to **provide immediate anticoagulation protection** during the lag phase. (p. 258)",
+    "tags": [
+      "VTE_treatment",
+      "anticoagulation",
+      "overlap"
+    ]
+  },
+  {
+    "id": 1392,
+    "question": "A patient with acute $\text{DVT}$ is started on **$\text{UFH}$ ($\text{Unfractionated Heparin}$)**. What is the recommended **initial therapeutic dosing**?",
+    "choices": [
+      "A. $5000 \text{ IU}$ $\text{SC}$ $\text{BID}$.",
+      "B. $10,000 \text{ IU}$ $\text{SC}$ daily.",
+      "C. $1 \text{ mg/kg}$ $\text{SC}$ $\text{BID}$.",
+      "D. **$5000 \text{ IU}$ $\text{IV}$ bolus, then $17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ (for average adult)**.",
+      "E. $40 \text{ mg}$ $\text{SC}$ daily."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The initial therapeutic dosing involves an $\text{IV}$ bolus and then maintenance dosing, which can be $\text{SC}$ (e.g., **$17,500 \text{ IU}$ $\text{SC}$ $\text{BID}$ for average adult**) or $\text{IV}$ infusion, until Warfarin is therapeutic. (p. 258)",
+    "tags": [
+      "DVT_treatment",
+      "UFH",
+      "dosing"
+    ]
+  },
+  {
+    "id": 1393,
+    "question": "A patient with $\text{PE}$ and no known risk factors (idiopathic) is being managed long-term. If this is their **first episode**, what is the minimum duration of anticoagulation therapy?",
+    "choices": [
+      "A. 1 month.",
+      "B. **3 months.**",
+      "C. 6 months.",
+      "D. 12 months.",
+      "E. Indefinite."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with a **first episode of idiopathic/unprovoked $\text{VTE}$** should receive anticoagulation for **$3-6$ months**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "idiopathic_VTE"
+    ]
+  },
+  {
+    "id": 1394,
+    "question": "Which complication of $\text{VTE}$ is the most life-threatening in the acute setting?",
+    "choices": [
+      "A. Post-thrombotic syndrome.",
+      "B. Chronic venous insufficiency.",
+      "C. **Pulmonary Thrombo-Embolism (PTE)**.",
+      "D. Superficial thrombophlebitis.",
+      "E. Venous ulceration."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "**PTE** (or $\text{PE}$) can be **fatal** and is the most life-threatening manifestation of $\text{VTE}$. (p. 257, 258)",
+    "tags": [
+      "VTE",
+      "complications",
+      "mortality"
+    ]
+  },
+  {
+    "id": 1395,
+    "question": "A 60-year-old medical patient with severe $\text{CKD}$ ($\text{GFR } 25 \text{ ml/min}$) and an $\text{IMPROVE}$ risk score of $4$ requires $\text{VTE}$ prophylaxis. What is the primary concern when prescribing $\text{LMWH}$ (Enoxaparin)?",
+    "choices": [
+      "A. **Increased risk of bleeding due to reduced clearance.**",
+      "B. Ineffective prophylaxis.",
+      "C. Renal damage.",
+      "D. Heparin-Induced Thrombocytopenia (HIT).",
+      "E. Cost."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "For patients with **severe renal failure**, the major concern with $\text{LMWH}$ is the **increased risk of bleeding** due to reduced drug clearance. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "renal_failure",
+      "safety"
+    ]
+  },
+  {
+    "id": 1396,
+    "question": "What is the recommended anticoagulation goal range for $\text{INR}$ when treating $\text{VTE}$ with Warfarin?",
+    "choices": [
+      "A. $1.0-1.5$",
+      "B. **$2.0-3.0$**",
+      "C. $2.5-3.5$",
+      "D. $3.0-4.0$",
+      "E. $\text{INR}$ monitoring is not required for $\text{PE}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The anticoagulation goal range for Warfarin in patients with $\text{VTE}$ (DVT/PE) is an $\text{INR}$ of **$2.0-3.0$**. (p. 93, 258)",
+    "tags": [
+      "VTE_treatment",
+      "warfarin",
+      "INR_target"
+    ]
+  },
+  {
+    "id": 1397,
+    "question": "A patient with $\text{DVT}$ is started on Warfarin. If the $\text{INR}$ is $3.5$, with no bleeding, what is the appropriate dose adjustment?",
+    "choices": [
+      "A. **Decrease dose by $20\%$ and hold one dose.**",
+      "B. Increase dose by $10\%$.",
+      "C. Hold dose until $\text{INR} <2.0$.",
+      "D. Give $\text{Vitamin} \text{ K}$ orally.",
+      "E. No adjustment needed."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "The Warfarin dosing guide suggests that for an $\text{INR}$ of **$3.5-3.9$**, the dose should be **decreased by $20\%$ and one dose should be held**. (p. 94)",
+    "tags": [
+      "warfarin",
+      "dosing_adjustment",
+      "INR_management"
+    ]
+  },
+  {
+    "id": 1398,
+    "question": "A patient develops a serious, life-threatening bleed while on Warfarin ($\text{INR } >9.0$). What is the **immediate intervention** to reverse the anticoagulation?",
+    "choices": [
+      "A. **Stop Warfarin and replace with Prothrombin Complex Concentrate ($\text{PCC}$) and $\text{Vitamin} \text{ K}$ $\text{IV}$.**",
+      "B. Transfuse $\text{PRBCs}$ only.",
+      "C. Stop Warfarin and give FFP orally.",
+      "D. Decrease Warfarin dose by $50\%$ and observe.",
+      "E. Start Heparin infusion."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "For **life-threatening bleeding**, immediate reversal is required. The protocol is to **Stop Warfarin** and give **$\text{PCC}$ and $\text{Vitamin} \text{ K}$ $10 \text{ mg}$ $\text{IV}$**. $\text{FFP}$ is an alternative if $\text{PCC}$ is unavailable. (p. 94)",
+    "tags": [
+      "warfarin",
+      "anticoagulation_reversal",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1399,
+    "question": "A patient is admitted for a Major Orthopedic Surgery (High $\text{VTE}$ risk). Which factor would be a **major contraindication** to starting pharmacologic prophylaxis?",
+    "choices": [
+      "A. Age $>70$ years.",
+      "B. History of mild $\text{DVT}$ 5 years ago.",
+      "C. **Intracranial Hemorrhage (ICH) 3 days ago.**",
+      "D. $\text{Hb}$ of $9.0 \text{ g/dl}$.",
+      "E. Post-operative nausea and vomiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.1 Venous thromboembolic disease (VTE) prophylaxis",
+    "explanation": "A major contraindication to pharmacologic prophylaxis is **Intracranial Hemorrhage ($\text{ICH}$ of any cause)** or **active bleeding**. (p. 255)",
+    "tags": [
+      "VTE_prophylaxis",
+      "contraindications",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 1400,
+    "question": "A patient with $\text{PE}$ and active cancer is being treated. What is the recommended **duration** of anticoagulation?",
+    "choices": [
+      "A. 6 months.",
+      "B. 12 months.",
+      "C. **Indefinite (or until the cancer resolves).**",
+      "D. 7 days.",
+      "E. 3 months."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.4.2 Venous Thromboembolism (VTE) Disease: Deep vein thrombosis and pulmonary embolism",
+    "explanation": "Patients with **active malignancy** should generally be treated **indefinitely or until the cancer resolves**. (p. 259)",
+    "tags": [
+      "PE_treatment",
+      "anticoagulation_duration",
+      "active_cancer"
+    ]
+  },
+
+  {
+    "id": 1401,
+    "question": "A 5-year-old child presents with a two-week history of fever, persistent fatigue, and easy bruising. Physical exam shows pallor and hepatosplenomegaly. Initial $\text{CBC}$ shows $\text{WBC } 2,000/\mu l$, $\text{Hb } 7.0 \text{ g/dl}$, and platelets $30,000/\mu l$. **Acute Leukemia** is suspected. What is the **immediate priority** in the general hospital setting?",
+    "choices": [
+      "A. Immediate chemotherapy initiation.",
+      "B. Urgent **referral to a specialized center** for diagnosis and management.",
+      "C. Bone marrow aspiration to confirm diagnosis.",
+      "D. Supportive care only; no referral is needed.",
+      "E. High-dose steroid trial."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Patients with suspected or confirmed **Acute Leukemia** (characterized by cytopenia, fever, and organomegaly) require urgent **referral to a specialized center with hematology oncology service** for diagnosis (bone marrow aspiration) and management. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "pediatrics",
+      "referral"
+    ]
+  },
+  {
+    "id": 1402,
+    "question": "A 65-year-old male presents with fatigue and recurrent infections. $\text{CBC}$ shows pancytopenia ($\text{Hb } 7.5 \text{ g/dl}$, $\text{WBC } 1,500/\mu l$, platelets $40,000/\mu l$). Acute Leukemia is suspected. What is the single **most important** diagnostic step for confirmation?",
+    "choices": [
+      "A. Peripheral blood smear to check for circulating blasts.",
+      "B. $\text{CT}$ scan of the abdomen for lymphadenopathy.",
+      "C. **Bone marrow aspiration/biopsy.**",
+      "D. $\text{LDH}$ and Uric Acid levels.",
+      "E. Blood culture."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "While circulating blasts on peripheral smear is suggestive, the definitive diagnosis of **Acute Leukemia** requires **Bone Marrow Aspiration/Biopsy** to confirm the presence and percentage of blasts. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "diagnosis",
+      "bone_marrow"
+    ]
+  },
+  {
+    "id": 1403,
+    "question": "In a patient with suspected Acute Leukemia, the clinical features are typically the result of:",
+    "choices": [
+      "A. Autoimmune destruction of mature cells.",
+      "B. Infiltration of the spleen and liver only.",
+      "C. **Bone marrow failure** (impaired production of normal cells).",
+      "D. Increased proliferation of blasts only in the peripheral blood.",
+      "E. Chronic inflammation of lymph nodes."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The clinical features of Acute Leukemia (anemia, bleeding, infection) are a direct consequence of **bone marrow failure** and resulting cytopenias (low $\text{RBCs}$, platelets, and dysfunctional $\text{WBCs}$). (p. 259, 260)",
+    "tags": [
+      "acute_leukemia",
+      "pathophysiology",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1404,
+    "question": "A patient with suspected Acute Leukemia has severe anemia ($\text{Hb } 6.0 \text{ g/dl}$). She is hemodynamically stable. What is the appropriate management decision regarding blood transfusion?",
+    "choices": [
+      "A. Transfuse immediately, as $\text{Hb} <7 \text{ g/dl}$ is mandatory for all.",
+      "B. **Transfuse Packed $\text{RBCs}$ to correct severe anemia.**",
+      "C. Defer transfusion until chemotherapy is started.",
+      "D. Transfuse only if she develops active bleeding.",
+      "E. Transfuse only if $\text{Hb} <5.0 \text{ g/dl}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Supportive treatment for Acute Leukemia includes managing cytopenias. **Severe anemia** ($\text{Hb} <7 \text{ g/dl}$) requires transfusion with **Packed $\text{RBCs}$**. (p. 237, 260)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "transfusion"
+    ]
+  },
+  {
+    "id": 1405,
+    "question": "A patient with suspected Acute Leukemia has a high fever ($\text{39.5}^\circ C$) and a neutrophil count of $500/\mu l$. What is the initial management priority for this patient?",
+    "choices": [
+      "A. **Obtain blood cultures and initiate empiric broad-spectrum antibiotics for neutropenic fever.**",
+      "B. Immediate administration of $\text{G-CSF}$.",
+      "C. Start high-dose corticosteroids for presumed inflammation.",
+      "D. Perform immediate bone marrow biopsy.",
+      "E. Supportive care with antipyretics only."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Fever with severe neutropenia (ANC $\le 500/\mu l$) is a **neutropenic fever**, which is a life-threatening emergency. The management priority is to **obtain cultures and start empiric broad-spectrum antibiotics** immediately. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "neutropenic_fever",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1406,
+    "question": "Which type of Acute Leukemia is **more common in children**?",
+    "choices": [
+      "A. Acute Myelogenous Leukemia ($\text{AML}$).",
+      "B. **Acute Lymphoblastic Leukemia ($\text{ALL}$)**.",
+      "C. Chronic Lymphocytic Leukemia ($\text{CLL}$).",
+      "D. Chronic Myelogenous Leukemia ($\text{CML}$).",
+      "E. Hairy Cell Leukemia."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Acute Lymphoblastic Leukemia ($\text{ALL}$)** is the type of acute leukemia that is **more common in children**. ($\text{AML}$ is more common in older adults). (p. 259)",
+    "tags": [
+      "acute_leukemia",
+      "etiology",
+      "pediatrics"
+    ]
+  },
+  {
+    "id": 1407,
+    "question": "A 70-year-old patient presents with symptoms suggestive of Acute Leukemia. Which clinical sign is directly related to **thrombocytopenia**?",
+    "choices": [
+      "A. Fatigue.",
+      "B. Fever.",
+      "C. **Easy bruising and petechiae.**",
+      "D. Splenomegaly.",
+      "E. Bone pain."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Thrombocytopenia** leads to impaired hemostasis, clinically manifesting as **mucocutaneous bleeding, easy bruising, and petechiae/purpura**. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "thrombocytopenia"
+    ]
+  },
+  {
+    "id": 1408,
+    "question": "A patient with suspected Acute Leukemia has a platelet count of $15,000/\mu l$. He has no active bleeding. What is the recommended management regarding platelet replacement?",
+    "choices": [
+      "A. Transfuse platelets immediately, threshold is $<20,000/\mu l$.",
+      "B. **No prophylactic transfusion, as there is no active bleeding.**",
+      "C. Transfuse only if platelet count drops to $<5,000/\mu l$.",
+      "D. Transfuse if $\text{Hb}$ drops below $7.0 \text{ g/dl}$.",
+      "E. Start high-dose Vitamin $\text{K}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Prophylactic platelet transfusion is generally recommended only if the platelet count is **$<10,000/\mu l$** in the absence of active bleeding. (p. 248)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1409,
+    "question": "Which clinical presentation is most common in a 65-year-old patient with **Acute Myelogenous Leukemia ($\text{AML}$)**?",
+    "choices": [
+      "A. New onset dementia.",
+      "B. Insidious onset of fatigue and recurrent infections.",
+      "C. **Rapid onset of fever, fatigue, and easy bruising.**",
+      "D. Painless, slow-growing lymphadenopathy.",
+      "E. Chronic non-productive cough."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Acute Leukemias** (including $\text{AML}$) typically present within a **relatively short period of time** with symptoms related to bone marrow failure: **fever** (from infection), **fatigue** (from anemia), and **easy bruising** (from thrombocytopenia). (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "AML"
+    ]
+  },
+  {
+    "id": 1410,
+    "question": "A patient is suspected of having Acute Leukemia. What is the key abnormality seen on the peripheral blood smear that is highly suggestive of the diagnosis?",
+    "choices": [
+      "A. Schistocytes.",
+      "B. Target cells.",
+      "C. **Circulating blasts.**",
+      "D. Spherocytes.",
+      "E. Howell-Jolly bodies."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "One of the important investigations is the peripheral blood smear to check for **circulating blasts**, which is highly suggestive of Acute Leukemia. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "diagnosis",
+      "blood_smear"
+    ]
+  },
+  {
+    "id": 1411,
+    "question": "A patient with Acute Leukemia has a platelet count of $5,000/\mu l$ and is actively bleeding from the gums. What is the immediate management decision?",
+    "choices": [
+      "A. Wait for the $\text{ANC}$ to increase.",
+      "B. Transfuse only $\text{FFP}$.",
+      "C. **Give platelet transfusion immediately.**",
+      "D. Start empiric Metronidazole.",
+      "E. Defer transfusion until after bone marrow biopsy."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Platelet transfusion is indicated if there is **active bleeding** and the platelet count is **$<50,000/\mu l$**. (p. 248)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "transfusion"
+    ]
+  },
+  {
+    "id": 1412,
+    "question": "What is the primary factor used to define the category of **Severe Neutropenia** in a patient with suspected Acute Leukemia?",
+    "choices": [
+      "A. **Absolute Neutrophil Count (ANC) $<500/\mu l$.**",
+      "B. $\text{WBC} <1,000/\mu l$.",
+      "C. $\text{WBC} <2,000/\mu l$.",
+      "D. $\text{ANC} <1,500/\mu l$.",
+      "E. Fever greater than $\text{38}^\circ C$."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Severe neutropenia is defined as an $\text{ANC}$ **$<500/\mu l$**. (p. 430)",
+    "tags": [
+      "acute_leukemia",
+      "neutropenia",
+      "definition"
+    ]
+  },
+  {
+    "id": 1413,
+    "question": "A 5-year-old child presents with symptoms suggestive of Acute Leukemia. What is the expected course of the disease without treatment?",
+    "choices": [
+      "A. Spontaneous remission after 6 months.",
+      "B. Chronic but stable course for years.",
+      "C. **Rapid progression with high mortality.**",
+      "D. Recurrent infections only.",
+      "E. Insidious onset of neurological symptoms."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Acute Leukemias are rapidly progressing diseases, and **lack of recognition and resulting delayed diagnosis can prove to be fatal**. (p. 259, 260)",
+    "tags": [
+      "acute_leukemia",
+      "prognosis"
+    ]
+  },
+  {
+    "id": 1414,
+    "question": "A patient with suspected Acute Leukemia requires urgent definitive diagnosis. What step should **not** be delayed by the referral process?",
+    "choices": [
+      "A. Chemotherapy initiation.",
+      "B. Bone marrow aspiration.",
+      "C. **Initiation of supportive care for cytopenias and neutropenic fever.**",
+      "D. $\text{CT}$ scan of the abdomen.",
+      "E. Typing for a hematopoietic stem cell transplant."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Patients should be referred urgently, but immediate, on-site management of life-threatening complications like **neutropenic fever and severe cytopenias** (transfusion) should not be delayed by the referral process. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "referral"
+    ]
+  },
+  {
+    "id": 1415,
+    "question": "A 70-year-old male presents with severe fatigue and is found to have Acute Leukemia. Which type is **more common** in this age group?",
+    "choices": [
+      "A. Acute Lymphoblastic Leukemia ($\text{ALL}$).",
+      "B. **Acute Myelogenous Leukemia ($\text{AML}$)**.",
+      "C. Chronic Lymphocytic Leukemia ($\text{CLL}$).",
+      "D. Chronic Myelogenous Leukemia ($\text{CML}$).",
+      "E. Hairy Cell Leukemia."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Acute Myelogenous Leukemia ($\text{AML}$)** is the type of acute leukemia that is **more common in older adults**. ($\text{ALL}$ is more common in children). (p. 259)",
+    "tags": [
+      "acute_leukemia",
+      "etiology",
+      "AML"
+    ]
+  },
+  {
+    "id": 1416,
+    "question": "What is a characteristic symptom related to **anemia** in a patient with Acute Leukemia?",
+    "choices": [
+      "A. Fever.",
+      "B. Splenomegaly.",
+      "C. **Fatigue and exertional shortness of breath.**",
+      "D. Gum bleeding.",
+      "E. Lymphadenopathy."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Symptoms related to **anemia** include **fatigue** and **shortness of breath on exertion**. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "anemia"
+    ]
+  },
+  {
+    "id": 1417,
+    "question": "A 5-year-old child presents with symptoms suggestive of Acute Leukemia. What is the most critical immediate intervention to manage potential complications?",
+    "choices": [
+      "A. Transfusion of $\text{PRBCs}$ for $\text{Hb} <8 \text{ g/dl}$ only.",
+      "B. **Management of neutropenic fever and severe cytopenias.**",
+      "C. Immediate chemotherapy.",
+      "D. Referral for a splenectomy.",
+      "E. High-dose Folic Acid supplementation."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The most immediate life-threatening complication is **neutropenic fever**, and severe cytopenias (anemia, thrombocytopenia) must also be managed urgently. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1418,
+    "question": "A patient with suspected Acute Leukemia has bleeding from the gums and petechiae. This clinical feature is directly related to:",
+    "choices": [
+      "A. Anemia.",
+      "B. Neutropenia.",
+      "C. **Thrombocytopenia.**",
+      "D. High $\text{WBC}$ count.",
+      "E. Splenomegaly."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Gingival bleeding and petechiae are classic signs of **thrombocytopenia** (low platelets). (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "thrombocytopenia"
+    ]
+  },
+  {
+    "id": 1419,
+    "question": "A patient with suspected Acute Leukemia requires definitive diagnosis. Which investigation must be performed at a specialized hematology center?",
+    "choices": [
+      "A. CBC.",
+      "B. Blood cultures.",
+      "C. Chest $\text{X-ray}$.",
+      "D. **Bone Marrow Aspiration/Biopsy.**",
+      "E. $\text{LDH}$ and Uric Acid levels."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Establishing the definitive diagnosis requires the specialized procedure of **Bone Marrow Aspiration/Biopsy** (p. 260).",
+    "tags": [
+      "acute_leukemia",
+      "diagnosis",
+      "referral"
+    ]
+  },
+  {
+    "id": 1420,
+    "question": "A patient with suspected Acute Leukemia has a palpable spleen. This organomegaly is most accurately defined as:",
+    "choices": [
+      "A. Hemorrhage.",
+      "B. Infection.",
+      "C. **Organ infiltration by neoplastic cells.**",
+      "D. Normal finding in leukemia.",
+      "E. Autoimmune reaction."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Organomegaly (hepatosplenomegaly, lymphadenopathy) in leukemia is due to **infiltration by neoplastic cells**. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1421,
+    "question": "The clinical features of Acute Leukemia (fever, fatigue, bleeding) are primarily the result of:",
+    "choices": [
+      "A. T-cell hyperactivity.",
+      "B. Increased total $\text{WBC}$ count.",
+      "C. **Bone marrow failure and cytopenias.**",
+      "D. Lymph node destruction.",
+      "E. Extramedullary hematopoiesis."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The symptoms arise due to **impaired production of normal blood cells** (anemia, thrombocytopenia, and neutropenia/dysfunctional $\text{WBCs}$) leading to **bone marrow failure**. (p. 259, 260)",
+    "tags": [
+      "acute_leukemia",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1422,
+    "question": "A 6-year-old child presents with a two-week history of fatigue, bone pain, and recurrent nosebleeds. $\text{ALL}$ is suspected. What is the critical first step for the general practitioner?",
+    "choices": [
+      "A. **Urgent referral to a specialized hematology center.**",
+      "B. Start oral antibiotics for a presumed infection.",
+      "C. Start oral iron and Folic Acid supplements.",
+      "D. Administer IVIg.",
+      "E. Defer diagnosis until full laboratory workup is available."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Suspected **Acute Leukemia** requires urgent **referral to a specialized center** for immediate diagnosis and management. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "pediatrics",
+      "referral"
+    ]
+  },
+  {
+    "id": 1423,
+    "question": "A patient with suspected Acute Leukemia has severe thrombocytopenia ($10,000/\mu l$) but no active bleeding. What is the recommended management decision?",
+    "choices": [
+      "A. Transfuse platelets immediately.",
+      "B. **No prophylactic transfusion is necessary.**",
+      "C. Transfuse $\text{FFP}$ only.",
+      "D. Start high-dose corticosteroids.",
+      "E. Wait for platelet count to drop to $5,000/\mu l$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Prophylactic platelet transfusion** is generally recommended only if the platelet count is **$<10,000/\mu l$** and is avoided otherwise. (p. 248)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1424,
+    "question": "A patient with Acute Leukemia develops a severe, diffuse $\text{Staphylococcus}$ infection. Which clinical feature associated with Acute Leukemia makes him highly vulnerable to this infection?",
+    "choices": [
+      "A. Anemia ($\text{Hb } <7 \text{ g/dl}$).",
+      "B. Bleeding tendency.",
+      "C. **Neutropenia and dysfunctional $\text{WBCs}$**.",
+      "D. Splenomegaly.",
+      "E. Bone pain."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The increased risk of infection is due to the presence of **neutropenia** and the fact that the circulating $\text{WBCs}$ are **dysfunctional** (blasts). (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "pathophysiology",
+      "infection_risk"
+    ]
+  },
+  {
+    "id": 1425,
+    "question": "What is the hematologic definition of **Severe Neutropenia**?",
+    "choices": [
+      "A. $\text{WBC} <2,000/\mu l$.",
+      "B. $\text{WBC} <1,000/\mu l$.",
+      "C. **$\text{ANC} <500/\mu l$.**",
+      "D. $\text{ANC} <1,500/\mu l$.",
+      "E. $\text{ANC} <200/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Severe neutropenia is defined as an $\text{ANC}$ **$<500/\mu l$**. ($\text{ANC} <100/\mu l$ is profound neutropenia.) (p. 430)",
+    "tags": [
+      "acute_leukemia",
+      "neutropenia",
+      "definition"
+    ]
+  },
+  {
+    "id": 1426,
+    "question": "The definitive diagnosis and sub-typing of Acute Leukemia require which specialized investigation?",
+    "choices": [
+      "A. Peripheral blood smear and $\text{CBC}$.",
+      "B. **Bone Marrow Aspiration/Biopsy and flow cytometry.**",
+      "C. $\text{LDH}$ and Uric Acid levels.",
+      "D. $\text{CT}$ scan of the chest.",
+      "E. $\text{HIV}$ and Hepatitis serology."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The definitive diagnosis and sub-typing (e.g., using **flow cytometry** and cytogenetics) are done on the **Bone Marrow Aspiration/Biopsy** specimen. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "diagnosis",
+      "specialized_investigation"
+    ]
+  },
+  {
+    "id": 1427,
+    "question": "A patient with suspected Acute Leukemia has a palpable spleen. This clinical finding is classified as:",
+    "choices": [
+      "A. Constitutional symptom.",
+      "B. Localized infection.",
+      "C. **Organ infiltration**.",
+      "D. Bleeding diathesis.",
+      "E. Neurologic deficit."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Splenomegaly and hepatomegaly are features of **organ infiltration** by neoplastic cells. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features"
+    ]
+  },
+  {
+    "id": 1428,
+    "question": "A patient is admitted with Acute Leukemia and $\text{Hb } 6.2 \text{ g/dl}$. What is the recommended management regarding blood transfusion?",
+    "choices": [
+      "A. Wait for $\text{Hb}$ to drop to $5.0 \text{ g/dl}$.",
+      "B. **Transfuse Packed $\text{RBCs}$ to correct severe anemia.**",
+      "C. Transfuse $\text{FFP}$ only.",
+      "D. Transfuse if the platelet count is below $10,000/\mu l$.",
+      "E. Transfuse only if $\text{WBC}$ is above $50,000/\mu l$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Supportive treatment for Acute Leukemia includes managing severe anemia ($\text{Hb} <7 \text{ g/dl}$) with **Packed $\text{RBC}$ transfusion**. (p. 237, 260)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "transfusion"
+    ]
+  },
+  {
+    "id": 1429,
+    "question": "In the workup for Acute Leukemia, the presence of bone pain and sternal tenderness is generally related to:",
+    "choices": [
+      "A. $\text{LDH}$ elevation.",
+      "B. Hepatosplenomegaly.",
+      "C. **Bone marrow expansion** by leukemic cells.",
+      "D. Febrile infection.",
+      "E. Secondary osteomyelitis."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Bone pain and sternal tenderness are hematologic findings suggestive of **bone marrow expansion** or infiltration by the malignant cells. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "bone_pain"
+    ]
+  },
+  {
+    "id": 1430,
+    "question": "A patient is suspected of having Acute Leukemia. What is the immediate referral requirement?",
+    "choices": [
+      "A. Elective referral to an oncologist.",
+      "B. **Urgent referral to a specialized hematology oncology center.**",
+      "C. Referral only if $\text{WBC}$ is $>50,000/\mu l$.",
+      "D. Referral only after $\text{Hb}$ and Platelets are normalized.",
+      "E. Referral only for chemotherapy planning."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Patients with suspected Acute Leukemia require **urgent referral to a specialized center** for definitive diagnosis and treatment. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "referral"
+    ]
+  },
+  {
+    "id": 1431,
+    "question": "The clinical features of Acute Leukemia are typically the result of:",
+    "choices": [
+      "A. Hyperplasia of mature myeloid cells.",
+      "B. **Bone marrow infiltration and cytopenia.**",
+      "C. Autoimmune destruction of $\text{RBCs}$.",
+      "D. Chronic viral infection.",
+      "E. $\text{B}_{12}$ deficiency."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The manifestations (anemia, bleeding, infection) are due to **bone marrow failure** resulting from **infiltration by blasts**. (p. 259, 260)",
+    "tags": [
+      "acute_leukemia",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1432,
+    "question": "Which symptom in a patient with suspected Acute Leukemia is directly related to **neutropenia**?",
+    "choices": [
+      "A. Fatigue.",
+      "B. Easy bruising.",
+      "C. **Fever and recurrent infections.**",
+      "D. Splenomegaly.",
+      "E. Bone pain."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Fever and recurrent infections** are signs of **neutropenia** or dysfunction of $\text{WBCs}$. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "neutropenia"
+    ]
+  },
+  {
+    "id": 1433,
+    "question": "A patient is admitted with Acute Leukemia and a platelet count of $40,000/\mu l$. Which intervention is necessary?",
+    "choices": [
+      "A. Prophylactic platelet transfusion.",
+      "B. **No transfusion; monitor for active bleeding.**",
+      "C. $\text{IVIg}$ therapy.",
+      "D. Urgent splenectomy.",
+      "E. Only if platelet count drops to $10,000/\mu l$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Prophylactic platelet transfusion is generally only recommended if platelet count is **$<10,000/\mu l$**. (p. 248)",
+    "tags": [
+      "acute_leukemia",
+      "supportive_care",
+      "transfusion_threshold"
+    ]
+  },
+  {
+    "id": 1434,
+    "question": "The most important initial action for a patient presenting with high fever and severe neutropenia (neutropenic fever) should be:",
+    "choices": [
+      "A. Cooling measures only.",
+      "B. $\text{G-CSF}$ administration.",
+      "C. **Immediate blood cultures and empiric broad-spectrum antibiotics.**",
+      "D. Transfer to another hospital immediately.",
+      "E. Platelet transfusion."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Neutropenic fever** is a life-threatening emergency requiring immediate cultures and **empiric broad-spectrum antibiotics**. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "neutropenic_fever",
+      "emergency_management"
+    ]
+  },
+  {
+    "id": 1435,
+    "question": "What is the key difference in the prognosis between Acute and Chronic Leukemia?",
+    "choices": [
+      "A. Acute has a better prognosis.",
+      "B. **Acute has a rapid, often fatal course; Chronic has a slower, often stable course.**",
+      "C. Chronic is typically managed with chemotherapy; Acute is managed with observation.",
+      "D. Acute only affects children; Chronic only affects adults.",
+      "E. Both have the same prognosis."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Acute Leukemias** have a **rapid, often fatal course** if untreated, whereas Chronic Leukemias have a **slower course** that can be stable for years. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "prognosis",
+      "comparison"
+    ]
+  },
+  {
+    "id": 1436,
+    "question": "The hallmark finding on the peripheral blood smear for Acute Leukemia is:",
+    "choices": [
+      "A. Schistocytes.",
+      "B. Spherocytes.",
+      "C. **Circulating Blasts.**",
+      "D. Howell-Jolly bodies.",
+      "E. Target cells."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The presence of **circulating blasts** on the peripheral blood smear is highly suggestive of Acute Leukemia. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1437,
+    "question": "A patient with Acute Leukemia has a severe infection. This vulnerability is primarily due to the malignant transformation leading to:",
+    "choices": [
+      "A. Elevated $\text{WBC}$ count.",
+      "B. Thrombocytosis.",
+      "C. **Dysfunctional $\text{WBCs}$ and severe neutropenia.**",
+      "D. Anemia.",
+      "E. Hypercalcemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The infection risk is due to the lack of functional mature $\text{WBCs}$ (**neutropenia**) and the poor function of the circulating malignant cells. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "infection_risk"
+    ]
+  },
+  {
+    "id": 1438,
+    "question": "A 70-year-old patient presents with symptoms suggestive of Acute Leukemia. What is the immediate referral requirement?",
+    "choices": [
+      "A. Elective referral to an oncologist.",
+      "B. **Urgent referral to a specialized hematology oncology center.**",
+      "C. Referral only if $\text{WBC}$ is $>50,000/\mu l$.",
+      "D. Referral only after $\text{Hb}$ and Platelets are normalized.",
+      "E. Referral only for chemotherapy planning."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "Patients with suspected Acute Leukemia require **urgent referral to a specialized center** for definitive diagnosis and treatment. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "referral"
+    ]
+  },
+  {
+    "id": 1439,
+    "question": "The clinical features of Acute Leukemia are typically the result of:",
+    "choices": [
+      "A. Hyperplasia of mature myeloid cells.",
+      "B. **Bone marrow infiltration and cytopenia.**",
+      "C. Autoimmune destruction of $\text{RBCs}$.",
+      "D. Chronic viral infection.",
+      "E. $\text{B}_{12}$ deficiency."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The manifestations (anemia, bleeding, infection) are due to **bone marrow failure** resulting from **infiltration by blasts**. (p. 259, 260)",
+    "tags": [
+      "acute_leukemia",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1440,
+    "question": "Which symptom in a patient with suspected Acute Leukemia is directly related to **neutropenia**?",
+    "choices": [
+      "A. Fatigue.",
+      "B. Easy bruising.",
+      "C. **Fever and recurrent infections.**",
+      "D. Splenomegaly.",
+      "E. Bone pain."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "**Fever and recurrent infections** are signs of **neutropenia** or dysfunction of $\text{WBCs}$. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "clinical_features",
+      "neutropenia"
+    ]
+  },
+
+  {
+    "id": 1441,
+    "question": "A 45-year-old patient presents with marked leukocytosis ($150,000/\mu l$) predominantly composed of mature neutrophils, basophils, and eosinophils. Splenomegaly is palpable. **Chronic Myelogenous Leukemia ($\text{CML}$)** is suspected. What is the key molecular finding that is diagnostic for $\text{CML}$?",
+    "choices": [
+      "A. $\text{JAK2}$ mutation.",
+      "B. $\text{BCR-ABL}$ fusion gene (Philadelphia chromosome).",
+      "C. $\text{c-MYC}$ translocation.",
+      "D. $\text{FLT3}$ mutation.",
+      "E. $\text{RAS}$ gene mutation."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The defining molecular abnormality of $\text{CML}$ is the $\text{BCR-ABL}$ fusion gene, which results from the **Philadelphia chromosome** ($\text{t}(9;22)$). (p. 264)",
+    "tags": [
+      "CML",
+      "diagnosis",
+      "molecular_finding"
+    ]
+  },
+  {
+    "id": 1442,
+    "question": "A 60-year-old male is diagnosed with **Chronic Lymphocytic Leukemia ($\text{CLL}$)**. He is asymptomatic and his $\text{CBC}$ shows lymphocytosis ($15,000/\mu l$) with no anemia or thrombocytopenia. Which treatment strategy is recommended?",
+    "choices": [
+      "A. Immediate chemotherapy with fludarabine.",
+      "B. **Observation and monitoring (Wait and Watch).**",
+      "C. Splenectomy.",
+      "D. Long-term steroid therapy.",
+      "E. Radiation therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "For **asymptomatic patients** with $\text{CLL}$ (Stage $0$ Rai/Stage $\text{A}$ Binet), the recommended treatment strategy is **Wait and Watch** (observation with no treatment). (p. 263, 264)",
+    "tags": [
+      "CLL",
+      "management",
+      "wait_and_watch"
+    ]
+  },
+  {
+    "id": 1443,
+    "question": "A patient is newly diagnosed with **Chronic Myelogenous Leukemia ($\text{CML}$)**, Chronic Phase. What is the key therapeutic agent that targets the molecular abnormality?",
+    "choices": [
+      "A. Doxorubicin (Anthracycline).",
+      "B. Cyclophosphamide.",
+      "C. **Imatinib Mesylate (Tyrosine Kinase Inhibitor).**",
+      "D. Vincristine.",
+      "E. Prednisolone."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The $\text{BCR-ABL}$ fusion gene produces the $\text{BCR-ABL}$ **tyrosine kinase**. Treatment targets this enzyme with Tyrosine Kinase Inhibitors ($\text{TKIs}$) like **Imatinib Mesylate**. (p. 265, 266)",
+    "tags": [
+      "CML",
+      "treatment",
+      "TKI"
+    ]
+  },
+  {
+    "id": 1444,
+    "question": "Which finding is considered an **indication for initiating treatment** in a patient with **Chronic Lymphocytic Leukemia ($\text{CLL}$)**?",
+    "choices": [
+      "A. Lymphocytosis alone ($\text{WBC} >10,000/\mu l$).",
+      "B. **Anemia or thrombocytopenia (Stage III/IV Rai).**",
+      "C. $\text{Lymphadenopathy}$ alone.",
+      "D. $\text{Splenomegaly}$ alone.",
+      "E. $\text{B}$ symptoms only."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "Key indications for treatment in $\text{CLL}$ include **Anemia** or **Thrombocytopenia** (Stage $\text{III}$/$\text{IV}$ Rai), symptomatic disease ($\text{B}$-symptoms), or bulky lymphadenopathy/splenomegaly. (p. 263)",
+    "tags": [
+      "CLL",
+      "treatment_indication",
+      "severity"
+    ]
+  },
+  {
+    "id": 1445,
+    "question": "A patient with $\text{CML}$ presents with **Blasts $\ge 20\%$** in the peripheral blood. This indicates progression to which phase of the disease?",
+    "choices": [
+      "A. Chronic Phase.",
+      "B. **Blast Crisis (or Blast Phase).**",
+      "C. Accelerated Phase.",
+      "D. Latent Phase.",
+      "E. Treatment-Induced Remission."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The presence of **Blasts $\ge 20\%$** in the peripheral blood or bone marrow is one of the defining criteria for the **Blast Crisis** phase of $\text{CML}$. (p. 265)",
+    "tags": [
+      "CML",
+      "disease_progression",
+      "blast_crisis"
+    ]
+  },
+  {
+    "id": 1446,
+    "question": "A patient is diagnosed with Chronic Lymphocytic Leukemia ($\text{CLL}$) Stage $\text{A}$ (Binet). What is the expected long-term outcome of this disease management?",
+    "choices": [
+      "A. Cure is the goal with $\text{TKI}$ therapy.",
+      "B. Cure is expected with chemotherapy.",
+      "C. **Management aims at long periods of remission, not cure.**",
+      "D. Death is imminent within 6 months.",
+      "E. Patient is immediately referred for bone marrow transplant."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "The objective of $\text{CLL}$ treatment is **not cure** but to **improve symptoms** and achieve **long periods of remission**. (p. 264)",
+    "tags": [
+      "CLL",
+      "management_goals"
+    ]
+  },
+  {
+    "id": 1447,
+    "question": "A patient presents with a persistent, palpable spleen, extreme leukocytosis ($250,000/\mu l$) with predominant granulocytes. $\text{CML}$ is suspected. What is the immediate management requirement?",
+    "choices": [
+      "A. Immediate chemotherapy.",
+      "B. **Urgent referral to a specialized hematology center.**",
+      "C. Steroid trial.",
+      "D. Symptomatic relief only.",
+      "E. Platelet transfusion."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "Patients with suspected $\text{CML}$ need to be managed by a specialist. The immediate requirement is an **urgent referral to a specialized hematology service** for diagnosis confirmation and TKI therapy initiation. (p. 266)",
+    "tags": [
+      "CML",
+      "referral"
+    ]
+  },
+  {
+    "id": 1448,
+    "question": "The clinical features of **Chronic Lymphocytic Leukemia ($\text{CLL}$)** are related to:",
+    "choices": [
+      "A. Overgrowth of $\text{T}$-lymphocytes.",
+      "B. Production of functioning mature $\text{B}$-cells.",
+      "C. **Clonal proliferation of functionally incompetent, mature appearing lymphoid cells.**",
+      "D. Proliferation of granulocyte precursors.",
+      "E. Deficiency of $\text{B}$-lymphocytes."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "CLL is a lymphoproliferative neoplasm characterized by the **clonal proliferation of functionally incompetent, mature appearing lymphoid cells** ($\text{B}$-cells). (p. 262)",
+    "tags": [
+      "CLL",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1449,
+    "question": "A patient is on Imatinib Mesylate for Chronic Phase $\text{CML}$. What is the most critical monitoring goal for this therapy?",
+    "choices": [
+      "A. Normalization of $\text{WBC}$ count only.",
+      "B. Resolution of splenomegaly only.",
+      "C. **Achieve a complete molecular remission** ($\text{BCR-ABL}$ negativity).",
+      "D. Increase $\text{Hb}$ to $>13 \text{ g/dl}$.",
+      "E. Maintenance of platelet count at $>100,000/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The goal of $\text{TKI}$ therapy is not just hematologic (normal $\text{CBC}$) or cytogenetic remission, but to achieve a **complete molecular remission ($\text{BCR-ABL}$ negativity)**. (p. 266)",
+    "tags": [
+      "CML",
+      "treatment_goals",
+      "TKI"
+    ]
+  },
+  {
+    "id": 1450,
+    "question": "What is the key initial diagnostic step when **Chronic Myelogenous Leukemia ($\text{CML}$)** is suspected based on extreme leukocytosis and splenomegaly?",
+    "choices": [
+      "A. $\text{WBC}$ count is sufficient for diagnosis.",
+      "B. $\text{Bone marrow}$ aspiration.",
+      "C. **Testing for the $\text{BCR-ABL}$ fusion gene/Philadelphia chromosome.**",
+      "D. Serology for $\text{HIV}$ and Hepatitis.",
+      "E. $\text{CT}$ scan of the abdomen."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The definitive diagnosis of $\text{CML}$ relies on confirming the presence of the **Philadelphia chromosome ($\text{BCR-ABL}$ fusion gene)**, typically done by $\text{FISH}$ or reverse transcriptase $\text{PCR}$ from peripheral blood. (p. 266)",
+    "tags": [
+      "CML",
+      "diagnosis",
+      "BCR_ABL"
+    ]
+  },
+  {
+    "id": 1451,
+    "question": "A 55-year-old male with $\text{CLL}$ has persistent fever, drenching night sweats, and unintentional weight loss $>10\%$ in $6$ months. These symptoms are known as:",
+    "choices": [
+      "A. Richter's Transformation.",
+      "B. Autoimmune phenomena.",
+      "C. **$\text{B}$-symptoms**.",
+      "D. Chronic phase symptoms.",
+      "E. Paraneoplastic syndrome."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "Fever ($\text{>38}^\circ C$), drenching night sweats, and unintentional weight loss ($\ge 10\%$ in $6$ months) are known as **$\text{B}$-symptoms** and are an indication for initiating treatment in $\text{CLL}$. (p. 263)",
+    "tags": [
+      "CLL",
+      "clinical_features",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1452,
+    "question": "A patient with $\text{CML}$ in the Chronic Phase is treated with Imatinib. The primary mechanism of action of this drug is to:",
+    "choices": [
+      "A. Inhibit $\text{DNA}$ synthesis of the $\text{B}$-cell clone.",
+      "B. Destroy neoplastic cells via monoclonal antibodies.",
+      "C. **Inhibit the $\text{BCR-ABL}$ tyrosine kinase enzyme.**",
+      "D. Suppress bone marrow proliferation nonspecifically.",
+      "E. Induce apoptosis of mature myeloid cells."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "Imatinib Mesylate is a $\text{TKI}$ that targets and **inhibits the abnormal $\text{BCR-ABL}$ tyrosine kinase enzyme**, which drives $\text{CML}$ proliferation. (p. 265, 266)",
+    "tags": [
+      "CML",
+      "TKI",
+      "mechanism_of_action"
+    ]
+  },
+  {
+    "id": 1453,
+    "question": "A patient with $\text{CLL}$ is found to have anemia ($\text{Hb } 9.0 \text{ g/dl}$) and thrombocytopenia ($90,000/\mu l$). According to the **Rai staging system**, what stage is this patient?",
+    "choices": [
+      "A. Stage $\text{0}$.",
+      "B. Stage $\text{I}$/$\text{II}$.",
+      "C. **Stage $\text{III}$/$\text{IV}$ (High Risk).**",
+      "D. Stage $\text{A}$.",
+      "E. Stage $\text{B}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "Rai staging: $\text{Stage } \text{III}$ is defined by **anemia** ($\text{Hb} <11 \text{ g/dl}$) and $\text{Stage } \text{IV}$ by **thrombocytopenia** (platelets $<100,000/\mu l$). Both stages $\text{III}$ and $\text{IV}$ are classified as **High Risk** and are indications for treatment. (p. 263)",
+    "tags": [
+      "CLL",
+      "staging",
+      "rai_system"
+    ]
+  },
+  {
+    "id": 1454,
+    "question": "A patient with **Chronic Myelogenous Leukemia ($\text{CML}$)** presents with **Blasts $15\%$** in the peripheral blood. This blast percentage is diagnostic for which phase of $\text{CML}$ progression?",
+    "choices": [
+      "A. Chronic Phase.",
+      "B. Blast Crisis.",
+      "C. **Accelerated Phase.**",
+      "D. Latent Phase.",
+      "E. Remission."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The **Accelerated Phase** is defined by criteria including **Blast cells constituting $10 \text{ to } 19\%$** of the cells in the peripheral blood or bone marrow. (p. 265)",
+    "tags": [
+      "CML",
+      "disease_progression",
+      "accelerated_phase"
+    ]
+  },
+  {
+    "id": 1455,
+    "question": "Which of the following is considered the **primary risk factor** for developing **Chronic Myelogenous Leukemia ($\text{CML}$)**?",
+    "choices": [
+      "A. Prior $\text{EBV}$ infection.",
+      "B. **Acquired genetic abnormality (Philadelphia chromosome).**",
+      "C. $\text{HIV}$ infection.",
+      "D. Exposure to high-dose corticosteroids.",
+      "E. Advanced age."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The cause of $\text{CML}$ is the **acquired chromosomal abnormality** known as the **Philadelphia chromosome**, leading to the $\text{BCR-ABL}$ fusion gene. (p. 264)",
+    "tags": [
+      "CML",
+      "etiology",
+      "BCR_ABL"
+    ]
+  },
+  {
+    "id": 1456,
+    "question": "A patient with newly diagnosed **Chronic Lymphocytic Leukemia ($\text{CLL}$)** has a platelet count of $95,000/\mu l$. This finding primarily triggers consideration for:",
+    "choices": [
+      "A. $\text{CML}$ workup.",
+      "B. **Initiation of treatment.**",
+      "C. Active observation only.",
+      "D. Diagnosis of Acute Leukemia.",
+      "E. IVIg therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "**Thrombocytopenia** (platelets $<100,000/\mu l$) is classified as Rai **Stage $\text{IV}$** (High Risk) and is a definitive **indication for initiating treatment** in $\text{CLL}$. (p. 263)",
+    "tags": [
+      "CLL",
+      "treatment_indication"
+    ]
+  },
+  {
+    "id": 1457,
+    "question": "What is the key characteristic of the malignant cells seen in **Chronic Lymphocytic Leukemia ($\text{CLL}$)**?",
+    "choices": [
+      "A. High percentage of blasts.",
+      "B. Proliferation of mature granulocytes.",
+      "C. **Proliferation of mature appearing but functionally incompetent lymphocytes.**",
+      "D. Infiltration of the bone marrow by plasma cells.",
+      "E. Production of abnormal tyrosine kinase."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "CLL is characterized by the **clonal proliferation of functionally incompetent, mature appearing lymphoid cells** ($\text{B}$-cells). (p. 262)",
+    "tags": [
+      "CLL",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1458,
+    "question": "The definitive molecular confirmation for **Chronic Myelogenous Leukemia ($\text{CML}$)** requires detection of the $\text{BCR-ABL}$ gene, which results from a translocation between which two chromosomes?",
+    "choices": [
+      "A. Chromosomes $8$ and $14$.",
+      "B. Chromosomes $15$ and $17$.",
+      "C. **Chromosomes $9$ and $22$.**",
+      "D. Chromosomes $11$ and $14$.",
+      "E. Chromosomes $1$ and $19$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The $\text{BCR-ABL}$ fusion gene, or **Philadelphia chromosome**, results from a translocation between **chromosome $9$ and $22$** ($\text{t}(9;22)$). (p. 264)",
+    "tags": [
+      "CML",
+      "molecular_finding",
+      "Philadelphia_chromosome"
+    ]
+  },
+  {
+    "id": 1459,
+    "question": "What is the characteristic initial treatment for **Chronic Phase $\text{CML}$** once the diagnosis is confirmed?",
+    "choices": [
+      "A. Fludarabine and Cyclophosphamide.",
+      "B. Total body irradiation.",
+      "C. **Tyrosine Kinase Inhibitor (Imatinib).**",
+      "D. Bone marrow transplant.",
+      "E. Watchful waiting."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The treatment of choice for $\text{CML}$ is a **Tyrosine Kinase Inhibitor ($\text{TKI}$) like Imatinib Mesylate**. (p. 265, 266)",
+    "tags": [
+      "CML",
+      "treatment",
+      "TKI"
+    ]
+  },
+  {
+    "id": 1460,
+    "question": "A patient with $\text{CLL}$ is asymptomatic and has only lymphocytosis ($\text{WBC } 18,000/\mu l$) and isolated lymphadenopathy. Which Rai stage is this?",
+    "choices": [
+      "A. Stage $\text{0}$ (Low Risk).",
+      "B. **Stage $\text{I}$ (Intermediate Risk).**",
+      "C. Stage $\text{II}$ (Intermediate Risk).",
+      "D. Stage $\text{III}$ (High Risk).",
+      "E. Stage $\text{IV}$ (High Risk)."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "**Stage $\text{I}$ (Intermediate Risk)** is defined by lymphocytosis and **lymphadenopathy**. Stage $\text{II}$ includes hepatosplenomegaly. (p. 263)",
+    "tags": [
+      "CLL",
+      "staging",
+      "rai_system"
+    ]
+  },
+  {
+    "id": 1461,
+    "question": "The primary management strategy for a patient with asymptomatic Chronic Lymphocytic Leukemia ($\text{CLL}$) is:",
+    "choices": [
+      "A. Immediate aggressive combination chemotherapy.",
+      "B. Prophylactic splenectomy.",
+      "C. **Watch and Watch (Active Observation).**",
+      "D. Daily oral cyclophosphamide.",
+      "E. Weekly radiation therapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "For asymptomatic patients (low risk), the primary management is **Watch and Watch** (observation with no treatment). (p. 263, 264)",
+    "tags": [
+      "CLL",
+      "management",
+      "watch_and_watch"
+    ]
+  },
+  {
+    "id": 1462,
+    "question": "What is the defining clinical feature that distinguishes $\text{CML}$ in the **Blast Crisis** phase from the **Accelerated Phase**?",
+    "choices": [
+      "A. Development of $\text{B}$-symptoms.",
+      "B. Thrombocytopenia.",
+      "C. **Blasts $\ge 20\%$** in the blood/marrow.",
+      "D. Presence of extramedullary disease.",
+      "E. Basophilia $\ge 20\%$."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "**Blast Crisis** is defined by **Blasts $\ge 20\%$** in the peripheral blood or bone marrow, whereas the Accelerated Phase is defined by $10-19\%$ blasts. (p. 265)",
+    "tags": [
+      "CML",
+      "disease_progression"
+    ]
+  },
+  {
+    "id": 1463,
+    "question": "A patient with $\text{CML}$ on Imatinib shows signs of disease progression despite achieving hematologic remission. What is the most likely cause of this failure?",
+    "choices": [
+      "A. Development of severe anemia.",
+      "B. **Resistance of the $\text{BCR-ABL}$ kinase enzyme**.",
+      "C. Secondary $\text{HIV}$ infection.",
+      "D. Development of $\text{CLL}$.",
+      "E. Chronic non-compliance."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "Failure of $\text{TKI}$ therapy is often related to the development of **resistance of the $\text{BCR-ABL}$ kinase enzyme**, often due to specific mutations. (p. 265, 266)",
+    "tags": [
+      "CML",
+      "TKI",
+      "treatment_failure"
+    ]
+  },
+  {
+    "id": 1464,
+    "question": "A patient with $\text{CLL}$ is classified as **Stage $\text{II}$ (Intermediate Risk)** according to the Rai staging system. Which clinical feature defines this stage?",
+    "choices": [
+      "A. Lymphocytosis only.",
+      "B. **Lymphadenopathy PLUS hepatosplenomegaly.**",
+      "C. Anemia ($\text{Hb} <11 \text{ g/dl}$).",
+      "D. Thrombocytopenia (Platelets $<100,000/\mu l$).",
+      "E. $\text{B}$-symptoms only."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "**Stage $\text{II}$** is defined by lymphocytosis and **lymphadenopathy** plus **hepatosplenomegaly**. (p. 263)",
+    "tags": [
+      "CLL",
+      "staging",
+      "rai_system"
+    ]
+  },
+  {
+    "id": 1465,
+    "question": "What is the hallmark peripheral blood smear finding in **Chronic Lymphocytic Leukemia ($\text{CLL}$)**?",
+    "choices": [
+      "A. Circulating blasts.",
+      "B. Proliferation of mature granulocytes.",
+      "C. **Smudge cells (or Smear cells).**",
+      "D. $\text{Auer}$ rods.",
+      "E. Rouleaux formation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "The characteristic finding on peripheral smear for $\text{CLL}$ is the presence of **Smudge cells** (Smear cells). (p. 263)",
+    "tags": [
+      "CLL",
+      "clinical_features",
+      "blood_smear"
+    ]
+  },
+  {
+    "id": 1466,
+    "question": "A 50-year-old male with marked leukocytosis and palpable splenomegaly is suspected of having $\text{CML}$. Which investigation should be immediately prioritized for definitive diagnosis?",
+    "choices": [
+      "A. $\text{LDH}$ level.",
+      "B. $\text{CT}$ scan.",
+      "C. $\text{CBC}$ and differential.",
+      "D. **$\text{BCR-ABL}$ gene test ($\text{FISH}/\text{PCR}$).**",
+      "E. Bone marrow biopsy."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The definitive diagnosis relies on confirming the presence of the **$\text{BCR-ABL}$ gene** (Philadelphia chromosome). (p. 266)",
+    "tags": [
+      "CML",
+      "diagnosis",
+      "BCR_ABL"
+    ]
+  },
+  {
+    "id": 1467,
+    "question": "A patient with $\text{CML}$ in the Chronic Phase begins $\text{TKI}$ therapy. The primary molecular goal of this therapy is:",
+    "choices": [
+      "A. To eliminate the Philadelphia chromosome in $50\%$ of cells.",
+      "B. To achieve complete clinical response.",
+      "C. **To achieve complete molecular remission ($\text{BCR-ABL}$ negativity).**",
+      "D. To normalize platelet count.",
+      "E. To prevent progression to Acute Leukemia."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The treatment goal is to suppress the molecular driver of the disease, aiming for **complete molecular remission ($\text{BCR-ABL}$ negativity)**. (p. 266)",
+    "tags": [
+      "CML",
+      "treatment_goals",
+      "molecular_remission"
+    ]
+  },
+  {
+    "id": 1468,
+    "question": "Which clinical feature is **most likely** to be present in a patient diagnosed with **Chronic Lymphocytic Leukemia ($\text{CLL}$) Stage $0$** (Rai)?",
+    "choices": [
+      "A. Fever and night sweats.",
+      "B. Anemia ($\text{Hb } 9.0 \text{ g/dl}$).",
+      "C. Thrombocytopenia ($90,000/\mu l$).",
+      "D. **Asymptomatic lymphocytosis only.**",
+      "E. Bulky splenomegaly."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "**Stage $0$** ($\text{Low}$ $\text{Risk}$) is defined by **lymphocytosis in the peripheral blood and bone marrow only**, with no other clinical findings like organomegaly or cytopenias. (p. 263)",
+    "tags": [
+      "CLL",
+      "staging",
+      "rai_system"
+    ]
+  },
+  {
+    "id": 1469,
+    "question": "What is the hematologic process characteristic of Chronic Myelogenous Leukemia ($\text{CML}$)?",
+    "choices": [
+      "A. Overgrowth of functionally incompetent lymphocytes.",
+      "B. Acute proliferation of blasts.",
+      "C. **Dysregulated proliferation of the granulocyte cell series.**",
+      "D. Production of abnormal $\text{RBCs}$.",
+      "E. Isolated $\text{B}$-cell proliferation."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "CML is a myeloproliferative neoplasm characterized by the **dysregulated proliferation of the granulocyte cell series**. (p. 264)",
+    "tags": [
+      "CML",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": 1470,
+    "question": "A patient with $\text{CML}$ is on $\text{TKI}$ therapy. Which factor increases the risk of the disease progressing to the Blast Crisis phase?",
+    "choices": [
+      "A. Persistent leukocytosis.",
+      "B. **Development of $\text{TKI}$ resistance.**",
+      "C. Normalization of $\text{WBC}$ count.",
+      "D. Resolution of splenomegaly.",
+      "E. Achievement of molecular remission."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "Progression to the Accelerated or Blast Crisis phase is often preceded by the development of **$\text{TKI}$ resistance** or failure of therapy. (p. 265, 266)",
+    "tags": [
+      "CML",
+      "disease_progression",
+      "TKI"
+    ]
+  },
+  {
+    "id": 1471,
+    "question": "Which feature is characteristic of the **Chronic Phase** of $\text{CML}$?",
+    "choices": [
+      "A. Blasts $\ge 20\%$ in the blood.",
+      "B. Persistent $\text{B}$-symptoms (Fever, night sweats, weight loss).",
+      "C. **Marked leukocytosis with palpable splenomegaly.**",
+      "D. $\text{CLL}$ cells in the peripheral blood.",
+      "E. $\text{Hb} <7 \text{ g/dl}$ requiring transfusion."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The **Chronic Phase** is characterized by **extreme leukocytosis** with predominant granulocytes and often **palpable splenomegaly**. $\text{B}$-symptoms are present, but the phase is largely stable compared to the accelerated phase. (p. 265)",
+    "tags": [
+      "CML",
+      "clinical_features",
+      "chronic_phase"
+    ]
+  },
+  {
+    "id": 1472,
+    "question": "The definitive diagnosis and sub-typing of Acute Leukemia require which specialized investigation?",
+    "choices": [
+      "A. Peripheral blood smear and $\text{CBC}$.",
+      "B. **Bone Marrow Aspiration/Biopsy and flow cytometry.**",
+      "C. $\text{LDH}$ and Uric Acid levels.",
+      "D. $\text{CT}$ scan of the chest.",
+      "E. $\text{HIV}$ and Hepatitis serology."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.5.1 Acute Leukemia",
+    "explanation": "The definitive diagnosis and sub-typing (e.g., using **flow cytometry** and cytogenetics) are done on the **Bone Marrow Aspiration/Biopsy** specimen. (p. 260)",
+    "tags": [
+      "acute_leukemia",
+      "diagnosis",
+      "specialized_investigation"
+    ]
+  },
+  {
+    "id": 1473,
+    "question": "A patient with $\text{CML}$ on $\text{TKI}$ therapy is aiming for **complete molecular remission**. This means the absence of:",
+    "choices": [
+      "A. Splenomegaly.",
+      "B. **$\text{BCR-ABL}$ fusion gene**.",
+      "C. $\text{B}$-symptoms.",
+      "D. Thrombocytopenia.",
+      "E. Anemia."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "Molecular remission is the disappearance of the molecular marker of the disease, the **$\text{BCR-ABL}$ fusion gene**. (p. 266)",
+    "tags": [
+      "CML",
+      "treatment_goals",
+      "molecular_remission"
+    ]
+  },
+  {
+    "id": 1474,
+    "question": "The most common clinical symptom leading to the initiation of therapy in a patient with $\text{CLL}$ is related to:",
+    "choices": [
+      "A. Thrombocytosis.",
+      "B. **$\text{B}$-symptoms (Fever, Night Sweats, Weight Loss).**",
+      "C. Lymphocytosis alone.",
+      "D. Splenomegaly alone.",
+      "E. Development of $\text{CML}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "Therapy is initiated when the disease becomes symptomatic (**$\text{B}$-symptoms** or development of cytopenia/bulky disease). (p. 263)",
+    "tags": [
+      "CLL",
+      "treatment_indication"
+    ]
+  },
+  {
+    "id": 1475,
+    "question": "A patient with $\text{CLL}$ is classified as Rai **Stage $0$ (Low Risk)**. What is the defining feature of this stage?",
+    "choices": [
+      "A. $\text{Lymphadenopathy}$ only.",
+      "B. $\text{Hepatosplenomegaly}$ only.",
+      "C. Anemia ($\text{Hb } <11 \text{ g/dl}$).",
+      "D. Thrombocytopenia (Platelets $<100,000/\mu l$).",
+      "E. **Lymphocytosis in peripheral blood and bone marrow only.**"
+    ],
+    "correctAnswer": 4,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "**Stage $0$** is defined by **lymphocytosis in the peripheral blood and bone marrow only**, without lymphadenopathy, organomegaly, or cytopenias. (p. 263)",
+    "tags": [
+      "CLL",
+      "staging",
+      "rai_system"
+    ]
+  },
+  {
+    "id": 1476,
+    "question": "Which clinical feature is **most likely** to be present in a patient diagnosed with **Chronic Myelogenous Leukemia ($\text{CML}$) Chronic Phase**?",
+    "choices": [
+      "A. Blasts $>20\%$ in blood.",
+      "B. **Palpable splenomegaly.**",
+      "C. Isolated lymphadenopathy.",
+      "D. Severe refractory anemia.",
+      "E. Severe neuropathy."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "**Splenomegaly** (abdominal fullness, early satiety) is the **most common physical finding** in $\text{CML}$ Chronic Phase. (p. 265)",
+    "tags": [
+      "CML",
+      "clinical_features",
+      "chronic_phase"
+    ]
+  },
+  {
+    "id": 1477,
+    "question": "The characteristic presentation of **Chronic Lymphocytic Leukemia ($\text{CLL}$)** cells on peripheral smear includes:",
+    "choices": [
+      "A. $\text{Auer}$ rods.",
+      "B. Circulating blasts.",
+      "C. **Smudge cells (Smear cells).**",
+      "D. Proliferation of mature granulocytes.",
+      "E. Tear drop cells."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "The characteristic finding is the presence of **Smudge cells** (Smear cells). (p. 263)",
+    "tags": [
+      "CLL",
+      "clinical_features",
+      "blood_smear"
+    ]
+  },
+  {
+    "id": 1478,
+    "question": "A patient with $\text{CML}$ in the Chronic Phase is treated with Imatinib. The immediate referral requirement is to a:",
+    "choices": [
+      "A. General Oncologist.",
+      "B. Bone Marrow Transplant Unit.",
+      "C. **Specialized Hematology Center.**",
+      "D. Radiation Oncologist.",
+      "E. Primary Care Physician."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "Patients with suspected or confirmed $\text{CML}$ require an **urgent referral to a specialized hematology service** for TKI therapy initiation and monitoring. (p. 266)",
+    "tags": [
+      "CML",
+      "referral"
+    ]
+  },
+  {
+    "id": 1479,
+    "question": "A patient with Chronic Myelogenous Leukemia ($\text{CML}$) is suspected of progressing to the **Accelerated Phase**. Which finding supports this suspicion?",
+    "choices": [
+      "A. Blasts $5\%$ in peripheral blood.",
+      "B. **Blasts $12\%$ in peripheral blood.**",
+      "C. $\text{CLL}$ cell infiltration.",
+      "D. Normal platelet count.",
+      "E. Resolution of splenomegaly."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.6.2 Chronic Myelogenous Leukemia (CML)",
+    "explanation": "The **Accelerated Phase** is defined by criteria including **Blast cells constituting $10 \text{ to } 19\%$** of the cells in the peripheral blood or bone marrow. (p. 265)",
+    "tags": [
+      "CML",
+      "disease_progression",
+      "accelerated_phase"
+    ]
+  },
+  {
+    "id": 1480,
+    "question": "What is the primary treatment goal for a patient with $\text{CLL}$?",
+    "choices": [
+      "A. **To achieve long periods of remission.**",
+      "B. To achieve complete cure.",
+      "C. To immediately eliminate all lymphadenopathy.",
+      "D. To maintain the lymphocyte count above $50,000/\mu l$.",
+      "E. To prevent splenomegaly."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.6.1 Chronic Lymphatic Leukemia (CLL)",
+    "explanation": "The objective of $\text{CLL}$ treatment is **not cure** but to **achieve long periods of remission**. (p. 264)",
+    "tags": [
+      "CLL",
+      "management_goals"
+    ]
+  },
 
 
+  {
+    "id": 1481,
+    "question": "A 30-year-old male presents with a **painless, persistent neck lump** and a history of unexplained fever, drenching night sweats, and weight loss over the past 3 months ($\text{B}$-symptoms). Which hematologic malignancy is **most strongly suspected**?",
+    "choices": [
+      "A. Acute Leukemia.",
+      "B. Chronic Myelogenous Leukemia ($\text{CML}$).",
+      "C. **Lymphoma (Hodgkin or Non-Hodgkin).**",
+      "D. Multiple Myeloma.",
+      "E. Chronic Lymphocytic Leukemia ($\text{CLL}$) Stage 0."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The triad of **painless lymphadenopathy** and **$\text{B}$-symptoms** (fever, night sweats, weight loss) is a classic presentation for **Lymphoma**. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "clinical_features",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1482,
+    "question": "A patient is suspected of having a Lymphoma. What is the **mandatory initial diagnostic procedure** required for confirmation?",
+    "choices": [
+      "A. Fine Needle Aspiration Cytology ($\text{FNAC}$).",
+      "B. **Lymph Node Biopsy.**",
+      "C. $\text{CT}$ scan of the neck and chest.",
+      "D. Peripheral blood smear.",
+      "E. Excision of the largest lymph node."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The definitive diagnosis of lymphoma requires a **Lymph Node Biopsy** (excisional or core needle), as $\text{FNAC}$ is generally considered insufficient for diagnosis. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "diagnosis",
+      "biopsy"
+    ]
+  },
+  {
+    "id": 1483,
+    "question": "A 40-year-old female with $\text{HIV}$ infection ($\text{CD4 } 50 \text{ cells}/\mu l$) presents with confusion and seizures. Brain imaging reveals a mass lesion. Which type of lymphoma is most likely suspected?",
+    "choices": [
+      "A. Hodgkin Lymphoma.",
+      "B. Chronic Lymphocytic Leukemia ($\text{CLL}$).",
+      "C. **Primary $\text{CNS}$ Lymphoma ($\text{HIV}$-associated).**",
+      "D. Follicular Lymphoma.",
+      "E. $\text{CML}$ Blast Crisis."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**$\text{HIV}$ infection with severe immunosuppression** is associated with an increased incidence of aggressive lymphomas, including **Primary $\text{CNS}$ Lymphoma**. [cite: 730] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "HIV",
+      "CNS_lymphoma"
+    ]
+  },
+  {
+    "id": 1484,
+    "question": "A patient is diagnosed with Non-Hodgkin Lymphoma ($\text{NHL}$) that is confined to a single lymph node region (e.g., left cervical nodes). According to the **Ann Arbor Staging System**, what stage is this?",
+    "choices": [
+      "A. **Stage $\text{I}$**.",
+      "B. Stage $\text{II}$",
+      "C. Stage $\text{III}$",
+      "D. Stage $\text{IV}$",
+      "E. Stage $\text{A}$"
+    ],
+    "correctAnswer": 0,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{I}$** is defined as the involvement of a **single lymph node region** or a single lymphoid organ. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1485,
+    "question": "A patient with Lymphoma is diagnosed with involvement in the liver and bone marrow. According to the **Ann Arbor Staging System**, what stage is this?",
+    "choices": [
+      "A. Stage $\text{I}$",
+      "B. Stage $\text{II}$",
+      "C. Stage $\text{III}$",
+      "D. **Stage $\text{IV}$**",
+      "E. Stage $\text{B}$"
+    ],
+    "correctAnswer": 3,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{IV}$** is defined as **any involvement of the liver or bone marrow**, lungs (other than direct extension), or cerebrospinal fluid. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1486,
+    "question": "Which characteristic typically distinguishes **Hodgkin Lymphoma ($\text{HL}$)** from **Non-Hodgkin Lymphoma ($\text{NHL}$)** regarding disease spread?",
+    "choices": [
+      "A. $\text{NHL}$ is more commonly associated with $\text{B}$-symptoms.",
+      "B. $\text{HL}$ is typically more aggressive than $\text{NHL}$.",
+      "C. $\text{NHL}$ is typically managed with observation.",
+      "D. **$\text{HL}$ spreads in a fairly predictable fashion (contiguous spread).**",
+      "E. $\text{NHL}$ only involves lymph nodes; $\text{HL}$ involves extranodal sites."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Hodgkin Lymphoma** is characterized by spreading in a **fairly predictable fashion** (contiguous spread), whereas $\text{NHL}$ spread tends to be unpredictable and skips lymph node regions. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "comparison",
+      "disease_spread"
+    ]
+  },
+  {
+    "id": 1487,
+    "question": "The clinical diagnosis of Lymphoma often relies on the presence of **unexplained symptoms**. Which symptom is classified as a **$\text{B}$-symptom**?",
+    "choices": [
+      "A. Night cough.",
+      "B. **Unintentional weight loss $\ge 10\%$ in $6$ months.**",
+      "C. Painless lymphadenopathy.",
+      "D. Pruritus.",
+      "E. Chronic diarrhea."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**$\text{B}$-symptoms** include **unintentional weight loss $\ge 10\%$ in $6$ months**; unexplained fever ($\text{>38.5}^\circ C$); or drenching night sweats. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "clinical_features",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1488,
+    "question": "A patient with $\text{NHL}$ has involvement of two lymph node regions (e.g., left cervical and left axillary nodes) above the diaphragm. What is the Ann Arbor stage?",
+    "choices": [
+      "A. Stage $\text{I}$",
+      "B. **Stage $\text{II}$**",
+      "C. Stage $\text{III}$",
+      "D. Stage $\text{IV}$",
+      "E. Stage $\text{A}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{II}$** is defined as involvement of **two or more lymph node regions** or lymphoid organ on the **same side of the diaphragm**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1489,
+    "question": "A patient is diagnosed with **Non-Hodgkin Lymphoma ($\text{NHL}$)**. The treatment strategy is primarily determined by:",
+    "choices": [
+      "A. Patient's age and sex.",
+      "B. **Histologic type** (indolent, aggressive, highly aggressive) **and stage.**",
+      "C. The absence of $\text{B}$-symptoms.",
+      "D. Only the size of the largest lymph node.",
+      "E. The presence of the $\text{Philadelphia}$ chromosome."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The treatment of lymphomas depends on whether the lymphoma is **indolent or aggressive**, its **histologic type, stage, and performance status**. [cite: 730] (p. 269)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "strategy"
+    ]
+  },
+  {
+    "id": 1490,
+    "question": "Which statement accurately describes the characteristics of **Indolent Lymphomas**?",
+    "choices": [
+      "A. **Slow progression, but often less responsive to chemotherapy.**",
+      "B. Rapid progression requiring urgent chemotherapy.",
+      "C. High cure rate with localized treatment.",
+      "D. Associated only with $\text{B}$-symptoms.",
+      "E. Typically involves the liver and bone marrow at presentation."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Indolent Lymphomas** are characterized by **slow progression**, but they are often **less responsive** to chemotherapy (often managed with observation until symptomatic). [cite: 730] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "classification",
+      "indolent_lymphoma"
+    ]
+  },
+  {
+    "id": 1491,
+    "question": "A patient with $\text{NHL}$ has involvement of lymph node regions both above (cervical) and below (inguinal) the diaphragm. What is the Ann Arbor stage?",
+    "choices": [
+      "A. Stage $\text{I}$",
+      "B. Stage $\text{II}$",
+      "C. **Stage $\text{III}$**",
+      "D. Stage $\text{IV}$",
+      "E. Stage $\text{B}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{III}$** is defined as the involvement of **multiple lymph node regions** or lymphoid organ on **both sides of the diaphragm**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1492,
+    "question": "A patient with Lymphoma is diagnosed with $\text{B}$-symptoms. In the Ann Arbor Staging System, how is this documented?",
+    "choices": [
+      "A. Stage $\text{E}$",
+      "B. Stage $\text{S}$",
+      "C. **Stage $\text{B}$**",
+      "D. Stage $\text{A}$",
+      "E. Stage $\text{IV}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The presence of $\text{B}$-symptoms is documented by adding the letter **$\text{B}$** to the stage (e.g., Stage $\text{IIB}$). [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1493,
+    "question": "A 50-year-old male is diagnosed with **Aggressive Non-Hodgkin Lymphoma ($\text{NHL}$)**, Stage $\text{II}$. What is the recommended treatment approach?",
+    "choices": [
+      "A. Watchful waiting and monitoring of $\text{LDH}$.",
+      "B. **Urgent chemotherapy and possible radiotherapy.**",
+      "C. Only symptomatic relief for $\text{B}$-symptoms.",
+      "D. Long-term steroid monotherapy.",
+      "E. Bone marrow transplant immediately."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Aggressive** (or highly aggressive) lymphomas require **urgent treatment** (chemotherapy) due to their rapid progression. (p. 269)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "aggressive_lymphoma"
+    ]
+  },
+  {
+    "id": 1494,
+    "question": "A patient with $\text{NHL}$ has involvement of the spleen but no other nodal regions. According to the Ann Arbor Staging System, how is the splenic involvement documented?",
+    "choices": [
+      "A. Stage $\text{I}$ $\text{B}$",
+      "B. Stage $\text{II}$ $\text{E}$",
+      "C. **Stage $\text{S}$ (Splenic Involvement)**",
+      "D. Stage $\text{IV}$ $\text{S}$",
+      "E. Stage $\text{III}$ $\text{S}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "Extralymphatic organ involvement is denoted by $\text{E}$. **Splenic involvement** is denoted by **$\text{S}$**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1495,
+    "question": "Which of the following is a key distinguishing feature of **Non-Hodgkin Lymphoma ($\text{NHL}$)** disease spread, compared to $\text{HL}$?",
+    "choices": [
+      "A. **Spreads unpredictably, often skipping nodal regions.**",
+      "B. Only involves the cervical lymph nodes.",
+      "C. Spreads contiguously (predictably).",
+      "D. Never involves extranodal sites.",
+      "E. Always involves the bone marrow at presentation."
+    ],
+    "correctAnswer": 0,
+    "topic": "7.7 Lymphomas",
+    "explanation": "$\text{NHL}$ spread tends to be **unpredictable, skipping lymph node regions** and often involving extranodal sites. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "comparison",
+      "NHL"
+    ]
+  },
+  {
+    "id": 1496,
+    "question": "A patient is diagnosed with an **Indolent Lymphoma** confined to a single lymph node region. What is the general treatment principle?",
+    "choices": [
+      "A. Urgent chemotherapy is mandatory.",
+      "B. **Active observation (Watchful Waiting) is often appropriate.**",
+      "C. High-dose steroid monotherapy.",
+      "D. Immediate splenectomy.",
+      "E. Bone marrow transplant."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Indolent Lymphomas** are characterized by **slow progression**, and **active observation** is often the initial management strategy. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "indolent_lymphoma"
+    ]
+  },
+  {
+    "id": 1497,
+    "question": "Which viral infection is a major risk factor for $\text{HIV}$-associated lymphomas, such as Primary $\text{CNS}$ Lymphoma?",
+    "choices": [
+      "A. Cytomegalovirus ($\text{CMV}$).",
+      "B. **Epstein-Barr Virus ($\text{EBV}$) or $\text{HHV}-8$.**",
+      "C. Varicella-Zoster Virus ($\text{VZV}$).",
+      "D. Hepatitis $\text{B}$ Virus ($\text{HBV}$).",
+      "E. $\text{H} \text{ Pylori}$ infection."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**$\text{EBV}$** and **Human Herpes Virus $-8$ ($\text{HHV}-8$)** are listed as key viral risk factors for $\text{HIV}$-associated and other lymphomas. [cite: 730] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "risk_factors",
+      "viral"
+    ]
+  },
+  {
+    "id": 1498,
+    "question": "A patient with Lymphoma is staged as **Stage $\text{II}$ $\text{E}$**. What does the letter '$\text{E}$' signify in the Ann Arbor System?",
+    "choices": [
+      "A. Involvement below the diaphragm.",
+      "B. **Extranodal involvement**.",
+      "C. Presence of $\text{B}$-symptoms.",
+      "D. Bone marrow involvement.",
+      "E. Splenic involvement."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The letter **$\text{E}$** denotes **Extranodal involvement**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1499,
+    "question": "The presence of a painless, persistent neck lump and night sweats should initially prompt a workup for:",
+    "choices": [
+      "A. $\text{CML}$ and $\text{CLL}$.",
+      "B. $\text{Acute}$ Leukemia.",
+      "C. $\text{Myeloma}$ and $\text{Plasma}$ $\text{Cell}$ disorders.",
+      "D. **Lymphoma and Tuberculosis.**",
+      "E. $\text{Infectious}$ mononucleosis."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The presentation (lymphadenopathy, $\text{B}$-symptoms) is classic for **Lymphoma**. In the Ethiopian context, **Tuberculosis ($\text{TB}$)** is also a major cause of lymphadenopathy and systemic symptoms and must be ruled out. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "diagnosis",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "id": 1500,
+    "question": "Which factor is **not** typically associated with an increased risk of developing Non-Hodgkin Lymphoma ($\text{NHL}$)?",
+    "choices": [
+      "A. $\text{HIV}$ infection.",
+      "B. Autoimmune diseases ($\text{SLE}$).",
+      "C. $\text{Hepatitis}$ $\text{C}$ virus ($\text{HCV}$).",
+      "D. $\text{H}$ $\text{Pylori}$ infection.",
+      "E. **$\text{JAK2}$ mutation.**"
+    ],
+    "correctAnswer": 4,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**$\text{JAK2}$ mutation** is associated with Myeloproliferative Neoplasms (e.g., $\text{CML}$, Polycythemia Vera, Essential Thrombocythemia), not $\text{NHL}$. [cite: 730] (p. 268, 269)",
+    "tags": [
+      "lymphoma",
+      "risk_factors",
+      "NHL"
+    ]
+  },
+  {
+    "id": 1501,
+    "question": "A patient is diagnosed with **Aggressive $\text{NHL}$**, Stage $\text{IV}$. What is the recommended treatment approach?",
+    "choices": [
+      "A. Watchful waiting.",
+      "B. **Urgent aggressive chemotherapy.**",
+      "C. Local radiation therapy only.",
+      "D. High-dose steroid monotherapy.",
+      "E. Observation of $\text{B}$-symptoms."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Aggressive** (or highly aggressive) lymphomas require **urgent treatment** (chemotherapy) due to their rapid progression. [cite: 730] (p. 269)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "aggressive_lymphoma"
+    ]
+  },
+  {
+    "id": 1502,
+    "question": "Which Ann Arbor stage is characterized by involvement of lymph node regions on **both sides of the diaphragm**?",
+    "choices": [
+      "A. Stage $\text{I}$",
+      "B. Stage $\text{II}$",
+      "C. **Stage $\text{III}$**",
+      "D. Stage $\text{IV}$",
+      "E. Stage $\text{E}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{III}$** is defined as the involvement of lymph node regions on **both sides of the diaphragm**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1503,
+    "question": "What is the primary factor used to define the severity and treatment strategy for **Non-Hodgkin Lymphoma ($\text{NHL}$)**?",
+    "choices": [
+      "A. Patient age.",
+      "B. $\text{LDH}$ level.",
+      "C. **Histologic type** (e.g., aggressive vs. indolent).",
+      "D. Platelet count.",
+      "E. $\text{Hb}$ level."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "Treatment and prognosis are heavily dependent on the **histologic type** (e.g., indolent, aggressive, highly aggressive) of $\text{NHL}$. [cite: 730] (p. 269)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "severity"
+    ]
+  },
+  {
+    "id": 1504,
+    "question": "A patient with $\text{NHL}$ is staged as $\text{IIIB}$. The letter '$\text{B}$' indicates the presence of:",
+    "choices": [
+      "A. Bone marrow involvement.",
+      "B. Extranodal involvement.",
+      "C. **Unexplained fever, night sweats, or weight loss.**",
+      "D. Involvement of lymph nodes below the diaphragm.",
+      "E. Involvement of two lymph node regions."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The letter **$\text{B}$** documents the presence of **unexplained $\text{Fever}$, $\text{Night}$ $\text{Sweats}$, or $\text{Weight}$ $\text{Loss}$ ($\text{B}$-symptoms).** [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1505,
+    "question": "What is the recommended treatment approach for **Indolent Lymphomas**?",
+    "choices": [
+      "A. Aggressive combination chemotherapy immediately.",
+      "B. **Active surveillance (Watchful Waiting).**",
+      "C. Long-term steroid monotherapy.",
+      "D. Local radiation therapy only.",
+      "E. $\text{IVIg}$ therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Active observation** or **Watchful Waiting** is often the initial management for **Indolent Lymphomas** due to their slow progression. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "indolent_lymphoma"
+    ]
+  },
+  {
+    "id": 1506,
+    "question": "A patient with $\text{NHL}$ has involvement of two lymph node regions and extranodal involvement ($\text{E}$) on the same side of the diaphragm. What is the Ann Arbor stage?",
+    "choices": [
+      "A. Stage $\text{I}$ $\text{E}$",
+      "B. **Stage $\text{II}$ $\text{E}$**",
+      "C. Stage $\text{III}$ $\text{E}$",
+      "D. Stage $\text{IV}$ $\text{E}$",
+      "E. Stage $\text{A}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{II}$** is defined as $\ge 2$ regions on the same side of the diaphragm. The extranodal involvement is denoted by $\text{E}$. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1507,
+    "question": "The definitive diagnosis of Lymphoma relies on which procedure?",
+    "choices": [
+      "A. $\text{FNAC}$ of a lymph node.",
+      "B. $\text{WBC}$ count and differential.",
+      "C. **Lymph Node Biopsy.**",
+      "D. $\text{CT}$ scan.",
+      "E. $\text{LDH}$ level."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The diagnosis of Lymphoma requires a **Lymph Node Biopsy**; $\text{FNAC}$ is generally insufficient. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1508,
+    "question": "A patient with $\text{NHL}$ is diagnosed with involvement of the liver. What is the Ann Arbor stage?",
+    "choices": [
+      "A. Stage $\text{II}$",
+      "B. Stage $\text{III}$",
+      "C. **Stage $\text{IV}$**",
+      "D. Stage $\text{I}$ $\text{E}$",
+      "E. Stage $\text{II}$ $\text{E}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{IV}$** is defined by **any involvement of the liver or bone marrow**, lungs (other than direct extension), or cerebrospinal fluid. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1509,
+    "question": "The clinical finding of a painless, persistent mass in the neck with unexplained fever and night sweats should initially prompt a workup for:",
+    "choices": [
+      "A. $\text{CML}$ and $\text{CLL}$.",
+      "B. $\text{Acute}$ Leukemia.",
+      "C. $\text{Myeloma}$ and $\text{Plasma}$ $\text{Cell}$ disorders.",
+      "D. **Lymphoma and Tuberculosis.**",
+      "E. $\text{Infectious}$ mononucleosis."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The presentation (lymphadenopathy, $\text{B}$-symptoms) is classic for **Lymphoma**. In the Ethiopian context, **Tuberculosis ($\text{TB}$)** is also a major cause of lymphadenopathy and systemic symptoms and must be ruled out. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "diagnosis",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "id": 1510,
+    "question": "Which Ann Arbor staging designation indicates the **absence** of unexplained systemic symptoms ($\text{B}$-symptoms)?",
+    "choices": [
+      "A. Stage $\text{B}$",
+      "B. **Stage $\text{A}$**",
+      "C. Stage $\text{E}$",
+      "D. Stage $\text{S}$",
+      "E. Stage $\text{IV}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The absence of $\text{B}$-symptoms is designated by **$\text{A}$**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1511,
+    "question": "A patient is diagnosed with **Aggressive $\text{NHL}$**, Stage $\text{II}$. What is the recommended treatment approach?",
+    "choices": [
+      "A. Watchful waiting and monitoring of $\text{LDH}$.",
+      "B. **Urgent aggressive chemotherapy.**",
+      "C. Only symptomatic relief for $\text{B}$-symptoms.",
+      "D. Long-term steroid monotherapy.",
+      "E. Bone marrow transplant immediately."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Aggressive** (or highly aggressive) lymphomas require **urgent treatment** (chemotherapy) due to their rapid progression. (p. 269)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "aggressive_lymphoma"
+    ]
+  },
+  {
+    "id": 1512,
+    "question": "Which Ann Arbor stage is characterized by involvement of lymph node regions on **both sides of the diaphragm**?",
+    "choices": [
+      "A. Stage $\text{I}$",
+      "B. Stage $\text{II}$",
+      "C. **Stage $\text{III}$**",
+      "D. Stage $\text{IV}$",
+      "E. Stage $\text{E}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{III}$** is defined as the involvement of **multiple lymph node regions** or lymphoid organ on **both sides of the diaphragm**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1513,
+    "question": "What is the primary factor used to define the severity and treatment strategy for **Non-Hodgkin Lymphoma ($\text{NHL}$)**?",
+    "choices": [
+      "A. Patient age.",
+      "B. $\text{LDH}$ level.",
+      "C. **Histologic type** (e.g., aggressive vs. indolent).",
+      "D. Platelet count.",
+      "E. $\text{Hb}$ level."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "Treatment and prognosis are heavily dependent on the **histologic type** (e.g., indolent, aggressive, highly aggressive) of $\text{NHL}$. [cite: 730] (p. 269)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "severity"
+    ]
+  },
+  {
+    "id": 1514,
+    "question": "A patient with $\text{NHL}$ is staged as $\text{IIIB}$. The letter '$\text{B}$' indicates the presence of:",
+    "choices": [
+      "A. Bone marrow involvement.",
+      "B. Extranodal involvement.",
+      "C. **Unexplained fever, night sweats, or weight loss.**",
+      "D. Involvement of lymph nodes below the diaphragm.",
+      "E. Involvement of two lymph node regions."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The letter **$\text{B}$** documents the presence of **unexplained $\text{Fever}$, $\text{Night}$ $\text{Sweats}$, or $\text{Weight}$ $\text{Loss}$ ($\text{B}$-symptoms).** [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "B_symptoms"
+    ]
+  },
+  {
+    "id": 1515,
+    "question": "What is the recommended treatment approach for **Indolent Lymphomas**?",
+    "choices": [
+      "A. Aggressive combination chemotherapy immediately.",
+      "B. **Active surveillance (Watchful Waiting).**",
+      "C. Long-term steroid monotherapy.",
+      "D. Local radiation therapy only.",
+      "E. $\text{IVIg}$ therapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Active observation** or **Watchful Waiting** is often the initial management for **Indolent Lymphomas** due to their slow progression. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "treatment",
+      "indolent_lymphoma"
+    ]
+  },
+  {
+    "id": 1516,
+    "question": "A patient with $\text{NHL}$ has involvement of two lymph node regions and extranodal involvement ($\text{E}$) on the same side of the diaphragm. What is the Ann Arbor stage?",
+    "choices": [
+      "A. Stage $\text{I}$ $\text{E}$",
+      "B. **Stage $\text{II}$ $\text{E}$**",
+      "C. Stage $\text{III}$ $\text{E}$",
+      "D. Stage $\text{IV}$ $\text{E}$",
+      "E. Stage $\text{A}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{II}$** is defined as $\ge 2$ regions on the same side of the diaphragm. The extranodal involvement is denoted by $\text{E}$. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1517,
+    "question": "The definitive diagnosis of Lymphoma relies on which procedure?",
+    "choices": [
+      "A. $\text{FNAC}$ of a lymph node.",
+      "B. $\text{WBC}$ count and differential.",
+      "C. **Lymph Node Biopsy.**",
+      "D. $\text{CT}$ scan.",
+      "E. $\text{LDH}$ level."
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The diagnosis of Lymphoma requires a **Lymph Node Biopsy**; $\text{FNAC}$ is generally insufficient. (p. 268)",
+    "tags": [
+      "lymphoma",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 1518,
+    "question": "A patient with $\text{NHL}$ is diagnosed with involvement of the liver. What is the Ann Arbor stage?",
+    "choices": [
+      "A. Stage $\text{II}$",
+      "B. Stage $\text{III}$",
+      "C. **Stage $\text{IV}$**",
+      "D. Stage $\text{I}$ $\text{E}$",
+      "E. Stage $\text{II}$ $\text{E}$"
+    ],
+    "correctAnswer": 2,
+    "topic": "7.7 Lymphomas",
+    "explanation": "**Stage $\text{IV}$** is defined by **any involvement of the liver or bone marrow**, lungs (other than direct extension), or cerebrospinal fluid. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "ann_arbor"
+    ]
+  },
+  {
+    "id": 1519,
+    "question": "The clinical finding of a painless, persistent mass in the neck with unexplained fever and night sweats should initially prompt a workup for:",
+    "choices": [
+      "A. $\text{CML}$ and $\text{CLL}$.",
+      "B. $\text{Acute}$ Leukemia.",
+      "C. $\text{Myeloma}$ and $\text{Plasma}$ $\text{Cell}$ disorders.",
+      "D. **Lymphoma and Tuberculosis.**",
+      "E. $\text{Infectious}$ mononucleosis."
+    ],
+    "correctAnswer": 3,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The presentation (lymphadenopathy, $\text{B}$-symptoms) is classic for **Lymphoma**. In the Ethiopian context, **Tuberculosis ($\text{TB}$)** is also a major cause of lymphadenopathy and systemic symptoms and must be ruled out. [cite: 730] (p. 267)",
+    "tags": [
+      "lymphoma",
+      "diagnosis",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "id": 1520,
+    "question": "Which Ann Arbor staging designation indicates the **absence** of unexplained systemic symptoms ($\text{B}$-symptoms)?",
+    "choices": [
+      "A. Stage $\text{B}$",
+      "B. **Stage $\text{A}$**",
+      "C. Stage $\text{E}$",
+      "D. Stage $\text{S}$",
+      "E. Stage $\text{IV}$"
+    ],
+    "correctAnswer": 1,
+    "topic": "7.7 Lymphomas",
+    "explanation": "The absence of $\text{B}$-symptoms is designated by **$\text{A}$**. [cite: 731] (p. 268)",
+    "tags": [
+      "lymphoma",
+      "staging",
+      "B_symptoms"
+    ]
+  },
 
+  {
+    "id": 1521,
+    "question": "A 55-year-old patient is scheduled for a clean-contaminated abdominal surgery (e.g., elective colon resection). What is the recommended **initial timing** for administering antimicrobial prophylaxis?",
+    "choices": [
+      "A. $2$ hours before incision.",
+      "B. Immediately after the surgical wound is closed.",
+      "C. **$30-60$ minutes before skin incision.**",
+      "D. $12$ hours before surgery.",
+      "E. Only if the patient has a postoperative fever."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Antimicrobial prophylaxis should be administered **$30-60$ minutes before skin incision** to ensure adequate tissue concentration at the time of incision. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "timing"
+    ]
+  },
+  {
+    "id": 1522,
+    "question": "A patient is undergoing $\text{GI}$ surgery requiring prophylaxis. Which drug is the **most common and preferred agent** for surgical antimicrobial prophylaxis due to its broad coverage against most common surgical pathogens?",
+    "choices": [
+      "A. Ampicillin.",
+      "B. **Cefazolin.**",
+      "C. Ciprofloxacin.",
+      "D. Vancomycin.",
+      "E. Metronidazole."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Cefazolin** (a first-generation cephalosporin) is the most commonly used agent for surgical prophylaxis in the general hospital setting due to its excellent activity against most skin flora and common gram-positive cocci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1523,
+    "question": "A 40-year-old patient with a documented history of **anaphylaxis to penicillin** is scheduled for clean surgery. Which alternative antimicrobial agent is recommended for prophylaxis?",
+    "choices": [
+      "A. Cefazolin.",
+      "B. Ceftriaxone.",
+      "C. **Vancomycin.**",
+      "D. Ampicillin.",
+      "E. Clindamycin."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **Vancomycin** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1524,
+    "question": "A patient is undergoing clean-contaminated surgery that involves the bowel (high risk for anaerobes). What is the appropriate modification to the standard prophylactic regimen (Cefazolin)?",
+    "choices": [
+      "A. Add Vancomycin.",
+      "B. Use Ciprofloxacin monotherapy.",
+      "C. **Add Metronidazole.**",
+      "D. Use only Cefazolin.",
+      "E. Add Gentamicin."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures involving the bowel (clean-contaminated/contaminated) where **anaerobes** are a major concern, the standard regimen (Cefazolin) must be combined with an agent covering anaerobes, such as **Metronidazole**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1525,
+    "question": "The primary goal of administering antimicrobial prophylaxis in surgery is to:",
+    "choices": [
+      "A. Treat active, undiagnosed infection.",
+      "B. Prevent postoperative pneumonia.",
+      "C. **Reduce the incidence of surgical site infections (SSIs).**",
+      "D. Reduce the length of hospital stay.",
+      "E. Reduce the severity of fever in the first $48$ hours post-op."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "The primary goal of surgical prophylaxis is to **reduce the incidence of Surgical Site Infections ($\text{SSIs}$)**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1526,
+    "question": "A patient is receiving $\text{Cefazolin}$ prophylaxis for a $4$-hour major orthopedic surgery. The initial dose was given $40$ minutes before incision. What is the appropriate next step regarding the prophylaxis dosing during the surgery?",
+    "choices": [
+      "A. Give a second dose $1$ hour after the start of surgery.",
+      "B. **Give a second dose $3$ hours after the first dose.**",
+      "C. Give a second dose only when the wound is closed.",
+      "D. No redosing is needed for $\text{Cefazolin}$.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures lasting longer than **$3$ hours**, a repeat dose of the prophylactic antibiotic (e.g., $\text{Cefazolin}$) should be given every $3$ hours (or $2 \times$ the half-life of the drug). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "redosing"
+    ]
+  },
+  {
+    "id": 1527,
+    "question": "What is the **recommended duration** of antimicrobial prophylaxis post-surgery (after wound closure)?",
+    "choices": [
+      "A. $24-48$ hours.",
+      "B. $5-7$ days.",
+      "C. $3-5$ days.",
+      "D. **Usually discontinued after wound closure (or within $24$ hours post-op).**",
+      "E. Continued until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis should generally be **discontinued after the surgical wound is closed**, or at the latest, **within $24$ hours post-operatively**. Prolonged use does not reduce $\text{SSI}$ risk and increases resistance. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1528,
+    "question": "A patient is undergoing an ophthalmic procedure. Which antimicrobial is typically used for prophylaxis in eye surgery?",
+    "choices": [
+      "A. $\text{IV}$ Cefazolin.",
+      "B. $\text{IV}$ Metronidazole.",
+      "C. Oral Ciprofloxacin.",
+      "D. **Topical agents (e.g., Gentamicin drops).**",
+      "E. $\text{IV}$ Vancomycin."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis for **ophthalmic surgery** is typically done with **topical agents** (e.g., Gentamicin drops) rather than systemic $\text{IV}$ antibiotics. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "procedure_specific"
+    ]
+  },
+  {
+    "id": 1529,
+    "question": "Which category of surgical wound typically **does not require** routine antimicrobial prophylaxis?",
+    "choices": [
+      "A. Clean-contaminated.",
+      "B. Contaminated.",
+      "C. Infected/Dirty.",
+      "D. **Clean**.",
+      "E. Procedures involving the bowel."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Routine antimicrobial prophylaxis is generally **not indicated** for **Clean procedures**, unless an implanted foreign body (e.g., prosthetic heart valve, orthopedic hardware) is being used. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "wound_classification"
+    ]
+  },
+  {
+    "id": 1530,
+    "question": "A patient undergoing an emergency appendectomy (Contaminated wound) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-operatively. Post-operatively, should the antibiotics be continued, and if so, for how long?",
+    "choices": [
+      "A. Discontinue immediately after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Discontinue and observe for fever."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated/Dirty wounds** (or when gross spillage occurs), the antibiotics initiated pre-operatively are considered the **initial therapeutic regimen** and should be continued post-operatively (e.g., for $3-5$ days), not just a prophylactic dose. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1531,
+    "question": "A patient is undergoing a cardiac surgery (Clean procedure with prosthetic material). What is the minimum recommended duration for antimicrobial prophylaxis?",
+    "choices": [
+      "A. Single dose only.",
+      "B. $12$ hours.",
+      "C. **$48$ hours.**",
+      "D. $7$ days.",
+      "E. Until the patient is discharged."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., cardiac surgery, $\text{TKR}$), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1532,
+    "question": "A patient with $\text{CKD}$ (Creatinine Clearance $25 \text{ ml/min}$) is scheduled for surgery requiring $\text{Cefazolin}$ prophylaxis. What modification is necessary for the $\text{Cefazolin}$ dose?",
+    "choices": [
+      "A. $\text{Cefazolin}$ is contraindicated in $\text{CKD}$.",
+      "B. **Dose adjustment (reduction or interval increase) is required.**",
+      "C. Double the dose to ensure adequate penetration.",
+      "D. Switch to Vancomycin.",
+      "E. No modification is necessary."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally excreted drugs like $\text{Cefazolin}$, **dose adjustment is required** in patients with renal impairment ($\text{CKD}$) to prevent accumulation and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment"
+    ]
+  },
+  {
+    "id": 1533,
+    "question": "In $\text{ENT}$ surgery prophylaxis, which drug provides the best coverage for the expected pathogens in the upper respiratory tract?",
+    "choices": [
+      "A. Metronidazole.",
+      "B. Ciprofloxacin.",
+      "C. **Cefazolin**.",
+      "D. Gentamicin.",
+      "E. Vancomycin."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Cefazolin** is generally the first-line agent for most procedures, including $\text{ENT}$ surgery, as it covers the most common gram-positive organisms and some gram-negatives. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "procedure_specific"
+    ]
+  },
+  {
+    "id": 1534,
+    "question": "What is the recommended approach to surgical prophylaxis if the surgery extends beyond $3$ hours?",
+    "choices": [
+      "A. Discontinue prophylaxis immediately.",
+      "B. Administer a single $\text{IV}$ dose of another antibiotic.",
+      "C. **Administer a full repeat dose of the original antibiotic.**",
+      "D. Increase the initial dose by $50\%$.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures lasting longer than $3$ hours, a **repeat full dose of the prophylactic antibiotic** should be given to maintain therapeutic serum levels. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "redosing"
+    ]
+  },
+  {
+    "id": 1535,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1536,
+    "question": "A patient with a documented history of severe $\text{IgE}$-mediated allergy (anaphylaxis) to Penicillin is scheduled for $\text{GI}$ surgery. Which combination should be used for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$ and $\text{Metronidazole}$.",
+      "B. $\text{Ceftriaxone}$ and $\text{Metronidazole}$.",
+      "C. **Vancomycin and Metronidazole.**",
+      "D. $\text{Amoxicillin}$ and $\text{Gentamicin}$.",
+      "E. $\text{Ciprofloxacin}$ and $\text{Cefazolin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Given the severe penicillin allergy, $\text{B}$-lactams are avoided. The regimen must cover both Gram-positive (Vancomycin) and Gram-negative/Anaerobes ($\text{Metronidazole}$). (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1537,
+    "question": "What is the recommended timing for administering $\text{Vancomycin}$ as surgical prophylaxis?",
+    "choices": [
+      "A. Immediately before skin incision.",
+      "B. $\text{30-60}$ minutes before skin incision.",
+      "C. **Start $1-2$ hours before incision** (due to long infusion time).",
+      "D. $12$ hours before surgery.",
+      "E. Immediately after the procedure is finished."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "$\text{Vancomycin}$ requires a prolonged infusion time to avoid infusion reactions ($\text{Red}$ $\text{Man}$ syndrome). It must be **started $1-2$ hours before incision** to ensure adequate tissue levels at the time of surgery. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "timing",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1538,
+    "question": "A $70$-year-old patient with severe $\text{CKD}$ on hemodialysis is scheduled for a $\text{GI}$ procedure. Which prophylactic drug requires monitoring of serum levels in this setting?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Metronidazole}$.",
+      "C. $\text{Ciprofloxacin}$.",
+      "D. **$\text{Vancomycin}$**.",
+      "E. $\text{Ampicillin}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Vancomycin** is eliminated by the kidneys and requires therapeutic drug monitoring (TDM) to ensure non-toxic but effective levels, especially in patients with severe $\text{CKD}$ or those on hemodialysis. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "TDM",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1539,
+    "question": "Which surgical procedure is considered **Clean-Contaminated**?",
+    "choices": [
+      "A. Thyroidectomy.",
+      "B. Herniorrhaphy (without bowel opening).",
+      "C. Total hip replacement.",
+      "D. **Elective colon resection.**",
+      "E. Incision and drainage of an abscess."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Clean-Contaminated** wounds involve controlled entry into a viscus (e.g., respiratory, $\text{GI}$, genitourinary tracts) under elective conditions, such as elective colon surgery. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "wound_classification"
+    ]
+  },
+  {
+    "id": 1540,
+    "question": "A patient is undergoing $\text{GI}$ surgery where $\text{Cefazolin}$ and $\text{Metronidazole}$ are used for prophylaxis. The surgery lasts for $6.5$ hours. How many doses of $\text{Cefazolin}$ should be administered in total during the operation?",
+    "choices": [
+      "A. $1$ dose.",
+      "B. $2$ doses.",
+      "C. **$3$ doses**.",
+      "D. $4$ doses.",
+      "E. $5$ doses."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "The first dose is given pre-incision. Redosing is required after $3$ hours. For a $6.5$-hour surgery, the timing would be: $0 \text{ hours}$ (initial dose) $\rightarrow 3 \text{ hours}$ (second dose) $\rightarrow 6 \text{ hours}$ (third dose). Total: **$3$ doses**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "redosing",
+      "calculation"
+    ]
+  },
+  {
+    "id": 1541,
+    "question": "Which factor is an indication to use $\text{Vancomycin}$ instead of $\text{Cefazolin}$ for surgical prophylaxis in a clean-contaminated procedure?",
+    "choices": [
+      "A. Longer duration of surgery.",
+      "B. Age $>65$ years.",
+      "C. **High local prevalence of Methicillin-Resistant $\text{Staphylococcus}$ $\text{aureus}$ ($\text{MRSA}$).**",
+      "D. Allergy to $\text{Metronidazole}$.",
+      "E. Presence of fever pre-operatively."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Vancomycin** is used as an alternative to $\text{Cefazolin}$ if there is a **high local prevalence of $\text{MRSA}$** or in the case of $\text{B}$-lactam allergy. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "MRSA"
+    ]
+  },
+  {
+    "id": 1542,
+    "question": "What is the recommended approach to antimicrobial prophylaxis for a patient undergoing a **Dirty** (infected) surgery (e.g., incision and drainage of a perforated $\text{GI}$ viscus with peritonitis)?",
+    "choices": [
+      "A. A single dose of $\text{Cefazolin}$ pre-op.",
+      "B. No antibiotics are necessary.",
+      "C. **Initial $\text{IV}$ antibiotics are considered therapeutic, not prophylactic.**",
+      "D. Oral antibiotics for $12$ hours.",
+      "E. $\text{Topical}$ antibiotics only."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Dirty wounds**, the patient already has an established infection. The antibiotics given are considered the **initial therapeutic regimen** and must be continued post-operatively. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "dirty_wound"
+    ]
+  },
+  {
+    "id": 1543,
+    "question": "A patient receiving $\text{Cefazolin}$ prophylaxis should be observed for signs of $\text{B}$-lactam allergy. What is the most severe form of this reaction?",
+    "choices": [
+      "A. Urticaria.",
+      "B. Rash.",
+      "C. Pruritus.",
+      "D. Diarrhea.",
+      "E. **Anaphylaxis**.",
+    ],
+    "correctAnswer": 4,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Anaphylaxis** is the most severe and immediate form of an $\text{IgE}$-mediated $\text{B}$-lactam allergy. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "safety"
+    ]
+  },
+  {
+    "id": 1544,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours**.",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1545,
+    "question": "Which action should be taken if $\text{Cefazolin}$ is used for prophylaxis and the patient has a rash only (non-anaphylactic) to Penicillin?",
+    "choices": [
+      "A. Use $\text{Vancomycin}$ instead.",
+      "B. **Use $\text{Cefazolin}$ as planned, but observe for reaction.**",
+      "C. Switch to $\text{Ciprofloxacin}$ and $\text{Metronidazole}$.",
+      "D. Use a double dose of $\text{Cefazolin}$.",
+      "E. Defer the surgery."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "The **cross-reactivity** between Penicillin and first-generation cephalosporins (like $\text{Cefazolin}$) is low, especially for non-immediate reactions (e.g., rash). **$\text{Cefazolin}$ can be used with caution** if the patient's allergy history is only a mild rash. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "cross_reactivity"
+    ]
+  },
+  {
+    "id": 1546,
+    "question": "What is the recommended timing for administering $\text{Cefazolin}$ for surgical prophylaxis in relation to the skin incision?",
+    "choices": [
+      "A. Immediately after wound closure.",
+      "B. $12$ hours pre-op.",
+      "C. **$30-60$ minutes pre-incision.**",
+      "D. $2$ hours post-op.",
+      "E. $5$ minutes before incision."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Antimicrobial prophylaxis should be administered **$30-60$ minutes before skin incision** to ensure adequate tissue concentration at the time of incision. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "timing"
+    ]
+  },
+  {
+    "id": 1547,
+    "question": "A patient is undergoing a cardiac surgery (clean procedure with prosthetic material). What is the minimum recommended duration for antimicrobial prophylaxis?",
+    "choices": [
+      "A. Single dose only.",
+      "B. $12$ hours.",
+      "C. **$48$ hours.**",
+      "D. $7$ days.",
+      "E. Until the patient is discharged."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., cardiac surgery), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1548,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The duration of post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1549,
+    "question": "A patient undergoing $\text{GI}$ surgery is given $\text{Cefazolin}$ for prophylaxis. The surgery lasts for $4$ hours. What is the appropriate redosing strategy?",
+    "choices": [
+      "A. $\text{Cefazolin}$ does not require redosing.",
+      "B. Give a second dose at $5$ hours.",
+      "C. **Give a second dose at $3$ hours.**",
+      "D. Switch to $\text{Metronidazole}$ at $3$ hours.",
+      "E. Give a second dose only if bleeding occurs."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures lasting longer than $3$ hours, a repeat dose of $\text{Cefazolin}$ should be given after $3$ hours. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "redosing"
+    ]
+  },
+  {
+    "id": 1550,
+    "question": "Which surgical wound classification typically requires a full therapeutic course of antibiotics post-operatively?",
+    "choices": [
+      "A. Clean.",
+      "B. Clean-contaminated.",
+      "C. **Dirty**.",
+      "D. Procedures with implanted foreign bodies.",
+      "E. $\text{ENT}$ surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**Dirty wounds** (established infection/perforation) require the initial antibiotics to be considered **therapeutic** and thus continued post-operatively for a full course (e.g., $3-5$ days). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "dirty_wound"
+    ]
+  },
+  {
+    "id": 1551,
+    "question": "A $70$-year-old patient with $\text{CKD}$ (Creatinine Clearance $25 \text{ ml/min}$) is scheduled for surgery requiring $\text{Cefazolin}$ prophylaxis. What modification is necessary for the $\text{Cefazolin}$ dose?",
+    "choices": [
+      "A. $\text{Cefazolin}$ is contraindicated in $\text{CKD}$.",
+      "B. **Dose adjustment (reduction or interval increase) is required.**",
+      "C. Double the dose to ensure adequate penetration.",
+      "D. Switch to $\text{Vancomycin}$.",
+      "E. No modification is necessary."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally excreted drugs like $\text{Cefazolin}$, **dose adjustment is required** in patients with renal impairment ($\text{CKD}$) to prevent accumulation and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment"
+    ]
+  },
+  {
+    "id": 1552,
+    "question": "Which of the following is **not** a recommended duration for post-operative antimicrobial prophylaxis?",
+    "choices": [
+      "A. Discontinued after wound closure.",
+      "B. Within $24$ hours post-op.",
+      "C. Up to $48$ hours (for implanted foreign bodies).",
+      "D. Single dose only.",
+      "E. **$5-7$ days**.",
+    ],
+    "correctAnswer": 4,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Antimicrobial prophylaxis is generally limited to $\le 24$ hours (or $\le 48$ hours for implants). Prolonged use ($5-7$ days) is associated with increased resistance and adverse effects and is inappropriate for *prophylaxis*. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1553,
+    "question": "A patient with $\text{GI}$ surgery prophylaxis needs coverage for $\text{Gram}$-negative organisms and anaerobes. The recommended combination is:",
+    "choices": [
+      "A. $\text{Cefazolin}$ monotherapy.",
+      "B. **$\text{Cefazolin}$ and $\text{Metronidazole}$**.",
+      "C. $\text{Vancomycin}$ and $\text{Gentamicin}$",
+      "D. $\text{Ampicillin}$ and $\text{Metronidazole}$",
+      "E. $\text{Ciprofloxacin}$ monotherapy."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For $\text{GI}$ procedures, the combination of **$\text{Cefazolin}$** ($\text{Gram}$-positive and some $\text{Gram}$-negative) and **$\text{Metronidazole}$** (anaerobes) is the standard. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_combination"
+    ]
+  },
+  {
+    "id": 1554,
+    "question": "The prophylactic agent $\text{Vancomycin}$ must be administered slowly. What is the main reason for the slow infusion time?",
+    "choices": [
+      "A. To prevent nephrotoxicity.",
+      "B. To ensure adequate $\text{CSF}$ penetration.",
+      "C. **To prevent the $\text{Red}$ $\text{Man}$ syndrome (histamine release).**",
+      "D. To maximize serum concentration.",
+      "E. To prevent $\text{C}$ $\text{difficile}$ infection."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Vancomycin}$** must be infused over a minimum of $60$ minutes to prevent the $\text{Red}$ $\text{Man}$ syndrome, an $\text{infusion}$-related reaction due to rapid histamine release. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "Vancomycin",
+      "side_effects"
+    ]
+  },
+  {
+    "id": 1555,
+    "question": "A patient is scheduled for an elective cholecystectomy (clean-contaminated). What is the recommended antimicrobial prophylaxis regimen?",
+    "choices": [
+      "A. $\text{Vancomycin}$ and $\text{Metronidazole}$.",
+      "B. $\text{Metronidazole}$ monotherapy.",
+      "C. **$\text{Cefazolin}$ monotherapy**.",
+      "D. $\text{Ciprofloxacin}$ and $\text{Metronidazole}$.",
+      "E. $\text{Ampicillin}$ and $\text{Gentamicin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Cefazolin}$** is typically sufficient for biliary tract procedures (cholecystectomy) as it covers the most likely Gram-positive and Gram-negative organisms, and the $\text{Anaerobic}$ risk is lower than in colon surgery. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1556,
+    "question": "Which factor is an indication to use $\text{Vancomycin}$ instead of $\text{Cefazolin}$ for surgical prophylaxis?",
+    "choices": [
+      "A. Patient's age $>65$ years.",
+      "B. Longer duration of surgery ($>4$ hours).",
+      "C. **Documented anaphylaxis to penicillin.**",
+      "D. $\text{Creatinine}$ $\text{Clearance}$ $<50 \text{ ml/min}$.",
+      "E. History of mild $\text{GI}$ upset with $\text{Cefazolin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "A severe $\text{B}$-lactam allergy (e.g., **anaphylaxis to penicillin**) is a key indication to switch to $\text{Vancomycin}$ for Gram-positive coverage. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1557,
+    "question": "A patient undergoing major surgery requires redosing of $\text{Cefazolin}$. How often should the repeat dose be administered?",
+    "choices": [
+      "A. Every $1$ hour.",
+      "B. Every $2$ hours.",
+      "C. **Every $3$ hours**.",
+      "D. Every $4$ hours.",
+      "E. Every $6$ hours."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "A repeat dose of $\text{Cefazolin}$ should be given every **$3$ hours** for procedures lasting longer than $3$ hours. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "redosing"
+    ]
+  },
+  {
+    "id": 1558,
+    "question": "A patient is undergoing an emergency open fracture repair (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all implanted hardware is removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1559,
+    "question": "Which statement accurately describes the ideal timing for administering antimicrobial prophylaxis?",
+    "choices": [
+      "A. Administration must be started within $2$ hours post-incision.",
+      "B. **Administration must be completed before skin incision.**",
+      "C. Administration should be started only if a drain is inserted.",
+      "D. Administration must be done after the patient is fully anesthetized.",
+      "E. Administration should be started $5$ minutes before incision."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "The timing is crucial: the dose must be administered and **completed before the skin incision** ($\text{30-60}$ minutes prior) to achieve adequate tissue concentration at the time of incision. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "timing"
+    ]
+  },
+  {
+    "id": 1560,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1561,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1562,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1563,
+    "question": "A patient with documented $\text{IgE}$-mediated allergy to Penicillin is scheduled for clean surgery. Which alternative $\text{Gram}$-positive agent is recommended for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Ceftriaxone}$.",
+      "C. **$\text{Vancomycin}$**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Clindamycin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **$\text{Vancomycin}$** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1564,
+    "question": "A patient is undergoing $\text{GI}$ surgery. The standard regimen includes $\text{Metronidazole}$. Which organisms is $\text{Metronidazole}$ primarily intended to cover?",
+    "choices": [
+      "A. $\text{Gram}$-positive cocci.",
+      "B. $\text{Gram}$-negative bacilli.",
+      "C. **Anaerobic organisms.**",
+      "D. Atypical organisms.",
+      "E. Fungi."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Metronidazole}$** is added to surgical prophylaxis for procedures involving the bowel to specifically cover **anaerobic organisms**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1565,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours.**",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1566,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1567,
+    "question": "A patient is undergoing an emergency appendectomy (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1568,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1569,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1570,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1571,
+    "question": "A patient with documented $\text{IgE}$-mediated allergy to Penicillin is scheduled for clean surgery. Which alternative $\text{Gram}$-positive agent is recommended for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Ceftriaxone}$.",
+      "C. **$\text{Vancomycin}$**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Clindamycin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **$\text{Vancomycin}$** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1572,
+    "question": "A patient is undergoing $\text{GI}$ surgery. The standard regimen includes $\text{Metronidazole}$. Which organisms is $\text{Metronidazole}$ primarily intended to cover?",
+    "choices": [
+      "A. $\text{Gram}$-positive cocci.",
+      "B. $\text{Gram}$-negative bacilli.",
+      "C. **Anaerobic organisms.**",
+      "D. Atypical organisms.",
+      "E. Fungi."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Metronidazole}$** is added to surgical prophylaxis for procedures involving the bowel to specifically cover **anaerobic organisms**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1573,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours.**",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1574,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1575,
+    "question": "A patient is undergoing an emergency appendectomy (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1576,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1577,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1578,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1579,
+    "question": "A patient with documented $\text{IgE}$-mediated allergy to Penicillin is scheduled for clean surgery. Which alternative $\text{Gram}$-positive agent is recommended for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Ceftriaxone}$.",
+      "C. **$\text{Vancomycin}$**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Clindamycin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **$\text{Vancomycin}$** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1580,
+    "question": "A patient is undergoing $\text{GI}$ surgery. The standard regimen includes $\text{Metronidazole}$. Which organisms is $\text{Metronidazole}$ primarily intended to cover?",
+    "choices": [
+      "A. $\text{Gram}$-positive cocci.",
+      "B. $\text{Gram}$-negative bacilli.",
+      "C. **Anaerobic organisms.**",
+      "D. Atypical organisms.",
+      "E. Fungi."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Metronidazole}$** is added to surgical prophylaxis for procedures involving the bowel to specifically cover **anaerobic organisms**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1581,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours.**",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1582,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1583,
+    "question": "A patient is undergoing an emergency appendectomy (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1584,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1585,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1586,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1587,
+    "question": "A patient with documented $\text{IgE}$-mediated allergy to Penicillin is scheduled for clean surgery. Which alternative $\text{Gram}$-positive agent is recommended for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Ceftriaxone}$.",
+      "C. **$\text{Vancomycin}$**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Clindamycin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **$\text{Vancomycin}$** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1588,
+    "question": "A patient is undergoing $\text{GI}$ surgery. The standard regimen includes $\text{Metronidazole}$. Which organisms is $\text{Metronidazole}$ primarily intended to cover?",
+    "choices": [
+      "A. $\text{Gram}$-positive cocci.",
+      "B. $\text{Gram}$-negative bacilli.",
+      "C. **Anaerobic organisms.**",
+      "D. Atypical organisms.",
+      "E. Fungi."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Metronidazole}$** is added to surgical prophylaxis for procedures involving the bowel to specifically cover **anaerobic organisms**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1589,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours.**",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1590,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1591,
+    "question": "A patient is undergoing an emergency appendectomy (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1592,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1593,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  {
+    "id": 1594,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1595,
+    "question": "A patient with documented $\text{IgE}$-mediated allergy to Penicillin is scheduled for clean surgery. Which alternative $\text{Gram}$-positive agent is recommended for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Ceftriaxone}$.",
+      "C. **$\text{Vancomycin}$**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Clindamycin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **$\text{Vancomycin}$** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1596,
+    "question": "A patient is undergoing $\text{GI}$ surgery. The standard regimen includes $\text{Metronidazole}$. Which organisms is $\text{Metronidazole}$ primarily intended to cover?",
+    "choices": [
+      "A. $\text{Gram}$-positive cocci.",
+      "B. $\text{Gram}$-negative bacilli.",
+      "C. **Anaerobic organisms.**",
+      "D. Atypical organisms.",
+      "E. Fungi."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Metronidazole}$** is added to surgical prophylaxis for procedures involving the bowel to specifically cover **anaerobic organisms**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1597,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours.**",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1598,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1599,
+    "question": "A patient is undergoing an emergency appendectomy (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1600,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1601,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1602,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+  {
+    "id": 1603,
+    "question": "A patient with documented $\text{IgE}$-mediated allergy to Penicillin is scheduled for clean surgery. Which alternative $\text{Gram}$-positive agent is recommended for prophylaxis?",
+    "choices": [
+      "A. $\text{Cefazolin}$.",
+      "B. $\text{Ceftriaxone}$.",
+      "C. **$\text{Vancomycin}$**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Clindamycin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For patients with a serious $\text{B}$-lactam allergy (e.g., anaphylaxis to penicillin), an agent like **$\text{Vancomycin}$** is recommended to cover staphylococci and streptococci. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "allergy",
+      "drug_choice"
+    ]
+  },
+  {
+    "id": 1604,
+    "question": "A patient is undergoing $\text{GI}$ surgery. The standard regimen includes $\text{Metronidazole}$. Which organisms is $\text{Metronidazole}$ primarily intended to cover?",
+    "choices": [
+      "A. $\text{Gram}$-positive cocci.",
+      "B. $\text{Gram}$-negative bacilli.",
+      "C. **Anaerobic organisms.**",
+      "D. Atypical organisms.",
+      "E. Fungi."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "**$\text{Metronidazole}$** is added to surgical prophylaxis for procedures involving the bowel to specifically cover **anaerobic organisms**. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_choice",
+      "anaerobes"
+    ]
+  },
+  {
+    "id": 1605,
+    "question": "A patient is undergoing total knee replacement. What is the minimum recommended duration for antimicrobial prophylaxis post-surgery?",
+    "choices": [
+      "A. $12$ hours.",
+      "B. **$48$ hours.**",
+      "C. $5$ days.",
+      "D. $7$ days.",
+      "E. Until sutures are removed."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For procedures where foreign materials are implanted (e.g., orthopedic hardware), prophylaxis is often recommended for **up to $48$ hours** to cover the period of highest risk for $\text{SSI}$. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "implanted_material"
+    ]
+  },
+  {
+    "id": 1606,
+    "question": "The primary reason for avoiding prolonged prophylactic antibiotic use post-surgery ($>24$ hours) is:",
+    "choices": [
+      "A. Lack of $\text{RBC}$ production.",
+      "B. High cost of antibiotics.",
+      "C. **Increased risk of antimicrobial resistance.**",
+      "D. Reduced efficacy of surgery.",
+      "E. Poor patient compliance."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prolonged use of prophylactic antibiotics **does not reduce $\text{SSI}$ risk** and significantly **increases the risk of selecting for resistant organisms** and toxicity. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "resistance"
+    ]
+  },
+  {
+    "id": 1607,
+    "question": "A patient is undergoing an emergency appendectomy (Contaminated wound). Antibiotics are started pre-op. What is the recommended post-operative course of antibiotics?",
+    "choices": [
+      "A. Discontinue after wound closure.",
+      "B. Continue for $12$ hours.",
+      "C. Continue for $24$ hours.",
+      "D. **Continue for $3-5$ days (therapeutic regimen).**",
+      "E. Continue until all drains are removed."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For **Contaminated wounds**, the antibiotics are considered **therapeutic** and should be continued post-operatively for a full course (e.g., $3-5$ days) based on clinical judgment and source control. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "contaminated_wound",
+      "duration"
+    ]
+  },
+  {
+    "id": 1608,
+    "question": "A patient with severe $\text{CKD}$ on hemodialysis requires $\text{Cefazolin}$ prophylaxis. What is the key therapeutic principle to consider for dosing?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. **Dose should be administered post-dialysis.**",
+      "C. Dose should be administered pre-dialysis.",
+      "D. $\text{Cefazolin}$ is $100\%$ removed by dialysis; dose is not changed.",
+      "E. Switch to oral antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For renally cleared antibiotics that are dialyzable (like $\text{Cefazolin}$), the drug is often given **post-dialysis** to prevent immediate removal of the drug by the dialyzer. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "renal_adjustment",
+      "dialysis"
+    ]
+  },
+  {
+    "id": 1609,
+    "question": "The primary goal of $\text{antimicrobial}$ prophylaxis is to reduce the bacterial burden in the surgical site during which time frame?",
+    "choices": [
+      "A. The entire hospitalization.",
+      "B. The entire post-operative course.",
+      "C. **The period of incision and closure.**",
+      "D. Only the $48$ hours after surgery.",
+      "E. Only the $7$ days before surgery."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "Prophylaxis is intended to reduce the bacterial burden during the period of maximal risk, specifically the time of **incision and closure**. (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "goals"
+    ]
+  },
+  {
+    "id": 1610,
+    "question": "A patient undergoing an elective colon resection (clean-contaminated) is given $\text{Cefazolin}$ and $\text{Metronidazole}$ pre-op. The post-operative antibiotic use should be:",
+    "choices": [
+      "A. $5-7$ days.",
+      "B. $48$ hours.",
+      "C. $24$ hours.",
+      "D. **Discontinued after wound closure.**",
+      "E. Continued until fever resolves."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For prophylactic use in clean-contaminated wounds, antibiotics should generally be **discontinued after the surgical wound is closed** (or within $24$ hours post-operatively). (p. 272)",
+    "tags": [
+      "surgical_prophylaxis",
+      "duration"
+    ]
+  },
+
+  {
+    "id": 1611,
+    "question": "A $60$-year-old male is admitted with severe community-acquired pneumonia ($\text{CAP}$). $\text{Sputum}$ culture and sensitivity are pending. What is the appropriate initial management strategy regarding antibiotics?",
+    "choices": [
+      "A. **Start empiric broad-spectrum antibiotics immediately.**",
+      "B. Wait $48$ hours for culture results before initiating therapy.",
+      "C. Start narrow-spectrum antibiotics (e.g., Penicillin) only.",
+      "D. Start $\text{IV}$ fluids and observe the patient's temperature.",
+      "E. Start an $\text{IV}$ antiviral agent."
+    ],
+    "correctAnswer": 0,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "For severe infections (e.g., severe sepsis, severe $\text{CAP}$), **empiric broad-spectrum antimicrobial therapy** must be started **immediately** after cultures are taken, without waiting for definitive results. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "empiric_therapy"
+    ]
+  },
+  {
+    "id": 1612,
+    "question": "A patient with $\text{CKD}$ (Creatinine Clearance $15 \text{ ml/min}$) is prescribed Gentamicin. What is the key principle for dosing this drug in this patient?",
+    "choices": [
+      "A. Dose should be doubled.",
+      "B. $\text{Gentamicin}$ is contraindicated in $\text{CKD}$.",
+      "C. **Dose must be adjusted (reduced or interval increased) to prevent toxicity.**",
+      "D. Only $\text{oral}$ $\text{Gentamicin}$ should be used.",
+      "E. No dose adjustment is needed."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "For renally excreted drugs like Gentamicin, **dose modification is required** in patients with $\text{CKD}$ to prevent drug accumulation and toxicity (e.g., nephrotoxicity/ototoxicity). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "renal_adjustment"
+    ]
+  },
+  {
+    "id": 1613,
+    "question": "A patient with severe intra-abdominal infection is started on combination therapy ($\text{Ceftriaxone}$ and $\text{Metronidazole}$). What is the primary purpose of this combination?",
+    "choices": [
+      "A. To achieve synergistic killing against a single organism.",
+      "B. To reduce the duration of therapy.",
+      "C. **To broaden the spectrum of coverage** ($\text{Gram}$-negative and anaerobes).",
+      "D. To prevent drug resistance.",
+      "E. To decrease the overall cost."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Combination therapy is most commonly used to **broaden the spectrum** of coverage when the causative organism is unknown (empiric therapy) or when polymicrobial infection is suspected (e.g., intra-abdominal infection). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "combination_therapy"
+    ]
+  },
+  {
+    "id": 1614,
+    "question": "A patient is on $\text{Vancomycin}$ therapy for $\text{MRSA}$ bacteremia. Which monitoring is mandatory to ensure safety and efficacy?",
+    "choices": [
+      "A. Serum $\text{Glucose}$ levels.",
+      "B. Serum $\text{Calcium}$ levels.",
+      "C. **Therapeutic Drug Monitoring ($\text{TDM}$) of $\text{Vancomycin}$ $\text{Trough}$ $\text{Levels}$**.",
+      "D. Serum $\text{Lipase}$ levels.",
+      "E. $\text{INR}$ monitoring."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Vancomycin}$** requires **$\text{TDM}$** (monitoring $\text{trough}$ $\text{levels}$) to ensure adequate drug concentration for efficacy while minimizing the risk of nephrotoxicity. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "TDM",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1615,
+    "question": "A patient's blood culture grows $\text{Staphylococcus}$ $\text{aureus}$, which is sensitive to $\text{Cefazolin}$ and Vancomycin. The patient is currently on empiric $\text{Cefazolin}$ and $\text{Gentamicin}$. What is the appropriate next step for the antibiotic regimen?",
+    "choices": [
+      "A. Add $\text{Vancomycin}$ for synergy.",
+      "B. **De-escalate to $\text{Cefazolin}$ monotherapy.**",
+      "C. Continue $\text{Cefazolin}$ and $\text{Gentamicin}$ combination.",
+      "D. Switch to $\text{Vancomycin}$ monotherapy.",
+      "E. Stop all antibiotics."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once definitive culture and sensitivity results are available, the empiric broad-spectrum therapy should be narrowed to a definitive, less toxic, and often single agent. This is called **De-escalation**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "definitive_therapy"
+    ]
+  },
+  {
+    "id": 1616,
+    "question": "A patient is prescribed high-dose $\text{Penicillin}$ for $10$ days. Which potential $\text{CNS}$ side effect should the clinician monitor for, especially in the setting of renal failure?",
+    "choices": [
+      "A. Peripheral neuropathy.",
+      "B. $\text{Optic}$ $\text{neuritis}$.",
+      "C. $\text{Vestibular}$ $\text{toxicity}$.",
+      "D. **Seizures**.",
+      "E. $\text{Hypoglycemia}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "High doses of $\text{Penicillin}$ ($\text{B}$-lactam) antibiotics, particularly in patients with $\text{renal}$ $\text{failure}$ where clearance is reduced, can accumulate in the $\text{CNS}$ and cause **seizures** or encephalopathy. (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "Penicillin"
+    ]
+  },
+  {
+    "id": 1617,
+    "question": "The definitive diagnosis of a bacterial infection typically requires the performance of:",
+    "choices": [
+      "A. $\text{CBC}$ and $\text{CRP}$ measurement.",
+      "B. $\text{Imaging}$ ($\text{X-ray}$ or $\text{CT}$ $\text{scan}$).",
+      "C. $\text{Therapeutic}$ $\text{drug}$ $\text{monitoring}$ ($\text{TDM}$).",
+      "D. **Culture and sensitivity testing.**",
+      "E. $\text{A}$ $\text{trial}$ $\text{of}$ $\text{empiric}$ $\text{therapy}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The definitive diagnosis and guidance for therapy rely on identifying the organism and its sensitivity patterns via **culture and sensitivity testing**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "diagnosis",
+      "culture"
+    ]
+  },
+  {
+    "id": 1618,
+    "question": "What is the primary reason for avoiding oral antibiotic therapy in a patient with severe sepsis and septic shock?",
+    "choices": [
+      "A. High cost.",
+      "B. $\text{Poor}$ $\text{patient}$ $\text{compliance}$.",
+      "C. $\text{Risk}$ $\text{of}$ $\text{GI}$ $\text{ulceration}$.",
+      "D. **Impaired absorption and lower bioavailability** in shock.",
+      "E. $\text{High}$ $\text{risk}$ $\text{of}$ $\text{CNS}$ $\text{side}$ $\text{effects}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "In critically ill or septic shock patients, **$\text{IV}$ administration is mandatory** because of potential **impaired $\text{GI}$ absorption and lower bioavailability** due to poor perfusion. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "route_of_administration",
+      "sepsis"
+    ]
+  },
+  {
+    "id": 1619,
+    "question": "The principle of **De-escalation** of antimicrobial therapy involves:",
+    "choices": [
+      "A. Switching from $\text{oral}$ to $\text{IV}$ route.",
+      "B. Switching from $\text{monotherapy}$ to $\text{combination}$ $\text{therapy}$.",
+      "C. **Switching from broad-spectrum $\text{empiric}$ to narrow-spectrum $\text{definitive}$ therapy.**",
+      "D. Continuing broad-spectrum therapy until full recovery.",
+      "E. Increasing the dose of the initial antibiotic."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "De-escalation is the process of **narrowing the spectrum of antibiotics** once the causative organism and its sensitivities are known, moving from empiric to definitive therapy. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "stewardship"
+    ]
+  },
+  {
+    "id": 1620,
+    "question": "A patient with community-acquired pneumonia ($\text{CAP}$) who improves clinically after $72$ hours of $\text{IV}$ therapy is switched to oral antibiotics. This switch is part of the principle of:",
+    "choices": [
+      "A. $\text{TDM}$ optimization.",
+      "B. $\text{Synergistic}$ $\text{therapy}$.",
+      "C. $\text{De}$-escalation of spectrum.",
+      "D. **$\text{Step}$-down $\text{therapy}$**.",
+      "E. $\text{Empiric}$ $\text{therapy}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Switching a patient from $\text{IV}$ to a highly bioavailable **$\text{oral}$ $\text{regimen}$** upon clinical improvement is known as **$\text{step}$-down $\text{therapy}$** and allows for earlier discharge and cost savings. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1621,
+    "question": "Which antimicrobial agent requires specific $\text{TDM}$ to avoid both toxicity (nephrotoxicity/ototoxicity) and ensure efficacy?",
+    "choices": [
+      "A. $\text{Ceftriaxone}$.",
+      "B. $\text{Metronidazole}$.",
+      "C. **$\text{Gentamicin}$ (and other $\text{aminoglycosides}$)**.",
+      "D. $\text{Ampicillin}$.",
+      "E. $\text{Ciprofloxacin}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Both **$\text{Vancomycin}$** and **$\text{Aminoglycosides}$** ($\text{Gentamicin}$, $\text{Amikacin}$) are narrow therapeutic index drugs that require **$\text{TDM}$** (monitoring $\text{peak}$ and/or $\text{trough}$ $\text{levels}$) to optimize dosing and minimize toxicity. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "TDM",
+      "aminoglycosides"
+    ]
+  },
+  {
+    "id": 1622,
+    "question": "A patient with $\text{severe}$ $\text{sepsis}$ is given empiric broad-spectrum antibiotics. The general principle for the duration of therapy in most bacterial infections is:",
+    "choices": [
+      "A. $\text{A}$ $\text{minimum}$ $\text{of}$ $\text{14}$ $\text{days}$.",
+      "B. $\text{Continue}$ $\text{until}$ $\text{symptoms}$ $\text{fully}$ $\text{resolve}$ $\text{for}$ $\text{7}$ $\text{days}$.",
+      "C. **$\text{7-14}$ $\text{days}$, $\text{adjusted}$ $\text{based}$ $\text{on}$ $\text{clinical}$ $\text{response}$ $\text{and}$ $\text{type}$ $\text{of}$ $\text{infection}$.**",
+      "D. $\text{3}$ $\text{days}$ $\text{post}$-fever $\text{resolution}$.",
+      "E. $\text{3}$ $\text{months}$ $\text{for}$ $\text{all}$ $\text{systemic}$ $\text{infections}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIEN REGIMEN",
+    "explanation": "The typical duration of therapy for most bacterial infections is **$7-14$ $\text{days}$**, but this must be **individualized** based on the type of infection and the patient's clinical response. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "duration_of_therapy"
+    ]
+  },
+  {
+    "id": 1623,
+    "question": "A patient is on $\text{oral}$ $\text{Ciprofloxacin}$ for complicated urinary tract infection ($\text{UTI}$). What is a crucial $\text{patient}$ $\text{education}$ point regarding drug interaction?",
+    "choices": [
+      "A. $\text{Avoid}$ $\text{all}$ $\text{alcohol}$ $\text{consumption}$.",
+      "B. $\text{Avoid}$ $\text{sun}$ $\text{exposure}$ $\text{due}$ $\text{to}$ $\text{risk}$ $\text{of}$ $\text{seizures}$.",
+      "C. **$\text{Avoid}$ $\text{co}$-administration $\text{with}$ $\text{milk}$ $\text{and}$ $\text{antacids}$.**",
+      "D. $\text{Monitor}$ $\text{for}$ $\text{hearing}$ $\text{loss}$.",
+      "E. $\text{Increase}$ $\text{potassium}$-rich $\text{foods}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIEN REGIMEN",
+    "explanation": "Fluoroquinolones (e.g., Ciprofloxacin) chelate with **$\text{divalent}$ $\text{cations}$** ($\text{Calcium}$, $\text{Magnesium}$, $\text{Iron}$) found in **milk, dairy products, and antacids**, leading to **impaired absorption**. (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "drug_interaction",
+      "Ciprofloxacin"
+    ]
+  },
+  {
+    "id": 1624,
+    "question": "The primary objective of antimicrobial **$\text{De}$-escalation** is:",
+    "choices": [
+      "A. To achieve synergy.",
+      "B. To treat resistant organisms.",
+      "C. **To reduce the selection pressure for $\text{antimicrobial}$ $\text{resistance}$.**",
+      "D. To switch the route of administration.",
+      "E. To decrease the duration of therapy."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The judicious use of antibiotics, including de-escalation, is a core principle of **$\text{antimicrobial}$ $\text{stewardship}$**, aiming to **reduce the selection pressure for $\text{antimicrobial}$ $\text{resistance}$**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "stewardship",
+      "de_escalation"
+    ]
+  },
+  {
+    "id": 1625,
+    "question": "A patient with suspected $\text{meningitis}$ is started on $\text{IV}$ $\text{Ceftriaxone}$. This is an example of what type of therapy?",
+    "choices": [
+      "A. **$\text{Empiric}$ $\text{therapy}$**.",
+      "B. $\text{Definitive}$ $\text{therapy}$.",
+      "C. $\text{Prophylactic}$ $\text{therapy}$.",
+      "D. $\text{Synergistic}$ $\text{therapy}$.",
+      "E. $\text{Step}$-down $\text{therapy}$."
+    ],
+    "correctAnswer": 0,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Empiric}$ $\text{therapy}$** is the initiation of antibiotics based on the suspected site and type of infection, covering the most likely pathogens before definitive culture results are available. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "empiric_therapy"
+    ]
+  },
+  {
+    "id": 1626,
+    "question": "A patient with $\text{renal}$ $\text{failure}$ requires $\text{Gentamicin}$. What is the most severe $\text{side}$ $\text{effect}$ that dose modification aims to prevent?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Allergy}$.",
+      "C. $\text{Bone}$ $\text{marrow}$ $\text{suppression}$.",
+      "D. **$\text{Nephrotoxicity}$ $\text{and}$ $\text{ototoxicity}$**.",
+      "E. $\text{Seizures}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The major toxicities of **$\text{Gentamicin}$** (an $\text{aminoglycoside}$) are **$\text{nephrotoxicity}$** and **$\text{ototoxicity}$** ($\text{vestibular}$ $\text{and}$ $\text{cochlear}$ $\text{damage}$), which are concentration-dependent and exacerbated by $\text{CKD}$. (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "aminoglycosides"
+    ]
+  },
+  {
+    "id": 1627,
+    "question": "The definitive diagnosis of a bacterial infection typically requires the performance of:",
+    "choices": [
+      "A. $\text{CBC}$ and $\text{CRP}$ measurement.",
+      "B. $\text{Imaging}$ ($\text{X-ray}$ or $\text{CT}$ $\text{scan}$).",
+      "C. $\text{Therapeutic}$ $\text{drug}$ $\text{monitoring}$ ($\text{TDM}$).",
+      "D. **Culture and sensitivity testing.**",
+      "E. $\text{A}$ $\text{trial}$ $\text{of}$ $\text{empiric}$ $\text{therapy}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The definitive diagnosis and guidance for therapy rely on identifying the organism and its sensitivity patterns via **culture and sensitivity testing**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "diagnosis",
+      "culture"
+    ]
+  },
+  {
+    "id": 1628,
+    "question": "A patient is admitted with a severe $\text{infection}$. Which factor mandates the use of $\text{IV}$ antibiotics over $\text{oral}$ route?",
+    "choices": [
+      "A. $\text{Patient}$ $\text{compliance}$.",
+      "B. $\text{High}$ $\text{cost}$.",
+      "C. **$\text{Septic}$ $\text{shock}$ $\text{and}$ $\text{impaired}$ $\text{GI}$ $\text{absorption}$**.",
+      "D. $\text{Risk}$ $\text{of}$ $\text{GI}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Need}$ $\text{for}$ $\text{TDM}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "In critically ill or septic shock patients, **$\text{IV}$ administration is mandatory** because of potential **impaired $\text{GI}$ absorption and lower bioavailability** due to poor perfusion. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "route_of_administration",
+      "sepsis"
+    ]
+  },
+  {
+    "id": 1629,
+    "question": "The principle of **$\text{Step}$-down $\text{therapy}$** involves:",
+    "choices": [
+      "A. $\text{Switching}$ $\text{from}$ $\text{oral}$ $\text{to}$ $\text{IV}$ $\text{route}$.",
+      "B. $\text{Switching}$ $\text{from}$ $\text{monotherapy}$ $\text{to}$ $\text{combination}$ $\text{therapy}$.",
+      "C. $\text{Switching}$ $\text{from}$ $\text{broad}$-spectrum $\text{empiric}$ $\text{to}$ $\text{narrow}$-spectrum $\text{definitive}$ $\text{therapy}$.",
+      "D. **$\text{Switching}$ $\text{from}$ $\text{IV}$ $\text{to}$ $\text{oral}$ $\text{therapy}$ $\text{on}$ $\text{clinical}$ $\text{improvement}$.**",
+      "E. $\text{Increasing}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{the}$ $\text{initial}$ $\text{antibiotic}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Step}$-down $\text{therapy}$** is the practice of switching from an **$\text{IV}$ $\text{regimen}$ to a highly $\text{bioavailable}$ $\text{oral}$ $\text{regimen}$** upon clinical improvement, leading to earlier discharge and lower costs. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1630,
+    "question": "A patient with $\text{Gram}$-negative rod bacteremia is on $\text{Gentamicin}$ therapy. Which toxicity requires concurrent monitoring of serum creatinine?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Ototoxicity}$.",
+      "C. **$\text{Nephrotoxicity}$**.",
+      "D. $\text{Seizures}$.",
+      "E. $\text{Neurotoxicity}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Increased serum $\text{creatinine}$ is the primary indicator of $\text{Gentamicin}$-induced **$\text{nephrotoxicity}$** ($\text{renal}$ $\text{damage}$). (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "aminoglycosides"
+    ]
+  },
+  {
+    "id": 1631,
+    "question": "A patient with $\text{GI}$ surgery prophylaxis needs coverage for $\text{Gram}$-negative organisms and $\text{anaerobes}$. The recommended combination is:",
+    "choices": [
+      "A. $\text{Cefazolin}$ $\text{monotherapy}$.",
+      "B. **$\text{Cefazolin}$ $\text{and}$ $\text{Metronidazole}$**.",
+      "C. $\text{Vancomycin}$ $\text{and}$ $\text{Gentamicin}$",
+      "D. $\text{Ampicillin}$ $\text{and}$ $\text{Metronidazole}$",
+      "E. $\text{Ciprofloxacin}$ $\text{monotherapy}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.1 ANTIMICROBIAL PROPHYLAXIS IN SURGERY",
+    "explanation": "For $\text{GI}$ procedures, the combination of **$\text{Cefazolin}$** ($\text{Gram}$-positive and some $\text{Gram}$-negative) and **$\text{Metronidazole}$** ($\text{anaerobes}$) is the standard. (p. 273)",
+    "tags": [
+      "surgical_prophylaxis",
+      "drug_combination"
+    ]
+  },
+  {
+    "id": 1632,
+    "question": "A patient's blood culture grows $\text{Staphylococcus}$ $\text{aureus}$, which is sensitive to $\text{Cefazolin}$ and $\text{Vancomycin}$. The patient is currently on $\text{empiric}$ $\text{Cefazolin}$ and $\text{Gentamicin}$. What is the appropriate next step for the antibiotic regimen?",
+    "choices": [
+      "A. $\text{Add}$ $\text{Vancomycin}$ $\text{for}$ $\text{synergy}$.",
+      "B. **$\text{De}$-escalate $\text{to}$ $\text{Cefazolin}$ $\text{monotherapy}$**.",
+      "C. $\text{Continue}$ $\text{Cefazolin}$ $\text{and}$ $\text{Gentamicin}$ $\text{combination}$.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{Vancomycin}$ $\text{monotherapy}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once definitive culture and sensitivity results are available, the empiric broad-spectrum therapy should be narrowed to a definitive, less toxic, and often single agent. This is called **$\text{De}$-escalation**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "definitive_therapy"
+    ]
+  },
+  {
+    "id": 1633,
+    "question": "The primary goal of $\text{antimicrobial}$ $\text{stewardship}$ is to:",
+    "choices": [
+      "A. $\text{Increase}$ $\text{the}$ $\text{average}$ $\text{duration}$ $\text{of}$ $\text{antibiotic}$ $\text{therapy}$.",
+      "B. $\text{Promote}$ $\text{the}$ $\text{use}$ $\text{of}$ $\text{broad}$-spectrum $\text{antibiotics}$.",
+      "C. **$\text{Optimize}$ $\text{antimicrobial}$ $\text{use}$ $\text{to}$ $\text{improve}$ $\text{patient}$ $\text{outcomes}$ $\text{and}$ $\text{reduce}$ $\text{resistance}$.**",
+      "D. $\text{Ensure}$ $\text{all}$ $\text{patients}$ $\text{receive}$ $\text{combination}$ $\text{therapy}$.",
+      "E. $\text{Avoid}$ $\text{all}$ $\text{intravenous}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Antimicrobial stewardship is a core principle aimed at **$\text{optimizing}$ $\text{antimicrobial}$ $\text{use}$** to enhance patient care and limit the emergence of **$\text{resistance}$**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "stewardship"
+    ]
+  },
+  {
+    "id": 1634,
+    "question": "A patient with severe $\text{sepsis}$ is given empiric broad-spectrum antibiotics. The patient improves clinically after $72$ hours. Which therapeutic principle should be applied next?",
+    "choices": [
+      "A. $\text{Continue}$ $\text{IV}$ $\text{therapy}$ $\text{for}$ $\text{14}$ $\text{days}$.",
+      "B. $\text{Switch}$ $\text{to}$ $\text{prophylactic}$ $\text{dosing}$.",
+      "C. **$\text{Consider}$ $\text{de}$-escalation $\text{and}$ $\text{step}$-down $\text{therapy}$**.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{IV}$ $\text{Vancomycin}$ $\text{for}$ $\text{MRSA}$ $\text{coverage}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once a patient is clinically stable, the therapy should be narrowed (de-escalation) and the route should be switched to oral if possible (**step-down $\text{therapy}$**). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1635,
+    "question": "A patient with $\text{CKD}$ (Creatinine Clearance $15 \text{ ml/min}$) is prescribed $\text{Gentamicin}$. What is the key principle for dosing this drug in this patient?",
+    "choices": [
+      "A. $\text{Dose}$ $\text{should}$ $\text{be}$ $\text{doubled}$.",
+      "B. $\text{Gentamicin}$ $\text{is}$ $\text{contraindicated}$ $\text{in}$ $\text{CKD}$.",
+      "C. **$\text{Dose}$ $\text{must}$ $\text{be}$ $\text{adjusted}$ ($\text{reduced}$ $\text{or}$ $\text{interval}$ $\text{increased}$) $\text{to}$ $\text{prevent}$ $\text{toxicity}$**.",
+      "D. $\text{Only}$ $\text{oral}$ $\text{Gentamicin}$ $\text{should}$ $\text{be}$ $\text{used}$.",
+      "E. $\text{No}$ $\text{dose}$ $\text{adjustment}$ $\text{is}$ $\text{needed}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "For renally excreted drugs like $\text{Gentamicin}$, **$\text{dose}$ $\text{modification}$ $\text{is}$ $\text{required}$** in patients with $\text{CKD}$ to prevent drug accumulation and toxicity (e.g., nephrotoxicity/ototoxicity). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "renal_adjustment"
+    ]
+  },
+  {
+    "id": 1636,
+    "question": "A patient with severe intra-abdominal infection is started on combination therapy ($\text{Ceftriaxone}$ and $\text{Metronidazole}$). What is the primary purpose of this combination?",
+    "choices": [
+      "A. $\text{To}$ $\text{achieve}$ $\text{synergistic}$ $\text{killing}$ $\text{against}$ $\text{a}$ $\text{single}$ $\text{organism}$.",
+      "B. $\text{To}$ $\text{reduce}$ $\text{the}$ $\text{duration}$ $\text{of}$ $\text{therapy}$.",
+      "C. **$\text{To}$ $\text{broaden}$ $\text{the}$ $\text{spectrum}$ $\text{of}$ $\text{coverage}$** ($\text{Gram}$-negative $\text{and}$ $\text{anaerobes}$).",
+      "D. $\text{To}$ $\text{prevent}$ $\text{drug}$ $\text{resistance}$.",
+      "E. $\text{To}$ $\text{decrease}$ $\text{the}$ $\text{overall}$ $\text{cost}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Combination therapy is most commonly used to **$\text{broaden}$ $\text{the}$ $\text{spectrum}$** of coverage when the causative organism is unknown ($\text{empiric}$ $\text{therapy}$) or when polymicrobial infection is suspected ($\text{e.g}$., $\text{intra}$-abdominal $\text{infection}$). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "combination_therapy"
+    ]
+  },
+  {
+    "id": 1637,
+    "question": "A patient is on $\text{Vancomycin}$ therapy for $\text{MRSA}$ bacteremia. Which monitoring is mandatory to ensure safety and efficacy?",
+    "choices": [
+      "A. $\text{Serum}$ $\text{Glucose}$ $\text{levels}$.",
+      "B. $\text{Serum}$ $\text{Calcium}$ $\text{levels}$.",
+      "C. **$\text{Therapeutic}$ $\text{Drug}$ $\text{Monitoring}$ ($\text{TDM}$) $\text{of}$ $\text{Vancomycin}$ $\text{Trough}$ $\text{Levels}$**.",
+      "D. $\text{Serum}$ $\text{Lipase}$ $\text{levels}$.",
+      "E. $\text{INR}$ $\text{monitoring}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Vancomycin}$** requires **$\text{TDM}$** ($\text{monitoring}$ $\text{trough}$ $\text{levels}$) to ensure adequate drug concentration for efficacy while minimizing the risk of nephrotoxicity. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "TDM",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1638,
+    "question": "A patient's blood culture grows $\text{Staphylococcus}$ $\text{aureus}$, which is sensitive to $\text{Cefazolin}$ and $\text{Vancomycin}$. The patient is currently on $\text{empiric}$ $\text{Cefazolin}$ and $\text{Gentamicin}$. What is the appropriate next step for the antibiotic regimen?",
+    "choices": [
+      "A. $\text{Add}$ $\text{Vancomycin}$ $\text{for}$ $\text{synergy}$.",
+      "B. **$\text{De}$-escalate $\text{to}$ $\text{Cefazolin}$ $\text{monotherapy}$**.",
+      "C. $\text{Continue}$ $\text{Cefazolin}$ $\text{and}$ $\text{Gentamicin}$ $\text{combination}$.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{Vancomycin}$ $\text{monotherapy}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once definitive culture and sensitivity results are available, the empiric broad-spectrum therapy should be narrowed to a definitive, less toxic, and often single agent. This is called **$\text{De}$-escalation**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "definitive_therapy"
+    ]
+  },
+  {
+    "id": 1639,
+    "question": "A patient is prescribed high-dose $\text{Penicillin}$ for $10$ days. Which potential $\text{CNS}$ side effect should the clinician monitor for, especially in the setting of $\text{renal}$ $\text{failure}$?",
+    "choices": [
+      "A. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "B. $\text{Optic}$ $\text{neuritis}$.",
+      "C. $\text{Vestibular}$ $\text{toxicity}$.",
+      "D. **$\text{Seizures}$**.",
+      "E. $\text{Hypoglycemia}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "High doses of $\text{Penicillin}$ ($\text{B}$-lactam) antibiotics, particularly in patients with $\text{renal}$ $\text{failure}$ where clearance is reduced, can accumulate in the $\text{CNS}$ and cause **$\text{seizures}$** or encephalopathy. (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "Penicillin"
+    ]
+  },
+  {
+    "id": 1640,
+    "question": "The definitive diagnosis of a bacterial infection typically requires the performance of:",
+    "choices": [
+      "A. $\text{CBC}$ $\text{and}$ $\text{CRP}$ $\text{measurement}$.",
+      "B. $\text{Imaging}$ ($\text{X-ray}$ $\text{or}$ $\text{CT}$ $\text{scan}$).",
+      "C. $\text{Therapeutic}$ $\text{drug}$ $\text{monitoring}$ ($\text{TDM}$).",
+      "D. **$\text{Culture}$ $\text{and}$ $\text{sensitivity}$ $\text{testing}$**.",
+      "E. $\text{A}$ $\text{trial}$ $\text{of}$ $\text{empiric}$ $\text{therapy}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The definitive diagnosis and guidance for therapy rely on identifying the organism and its sensitivity patterns via **$\text{culture}$ $\text{and}$ $\text{sensitivity}$ $\text{testing}$**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "diagnosis",
+      "culture"
+    ]
+  },
+  {
+    "id": 1641,
+    "question": "A patient is admitted with a $\text{severe}$ $\text{infection}$. Which factor mandates the use of $\text{IV}$ $\text{antibiotics}$ $\text{over}$ $\text{oral}$ $\text{route}$?",
+    "choices": [
+      "A. $\text{Patient}$ $\text{compliance}$.",
+      "B. $\text{High}$ $\text{cost}$.",
+      "C. **$\text{Septic}$ $\text{shock}$ $\text{and}$ $\text{impaired}$ $\text{GI}$ $\text{absorption}$**.",
+      "D. $\text{Risk}$ $\text{of}$ $\text{GI}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Need}$ $\text{for}$ $\text{TDM}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "In critically ill or septic shock patients, **$\text{IV}$ $\text{administration}$ $\text{is}$ $\text{mandatory}$** because of potential **$\text{impaired}$ $\text{GI}$ $\text{absorption}$ $\text{and}$ $\text{lower}$ $\text{bioavailability}$** due to poor perfusion. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "route_of_administration",
+      "sepsis"
+    ]
+  },
+  {
+    "id": 1642,
+    "question": "The principle of **$\text{Step}$-down $\text{therapy}$** involves:",
+    "choices": [
+      "A. $\text{Switching}$ $\text{from}$ $\text{oral}$ $\text{to}$ $\text{IV}$ $\text{route}$.",
+      "B. $\text{Switching}$ $\text{from}$ $\text{monotherapy}$ $\text{to}$ $\text{combination}$ $\text{therapy}$.",
+      "C. $\text{Switching}$ $\text{from}$ $\text{broad}$-spectrum $\text{empiric}$ $\text{to}$ $\text{narrow}$-spectrum $\text{definitive}$ $\text{therapy}$.",
+      "D. **$\text{Switching}$ $\text{from}$ $\text{IV}$ $\text{to}$ $\text{oral}$ $\text{therapy}$ $\text{on}$ $\text{clinical}$ $\text{improvement}$**.",
+      "E. $\text{Increasing}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{the}$ $\text{initial}$ $\text{antibiotic}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Step}$-down $\text{therapy}$** is the practice of switching from an **$\text{IV}$ $\text{regimen}$ $\text{to}$ $\text{a}$ $\text{highly}$ $\text{bioavailable}$ $\text{oral}$ $\text{regimen}$** upon clinical improvement, leading to earlier discharge and lower costs. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1643,
+    "question": "A patient with $\text{Gram}$-negative rod bacteremia is on $\text{Gentamicin}$ therapy. Which toxicity requires concurrent monitoring of $\text{serum}$ $\text{creatinine}$?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Ototoxicity}$.",
+      "C. **$\text{Nephrotoxicity}$**.",
+      "D. $\text{Seizures}$.",
+      "E. $\text{Neurotoxicity}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Increased serum $\text{creatinine}$ is the primary indicator of $\text{Gentamicin}$-induced **$\text{nephrotoxicity}$** ($\text{renal}$ $\text{damage}$). (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "aminoglycosides"
+    ]
+  },
+  {
+    "id": 1644,
+    "question": "A patient with severe $\text{CAP}$ is given empiric broad-spectrum antibiotics. The patient improves clinically after $72$ hours. Which therapeutic principle should be applied next?",
+    "choices": [
+      "A. $\text{Continue}$ $\text{IV}$ $\text{therapy}$ $\text{for}$ $\text{14}$ $\text{days}$.",
+      "B. $\text{Switch}$ $\text{to}$ $\text{prophylactic}$ $\text{dosing}$.",
+      "C. **$\text{Consider}$ $\text{de}$-escalation $\text{and}$ $\text{step}$-down $\text{therapy}$**.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{IV}$ $\text{Vancomycin}$ $\text{for}$ $\text{MRSA}$ $\text{coverage}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once a patient is clinically stable, the therapy should be narrowed (de-escalation) and the route should be switched to oral if possible (**step-down $\text{therapy}$**). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1645,
+    "question": "A patient with $\text{CKD}$ (Creatinine Clearance $15 \text{ ml/min}$) is prescribed $\text{Gentamicin}$. What is the key principle for dosing this drug in this patient?",
+    "choices": [
+      "A. $\text{Dose}$ $\text{should}$ $\text{be}$ $\text{doubled}$.",
+      "B. $\text{Gentamicin}$ $\text{is}$ $\text{contraindicated}$ $\text{in}$ $\text{CKD}$.",
+      "C. **$\text{Dose}$ $\text{must}$ $\text{be}$ $\text{adjusted}$ ($\text{reduced}$ $\text{or}$ $\text{interval}$ $\text{increased}$) $\text{to}$ $\text{prevent}$ $\text{toxicity}$**.",
+      "D. $\text{Only}$ $\text{oral}$ $\text{Gentamicin}$ $\text{should}$ $\text{be}$ $\text{used}$.",
+      "E. $\text{No}$ $\text{dose}$ $\text{adjustment}$ $\text{is}$ $\text{needed}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "For renally excreted drugs like $\text{Gentamicin}$, **$\text{dose}$ $\text{modification}$ $\text{is}$ $\text{required}$** in patients with $\text{CKD}$ to prevent drug accumulation and toxicity (e.g., nephrotoxicity/ototoxicity). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "renal_adjustment"
+    ]
+  },
+  {
+    "id": 1646,
+    "question": "A patient with severe intra-abdominal infection is started on combination therapy ($\text{Ceftriaxone}$ and $\text{Metronidazole}$). What is the primary purpose of this combination?",
+    "choices": [
+      "A. $\text{To}$ $\text{achieve}$ $\text{synergistic}$ $\text{killing}$ $\text{against}$ $\text{a}$ $\text{single}$ $\text{organism}$.",
+      "B. $\text{To}$ $\text{reduce}$ $\text{the}$ $\text{duration}$ $\text{of}$ $\text{therapy}$.",
+      "C. **$\text{To}$ $\text{broaden}$ $\text{the}$ $\text{spectrum}$ $\text{of}$ $\text{coverage}$** ($\text{Gram}$-negative $\text{and}$ $\text{anaerobes}$).",
+      "D. $\text{To}$ $\text{prevent}$ $\text{drug}$ $\text{resistance}$.",
+      "E. $\text{To}$ $\text{decrease}$ $\text{the}$ $\text{overall}$ $\text{cost}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Combination therapy is most commonly used to **$\text{broaden}$ $\text{the}$ $\text{spectrum}$** of coverage when the causative organism is unknown ($\text{empiric}$ $\text{therapy}$) or when polymicrobial infection is suspected ($\text{e.g}$., $\text{intra}$-abdominal $\text{infection}$). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "combination_therapy"
+    ]
+  },
+  {
+    "id": 1647,
+    "question": "A patient is on $\text{Vancomycin}$ therapy for $\text{MRSA}$ bacteremia. Which monitoring is mandatory to ensure safety and efficacy?",
+    "choices": [
+      "A. $\text{Serum}$ $\text{Glucose}$ $\text{levels}$.",
+      "B. $\text{Serum}$ $\text{Calcium}$ $\text{levels}$.",
+      "C. **$\text{Therapeutic}$ $\text{Drug}$ $\text{Monitoring}$ ($\text{TDM}$) $\text{of}$ $\text{Vancomycin}$ $\text{Trough}$ $\text{Levels}$**.",
+      "D. $\text{Serum}$ $\text{Lipase}$ $\text{levels}$.",
+      "E. $\text{INR}$ $\text{monitoring}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Vancomycin}$** requires **$\text{TDM}$** ($\text{monitoring}$ $\text{trough}$ $\text{levels}$) to ensure adequate drug concentration for efficacy while minimizing the risk of nephrotoxicity. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "TDM",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1648,
+    "question": "A patient's blood culture grows $\text{Staphylococcus}$ $\text{aureus}$, which is sensitive to $\text{Cefazolin}$ and $\text{Vancomycin}$. The patient is currently on $\text{empiric}$ $\text{Cefazolin}$ and $\text{Gentamicin}$. What is the appropriate next step for the antibiotic regimen?",
+    "choices": [
+      "A. $\text{Add}$ $\text{Vancomycin}$ $\text{for}$ $\text{synergy}$.",
+      "B. **$\text{De}$-escalate $\text{to}$ $\text{Cefazolin}$ $\text{monotherapy}$**.",
+      "C. $\text{Continue}$ $\text{Cefazolin}$ $\text{and}$ $\text{Gentamicin}$ $\text{combination}$.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{Vancomycin}$ $\text{monotherapy}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once definitive culture and sensitivity results are available, the empiric broad-spectrum therapy should be narrowed to a definitive, less toxic, and often single agent. This is called **$\text{De}$-escalation**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "definitive_therapy"
+    ]
+  },
+  {
+    "id": 1649,
+    "question": "A patient is prescribed high-dose $\text{Penicillin}$ for $10$ days. Which potential $\text{CNS}$ side effect should the clinician monitor for, especially in the setting of $\text{renal}$ $\text{failure}$?",
+    "choices": [
+      "A. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "B. $\text{Optic}$ $\text{neuritis}$.",
+      "C. $\text{Vestibular}$ $\text{toxicity}$.",
+      "D. **$\text{Seizures}$**.",
+      "E. $\text{Hypoglycemia}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "High doses of $\text{Penicillin}$ ($\text{B}$-lactam) antibiotics, particularly in patients with $\text{renal}$ $\text{failure}$ where clearance is reduced, can accumulate in the $\text{CNS}$ and cause **$\text{seizures}$** or encephalopathy. (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "Penicillin"
+    ]
+  },
+  {
+    "id": 1650,
+    "question": "The definitive diagnosis of a bacterial infection typically requires the performance of:",
+    "choices": [
+      "A. $\text{CBC}$ $\text{and}$ $\text{CRP}$ $\text{measurement}$.",
+      "B. $\text{Imaging}$ ($\text{X-ray}$ $\text{or}$ $\text{CT}$ $\text{scan}$).",
+      "C. $\text{Therapeutic}$ $\text{drug}$ $\text{monitoring}$ ($\text{TDM}$).",
+      "D. **$\text{Culture}$ $\text{and}$ $\text{sensitivity}$ $\text{testing}$**.",
+      "E. $\text{A}$ $\text{trial}$ $\text{of}$ $\text{empiric}$ $\text{therapy}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The definitive diagnosis and guidance for therapy rely on identifying the organism and its sensitivity patterns via **$\text{culture}$ $\text{and}$ $\text{sensitivity}$ $\text{testing}$**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "diagnosis",
+      "culture"
+    ]
+  },
+  {
+    "id": 1651,
+    "question": "A patient is admitted with a $\text{severe}$ $\text{infection}$. Which factor mandates the use of $\text{IV}$ $\text{antibiotics}$ $\text{over}$ $\text{oral}$ $\text{route}$?",
+    "choices": [
+      "A. $\text{Patient}$ $\text{compliance}$.",
+      "B. $\text{High}$ $\text{cost}$.",
+      "C. **$\text{Septic}$ $\text{shock}$ $\text{and}$ $\text{impaired}$ $\text{GI}$ $\text{absorption}$**.",
+      "D. $\text{Risk}$ $\text{of}$ $\text{GI}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Need}$ $\text{for}$ $\text{TDM}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "In critically ill or septic shock patients, **$\text{IV}$ $\text{administration}$ $\text{is}$ $\text{mandatory}$** because of potential **$\text{impaired}$ $\text{GI}$ $\text{absorption}$ $\text{and}$ $\text{lower}$ $\text{bioavailability}$** due to poor perfusion. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "route_of_administration",
+      "sepsis"
+    ]
+  },
+  {
+    "id": 1652,
+    "question": "The principle of **$\text{Step}$-down $\text{therapy}$** involves:",
+    "choices": [
+      "A. $\text{Switching}$ $\text{from}$ $\text{oral}$ $\text{to}$ $\text{IV}$ $\text{route}$.",
+      "B. $\text{Switching}$ $\text{from}$ $\text{monotherapy}$ $\text{to}$ $\text{combination}$ $\text{therapy}$.",
+      "C. $\text{Switching}$ $\text{from}$ $\text{broad}$-spectrum $\text{empiric}$ $\text{to}$ $\text{narrow}$-spectrum $\text{definitive}$ $\text{therapy}$.",
+      "D. **$\text{Switching}$ $\text{from}$ $\text{IV}$ $\text{to}$ $\text{oral}$ $\text{therapy}$ $\text{on}$ $\text{clinical}$ $\text{improvement}$**.",
+      "E. $\text{Increasing}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{the}$ $\text{initial}$ $\text{antibiotic}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Step}$-down $\text{therapy}$** is the practice of switching from an **$\text{IV}$ $\text{regimen}$ $\text{to}$ $\text{a}$ $\text{highly}$ $\text{bioavailable}$ $\text{oral}$ $\text{regimen}$** upon clinical improvement, leading to earlier discharge and lower costs. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1653,
+    "question": "A patient with $\text{Gram}$-negative rod bacteremia is on $\text{Gentamicin}$ therapy. Which toxicity requires concurrent monitoring of $\text{serum}$ $\text{creatinine}$?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Ototoxicity}$.",
+      "C. **$\text{Nephrotoxicity}$**.",
+      "D. $\text{Seizures}$.",
+      "E. $\text{Neurotoxicity}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Increased serum $\text{creatinine}$ is the primary indicator of $\text{Gentamicin}$-induced **$\text{nephrotoxicity}$** ($\text{renal}$ $\text{damage}$). (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "aminoglycosides"
+    ]
+  },
+  {
+    "id": 1654,
+    "question": "A patient with severe $\text{CAP}$ is given empiric broad-spectrum antibiotics. The patient improves clinically after $72$ hours. Which therapeutic principle should be applied next?",
+    "choices": [
+      "A. $\text{Continue}$ $\text{IV}$ $\text{therapy}$ $\text{for}$ $\text{14}$ $\text{days}$.",
+      "B. $\text{Switch}$ $\text{to}$ $\text{prophylactic}$ $\text{dosing}$.",
+      "C. **$\text{Consider}$ $\text{de}$-escalation $\text{and}$ $\text{step}$-down $\text{therapy}$**.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{IV}$ $\text{Vancomycin}$ $\text{for}$ $\text{MRSA}$ $\text{coverage}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once a patient is clinically stable, the therapy should be narrowed (de-escalation) and the route should be switched to oral if possible (**step-down $\text{therapy}$**). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "step_down_therapy"
+    ]
+  },
+  {
+    "id": 1655,
+    "question": "A patient with $\text{CKD}$ (Creatinine Clearance $15 \text{ ml/min}$) is prescribed $\text{Gentamicin}$. What is the key principle for dosing this drug in this patient?",
+    "choices": [
+      "A. $\text{Dose}$ $\text{should}$ $\text{be}$ $\text{doubled}$.",
+      "B. $\text{Gentamicin}$ $\text{is}$ $\text{contraindicated}$ $\text{in}$ $\text{CKD}$.",
+      "C. **$\text{Dose}$ $\text{must}$ $\text{be}$ $\text{adjusted}$ ($\text{reduced}$ $\text{or}$ $\text{interval}$ $\text{increased}$) $\text{to}$ $\text{prevent}$ $\text{toxicity}$**.",
+      "D. $\text{Only}$ $\text{oral}$ $\text{Gentamicin}$ $\text{should}$ $\text{be}$ $\text{used}$.",
+      "E. $\text{No}$ $\text{dose}$ $\text{adjustment}$ $\text{is}$ $\text{needed}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "For renally excreted drugs like $\text{Gentamicin}$, **$\text{dose}$ $\text{modification}$ $\text{is}$ $\text{required}$** in patients with $\text{CKD}$ to prevent drug accumulation and toxicity (e.g., nephrotoxicity/ototoxicity). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "renal_adjustment"
+    ]
+  },
+  {
+    "id": 1656,
+    "question": "A patient with severe intra-abdominal infection is started on combination therapy ($\text{Ceftriaxone}$ and $\text{Metronidazole}$). What is the primary purpose of this combination?",
+    "choices": [
+      "A. $\text{To}$ $\text{achieve}$ $\text{synergistic}$ $\text{killing}$ $\text{against}$ $\text{a}$ $\text{single}$ $\text{organism}$.",
+      "B. $\text{To}$ $\text{reduce}$ $\text{the}$ $\text{duration}$ $\text{of}$ $\text{therapy}$.",
+      "C. **$\text{To}$ $\text{broaden}$ $\text{the}$ $\text{spectrum}$ $\text{of}$ $\text{coverage}$** ($\text{Gram}$-negative $\text{and}$ $\text{anaerobes}$).",
+      "D. $\text{To}$ $\text{prevent}$ $\text{drug}$ $\text{resistance}$.",
+      "E. $\text{To}$ $\text{decrease}$ $\text{the}$ $\text{overall}$ $\text{cost}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Combination therapy is most commonly used to **$\text{broaden}$ $\text{the}$ $\text{spectrum}$** of coverage when the causative organism is unknown ($\text{empiric}$ $\text{therapy}$) or when polymicrobial infection is suspected ($\text{e.g}$., $\text{intra}$-abdominal $\text{infection}$). (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "combination_therapy"
+    ]
+  },
+  {
+    "id": 1657,
+    "question": "A patient is on $\text{Vancomycin}$ therapy for $\text{MRSA}$ bacteremia. Which monitoring is mandatory to ensure safety and efficacy?",
+    "choices": [
+      "A. $\text{Serum}$ $\text{Glucose}$ $\text{levels}$.",
+      "B. $\text{Serum}$ $\text{Calcium}$ $\text{levels}$.",
+      "C. **$\text{Therapeutic}$ $\text{Drug}$ $\text{Monitoring}$ ($\text{TDM}$) $\text{of}$ $\text{Vancomycin}$ $\text{Trough}$ $\text{Levels}$**.",
+      "D. $\text{Serum}$ $\text{Lipase}$ $\text{levels}$.",
+      "E. $\text{INR}$ $\text{monitoring}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "**$\text{Vancomycin}$** requires **$\text{TDM}$** ($\text{monitoring}$ $\text{trough}$ $\text{levels}$) to ensure adequate drug concentration for efficacy while minimizing the risk of nephrotoxicity. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "TDM",
+      "Vancomycin"
+    ]
+  },
+  {
+    "id": 1658,
+    "question": "A patient's blood culture grows $\text{Staphylococcus}$ $\text{aureus}$, which is sensitive to $\text{Cefazolin}$ and $\text{Vancomycin}$. The patient is currently on $\text{empiric}$ $\text{Cefazolin}$ and $\text{Gentamicin}$. What is the appropriate next step for the antibiotic regimen?",
+    "choices": [
+      "A. $\text{Add}$ $\text{Vancomycin}$ $\text{for}$ $\text{synergy}$.",
+      "B. **$\text{De}$-escalate $\text{to}$ $\text{Cefazolin}$ $\text{monotherapy}$**.",
+      "C. $\text{Continue}$ $\text{Cefazolin}$ $\text{and}$ $\text{Gentamicin}$ $\text{combination}$.",
+      "D. $\text{Switch}$ $\text{to}$ $\text{Vancomycin}$ $\text{monotherapy}$.",
+      "E. $\text{Stop}$ $\text{all}$ $\text{antibiotics}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "Once definitive culture and sensitivity results are available, the empiric broad-spectrum therapy should be narrowed to a definitive, less toxic, and often single agent. This is called **$\text{De}$-escalation**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "de_escalation",
+      "definitive_therapy"
+    ]
+  },
+  {
+    "id": 1659,
+    "question": "A patient is prescribed high-dose $\text{Penicillin}$ for $10$ days. Which potential $\text{CNS}$ side effect should the clinician monitor for, especially in the setting of $\text{renal}$ $\text{failure}$?",
+    "choices": [
+      "A. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "B. $\text{Optic}$ $\text{neuritis}$.",
+      "C. $\text{Vestibular}$ $\text{toxicity}$.",
+      "D. **$\text{Seizures}$**.",
+      "E. $\text{Hypoglycemia}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "High doses of $\text{Penicillin}$ ($\text{B}$-lactam) antibiotics, particularly in patients with $\text{renal}$ $\text{failure}$ where clearance is reduced, can accumulate in the $\text{CNS}$ and cause **$\text{seizures}$** or encephalopathy. (p. 275)",
+    "tags": [
+      "antimicrobial_regimen",
+      "side_effects",
+      "Penicillin"
+    ]
+  },
+  {
+    "id": 1660,
+    "question": "The definitive diagnosis of a bacterial infection typically requires the performance of:",
+    "choices": [
+      "A. $\text{CBC}$ $\text{and}$ $\text{CRP}$ $\text{measurement}$.",
+      "B. $\text{Imaging}$ ($\text{X-ray}$ $\text{or}$ $\text{CT}$ $\text{scan}$).",
+      "C. $\text{Therapeutic}$ $\text{drug}$ $\text{monitoring}$ ($\text{TDM}$).",
+      "D. **$\text{Culture}$ $\text{and}$ $\text{sensitivity}$ $\text{testing}$**.",
+      "E. $\text{A}$ $\text{trial}$ $\text{of}$ $\text{empiric}$ $\text{therapy}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.2 PRINCIPLES OF ANTIMICROBIAL REGIMEN",
+    "explanation": "The definitive diagnosis and guidance for therapy rely on identifying the organism and its sensitivity patterns via **$\text{culture}$ $\text{and}$ $\text{sensitivity}$ $\text{testing}$**. (p. 274)",
+    "tags": [
+      "antimicrobial_regimen",
+      "diagnosis",
+      "culture"
+    ]
+  },
+
+  {
+    "id": 1661,
+    "question": "A 30-year-old patient is newly diagnosed with $\text{HIV}$ infection. He is asymptomatic and his $\text{CD4}$ count is $550 \text{ cells}/\mu l$. According to current guidelines, what is the recommended management regarding $\text{ART}$?",
+    "choices": [
+      "A. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{CD4}$ $\text{count}$ $\text{drops}$ $\text{below}$ $200 \text{ cells}/\mu l$.",
+      "B. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{CD4}$ $\text{count}$ $\text{drops}$ $\text{below}$ $350 \text{ cells}/\mu l$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$, $\text{regardless}$ $\text{of}$ $\text{CD4}$ $\text{count}$**.",
+      "D. $\text{Initiate}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{viral}$ $\text{load}$ $\text{is}$ $\text{very}$ $\text{high}$.",
+      "E. $\text{Start}$ $\text{only}$ $\text{prophylaxis}$ $\text{for}$ $\text{OIs}$ $\text{($\text{PCP}$)} \text{.$"
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "Current $\text{WHO}$ and $\text{Ethiopian}$ guidelines recommend that $\text{ART}$ should be **$\text{initiated}$ $\text{in}$ $\text{all}$ $\text{people}$ $\text{with}$ $\text{HIV}$ $\text{regardless}$ $\text{of}$ $\text{CD4}$ $\text{count}$** or $\text{WHO}$ clinical stage (Treat All). (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "treat_all"
+    ]
+  },
+  {
+    "id": 1662,
+    "question": "A patient with $\text{HIV}$ is due to start $\text{First}$-$\text{Line}$ $\text{ART}$. Which drug combination is generally considered the preferred $\text{First}$-$\text{Line}$ $\text{Regimen}$?",
+    "choices": [
+      "A. $\text{Zidovudine}$ ($\text{AZT}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "B. $\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Lopinavir/Ritonavir}$ ($\text{LPV/r}$).",
+      "C. **$\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Dolutegravir}$ ($\text{DTG}$).**",
+      "D. $\text{Abacavir}$ ($\text{ABC}$), $\text{Didanosine}$ ($\text{ddI}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "E. $\text{Nevirapine}$ ($\text{NVP}$) $\text{and}$ $\text{Zidovudine}$ ($\text{AZT}$) $\text{monotherapy}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The preferred $\text{First}$-$\text{Line}$ $\text{ART}$ $\text{Regimen}$ is **$\text{TDF}$ $\text{+} \text{ 3TC}$ $\text{+} \text{ DTG}$** ($\text{or}$ $\text{FTC}$ $\text{instead}$ $\text{of}$ $\text{3TC}$), replacing $\text{EFV}$ where possible, due to better tolerability and efficacy. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_regimen",
+      "first_line"
+    ]
+  },
+  {
+    "id": 1663,
+    "question": "A patient on $\text{First}$-$\text{Line}$ $\text{ART}$ is monitored with a $\text{Viral}$ $\text{Load}$ ($\text{VL}$) test at $6$ months. What $\text{VL}$ value is generally considered successful virologic suppression?",
+    "choices": [
+      "A. $\text{VL} <1,000 \text{ copies/ml}$.",
+      "B. $\text{VL} <500 \text{ copies/ml}$.",
+      "C. **$\text{VL} <50 \text{ copies/ml}$ ($\text{Undetectable}$) $\text{is}$ $\text{the}$ $\text{goal}$**.",
+      "D. $\text{VL}$ $\text{decrease}$ $\text{by}$ $50\%$ $\text{from}$ $\text{baseline}$.",
+      "E. $\text{VL} <10,000 \text{ copies/ml}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The goal of $\text{ART}$ is to achieve **$\text{Undetectable}$ $\text{Viral}$ $\text{Load}$** ($\text{VL} <50 \text{ copies}/\text{ml}$). $\text{VL} <1000 \text{ copies}/\text{ml}$ is generally considered successful virologic suppression in resource-limited settings. However, **undetectable** is the ultimate goal. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "virologic_suppression"
+    ]
+  },
+  {
+    "id": 1664,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the most appropriate step in management?",
+    "choices": [
+      "A. $\text{Counseling}$ $\text{and}$ $\text{continue}$ $\text{First}$-$\text{Line}$.",
+      "B. $\text{Add}$ $\text{an}$ $\text{additional}$ $\text{drug}$ $\text{to}$ $\text{the}$ $\text{current}$ $\text{regimen}$.",
+      "C. **$\text{Switch}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**.",
+      "D. $\text{Increase}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{EFV}$.",
+      "E. $\text{Stop}$ $\text{ART}$ $\text{and}$ $\text{re}$-start $\text{after}$ $\text{a}$ $\text{drug}$ $\text{holiday}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**Virologic $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence. After adherence counseling, the patient must be **$\text{switched}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "management"
+    ]
+  },
+  {
+    "id": 1665,
+    "question": "A patient is on $\text{ART}$. Which laboratory test is the **most effective** way to monitor the long-term efficacy of $\text{ART}$?",
+    "choices": [
+      "A. $\text{Complete}$ $\text{Blood}$ $\text{Count}$ ($\text{CBC}$).",
+      "B. $\text{Liver}$ $\text{Function}$ $\text{Tests}$ ($\text{LFTs}$).",
+      "C. **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$**.",
+      "D. $\text{CD4}$ $\text{count}$ $\text{monitoring}$.",
+      "E. $\text{Serum}$ $\text{Creatinine}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "While $\text{CD4}$ is an important measure of $\text{immune}$ $\text{restoration}$, the **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$** is the **most $\text{effective}$** method to directly assess the efficacy of $\text{ART}$ in suppressing $\text{HIV}$ replication. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "viral_load"
+    ]
+  },
+  {
+    "id": 1666,
+    "question": "A patient with $\text{HIV}$ and a $\text{CD4}$ count of $150 \text{ cells}/\mu l$ is diagnosed with presumptive $\text{Pneumocystis}$ $\text{Jirovecii}$ $\text{Pneumonia}$ ($\text{PJP}$). What is the necessary prophylactic intervention that should have been started at this $\text{CD4}$ level?",
+    "choices": [
+      "A. $\text{Isoniazid}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{IPT}$).",
+      "B. $\text{Fluconazole}$ $\text{prophylaxis}$.",
+      "C. $\text{Acyclovir}$ $\text{prophylaxis}$.",
+      "D. **$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$).**",
+      "E. $\text{Azithromycin}$ $\text{prophylaxis}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$)** is initiated when the $\text{CD4}$ $\text{count}$ $\text{drops}$ $\text{below}$ $200 \text{ cells}/\mu l$ to prevent $\text{PJP}$ and other bacterial infections. (p. 276)",
+    "tags": [
+      "HIV",
+      "OIs_prophylaxis",
+      "CD4_threshold"
+    ]
+  },
+  {
+    "id": 1667,
+    "question": "A patient is on $\text{First}$-$\text{Line}$ $\text{ART}$ ($\text{TDF/3TC/DTG}$). Which drug toxicity is a major concern when using $\text{Tenofovir}$ ($\text{TDF}$)?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Bone}$ $\text{marrow}$ $\text{suppression}$.",
+      "C. **$\text{Renal}$ $\text{toxicity}$ $\text{and}$ $\text{bone}$ $\text{demineralization}$.**",
+      "D. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "E. $\text{Central}$ $\text{nervous}$ $\text{system}$ $\text{side}$ $\text{effects}$ ($\text{e.g}$., $\text{dreams}$)."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Tenofovir}$ ($\text{TDF}$)** is associated with dose-related **$\text{renal}$ $\text{toxicity}$** ($\text{Fanconi}$ $\text{syndrome}$) and a decrease in $\text{Bone}$ $\text{Mineral}$ $\text{Density}$ ($\text{bone}$ $\text{demineralization}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "TDF"
+    ]
+  },
+  {
+    "id": 1668,
+    "question": "A patient on $\text{ART}$ experiences $\text{severe}$ $\text{hyperpigmentation}$ of the palms and soles. Which $\text{NRTI}$ component of $\text{ART}$ is the most likely cause?",
+    "choices": [
+      "A. $\text{Tenofovir}$ ($\text{TDF}$).",
+      "B. **$\text{Zidovudine}$ ($\text{AZT}$) $\text{or}$ $\text{AZT}$-containing $\text{regimens}$**.",
+      "C. $\text{Lamivudine}$ ($\text{3TC}$).",
+      "D. $\text{Abacavir}$ ($\text{ABC}$).",
+      "E. $\text{Efavirenz}$ ($\text{EFV}$)."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "A key side effect of **$\text{Zidovudine}$ ($\text{AZT}$)** is $\text{Bone}$ $\text{Marrow}$ $\text{Suppression}$ ($\text{anemia}$) $\text{and}$ **$\text{hyperpigmentation}$ $\text{of}$ $\text{nails}$ $\text{and}$ $\text{skin}$** ($\text{especially}$ $\text{palms}$ $\text{and}$ $\text{soles}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "AZT"
+    ]
+  },
+  {
+    "id": 1669,
+    "question": "A patient with $\text{WHO}$ clinical stage $\text{IV}$ $\text{disease}$ is newly diagnosed with $\text{HIV}$. What is the recommended management regarding $\text{ART}$?",
+    "choices": [
+      "A. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{all}$ $\text{OIs}$ $\text{are}$ $\text{treated}$.",
+      "B. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{VL}$ $\text{is}$ $\text{available}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$ $\text{along}$ $\text{with}$ $\text{OI}$ $\text{treatment}$**.",
+      "D. $\text{Start}$ $\text{ART}$ $\text{with}$ $\text{monotherapy}$ $\text{to}$ $\text{reduce}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The $\text{Treat}$ $\text{All}$ policy dictates **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ stage. In the presence of $\text{OIs}$, $\text{ART}$ is started along with $\text{OI}$ $\text{treatment}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "WHO_stage"
+    ]
+  },
+  {
+    "id": 1670,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the definition of this condition?",
+    "choices": [
+      "A. $\text{Immunological}$ $\text{failure}$.",
+      "B. **$\text{Virologic}$ $\text{failure}$**.",
+      "C. $\text{Clinical}$ $\text{failure}$.",
+      "D. $\text{Treatment}$ $\text{success}$.",
+      "E. $\text{Drug}$ $\text{resistance}$ $\text{only}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Virologic}$ $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence to $\text{ART}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "definition"
+    ]
+  },
+  {
+    "id": 1671,
+    "question": "The definitive diagnosis and staging of $\text{HIV}$ infection should be followed by $\text{ART}$ initiation. What is the general principle regarding the timing of $\text{ART}$ initiation in all $\text{HIV}$ $\text{patients}$?",
+    "choices": [
+      "A. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{count}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$.",
+      "B. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{WHO}$ $\text{stage}$ $\text{is}$ $\text{III}$ $\text{or}$ $\text{IV}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$, $\text{regardless}$ $\text{of}$ $\text{CD4}$ $\text{count}$**.",
+      "D. $\text{Wait}$ $\text{for}$ $\text{CD4}$ $\text{count}$ $\text{to}$ $\text{normalize}$ $\text{before}$ $\text{starting}$.",
+      "E. $\text{Wait}$ $\text{6}$ $\text{months}$ $\text{post}$-diagnosis $\text{to}$ $\text{ensure}$ $\text{adherence}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The **$\text{Treat}$ $\text{All}$** policy recommends **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ clinical stage. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "treat_all"
+    ]
+  },
+  {
+    "id": 1672,
+    "question": "A patient with $\text{HIV}$ is due to start $\text{First}$-$\text{Line}$ $\text{ART}$. Which drug combination is generally considered the preferred $\text{First}$-$\text{Line}$ $\text{Regimen}$?",
+    "choices": [
+      "A. $\text{Zidovudine}$ ($\text{AZT}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "B. $\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Lopinavir/Ritonavir}$ ($\text{LPV/r}$).",
+      "C. **$\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Dolutegravir}$ ($\text{DTG}$).**",
+      "D. $\text{Abacavir}$ ($\text{ABC}$), $\text{Didanosine}$ ($\text{ddI}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "E. $\text{Nevirapine}$ ($\text{NVP}$) $\text{and}$ $\text{Zidovudine}$ ($\text{AZT}$) $\text{monotherapy}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The preferred $\text{First}$-$\text{Line}$ $\text{ART}$ $\text{Regimen}$ is **$\text{TDF}$ $\text{+} \text{ 3TC}$ $\text{+} \text{ DTG}$** ($\text{or}$ $\text{FTC}$ $\text{instead}$ $\text{of}$ $\text{3TC}$), replacing $\text{EFV}$ where possible, due to better tolerability and efficacy. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_regimen",
+      "first_line"
+    ]
+  },
+  {
+    "id": 1673,
+    "question": "A patient with $\text{HIV}$ is due for a $\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{test}$ at $6$ months. What $\text{VL}$ value is generally considered successful virologic suppression?",
+    "choices": [
+      "A. $\text{VL} <1,000 \text{ copies/ml}$.",
+      "B. $\text{VL} <500 \text{ copies/ml}$.",
+      "C. **$\text{VL} <50 \text{ copies/ml}$ ($\text{Undetectable}$) $\text{is}$ $\text{the}$ $\text{goal}$**.",
+      "D. $\text{VL}$ $\text{decrease}$ $\text{by}$ $50\%$ $\text{from}$ $\text{baseline}$.",
+      "E. $\text{VL} <10,000 \text{ copies/ml}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The goal of $\text{ART}$ is to achieve **$\text{Undetectable}$ $\text{Viral}$ $\text{Load}$** ($\text{VL} <50 \text{ copies}/\text{ml}$). $\text{VL} <1000 \text{ copies}/\text{ml}$ is generally considered successful virologic suppression in resource-limited settings. However, **undetectable** is the ultimate goal. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "virologic_suppression"
+    ]
+  },
+  {
+    "id": 1674,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the most appropriate step in management?",
+    "choices": [
+      "A. $\text{Counseling}$ $\text{and}$ $\text{continue}$ $\text{First}$-$\text{Line}$.",
+      "B. $\text{Add}$ $\text{an}$ $\text{additional}$ $\text{drug}$ $\text{to}$ $\text{the}$ $\text{current}$ $\text{regimen}$.",
+      "C. **$\text{Switch}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**.",
+      "D. $\text{Increase}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{EFV}$.",
+      "E. $\text{Stop}$ $\text{ART}$ $\text{and}$ $\text{re}$-start $\text{after}$ $\text{a}$ $\text{drug}$ $\text{holiday}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**Virologic $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence. After adherence counseling, the patient must be **$\text{switched}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "management"
+    ]
+  },
+  {
+    "id": 1675,
+    "question": "A patient is on $\text{ART}$. Which laboratory test is the **most effective** way to monitor the long-term efficacy of $\text{ART}$?",
+    "choices": [
+      "A. $\text{Complete}$ $\text{Blood}$ $\text{Count}$ ($\text{CBC}$).",
+      "B. $\text{Liver}$ $\text{Function}$ $\text{Tests}$ ($\text{LFTs}$).",
+      "C. **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$**.",
+      "D. $\text{CD4}$ $\text{count}$ $\text{monitoring}$.",
+      "E. $\text{Serum}$ $\text{Creatinine}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "While $\text{CD4}$ is an important measure of $\text{immune}$ $\text{restoration}$, the **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$** is the **most $\text{effective}$** method to directly assess the efficacy of $\text{ART}$ in suppressing $\text{HIV}$ replication. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "viral_load"
+    ]
+  },
+  {
+    "id": 1676,
+    "question": "A patient with $\text{HIV}$ and a $\text{CD4}$ count of $150 \text{ cells}/\mu l$ is diagnosed with presumptive $\text{PJP}$. What is the necessary prophylactic intervention that should have been started at this $\text{CD4}$ level?",
+    "choices": [
+      "A. $\text{Isoniazid}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{IPT}$).",
+      "B. $\text{Fluconazole}$ $\text{prophylaxis}$.",
+      "C. $\text{Acyclovir}$ $\text{prophylaxis}$.",
+      "D. **$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$).**",
+      "E. $\text{Azithromycin}$ $\text{prophylaxis}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$)** is initiated when the $\text{CD4}$ $\text{count}$ $\text{drops}$ $\text{below}$ $200 \text{ cells}/\mu l$ to prevent $\text{PJP}$ and other bacterial infections. (p. 276)",
+    "tags": [
+      "HIV",
+      "OIs_prophylaxis",
+      "CD4_threshold"
+    ]
+  },
+  {
+    "id": 1677,
+    "question": "A patient is on $\text{First}$-$\text{Line}$ $\text{ART}$ ($\text{TDF/3TC/DTG}$). Which drug toxicity is a major concern when using $\text{Tenofovir}$ ($\text{TDF}$)?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Bone}$ $\text{marrow}$ $\text{suppression}$.",
+      "C. **$\text{Renal}$ $\text{toxicity}$ $\text{and}$ $\text{bone}$ $\text{demineralization}$.**",
+      "D. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "E. $\text{Central}$ $\text{nervous}$ $\text{system}$ $\text{side}$ $\text{effects}$ ($\text{e.g}$., $\text{dreams}$)."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Tenofovir}$ ($\text{TDF}$)** is associated with dose-related **$\text{renal}$ $\text{toxicity}$** ($\text{Fanconi}$ $\text{syndrome}$) $\text{and}$ $\text{a}$ $\text{decrease}$ $\text{in}$ $\text{Bone}$ $\text{Mineral}$ $\text{Density}$ ($\text{bone}$ $\text{demineralization}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "TDF"
+    ]
+  },
+  {
+    "id": 1678,
+    "question": "A patient on $\text{ART}$ experiences $\text{severe}$ $\text{hyperpigmentation}$ $\text{of}$ $\text{the}$ $\text{palms}$ $\text{and}$ $\text{soles}$. Which $\text{NRTI}$ component of $\text{ART}$ is the most likely cause?",
+    "choices": [
+      "A. $\text{Tenofovir}$ ($\text{TDF}$).",
+      "B. **$\text{Zidovudine}$ ($\text{AZT}$) $\text{or}$ $\text{AZT}$-containing $\text{regimens}$**.",
+      "C. $\text{Lamivudine}$ ($\text{3TC}$).",
+      "D. $\text{Abacavir}$ ($\text{ABC}$).",
+      "E. $\text{Efavirenz}$ ($\text{EFV}$)."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "A key side effect of **$\text{Zidovudine}$ ($\text{AZT}$)** is $\text{Bone}$ $\text{Marrow}$ $\text{Suppression}$ ($\text{anemia}$) $\text{and}$ **$\text{hyperpigmentation}$ $\text{of}$ $\text{nails}$ $\text{and}$ $\text{skin}$** ($\text{especially}$ $\text{palms}$ $\text{and}$ $\text{soles}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "AZT"
+    ]
+  },
+  {
+    "id": 1679,
+    "question": "A patient with $\text{WHO}$ clinical stage $\text{IV}$ $\text{disease}$ is newly diagnosed with $\text{HIV}$. What is the recommended management regarding $\text{ART}$?",
+    "choices": [
+      "A. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{all}$ $\text{OIs}$ $\text{are}$ $\text{treated}$.",
+      "B. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{VL}$ $\text{is}$ $\text{available}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$ $\text{along}$ $\text{with}$ $\text{OI}$ $\text{treatment}$**.",
+      "D. $\text{Start}$ $\text{ART}$ $\text{with}$ $\text{monotherapy}$ $\text{to}$ $\text{reduce}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The $\text{Treat}$ $\text{All}$ policy dictates **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ stage. In the presence of $\text{OIs}$, $\text{ART}$ is started along with $\text{OI}$ $\text{treatment}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "WHO_stage"
+    ]
+  },
+  {
+    "id": 1680,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the definition of this condition?",
+    "choices": [
+      "A. $\text{Immunological}$ $\text{failure}$.",
+      "B. **$\text{Virologic}$ $\text{failure}$**.",
+      "C. $\text{Clinical}$ $\text{failure}$.",
+      "D. $\text{Treatment}$ $\text{success}$.",
+      "E. $\text{Drug}$ $\text{resistance}$ $\text{only}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Virologic}$ $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence to $\text{ART}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "definition"
+    ]
+  },
+  {
+    "id": 1681,
+    "question": "The definitive diagnosis and staging of $\text{HIV}$ infection should be followed by $\text{ART}$ initiation. What is the general principle regarding the timing of $\text{ART}$ initiation in all $\text{HIV}$ $\text{patients}$?",
+    "choices": [
+      "A. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{count}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$.",
+      "B. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{WHO}$ $\text{stage}$ $\text{is}$ $\text{III}$ $\text{or}$ $\text{IV}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$, $\text{regardless}$ $\text{of}$ $\text{CD4}$ $\text{count}$**.",
+      "D. $\text{Wait}$ $\text{for}$ $\text{CD4}$ $\text{count}$ $\text{to}$ $\text{normalize}$ $\text{before}$ $\text{starting}$.",
+      "E. $\text{Wait}$ $\text{6}$ $\text{months}$ $\text{post}$-diagnosis $\text{to}$ $\text{ensure}$ $\text{adherence}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The **$\text{Treat}$ $\text{All}$** policy recommends **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ clinical stage. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "treat_all"
+    ]
+  },
+  {
+    "id": 1682,
+    "question": "A patient with $\text{HIV}$ is due to start $\text{First}$-$\text{Line}$ $\text{ART}$. Which drug combination is generally considered the preferred $\text{First}$-$\text{Line}$ $\text{Regimen}$?",
+    "choices": [
+      "A. $\text{Zidovudine}$ ($\text{AZT}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "B. $\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Lopinavir/Ritonavir}$ ($\text{LPV/r}$).",
+      "C. **$\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Dolutegravir}$ ($\text{DTG}$).**",
+      "D. $\text{Abacavir}$ ($\text{ABC}$), $\text{Didanosine}$ ($\text{ddI}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "E. $\text{Nevirapine}$ ($\text{NVP}$) $\text{and}$ $\text{Zidovudine}$ ($\text{AZT}$) $\text{monotherapy}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The preferred $\text{First}$-$\text{Line}$ $\text{ART}$ $\text{Regimen}$ is **$\text{TDF}$ $\text{+} \text{ 3TC}$ $\text{+} \text{ DTG}$** ($\text{or}$ $\text{FTC}$ $\text{instead}$ $\text{of}$ $\text{3TC}$), replacing $\text{EFV}$ where possible, due to better tolerability and efficacy. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_regimen",
+      "first_line"
+    ]
+  },
+  {
+    "id": 1683,
+    "question": "A patient with $\text{HIV}$ is due for a $\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{test}$ at $6$ months. What $\text{VL}$ value is generally considered successful virologic suppression?",
+    "choices": [
+      "A. $\text{VL} <1,000 \text{ copies/ml}$.",
+      "B. $\text{VL} <500 \text{ copies/ml}$.",
+      "C. **$\text{VL} <50 \text{ copies/ml}$ ($\text{Undetectable}$) $\text{is}$ $\text{the}$ $\text{goal}$**.",
+      "D. $\text{VL}$ $\text{decrease}$ $\text{by}$ $50\%$ $\text{from}$ $\text{baseline}$.",
+      "E. $\text{VL} <10,000 \text{ copies/ml}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The goal of $\text{ART}$ is to achieve **$\text{Undetectable}$ $\text{Viral}$ $\text{Load}$** ($\text{VL} <50 \text{ copies}/\text{ml}$). $\text{VL} <1000 \text{ copies}/\text{ml}$ is generally considered successful virologic suppression in resource-limited settings. However, **undetectable** is the ultimate goal. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "virologic_suppression"
+    ]
+  },
+  {
+    "id": 1684,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the most appropriate step in management?",
+    "choices": [
+      "A. $\text{Counseling}$ $\text{and}$ $\text{continue}$ $\text{First}$-$\text{Line}$.",
+      "B. $\text{Add}$ $\text{an}$ $\text{additional}$ $\text{drug}$ $\text{to}$ $\text{the}$ $\text{current}$ $\text{regimen}$.",
+      "C. **$\text{Switch}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**.",
+      "D. $\text{Increase}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{EFV}$.",
+      "E. $\text{Stop}$ $\text{ART}$ $\text{and}$ $\text{re}$-start $\text{after}$ $\text{a}$ $\text{drug}$ $\text{holiday}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**Virologic $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence. After adherence counseling, the patient must be **$\text{switched}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "management"
+    ]
+  },
+  {
+    "id": 1685,
+    "question": "A patient is on $\text{ART}$. Which laboratory test is the **most effective** way to monitor the long-term efficacy of $\text{ART}$?",
+    "choices": [
+      "A. $\text{Complete}$ $\text{Blood}$ $\text{Count}$ ($\text{CBC}$).",
+      "B. $\text{Liver}$ $\text{Function}$ $\text{Tests}$ ($\text{LFTs}$).",
+      "C. **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$**.",
+      "D. $\text{CD4}$ $\text{count}$ $\text{monitoring}$.",
+      "E. $\text{Serum}$ $\text{Creatinine}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "While $\text{CD4}$ is an important measure of $\text{immune}$ $\text{restoration}$, the **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$** is the **most $\text{effective}$** method to directly assess the efficacy of $\text{ART}$ in suppressing $\text{HIV}$ replication. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "viral_load"
+    ]
+  },
+  {
+    "id": 1686,
+    "question": "A patient with $\text{HIV}$ and a $\text{CD4}$ count of $150 \text{ cells}/\mu l$ is diagnosed with presumptive $\text{PJP}$. What is the necessary prophylactic intervention that should have been started at this $\text{CD4}$ level?",
+    "choices": [
+      "A. $\text{Isoniazid}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{IPT}$).",
+      "B. $\text{Fluconazole}$ $\text{prophylaxis}$.",
+      "C. $\text{Acyclovir}$ $\text{prophylaxis}$.",
+      "D. **$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$).**",
+      "E. $\text{Azithromycin}$ $\text{prophylaxis}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$)** is initiated when the $\text{CD4}$ $\text{count}$ $\text{drops}$ $\text{below}$ $200 \text{ cells}/\mu l$ to prevent $\text{PJP}$ and other bacterial infections. (p. 276)",
+    "tags": [
+      "HIV",
+      "OIs_prophylaxis",
+      "CD4_threshold"
+    ]
+  },
+  {
+    "id": 1687,
+    "question": "A patient is on $\text{First}$-$\text{Line}$ $\text{ART}$ ($\text{TDF/3TC/DTG}$). Which drug toxicity is a major concern when using $\text{Tenofovir}$ ($\text{TDF}$)?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Bone}$ $\text{marrow}$ $\text{suppression}$.",
+      "C. **$\text{Renal}$ $\text{toxicity}$ $\text{and}$ $\text{bone}$ $\text{demineralization}$.**",
+      "D. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "E. $\text{Central}$ $\text{nervous}$ $\text{system}$ $\text{side}$ $\text{effects}$ ($\text{e.g}$., $\text{dreams}$)."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Tenofovir}$ ($\text{TDF}$)** is associated with dose-related **$\text{renal}$ $\text{toxicity}$** ($\text{Fanconi}$ $\text{syndrome}$) $\text{and}$ $\text{a}$ $\text{decrease}$ $\text{in}$ $\text{Bone}$ $\text{Mineral}$ $\text{Density}$ ($\text{bone}$ $\text{demineralization}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "TDF"
+    ]
+  },
+  {
+    "id": 1688,
+    "question": "A patient on $\text{ART}$ experiences $\text{severe}$ $\text{hyperpigmentation}$ $\text{of}$ $\text{the}$ $\text{palms}$ $\text{and}$ $\text{soles}$. Which $\text{NRTI}$ component of $\text{ART}$ is the most likely cause?",
+    "choices": [
+      "A. $\text{Tenofovir}$ ($\text{TDF}$).",
+      "B. **$\text{Zidovudine}$ ($\text{AZT}$) $\text{or}$ $\text{AZT}$-containing $\text{regimens}$**.",
+      "C. $\text{Lamivudine}$ ($\text{3TC}$).",
+      "D. $\text{Abacavir}$ ($\text{ABC}$).",
+      "E. $\text{Efavirenz}$ ($\text{EFV}$)."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "A key side effect of **$\text{Zidovudine}$ ($\text{AZT}$)** is $\text{Bone}$ $\text{Marrow}$ $\text{Suppression}$ ($\text{anemia}$) $\text{and}$ **$\text{hyperpigmentation}$ $\text{of}$ $\text{nails}$ $\text{and}$ $\text{skin}$** ($\text{especially}$ $\text{palms}$ $\text{and}$ $\text{soles}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "AZT"
+    ]
+  },
+  {
+    "id": 1689,
+    "question": "A patient with $\text{WHO}$ clinical stage $\text{IV}$ $\text{disease}$ is newly diagnosed with $\text{HIV}$. What is the recommended management regarding $\text{ART}$?",
+    "choices": [
+      "A. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{all}$ $\text{OIs}$ $\text{are}$ $\text{treated}$.",
+      "B. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{VL}$ $\text{is}$ $\text{available}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$ $\text{along}$ $\text{with}$ $\text{OI}$ $\text{treatment}$**.",
+      "D. $\text{Start}$ $\text{ART}$ $\text{with}$ $\text{monotherapy}$ $\text{to}$ $\text{reduce}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The $\text{Treat}$ $\text{All}$ policy dictates **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ stage. In the presence of $\text{OIs}$, $\text{ART}$ is started along with $\text{OI}$ $\text{treatment}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "WHO_stage"
+    ]
+  },
+  {
+    "id": 1690,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the definition of this condition?",
+    "choices": [
+      "A. $\text{Immunological}$ $\text{failure}$.",
+      "B. **$\text{Virologic}$ $\text{failure}$**.",
+      "C. $\text{Clinical}$ $\text{failure}$.",
+      "D. $\text{Treatment}$ $\text{success}$.",
+      "E. $\text{Drug}$ $\text{resistance}$ $\text{only}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Virologic}$ $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence to $\text{ART}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "definition"
+    ]
+  },
+  {
+    "id": 1691,
+    "question": "The definitive diagnosis and staging of $\text{HIV}$ infection should be followed by $\text{ART}$ initiation. What is the general principle regarding the timing of $\text{ART}$ initiation in all $\text{HIV}$ $\text{patients}$?",
+    "choices": [
+      "A. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{count}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$.",
+      "B. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{WHO}$ $\text{stage}$ $\text{is}$ $\text{III}$ $\text{or}$ $\text{IV}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$, $\text{regardless}$ $\text{of}$ $\text{CD4}$ $\text{count}$**.",
+      "D. $\text{Wait}$ $\text{for}$ $\text{CD4}$ $\text{count}$ $\text{to}$ $\text{normalize}$ $\text{before}$ $\text{starting}$.",
+      "E. $\text{Wait}$ $\text{6}$ $\text{months}$ $\text{post}$-diagnosis $\text{to}$ $\text{ensure}$ $\text{adherence}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The **$\text{Treat}$ $\text{All}$** policy recommends **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ clinical stage. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "treat_all"
+    ]
+  },
+  {
+    "id": 1692,
+    "question": "A patient with $\text{HIV}$ is due to start $\text{First}$-$\text{Line}$ $\text{ART}$. Which drug combination is generally considered the preferred $\text{First}$-$\text{Line}$ $\text{Regimen}$?",
+    "choices": [
+      "A. $\text{Zidovudine}$ ($\text{AZT}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "B. $\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Lopinavir/Ritonavir}$ ($\text{LPV/r}$).",
+      "C. **$\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Dolutegravir}$ ($\text{DTG}$).**",
+      "D. $\text{Abacavir}$ ($\text{ABC}$), $\text{Didanosine}$ ($\text{ddI}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "E. $\text{Nevirapine}$ ($\text{NVP}$) $\text{and}$ $\text{Zidovudine}$ ($\text{AZT}$) $\text{monotherapy}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The preferred $\text{First}$-$\text{Line}$ $\text{ART}$ $\text{Regimen}$ is **$\text{TDF}$ $\text{+} \text{ 3TC}$ $\text{+} \text{ DTG}$** ($\text{or}$ $\text{FTC}$ $\text{instead}$ $\text{of}$ $\text{3TC}$), replacing $\text{EFV}$ where possible, due to better tolerability and efficacy. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_regimen",
+      "first_line"
+    ]
+  },
+  {
+    "id": 1693,
+    "question": "A patient with $\text{HIV}$ is due for a $\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{test}$ at $6$ months. What $\text{VL}$ value is generally considered successful virologic suppression?",
+    "choices": [
+      "A. $\text{VL} <1,000 \text{ copies/ml}$.",
+      "B. $\text{VL} <500 \text{ copies/ml}$.",
+      "C. **$\text{VL} <50 \text{ copies/ml}$ ($\text{Undetectable}$) $\text{is}$ $\text{the}$ $\text{goal}$**.",
+      "D. $\text{VL}$ $\text{decrease}$ $\text{by}$ $50\%$ $\text{from}$ $\text{baseline}$.",
+      "E. $\text{VL} <10,000 \text{ copies/ml}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The goal of $\text{ART}$ is to achieve **$\text{Undetectable}$ $\text{Viral}$ $\text{Load}$** ($\text{VL} <50 \text{ copies}/\text{ml}$). $\text{VL} <1000 \text{ copies}/\text{ml}$ is generally considered successful virologic suppression in resource-limited settings. However, **undetectable** is the ultimate goal. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "virologic_suppression"
+    ]
+  },
+  {
+    "id": 1694,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the most appropriate step in management?",
+    "choices": [
+      "A. $\text{Counseling}$ $\text{and}$ $\text{continue}$ $\text{First}$-$\text{Line}$.",
+      "B. $\text{Add}$ $\text{an}$ $\text{additional}$ $\text{drug}$ $\text{to}$ $\text{the}$ $\text{current}$ $\text{regimen}$.",
+      "C. **$\text{Switch}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**.",
+      "D. $\text{Increase}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{EFV}$.",
+      "E. $\text{Stop}$ $\text{ART}$ $\text{and}$ $\text{re}$-start $\text{after}$ $\text{a}$ $\text{drug}$ $\text{holiday}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**Virologic $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence. After adherence counseling, the patient must be **$\text{switched}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "management"
+    ]
+  },
+  {
+    "id": 1695,
+    "question": "A patient is on $\text{ART}$. Which laboratory test is the **most effective** way to monitor the long-term efficacy of $\text{ART}$?",
+    "choices": [
+      "A. $\text{Complete}$ $\text{Blood}$ $\text{Count}$ ($\text{CBC}$).",
+      "B. $\text{Liver}$ $\text{Function}$ $\text{Tests}$ ($\text{LFTs}$).",
+      "C. **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$**.",
+      "D. $\text{CD4}$ $\text{count}$ $\text{monitoring}$.",
+      "E. $\text{Serum}$ $\text{Creatinine}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "While $\text{CD4}$ is an important measure of $\text{immune}$ $\text{restoration}$, the **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$** is the **most $\text{effective}$** method to directly assess the efficacy of $\text{ART}$ in suppressing $\text{HIV}$ replication. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "viral_load"
+    ]
+  },
+  {
+    "id": 1696,
+    "question": "A patient with $\text{HIV}$ and a $\text{CD4}$ count of $150 \text{ cells}/\mu l$ is diagnosed with presumptive $\text{PJP}$. What is the necessary prophylactic intervention that should have been started at this $\text{CD4}$ level?",
+    "choices": [
+      "A. $\text{Isoniazid}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{IPT}$).",
+      "B. $\text{Fluconazole}$ $\text{prophylaxis}$.",
+      "C. $\text{Acyclovir}$ $\text{prophylaxis}$.",
+      "D. **$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$).**",
+      "E. $\text{Azithromycin}$ $\text{prophylaxis}$."
+    ],
+    "correctAnswer": 3,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Co}$-$\text{trimoxazole}$ $\text{Preventive}$ $\text{Therapy}$ ($\text{CPT}$)** is initiated when the $\text{CD4}$ $\text{count}$ $\text{drops}$ $\text{below}$ $200 \text{ cells}/\mu l$ to prevent $\text{PJP}$ and other bacterial infections. (p. 276)",
+    "tags": [
+      "HIV",
+      "OIs_prophylaxis",
+      "CD4_threshold"
+    ]
+  },
+  {
+    "id": 1697,
+    "question": "A patient is on $\text{First}$-$\text{Line}$ $\text{ART}$ ($\text{TDF/3TC/DTG}$). Which drug toxicity is a major concern when using $\text{Tenofovir}$ ($\text{TDF}$)?",
+    "choices": [
+      "A. $\text{Hepatotoxicity}$.",
+      "B. $\text{Bone}$ $\text{marrow}$ $\text{suppression}$.",
+      "C. **$\text{Renal}$ $\text{toxicity}$ $\text{and}$ $\text{bone}$ $\text{demineralization}$.**",
+      "D. $\text{Peripheral}$ $\text{neuropathy}$.",
+      "E. $\text{Central}$ $\text{nervous}$ $\text{system}$ $\text{side}$ $\text{effects}$ ($\text{e.g}$., $\text{dreams}$)."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Tenofovir}$ ($\text{TDF}$)** is associated with dose-related **$\text{renal}$ $\text{toxicity}$** ($\text{Fanconi}$ $\text{syndrome}$) $\text{and}$ $\text{a}$ $\text{decrease}$ $\text{in}$ $\text{Bone}$ $\text{Mineral}$ $\text{Density}$ ($\text{bone}$ $\text{demineralization}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "TDF"
+    ]
+  },
+  {
+    "id": 1698,
+    "question": "A patient on $\text{ART}$ experiences $\text{severe}$ $\text{hyperpigmentation}$ $\text{of}$ $\text{the}$ $\text{palms}$ $\text{and}$ $\text{soles}$. Which $\text{NRTI}$ component of $\text{ART}$ is the most likely cause?",
+    "choices": [
+      "A. $\text{Tenofovir}$ ($\text{TDF}$).",
+      "B. **$\text{Zidovudine}$ ($\text{AZT}$) $\text{or}$ $\text{AZT}$-containing $\text{regimens}$**.",
+      "C. $\text{Lamivudine}$ ($\text{3TC}$).",
+      "D. $\text{Abacavir}$ ($\text{ABC}$).",
+      "E. $\text{Efavirenz}$ ($\text{EFV}$)."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "A key side effect of **$\text{Zidovudine}$ ($\text{AZT}$)** is $\text{Bone}$ $\text{Marrow}$ $\text{Suppression}$ ($\text{anemia}$) $\text{and}$ **$\text{hyperpigmentation}$ $\text{of}$ $\text{nails}$ $\text{and}$ $\text{skin}$** ($\text{especially}$ $\text{palms}$ $\text{and}$ $\text{soles}$). (p. 277)",
+    "tags": [
+      "HIV",
+      "ART_toxicity",
+      "AZT"
+    ]
+  },
+  {
+    "id": 1699,
+    "question": "A patient with $\text{WHO}$ clinical stage $\text{IV}$ $\text{disease}$ is newly diagnosed with $\text{HIV}$. What is the recommended management regarding $\text{ART}$?",
+    "choices": [
+      "A. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{all}$ $\text{OIs}$ $\text{are}$ $\text{treated}$.",
+      "B. $\text{Defer}$ $\text{ART}$ $\text{until}$ $\text{VL}$ $\text{is}$ $\text{available}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$ $\text{along}$ $\text{with}$ $\text{OI}$ $\text{treatment}$**.",
+      "D. $\text{Start}$ $\text{ART}$ $\text{with}$ $\text{monotherapy}$ $\text{to}$ $\text{reduce}$ $\text{side}$ $\text{effects}$.",
+      "E. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The $\text{Treat}$ $\text{All}$ policy dictates **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ stage. In the presence of $\text{OIs}$, $\text{ART}$ is started along with $\text{OI}$ $\text{treatment}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "WHO_stage"
+    ]
+  },
+  {
+    "id": 1700,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the definition of this condition?",
+    "choices": [
+      "A. $\text{Immunological}$ $\text{failure}$.",
+      "B. **$\text{Virologic}$ $\text{failure}$**.",
+      "C. $\text{Clinical}$ $\text{failure}$.",
+      "D. $\text{Treatment}$ $\text{success}$.",
+      "E. $\text{Drug}$ $\text{resistance}$ $\text{only}$."
+    ],
+    "correctAnswer": 1,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**$\text{Virologic}$ $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence to $\text{ART}$. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "definition"
+    ]
+  },
+  {
+    "id": 1701,
+    "question": "The definitive diagnosis and staging of $\text{HIV}$ infection should be followed by $\text{ART}$ initiation. What is the general principle regarding the timing of $\text{ART}$ initiation in all $\text{HIV}$ $\text{patients}$?",
+    "choices": [
+      "A. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{CD4}$ $\text{count}$ $\text{is}$ $\text{below}$ $200 \text{ cells}/\mu l$.",
+      "B. $\text{Start}$ $\text{ART}$ $\text{only}$ $\text{if}$ $\text{WHO}$ $\text{stage}$ $\text{is}$ $\text{III}$ $\text{or}$ $\text{IV}$.",
+      "C. **$\text{Initiate}$ $\text{ART}$ $\text{immediately}$, $\text{regardless}$ $\text{of}$ $\text{CD4}$ $\text{count}$**.",
+      "D. $\text{Wait}$ $\text{for}$ $\text{CD4}$ $\text{count}$ $\text{to}$ $\text{normalize}$ $\text{before}$ $\text{starting}$.",
+      "E. $\text{Wait}$ $\text{6}$ $\text{months}$ $\text{post}$-diagnosis $\text{to}$ $\text{ensure}$ $\text{adherence}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The **$\text{Treat}$ $\text{All}$** policy recommends **$\text{immediate}$ $\text{ART}$ $\text{initiation}$** regardless of $\text{CD4}$ $\text{count}$ or $\text{WHO}$ clinical stage. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_initiation",
+      "treat_all"
+    ]
+  },
+  {
+    "id": 1702,
+    "question": "A patient with $\text{HIV}$ is due to start $\text{First}$-$\text{Line}$ $\text{ART}$. Which drug combination is generally considered the preferred $\text{First}$-$\text{Line}$ $\text{Regimen}$?",
+    "choices": [
+      "A. $\text{Zidovudine}$ ($\text{AZT}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "B. $\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Lopinavir/Ritonavir}$ ($\text{LPV/r}$).",
+      "C. **$\text{Tenofovir}$ ($\text{TDF}$), $\text{Lamivudine}$ ($\text{3TC}$), $\text{and}$ $\text{Dolutegravir}$ ($\text{DTG}$).**",
+      "D. $\text{Abacavir}$ ($\text{ABC}$), $\text{Didanosine}$ ($\text{ddI}$), $\text{and}$ $\text{Efavirenz}$ ($\text{EFV}$).",
+      "E. $\text{Nevirapine}$ ($\text{NVP}$) $\text{and}$ $\text{Zidovudine}$ ($\text{AZT}$) $\text{monotherapy}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The preferred $\text{First}$-$\text{Line}$ $\text{ART}$ $\text{Regimen}$ is **$\text{TDF}$ $\text{+} \text{ 3TC}$ $\text{+} \text{ DTG}$** ($\text{or}$ $\text{FTC}$ $\text{instead}$ $\text{of}$ $\text{3TC}$), replacing $\text{EFV}$ where possible, due to better tolerability and efficacy. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_regimen",
+      "first_line"
+    ]
+  },
+  {
+    "id": 1703,
+    "question": "A patient with $\text{HIV}$ is due for a $\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{test}$ at $6$ months. What $\text{VL}$ value is generally considered successful virologic suppression?",
+    "choices": [
+      "A. $\text{VL} <1,000 \text{ copies/ml}$.",
+      "B. $\text{VL} <500 \text{ copies/ml}$.",
+      "C. **$\text{VL} <50 \text{ copies/ml}$ ($\text{Undetectable}$) $\text{is}$ $\text{the}$ $\text{goal}$**.",
+      "D. $\text{VL}$ $\text{decrease}$ $\text{by}$ $50\%$ $\text{from}$ $\text{baseline}$.",
+      "E. $\text{VL} <10,000 \text{ copies/ml}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "The goal of $\text{ART}$ is to achieve **$\text{Undetectable}$ $\text{Viral}$ $\text{Load}$** ($\text{VL} <50 \text{ copies}/\text{ml}$). $\text{VL} <1000 \text{ copies}/\text{ml}$ is generally considered successful virologic suppression in resource-limited settings. However, **undetectable** is the ultimate goal. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "virologic_suppression"
+    ]
+  },
+  {
+    "id": 1704,
+    "question": "A patient on $\text{TDF/3TC/EFV}$ regimen has a sustained $\text{VL}$ of $5,000 \text{ copies}/\text{ml}$ at $12$ and $18$ months. What is the most appropriate step in management?",
+    "choices": [
+      "A. $\text{Counseling}$ $\text{and}$ $\text{continue}$ $\text{First}$-$\text{Line}$.",
+      "B. $\text{Add}$ $\text{an}$ $\text{additional}$ $\text{drug}$ $\text{to}$ $\text{the}$ $\text{current}$ $\text{regimen}$.",
+      "C. **$\text{Switch}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**.",
+      "D. $\text{Increase}$ $\text{the}$ $\text{dose}$ $\text{of}$ $\text{EFV}$.",
+      "E. $\text{Stop}$ $\text{ART}$ $\text{and}$ $\text{re}$-start $\text{after}$ $\text{a}$ $\text{drug}$ $\text{holiday}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "**Virologic $\text{failure}$** is defined by a sustained $\text{VL} \ge 1,000 \text{ copies}/\text{ml}$ despite adherence. After adherence counseling, the patient must be **$\text{switched}$ $\text{to}$ $\text{a}$ $\text{Second}$-$\text{Line}$ $\text{ART}$ $\text{regimen}$**. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_failure",
+      "management"
+    ]
+  },
+  {
+    "id": 1705,
+    "question": "A patient is on $\text{ART}$. Which laboratory test is the **most effective** way to monitor the long-term efficacy of $\text{ART}$?",
+    "choices": [
+      "A. $\text{Complete}$ $\text{Blood}$ $\text{Count}$ ($\text{CBC}$).",
+      "B. $\text{Liver}$ $\text{Function}$ $\text{Tests}$ ($\text{LFTs}$).",
+      "C. **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$**.",
+      "D. $\text{CD4}$ $\text{count}$ $\text{monitoring}$.",
+      "E. $\text{Serum}$ $\text{Creatinine}$."
+    ],
+    "correctAnswer": 2,
+    "topic": "8.3 ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)",
+    "explanation": "While $\text{CD4}$ is an important measure of $\text{immune}$ $\text{restoration}$, the **$\text{Viral}$ $\text{Load}$ ($\text{VL}$) $\text{measurement}$** is the **most $\text{effective}$** method to directly assess the efficacy of $\text{ART}$ in suppressing $\text{HIV}$ replication. (p. 276)",
+    "tags": [
+      "HIV",
+      "ART_monitoring",
+      "viral_load"
+    ]
+  },
 
 
 
