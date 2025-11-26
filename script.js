@@ -164,7 +164,7 @@ class COCExamSimulator {
             const match = t.match(/^Chapter (\d+)\./);
             if (match) {
                 const chapterNum = match[1];
-                const chapter = `Chapter {chapterNum}`;
+                const chapter = `Chapter ${chapterNum}`;
                 if (!groups[chapter]) groups[chapter] = new Set();
                 groups[chapter].add(t);
             } else {
@@ -177,24 +177,29 @@ class COCExamSimulator {
             const groupDiv = document.createElement('div');
             groupDiv.className = 'topic-group';
             const subs = Array.from(subsSet);
-            const groupId = `chapter-{chapter}`;
-            groupDiv.innerHTML = `
-                <details class="topic-group-details">
-                    <summary class="topic-group-title">{chapter}</summary>
-                    <div class="topics-grid">
-                        {subs.length > 0 ? subs.map(sub => {
-                            const full = sub;
-                            return `
+            const groupId = `chapter-${chapter}`;
+
+            const innerContent = subs.length > 0
+                ? subs.map(sub => {
+                    const full = sub;
+                    return `
                             <div class="topic-checkbox checked">
-                                <input type="checkbox" id="topic-{full}" value="{full}" checked>
-                                <label for="topic-{full}">{sub}</label>
+                                <input type="checkbox" id="topic-${full}" value="${full}" checked>
+                                <label for="topic-${full}">${sub}</label>
                             </div>`;
-                        }).join('') : `
+                }).join('')
+                : `
                             <div class="topic-checkbox checked">
-                                <input type="checkbox" id="topic-{chapter}" value="{chapter}" checked>
-                                <label for="topic-{chapter}">{chapter}</label>
+                                <input type="checkbox" id="topic-${chapter}" value="${chapter}" checked>
+                                <label for="topic-${chapter}">${chapter}</label>
                             </div>
-                        `}
+                        `;
+
+            groupDiv.innerHTML = `
+                <details class="topic-group-details" id="${groupId}">
+                    <summary class="topic-group-title">${chapter}</summary>
+                    <div class="topics-grid">
+                        ${innerContent}
                     </div>
                 </details>
             `;
@@ -221,7 +226,7 @@ class COCExamSimulator {
         const diffs = ['Basic','Intermediate','Advanced'];
         this.examSettings.selectedDifficulties = [];
         diffs.forEach(d => {
-            const el = document.querySelector(`input[data-difficulty="{d}"]`);
+            const el = document.querySelector(`input[data-difficulty="${d}"]`);
             if (el) {
                 if (el.checked) this.examSettings.selectedDifficulties.push(d);
                 el.addEventListener('change', () => {
@@ -533,19 +538,21 @@ class COCExamSimulator {
             const reviewItem = document.createElement('div');
             reviewItem.className = 'review-item';
             const userAnswer = this.userAnswers[question.id];
+            const choicesHtml = question.choices.map((choice, choiceIndex) => {
+                let className = 'review-choice';
+                if (choiceIndex === userAnswer) className += ' user-answer';
+                if (choiceIndex === question.correctAnswer) className += ' correct-answer';
+                return `<div class="${className}">${choice}</div>`;
+            }).join('');
+
             reviewItem.innerHTML = `
-                <div class="review-question"><strong>Question {index + 1}:</strong> {question.question}</div>
+                <div class="review-question"><strong>Question ${index + 1}:</strong> ${question.question}</div>
                 <div class="review-choices">
-                    {question.choices.map((choice, choiceIndex) => {
-                        let className = 'review-choice';
-                        if (choiceIndex === userAnswer) className += ' user-answer';
-                        if (choiceIndex === question.correctAnswer) className += ' correct-answer';
-                        return `<div class="{className}">{choice}</div>`;
-                    }).join('')}
+                    ${choicesHtml}
                 </div>
                 <div class="review-explanation">
                     <h4>Explanation:</h4>
-                    <p>{question.explanation}</p>
+                    <p>${question.explanation}</p>
                 </div>`;
             reviewContent.appendChild(reviewItem);
         });
