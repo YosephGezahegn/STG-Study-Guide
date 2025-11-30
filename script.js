@@ -161,12 +161,12 @@ class COCExamSimulator {
         // Build a grouping: chapter -> [subtopics]
         const groups = {};
         topicsRaw.forEach(t => {
-            const match = t.match(/^Chapter (\d+)\./);
-            if (match) {
-                const chapterNum = match[1];
-                const chapter = `Chapter ${chapterNum}`;
+            if (typeof t === 'string' && t.includes('/')) {
+                const parts = t.split('/');
+                const chapter = parts[0].trim();
+                const sub = parts.slice(1).join('/').trim();
                 if (!groups[chapter]) groups[chapter] = new Set();
-                groups[chapter].add(t);
+                groups[chapter].add(sub);
             } else {
                 if (!groups[t]) groups[t] = new Set();
             }
@@ -178,28 +178,23 @@ class COCExamSimulator {
             groupDiv.className = 'topic-group';
             const subs = Array.from(subsSet);
             const groupId = `chapter-${chapter}`;
-
-            const innerContent = subs.length > 0
-                ? subs.map(sub => {
-                    const full = sub;
-                    return `
+            groupDiv.innerHTML = `
+                <details class="topic-group-details">
+                    <summary class="topic-group-title">${chapter}</summary>
+                    <div class="topics-grid">
+                        ${subs.length > 0 ? subs.map(sub => {
+                            const full = `${chapter} / ${sub}`;
+                            return `
                             <div class="topic-checkbox checked">
                                 <input type="checkbox" id="topic-${full}" value="${full}" checked>
                                 <label for="topic-${full}">${sub}</label>
                             </div>`;
-                }).join('')
-                : `
+                        }).join('') : `
                             <div class="topic-checkbox checked">
                                 <input type="checkbox" id="topic-${chapter}" value="${chapter}" checked>
                                 <label for="topic-${chapter}">${chapter}</label>
                             </div>
-                        `;
-
-            groupDiv.innerHTML = `
-                <details class="topic-group-details" id="${groupId}">
-                    <summary class="topic-group-title">${chapter}</summary>
-                    <div class="topics-grid">
-                        ${innerContent}
+                        `}
                     </div>
                 </details>
             `;
@@ -297,7 +292,7 @@ class COCExamSimulator {
                 "Pediatrics", "Gastroenterology", "Gynecology", "Urology", "Pulmonology", "Infectious Diseases", "Hematology"
             ];
             topics.forEach(topic => {
-                const checkbox = document.getElementById(`topic-{topic}`);
+                const checkbox = document.getElementById(`topic-${topic}`);
                 if (checkbox) {
                     const topicDiv = checkbox.closest('.topic-checkbox');
                     const isSelected = this.examSettings.selectedTopics.includes(topic) || this.examSettings.selectedTopics.length === 0;
@@ -331,7 +326,7 @@ class COCExamSimulator {
                 ];
                 this.examSettings.selectedTopics = [];
                 topics.forEach(topic => {
-                    const checkbox = document.getElementById(`topic-{topic}`);
+                    const checkbox = document.getElementById(`topic-${topic}`);
                     if (checkbox && checkbox.checked) this.examSettings.selectedTopics.push(topic);
                 });
                 if (this.examSettings.selectedTopics.length === 0) this.examSettings.selectedTopics = [...topics];
@@ -393,7 +388,7 @@ class COCExamSimulator {
             const parts = topicLabel.split('/');
             const chapter = parts[0].trim();
             const sub = parts.slice(1).join('/').trim();
-            topicLabel = `{chapter} / {sub}`;
+            topicLabel = `${chapter} / ${sub}`;
         }
         document.getElementById('currentTopic').textContent = topicLabel;
         // Difficulty label
@@ -406,8 +401,8 @@ class COCExamSimulator {
             const choiceDiv = document.createElement('div');
             choiceDiv.className = 'choice-item';
             choiceDiv.innerHTML = `
-                <input type="radio" name="question-{question.id}" value="{index}" id="choice-{question.id}-{index}">
-                <label for="choice-{question.id}-{index}" class="choice-text">{choice}</label>
+                <input type="radio" name="question-${question.id}" value="${index}" id="choice-${question.id}-${index}">
+                <label for="choice-${question.id}-${index}" class="choice-text">${choice}</label>
             `;
             if (this.userAnswers[question.id] === index) {
                 choiceDiv.querySelector('input[type="radio"]').checked = true;
@@ -427,8 +422,8 @@ class COCExamSimulator {
     }
 
     selectChoice(questionId, choiceIndex) {
-        document.querySelectorAll(`input[name="question-{questionId}"]`).forEach(input => { input.closest('.choice-item').classList.remove('selected'); });
-        const selectedChoice = document.querySelector(`input[name="question-{questionId}"][value="{choiceIndex}"]`);
+        document.querySelectorAll(`input[name="question-${questionId}"]`).forEach(input => { input.closest('.choice-item').classList.remove('selected'); });
+        const selectedChoice = document.querySelector(`input[name="question-${questionId}"][value="${choiceIndex}"]`);
         selectedChoice.checked = true;
         selectedChoice.closest('.choice-item').classList.add('selected');
         this.userAnswers[questionId] = choiceIndex;
@@ -456,9 +451,9 @@ class COCExamSimulator {
         const counts = this.getAnswerStatusCounts();
         let warnMsg = 'Are you sure you want to submit your exam? You cannot change answers after submission.';
         const extras = [];
-        if (counts.unanswered > 0) extras.push(`{counts.unanswered} unanswered`);
-        if (counts.marked > 0) extras.push(`{counts.marked} marked for review`);
-        if (extras.length) warnMsg = `You have {extras.join(', ')}.\n\n` + warnMsg;
+        if (counts.unanswered > 0) extras.push(`${counts.unanswered} unanswered`);
+        if (counts.marked > 0) extras.push(`${counts.marked} marked for review`);
+        if (extras.length) warnMsg = `You have ${extras.join(', ')}.\n\n` + warnMsg;
         if (confirm(warnMsg)) {
             this.isExamActive = false;
             this.stopTimers();
@@ -501,13 +496,13 @@ class COCExamSimulator {
         if (this.results.passed) {
             resultsIcon.className = 'fas fa-trophy pass';
             resultsTitle.textContent = 'Congratulations! You Passed!';
-            resultsSubtitle.textContent = `You scored {this.results.score}% and passed the exam.`;
+            resultsSubtitle.textContent = `You scored ${this.results.score}% and passed the exam.`;
         } else {
             resultsIcon.className = 'fas fa-times-circle fail';
             resultsTitle.textContent = 'Exam Failed';
-            resultsSubtitle.textContent = `You scored {this.results.score}%. You need {this.examSettings.passingMark}% to pass.`;
+            resultsSubtitle.textContent = `You scored ${this.results.score}%. You need ${this.examSettings.passingMark}% to pass.`;
         }
-        document.getElementById('scoreValue').textContent = `{this.results.score}%`;
+        document.getElementById('scoreValue').textContent = `${this.results.score}%`;
         document.getElementById('correctAnswers').textContent = this.results.correctAnswers;
         document.getElementById('incorrectAnswers').textContent = this.results.incorrectAnswers;
         document.getElementById('timeTaken').textContent = this.formatTime(this.results.timeTaken);
@@ -522,8 +517,8 @@ class COCExamSimulator {
             const topicDiv = document.createElement('div');
             topicDiv.className = 'topic-item';
             topicDiv.innerHTML = `
-                <span class="topic-name">{topic}</span>
-                <span class="topic-score">{scores.correct}/{scores.total} ({percentage}%)</span>
+                <span class="topic-name">${topic}</span>
+                <span class="topic-score">${scores.correct}/${scores.total} (${percentage}%)</span>
             `;
             topicPerformance.appendChild(topicDiv);
         });
@@ -538,17 +533,15 @@ class COCExamSimulator {
             const reviewItem = document.createElement('div');
             reviewItem.className = 'review-item';
             const userAnswer = this.userAnswers[question.id];
-            const choicesHtml = question.choices.map((choice, choiceIndex) => {
-                let className = 'review-choice';
-                if (choiceIndex === userAnswer) className += ' user-answer';
-                if (choiceIndex === question.correctAnswer) className += ' correct-answer';
-                return `<div class="${className}">${choice}</div>`;
-            }).join('');
-
             reviewItem.innerHTML = `
                 <div class="review-question"><strong>Question ${index + 1}:</strong> ${question.question}</div>
                 <div class="review-choices">
-                    ${choicesHtml}
+                    ${question.choices.map((choice, choiceIndex) => {
+                        let className = 'review-choice';
+                        if (choiceIndex === userAnswer) className += ' user-answer';
+                        if (choiceIndex === question.correctAnswer) className += ' correct-answer';
+                        return `<div class="${className}">${choice}</div>`;
+                    }).join('')}
                 </div>
                 <div class="review-explanation">
                     <h4>Explanation:</h4>
@@ -586,7 +579,7 @@ class COCExamSimulator {
         if (!modal || !grid || !countsDiv) return;
         grid.innerHTML = '';
         const counts = this.getAnswerStatusCounts();
-        countsDiv.textContent = `Answered: {counts.answered} • Unanswered: {counts.unanswered} • Marked: {counts.marked}`;
+        countsDiv.textContent = `Answered: ${counts.answered} • Unanswered: ${counts.unanswered} • Marked: ${counts.marked}`;
         this.examQuestions.forEach((q, idx) => {
             const isAnswered = this.userAnswers[q.id] !== undefined;
             const isMarked = this.markedQuestionIds.has(q.id);
@@ -631,9 +624,9 @@ class COCExamSimulator {
             if (remaining === 0) { this.autoSubmitExam(); return; }
             const minutes = Math.floor(remaining / 60000);
             const seconds = Math.floor((remaining % 60000) / 1000);
-            document.getElementById('timerDisplay').textContent = `{minutes.toString().padStart(2, '0')}:{seconds.toString().padStart(2, '0')}`;
+            document.getElementById('timerDisplay').textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
             const progress = (elapsed / totalTimeMs) * 100;
-            document.getElementById('progressFill').style.width = `{Math.min(100, progress)}%`;
+            document.getElementById('progressFill').style.width = `${Math.min(100, progress)}%`;
         }, 1000);
     }
     startQuestionTimer() {
@@ -649,7 +642,7 @@ class COCExamSimulator {
     }
     stopTimers() { if (this.timers.question) clearTimeout(this.timers.question); if (this.timers.total) clearInterval(this.timers.total); }
     autoSubmitExam() { this.isExamActive = false; this.stopTimers(); this.calculateResults(); this.showResults(); this.showError('Time is up! Your exam has been automatically submitted.'); }
-    formatTime(seconds) { const m = Math.floor(seconds / 60); const s = seconds % 60; return `{m}:{s.toString().padStart(2, '0')}`; }
+    formatTime(seconds) { const m = Math.floor(seconds / 60); const s = seconds % 60; return `${m}:${s.toString().padStart(2, '0')}`; }
     shuffleArray(array) {
         const a = Array.isArray(array) ? array.slice() : [];
         let i = a.length >>> 0;
